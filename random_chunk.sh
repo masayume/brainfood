@@ -9,7 +9,7 @@ fi
 file=$1
 delimiter=$2
 
-# Check if the file exists
+# Check if the content file with chunks delimited exists
 if [ ! -f "$file" ]; then
     echo "File not found!"
     exit 1
