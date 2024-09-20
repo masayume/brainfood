@@ -28,7 +28,7 @@ total_chunks=${#chunks[@]}
 # Select a random chunk index
 random_index=$(( RANDOM % total_chunks ))
 
-echo -e "\n ${random_index}° of ${total_chunks} wisdom chunks (from ${file})\n"
+echo -e "\n ${random_index}° of ${total_chunks} wisdom chunks (from ${file})"
 
 # Output the random chunk
 echo -e "${chunks[$random_index]}"
