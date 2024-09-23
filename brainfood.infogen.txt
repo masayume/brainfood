@@ -192,7 +192,74 @@ Make a little progress today on your most important objective. Repeat tomorrow."
 ====
 “Give people what they want in a way they're not expecting.”
 ====
+1. Bloom’s taxonomy of learning
+When studying a topic, it may be hard to define our learning objectives. Bloom’s taxonomy is Bloom’s taxonomy is a set of three lists used to classify educational learning objectives into levels of complexity and specificity. The three lists focus respectively on learning objectives in the cognitive domain (knowledge-based), affective (emotion-based) and psychomotor domains (action-based).
+- Knowledge-based objectives. The six levels of the cognitive domain are knowledge, comprehension, application, analysis, synthesis, and evaluation. 
+- Emotion-based objectives. There are five levels in the affective domain, which measures how much you care about what you are studying: passive attention (the lowest level), active participation, valuation, organisation, and characterisation
+- Action-based objectives. Finally, the psychomotor domain measures your ability to actually manipulate relevant tools. The skills in the psychomotor domain include: perception (where you sense the need for a tool), readiness to act, guided response (where you can reproduce someone’s use of a tool), mechanism (where the use of the tool becomes natural), and complex overt response (where you can alter existing tools or even build your own tools).
+https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
+====
+Alex Osborn (1888 – 1966), who is considered the father of brainstorming, devised a handy mnemotechnique to remember the DOVE & ROPE rules of brainstorming: 
+- Deferral of judgment
+- Off-beat ideas
+- Vast quantities of ideas
+- Elaboration/expansion of ideas
+
+Darryn Kruse, a campus principal and teacher, created a slightly different version, the ROPE method of brainstorming:
+- Record all ideas
+- Original ideas are encouraged (no stupid ideas)
+- Put off evaluation (judgement can be done later)
+- Expand on other’s ideas
+https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
+====
+CAMPER questions for critical thinking
+This set of questions can be used when consuming content to practice critical thinking and to think better.
+
+Consequences: What are the consequences of believing this?
+Consistency: How consistent is the information?
+Assumptions: What assumptions have been made here?
+Accuracy: How accurate is the data or information?
+Meaning: What is the meaning of this?
+Main Points: What are the main points?
+Prejudice: What prejudice is being shown here?
+Point of View: What other points of view could be expressed?
+Evidence: What evidence is there to support the position or claims?
+Examples: What examples are there to back-up the position or claims?
+Relevance: How relevant is the position or claims?
+Reliability: How reliable is the information, writer or source?
+
+https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
+====
+Five Whys
+Five Whys is an iterative interrogative technique. By repeating the question “why?” five times in a row, the technique is used to explore the cause-and-effect relationships underlying a particular problem, with the primary goal of the technique is to determine the root cause of a problem.
+
+Here is an example of using the Five Whys technique, where a project wasn’t launched on time:
+
+Why wasn’t the project launched on time? Because there was a missing piece.
+Why was there a missing piece? Because the team didn’t know how to implement it.
+Why didn’t the team know how to implement it? Because they didn’t know how to.
+Why didn’t they know how to? Because they were not properly trained.
+Why weren’t they properly trained? Because no training is offered for this particular piece.
+Root problem: the project wasn’t launched on time because there is currently no team training provided to implement a critical piece.
+
+https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
+====
+Think-Pair-Share
+Think-Pair-Share is a simple collaborative thinking tool to use with a thinking buddy to debug a problem together, then share back what you found with the team.
+
+Think: each person separately thinks about the problem and writes down their thoughts.
+Pair: consolidate individual thoughts together.
+Share: share back with the rest of the team.
+https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
+====
+"We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side." — Charlie Munger on The Work Required to Have an Opinion
+====
 “It's good to learn from your mistakes. It's better to learn from other people's mistakes.” — Charlie Munger
+====
+The Munger Two-Step filter for effective decisions
+A simple and easy approach to decision-making that prevents us from manipulating ourselves. First, understand the forces at play. Then, understand how your subconscious might be leading you astray: https://fs.blog/munger-two-step/
+====
+“Reliability is essential for progress in life.” — Charlie Munger
 ====
 Long-term thinking eliminates a lot of poor behavior.
 ====
@@ -384,8 +451,6 @@ Winning without luck requires doing ordinary things for an extraordinary amount 
 ====
 “The most difficult subjects can be explained to the most slow-witted man if he has not formed any idea of them already; but the simplest thing cannot be made clear to the most intelligent man if he is firmly persuaded that he knows already.” — Tolstoy
 ====
-The highest form of leverage is reputation.
-====
 Imagine what you could accomplish if you weren't focused on being right all the time.
 ====
 Reasoning in public forces discipline of thought.
@@ -397,8 +462,6 @@ If your reasoning is correct, you have nothing to fear. If it's wrong, you have 
 "Asking for help is a superpower anyone can have but only some people use. It is brave to ask for help. Asking for help is the first step toward finding a mentor. Mentors can help us change our lives if we let them." — Alexi Pappas
 ====
 “Trust your obsessions. This is one I learned more or less accidentally. People sometimes ask whether the research or the idea for the story comes first for me. And I tell them, normally the first thing that turns up is the obsession: for example, all of a sudden I notice that I’m reading nothing but English 17th century metaphysical verse. And I know it’ll show up somewhere—whether I’ll name a character after one of those poets, or use that time period, or use the poetry, I have no idea. But I know one day it’ll be there waiting for me. You don’t always use your obsessions. Sometimes you stick them onto the compost heap in the back of your head, where the rot down, and attach to other things, and get half-forgotten, and will, one day, turn into something completely usable. Go where your obsessions take you. ... Your obsessions may not always take you to commercial places, or apparently commercial places. But trust them.” — Neil Gaiman
-====
-Reputation is a form of wealth.
 ====
 The best returns come from your biggest opportunities, not your biggest problems.
 ====
@@ -997,10 +1060,6 @@ Don’t associate failure with unworthiness. “If we associate failure with unw
 ====
 Choose the thought worth paying attention to. “Allowing all thoughts to be present, but choosing which ones we give our time and attention to, can have a powerful impact on our emotional experience.”
 ====
-https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=newsletter.rabbitideas.online
-====
-"We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side." — Charlie Munger on The Work Required to Have an Opinion
-====
 “There is a Scandinavian saying which some of us might well take as a rallying cry for our lives: The north wind made the Vikings! Wherever did we get the idea that secure and pleasant living, the absence of difficulty, and the comfort of ease, ever of themselves made people either good or happy? Upon the contrary, people who pity themselves go on pitying themselves even when they are laid softly on a cushion, but always in history character and happiness have come to people in all sorts of circumstances, good, bad, and indifferent, when they shouldered their personal responsibility. So, repeatedly the north wind has made the Vikings.” — Harry Emerson Fosdick, The Power to See it Through
 ====
 “There is a time in every man's education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse as his portion; that though the wide universe is full of good, no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given him to till. The power which resides in him is new in nature, and none but he knows what that is which he can do, nor does he know until he has tried." — Emerson, Essay on Self-reliance
@@ -1377,9 +1436,6 @@ From "The Conquest of Happiness" by Bertrand Russell (1872-1972)
 
  Follow this two-step guide to happiness
 “The secret of happiness is very simply this: let your interests be as wide as possible, and let your reactions to the things and persons that interest you be as far as possible friendly rather than hostile.”
-====
-The Munger Two-Step filter for effective decisions
-A simple and easy approach to decision-making that prevents us from manipulating ourselves. First, understand the forces at play. Then, understand how your subconscious might be leading you astray: https://fs.blog/munger-two-step/
 ====
 If you wait until you're motivated, you’ve already lost.
 If you let motivation dictate your actions, inertia conspires to keep you in place.
@@ -2487,6 +2543,13 @@ In many areas of life, we are offered maps by other people. We are reliant on th
 Ultimately, the map/territory distinction is an invitation to engage with the world as it is, not just as we imagine it to be. And remember, when you don’t make the map yourself, choose your cartographer wisely."
 ====
 Mental Model
+V1 | General Thinking Concepts | First Principles
+"First principles thinking is the art of breaking down complex problems into their most fundamental truths. It’s a way of thinking that goes beyond the surface and allows us to see things from a new perspective.
+Thinking in terms of first principles allows us to identify the root causes and strip away the layers of complexity and focus on the most effective solutions. Reasoning from first principles allows us to step outside the way things have always been done and instead see what is possible.
+First principles thinking is not easy. It requires a willingness to challenge the status quo. This is why it’s often the domain of rebels and disrupters who believe there must be a better way. It’s the thinking of those who are willing to start from scratch and build from the ground up.
+In a world focused on incremental improvement, first principles thinking offers a competitive advantage because almost no one does it.”
+====
+Mental Model
 V2 | Physics | Reciprocity
 "Reciprocity underlies everything from basic human kindness to the most complex trade systems. At its core, reciprocity is the simple idea of treating others as they treat us—giving what we get. From this simple principle grows a vast web of social interactions and expectations that shapes nearly every aspect of our lives.
 ====
@@ -2555,5 +2618,17 @@ Smaller groups are more likely to find truth than larger ones.”
 ====
 "Reputation is what others think about you. What’s far more important is character, because that is what you think about yourself." - Billie Jean King
 ====
+“Reputation is like a shadow. Sometimes it's bigger than you, and sometimes it's smaller.”
+====
+Reputation is a form of wealth.
+====
+The highest form of leverage is reputation.
+====
 "Sometimes, you have to step outside of the person you've been and remember the person you were meant to be. The person you want to be. The person you are." - HG Wells
+====
+“Tact is not the quality by which you often please, but by which you seldom offend.” — Alice Wellington Rollins
+====
+“You cannot define a person on just one thing. You can’t just forget all these wonderful and good things that a person has done because one thing didn’t come off the way you thought it should come off.”
+— Aretha Franklin
+====
 =====
