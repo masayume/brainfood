@@ -261,6 +261,8 @@ A simple and easy approach to decision-making that prevents us from manipulating
 ====
 “Reliability is essential for progress in life.” — Charlie Munger
 ====
+“In my whole life I’ve never been good at something I wasn’t very interested in. It just doesn’t work. There’s no substitute for strong interest.” — Charlie Munger
+====
 Long-term thinking eliminates a lot of poor behavior.
 ====
 Writing about one problem often exposes others that are more important.
@@ -2554,6 +2556,17 @@ V2 | Physics | Reciprocity
 "Reciprocity underlies everything from basic human kindness to the most complex trade systems. At its core, reciprocity is the simple idea of treating others as they treat us—giving what we get. From this simple principle grows a vast web of social interactions and expectations that shapes nearly every aspect of our lives.
 ====
 Mental Model
+V2 | Physics | Inertia
+"Inertia is the stubborn resistance of the universe to change. It’s the reason why objects at rest tend to stay at rest and objects in motion tend to stay in motion. You can think of inertia as the guardian of the status quo.
+At its core, inertia is a property of mass. The more massive an object is, the more it resists changes to its state of motion. A feather, with its tiny mass, is easily blown about by the slightest breeze. A boulder, on the other hand, requires a powerful force to get it moving. This is why it takes more effort to push a heavy cart than a light one, more energy to launch a rocket than to toss a ball.
+But inertia isn’t just a physical phenomenon. It’s an illuminating lens to see habits, beliefs, and our resistance to change. The longer we’ve held them, the larger the mass and the more force required to change them. The path of least resistance is always the status quo.
+Getting started is the hardest part. Once something is moving in a direction, it’s much easier to keep it in motion. But once something is in motion, it’s hard to stop. This is why most self-help books about positive habits break things down into very small steps—to reduce the force required to overcome the status quo. For example, if you want to get in the habit of doing push-ups daily, start with one rather than with fifty. If you want to start a flossing habit, start with one tooth. After all, the bigger the mass—in this case the gap between where you are and where you want to be—the more effort required.
+Inertia is both a challenge and an opportunity. Successful companies struggle with the inertia of their own success and the resistance to change that comes with size, complexity, and entrenched interests. Startups, on the other hand, can leverage their lack of inertia—their agility, their willingness to pivot and adapt—as a competitive advantage.
+Momentum and inertia are closely related. While inertia is the tendency to resist change, momentum is the oomph an object has when it’s moving. The more momentum something has, the harder it is to stop or redirect. The key is to pick the right direction and build momentum so inertia works to your advantage and carries you forward. This is the essence of the “flywheel” concept in business—the idea that success breeds success, that small wins can compound into big gains over time.
+When you’re fighting the status quo, remember the physics at play. Resistance is natural. Understand that it takes a sustained force in the right direction to build momentum in a new direction.
+While the universe resists change, it always rewards those who dare to overcome that resistance.”
+====
+Mental Model
 V3 | Systems | Feedback Loops
 "Feedback loops are the engines of growth and change. They’re the mechanisms by which the output of a system influences its own input.
 Complex systems often have many feedback loops, and it can be hard to appreciate how adjusting to feedback in one part of the system will affect the rest.
@@ -2630,5 +2643,25 @@ The highest form of leverage is reputation.
 ====
 “You cannot define a person on just one thing. You can’t just forget all these wonderful and good things that a person has done because one thing didn’t come off the way you thought it should come off.”
 — Aretha Franklin
+====
+"Follow your enthusiasm. It's something I've always believed in. Find those parts of your life you enjoy the most. Do what you enjoy doing." - Jim Henson
+====
+“Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.” — Glennon Doyle
+====
+“The advice I like to give anybody who’ll listen to me, is not to wait around for inspiration. Inspiration is for amateurs; the rest of us just show up and get to work. If you wait around for the clouds to part and a bolt of lightning to strike you in the brain, you are not going to do an awful lot of work.
+All the best ideas come out of the process; they come out of the work itself. Things occur to you. If you’re sitting around trying to dream up a great idea, you can sit there a long time before anything happens. But if you just get to work, something will occur to you and something else will occur to you and something else that you reject will push you in another direction. Inspiration is absolutely unnecessary and somehow deceptive. You feel like you need this great idea before you can get down to work, and I find that’s almost never the case.”
+— Chuck Close
+====
+“There are two ways to measure how you are doing: internally or externally. Most of our growth comes from internal measurement, while most problems stem from external comparison.”
+====
+“Compromise on small things but stand firm on important principles. By not sweating the small stuff, you build goodwill and save your influence for when it matters.”
+====
+“It is our knowledge — the things we are sure of — that makes the world go wrong and keeps us from seeing and learning,” - Lincoln Steffens 
+====
+“most people are not just comfortable in their ignorance, but hostile to anyone who points it out.” - Plato
+====
+Read books are far less valuable than unread ones. The library should contain as much of what you do not know as your financial means, mortgage rates, and the currently tight real-estate market allows you to put there. You will accumulate more knowledge and more books as you grow older, and the growing number of unread books on the shelves will look at you menacingly. Indeed, the more you know, the larger the rows of unread books. Let us call this collection of unread books an antilibrary. - Umberto Eco
+====
+"No one cares how much you know, until they know how much you care." ― Theodore Roosevelt
 ====
 =====
