@@ -273,6 +273,8 @@ Writing about one problem often exposes others that are more important.
 ====
 On anger — Don't express it directly. Channel it into your work and productivity. Anger expressed directly often leads to irrational behavior and words you later regret.
 ====
+“I was angry with my friend; I told my wrath, my wrath did end. I was angry with my foe; I told it not, my wrath did grow.” - William Blake
+====
 On trust — Never completely trust people right away, no matter how nice or competent they seem. Look closely for subtle cracks and inconsistencies in their character before investing time and energy into the relationship.
 ====
 On desire — Don't reveal too much about yourself too quickly when trying to attract someone. Maintain an air of mystery. The less people know, the more they will want to possess you.
@@ -2592,6 +2594,21 @@ Some businesses operate with a scarcity mentality, removing shock absorbers and 
 Scarcity can work to your advantage. Imagine you’ve got a rare combination of qualities: honest, hardworking, and smart. People like that are scarce, and the world tends to reward them disproportionately. It’s not just about being good at one thing; it’s about having a mix of traits.
 The key to navigating scarcity is understanding its power, recognizing when it’s driving our choices, and asking if those choices align with our true values and goals. Sometimes, scarcity creates real value. But sometimes, it’s just a mirage, a trick of the mind.”
 ====
+Mental Model
+V4 | Economics | Supply and Demand
+
+"Supply and demand are the push and pull determining availability and price. Their dance is never-ending. A sudden shortage can send prices soaring; a discovery can send them crashing.
+
+But supply and demand aren’t just about price; they’re also about allocation. They determine who gets what and how much of it.
+
+Markets react to supply and demand. When supply is low and demand is high, resources flow to those willing and able to pay the most. When demand exceeds supply, companies are encouraged to invest to create substitutes or more supply. On the other hand, when supply exceeds demand, investment is discouraged until a profitable balance is restored.
+
+Economic cycles are driven as much by human nature as by resources. When profits are flowing, it encourages overconfidence, greed, and complacency. When profits are nowhere to be found, it encourages fear, savings, and ruthless efficiency.
+
+As individuals, we’re all part of this dance. Every choice we make as consumers and every decision we make as producers shapes the contours of supply and demand. We are the market, collectively determining what has value and what doesn’t.
+
+Remember the forces at play the next time you’re at the store, negotiating a salary, or launching a product. You’re not just a passive participant but an active agent in supply and demand. Your choices matter. Make them wisely.”
+====
 Those most susceptible to joining mass movements are often dissatisfied with themselves
 "The fanatic is perpetually incomplete and insecure. He cannot generate self-assurance out of his individual resources — out of his rejected self — but finds it only by clinging passionately to whatever support he happens to embrace. This passionate attachment is the essence of his blind devotion and religiosity, and he sees in it the source of all virtue and strength. Though his single-minded dedication is a holding on for dear life, he easily sees himself as the supporter and defender of the holy cause to which he clings. And he is ready to sacrifice his life to demonstrate to himself and others that such indeed is his role. He sacrifices his life to prove his worth."
 The movement provides them with a sense of identity and purpose they lack as individuals.
@@ -2599,6 +2616,8 @@ The movement provides them with a sense of identity and purpose they lack as ind
 “Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.” — Andy Benoit
 ====
 “People are always looking for happiness at some future time and in some new thing, or some new set of circumstances, in possession of which they some day expect to find themselves. But the fact is, if happiness is not found now, where we are, and as we are, there is little chance of it ever being found. There is a great deal more happiness around us day by day than we have the sense or the power to seek and find.” — Thomas Mitchell
+====
+“One of the best secrets of a happy life is the art of extracting comfort and sweetness from every circumstance.” — Thomas Mitchell
 ====
 “I kept my idea a secret from anyone who could not directly help to move it forward. That was my gut instinct at the time, but it’s now one of the best pieces of advice I have to give. Ideas are the most vulnerable at the moment you have them; that’s also the time people are most inclined to run around seeking validation from everyone they know. Discouraging remarks will likely take you off course. You’ll either end up deflated or spend your time defending your idea instead of going for it.” — Sarah Blakely
 ====
@@ -2682,5 +2701,16 @@ Talent and potential mean nothing if you can't consistently do the boring things
 The person who carefully designs their daily routine goes further than the person who negotiates with themselves every day.
 ====
 Let inertia work for you.
+====
+Copying others doesn't work because success without substance doesn't last.
+====
+The path to differentiated results looks like madness to the masses. As the adage goes, if you do what everyone else does, you'll get the same results everyone else gets. Extraordinary success requires misunderstood choices.
+====
+Bill Gates once had the radio removed from his car. When asked why, he said he didn't want any distractions from thinking about Microsoft. This level of single-minded focus is what builds empires.
+====
+Time expands when we eliminate interruptions — our attention, not the clock, ultimately limits what we can achieve.
+====
+“The opposite of sensitive is not brave. It’s not brave to refuse to pay attention, to refuse to notice, to refuse to feel and know and imagine. The opposite of sensitive is insensitive, and that’s no badge of honor.” - Glenan Doyle
+====
 ====
 =====
