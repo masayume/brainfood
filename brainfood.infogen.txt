@@ -2063,6 +2063,8 @@ There’s a hierarchy of skill levels regarding what people do when someone come
  5. Empathetic Analysis: empathetically ask questions, listen to their proposed options for what they might do, propose one to two other potential options, then discuss the most important advantages and disadvantages of all options.
  6. Model: empathetically ask questions until you have a causal model. Explain it to the person to see its weaknesses. Get their help improving it. Use it to predict a few things that may work, and discuss the pros and cons of each of them. Encourage the person to pick what to try first/second/etc. 
 ====
+“It’s true that becoming an empathic listener takes time, but it doesn’t take any-where near as much time as it takes to back up and correct misunderstandings when you’re already miles down the road, to redo, and to live with unexpressed and unsolved problems.” - Steven Covey
+====
 “Perfection is impossible. In the 1526 singles matches I played in my career, I won almost 80% of those matches. Now, I have a question for you.
 What percentage of points do you think I won in those matches? Only 54%.
 You teach yourself to think, okay, I double-faulted ... it's only a point. Okay, I came to the net, then I got passed again; it's only a point. Even a great shot, an overhead backhand smash that ends up on ESPN's top 10 playlist. That, too, is just a point.
@@ -2566,6 +2568,13 @@ First principles thinking is not easy. It requires a willingness to challenge th
 In a world focused on incremental improvement, first principles thinking offers a competitive advantage because almost no one does it.”
 ====
 Mental Model
+V1 | General Thinking Tools | Second-Order Thinking
+Second-order thinking is a method of thinking that goes beyond the surface level, beyond the knee-jerk reactions and short-term gains. It asks us to play the long game, to anticipate the ripple effects of our actions, and to make choices that will benefit us not just today but in the months and years to come.
+Second-order thinking demands we ask: And then what?
+Think of a chess master contemplating her next move. She doesn’t just consider how the move will affect the next turn but how it will shape the entire game. She’s thinking many steps ahead. She’s considering her own strategy and her opponent’s likely response.
+In our daily lives, we’re often driven by first-order thinking. We make decisions based on what makes us happy now, what eases our current discomfort, or satisfies our immediate desires.
+====
+Mental Model
 V2 | Physics | Reciprocity
 "Reciprocity underlies everything from basic human kindness to the most complex trade systems. At its core, reciprocity is the simple idea of treating others as they treat us—giving what we get. From this simple principle grows a vast web of social interactions and expectations that shapes nearly every aspect of our lives.
 ====
@@ -2695,9 +2704,18 @@ The highest form of leverage is reputation.
 ====
 “Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.” — Glennon Doyle
 ====
+Action creates inspiration.
+====
 “The advice I like to give anybody who’ll listen to me, is not to wait around for inspiration. Inspiration is for amateurs; the rest of us just show up and get to work. If you wait around for the clouds to part and a bolt of lightning to strike you in the brain, you are not going to do an awful lot of work.
 All the best ideas come out of the process; they come out of the work itself. Things occur to you. If you’re sitting around trying to dream up a great idea, you can sit there a long time before anything happens. But if you just get to work, something will occur to you and something else will occur to you and something else that you reject will push you in another direction. Inspiration is absolutely unnecessary and somehow deceptive. You feel like you need this great idea before you can get down to work, and I find that’s almost never the case.”
 — Chuck Close
+====
+The hard part isn't knowing what to do; it's doing it daily, whether you feel like it or not.
+The challenge isn't knowing you should work out; it's putting on your shoes and running in the cold when you'd rather sit at home under a warm blanket. The challenge isn't determining the most important project; it's sitting down and doing it when you'd rather browse social media.
+If you're waiting for inspiration, you've already lost.
+====
+The most practical skill you can learn is working smarter. But here's what nobody tells you about working smarter: it often looks like you're working slower. A programmer might spend 20 hours wrestling with a difficult algorithm, then have an insight in the shower that solves it in 10 lines of code. Those 20 hours weren't wasted—they were necessary for the insight.
+Your first thought is what everyone else thinks. Your best thought comes after you've thought long enough to forget what everyone thinks. The difference between good and exceptional isn't hours worked – it's the depth of thought applied to the right problems.
 ====
 “There are two ways to measure how you are doing: internally or externally. Most of our growth comes from internal measurement, while most problems stem from external comparison.”
 ====
@@ -2740,6 +2758,12 @@ It’s wisdom that endures: Timeless principles, foundational ideas, and insight
 ...bad information is worse than no information at all. - Nassim Taleb 
 ====
 In life the challenge is not so much to figure out how best to play the game; the challenge is to figure out what game you’re playing. - Kwame Anthony Appiah
+====
+The world wants you to be typical. Don’t let it happen. - Jeff Bezos
+====
+Please, God, please, don't let me be normal". Sigourney Weaver
+====
+====
 ====
 
 =====
