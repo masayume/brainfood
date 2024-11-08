@@ -2590,6 +2590,14 @@ When you’re fighting the status quo, remember the physics at play. Resistance 
 While the universe resists change, it always rewards those who dare to overcome that resistance.”
 ====
 Mental Model
+V2 | Physics | Relativity
+Relativity is the idea that our perceptions and judgments are not absolute, but are shaped by our unique vantage points and frames of reference. It’s the understanding that our experiences are subjective.
+We each inhabit a particular web of experiences. This context shapes how we see the world, what we notice and overlook, what we value and dismiss.
+Two people can look at the same event and come away with vastly different interpretations based on their unique frames of reference. Consider two people standing in the same room: They experience the same absolute temperature differently. One can feel hot while the other feels cold, even though the temperature is the same.
+However, relativity is not the same as relativism— the idea that all perspectives are equally valid. Recognizing the relativity of our perceptions doesn’t mean we don’t have to make judgments about validity. Rather, it’s a call to examine our assumptions, seek out diverse perspectives, and expand our frames of reference.
+We all have blind spots— things we cannot see. Understanding that our perceptions are relative allows us to open ourselves to other ways of seeing. If you’re wondering where to get started, try asking others what they see that you can’t. Apply your judgment to their responses and update your beliefs accordingly.
+====
+Mental Model
 V3 | Systems | Feedback Loops
 "Feedback loops are the engines of growth and change. They’re the mechanisms by which the output of a system influences its own input.
 Complex systems often have many feedback loops, and it can be hard to appreciate how adjusting to feedback in one part of the system will affect the rest.
@@ -2762,6 +2770,18 @@ In life the challenge is not so much to figure out how best to play the game; th
 The world wants you to be typical. Don’t let it happen. - Jeff Bezos
 ====
 Please, God, please, don't let me be normal". Sigourney Weaver
+====
+The smallest act in the most limited circumstances bears the seed of… boundlessness, because one deed, and sometimes one word, suffices to change every constellation. - Hannah Arendt, "The Human Condition“
+====
+Attention isn't free. It's the most valuable thing you spend.
+====
+Flashy gets attention. Boring gets results.
+While most chase the views, the greats obsess over the basics.
+====
+Don't curse the obstacle; find a way around it.
+Elite special forces don't complain about defenses—they adapt their tactics or create new ones. When a primary route is compromised, they don't waste time lamenting. They quickly shift to another approach. Elite athletes don't complain about defenses—they find the gap or create one.
+Face the obstacle. Find the gap. Or make one.
+====
 ====
 ====
 ====
