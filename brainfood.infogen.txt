@@ -1432,8 +1432,11 @@ One way to become luckier is to show up consistently.
 When people trust that you'll do what you say when you say it, not only will they want to work with you, but they'll want you to be successful. You can't build anything meaningful when you show up inconsistently.
 In the short term, you are as good as your intensity. In the long term, you are only as good as your consistency.
 ====
-"Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow.”
-Kurt Vonnegut:
+"Practice any art, music, singing, dancing, acting, drawing, painting, sculpting, poetry, fiction, essays, reportage, no matter how well or badly, not to get money and fame, but to experience becoming, to find out what's inside you, to make your soul grow.” - Kurt Vonnegut
+====
+"The best jokes are dangerous, and dangerous because they are in some way truthful." - Kurt Vonnegut
+====
+The truth is whispered while opinions are shouted.
 ====
 From "The Conquest of Happiness" by Bertrand Russell (1872-1972)
 
@@ -2610,6 +2613,11 @@ V3 | Systems | Algorithms
 Thinking algorithmically means searching for processes that reliably spit out the desired results, like a vending machine dispensing the same candy bar every time someone punches in E4.”
 ====
 Mental Model
+V3 | Systems | Equilibrium
+Equilibrium is the state of balance, where opposing forces cancel each other out. It’s the calm in the center of the storm, the stable point around which the chaos swirls. In a system at equilibrium, there’s no net change. Everything is in a steady state, humming along at a constant pace.
+However, systems are rarely static. They continuously adjust toward equilibrium but rarely stay in balance for long. Equilibrium is a ­ double-edged sword, both stability and stagnation. In our lives, we often act like we can reach an equilibrium: once we get into a relationship, we’ll be happy; once we move, we’ll be productive; once X thing happens, we’ll be in Y state. But things are always in flux. We don’t reach a certain steady state and then stay there forever. The endless adjustments are our lives. The trick is to find the right balance, to strive for equilibrium where it’s needed, but to also know when to break free, to embrace the dis-equilibrium that drives progress.
+====
+Mental Model
 V4 | Economics and Art | Scarcity
 The rarest thing you possess is your own potential.
 "Scarcity shapes our choices and drives our actions. When something is scarce, it suddenly becomes valuable. We want it more because there is less. This principle underlies everything from the price of gold to the thrill of the hunt.
@@ -2782,8 +2790,15 @@ Don't curse the obstacle; find a way around it.
 Elite special forces don't complain about defenses—they adapt their tactics or create new ones. When a primary route is compromised, they don't waste time lamenting. They quickly shift to another approach. Elite athletes don't complain about defenses—they find the gap or create one.
 Face the obstacle. Find the gap. Or make one.
 ====
+The world's greatest works weren't commissioned; they were created by people who couldn't bear their absence.
 ====
+Going all in on something for a month gets better results than dabbling in it for a decade. The dabbler spreads their energy over many things. The focused person concentrates their effort on one. The most dangerous competitor is the one with a single goal.
 ====
+You can't go back and change the beginning, but you can start where you are and change the ending. - C.S. Lewis
+====
+Mastery is the best goal because the rich can’t buy it, the impatient can’t rush it, the privileged can’t inherit it, and nobody can steal it. You can only earn it through hard work. Mastery is the ultimate status. - Derek Sivers
+====
+
 ====
 
 =====
