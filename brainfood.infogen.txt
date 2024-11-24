@@ -2597,6 +2597,12 @@ Think of a chess master contemplating her next move. She doesn’t just consider
 In our daily lives, we’re often driven by first-order thinking. We make decisions based on what makes us happy now, what eases our current discomfort, or satisfies our immediate desires.
 ====
 Mental Model
+V1 | General Thinking Tools | Thought Experiment
+Thought experiments are the sandbox of the mind, a place where we can play with ideas without constraints. They’re a way of exploring the implications of our theories, of testing the boundaries of our understanding. They offer a powerful tool for clarifying our thinking, revealing hidden assumptions, and showing us unintended consequences.
+The power of thought experiments lies in their ability to create a simplified model of reality where we can test our ideas. In the real world, there are always confounding factors, messy details that obscure the core principles at work. However, in a thought experiment, we can strip away the noise and focus on the essence of the problem.
+Thought experiments remind us that some of the most profound insights and innovations start with a simple question: What if?
+====
+Mental Model
 V2 | Physics | Reciprocity
 "Reciprocity underlies everything from basic human kindness to the most complex trade systems. At its core, reciprocity is the simple idea of treating others as they treat us—giving what we get. From this simple principle grows a vast web of social interactions and expectations that shapes nearly every aspect of our lives.
 ====
@@ -2824,7 +2830,15 @@ You can't go back and change the beginning, but you can start where you are and 
 ====
 Mastery is the best goal because the rich can’t buy it, the impatient can’t rush it, the privileged can’t inherit it, and nobody can steal it. You can only earn it through hard work. Mastery is the ultimate status. - Derek Sivers
 ====
-
+It's true that determining the actual problem takes time, but it’s far quicker than solving the wrong one and starting over.
 ====
-
+Smart people are uniquely vulnerable to mistaking complexity for insight.
+An executive writes a ten-page memo that could be one. An engineer builds an intricate system when a simple one would perform better at half the cost. We attach prestige to what mystifies us. Complexity intoxicates both the creator and audience, drugging us with the illusion of wisdom. Mastery isn't making the simple complex—it's finding the elegant simplicity that cuts through the complexity.
+====
+Work hard in silence. Let success be your noise - Frank Ocean 
+====
+I never feared about my skills because I put in the work. Work ethic eliminates fear. So you if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
+====
+Learn from fields very different from your own. They each have ways of thinking that can be useful at surprising times. Just learning to think like an anthropologist, a psychologist, and a philosopher will beneficially stretch your mind. - David Chapman
+====
 =====
