@@ -2626,6 +2626,15 @@ However, relativity is not the same as relativism— the idea that all perspecti
 We all have blind spots— things we cannot see. Understanding that our perceptions are relative allows us to open ourselves to other ways of seeing. If you’re wondering where to get started, try asking others what they see that you can’t. Apply your judgment to their responses and update your beliefs accordingly.
 ====
 Mental Model
+V2 | Physics | Velocity
+Velocity is the great differentiator, distinguishing the stagnant from the swift.
+In physics, velocity is a fundamental quantity, a key variable in the equations that describe the behavior of everything from subatomic particles to galaxies. It’s the v in the formulas of motion, the arrow that points the way from here to there.
+Velocity is also a metaphor for life. Consider it the rate at which we learn and grow, the speed at which we innovate and create, and the focus with which we pursue our goals.
+Velocity challenges us to think about what we can do to put ourselves on the right trajectory, to find a balance between mass and speed to move toward our goals. The ability to set a direction, improve your tactics, and adjust to new information becomes paramount.
+Velocity isn’t just about raw speed. Direction matters as much. A car moving at high speed in circles goes nowhere, while a slow, steady walk in a straight line can cross continents.
+Velocity is progress. Sometimes progress comes from adding more force, and sometimes, progress comes from removing friction. Once you have a destination, you can improve your velocity by working harder and eliminating things that aren’t contributing toward reaching that goal.
+====
+Mental Model
 V3 | Systems | Feedback Loops
 "Feedback loops are the engines of growth and change. They’re the mechanisms by which the output of a system influences its own input.
 Complex systems often have many feedback loops, and it can be hard to appreciate how adjusting to feedback in one part of the system will affect the rest.
@@ -2840,5 +2849,24 @@ Work hard in silence. Let success be your noise - Frank Ocean
 I never feared about my skills because I put in the work. Work ethic eliminates fear. So you if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
 ====
 Learn from fields very different from your own. They each have ways of thinking that can be useful at surprising times. Just learning to think like an anthropologist, a psychologist, and a philosopher will beneficially stretch your mind. - David Chapman
+====
+"Rock isn't art; it's the way ordinary people talk." - Billy Idol
+====
+You have just six seconds to capture someone’s attention — but if you interest them, you earn another twenty to thirty seconds. Practically, this means you have about thirteen words to hook them and another thirty to forty to deliver your most compelling information. If your email exceeds 100 words, allocate your editing time wisely: dedicate 40% to perfecting the first sentence, 40% to refining the next 2-3 sentences, and just 20% to polishing the remainder.
+====
+The Power of the Perfect Pause
+The quietest person at a dinner party often leaves with a reputation for brilliance, while others talk themselves into corners.
+You see it in boardrooms too - the executive who tilts her head thoughtfully during presentations, somehow radiating wisdom without speaking a word. Even therapists build their practices more on artful silences than clever words. The wisest among us have learned that saying nothing often says everything.
+====
+It can be hard to appreciate how much a little extra makes a big difference.
+Making five extra calls a day may seem small, but do that for a month, and you'll have made 100 extra calls. Work an extra hour a day because you don't go out partying with your friends, and you've got 6 weeks of work in a year over your colleagues. Tha
+When you consistently do more, the returns compound dramatically. Like superlinear growth curves, each extra bit of effort builds on previous overperformance. The key is that extra effort compounds - just as doing a bit less daily leads to compounding underperformance.
+What looks like a small delta day-to-day becomes massive over months and years.
+====
+I have never seen ordinary effort lead to extraordinary results. - Alexandr Wang
+====
+Theorizing is not nearly as effective as trying. - Charles F. Kettering
+====
+Crises, setbacks, obstacles—these will certainly be met by any executive in the course of his career. The measure of a person in such circumstances is not only how they cope with adversity, but also how they turns it to their advantage. Business is always a battle—for sales, improvements, efficiency —and an executive must lead very much as a general would to win. - J. Paul Getty
 ====
 =====
