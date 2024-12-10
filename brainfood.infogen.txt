@@ -67,6 +67,15 @@ Every problem is an opportunity in disguise."
 ====
 "Talent and potential mean nothing if you can't consistently do things when you don't feel like doing them."
 ====
+Stop trying to be spectacular. Start being consistent. Your reputation isn't built on your best day. It's built on your worst. Warren Buffett's fortune was built on avoiding losses. Tom Brady became the GOAT not because of his highlight-reel throws, but because he rarely made a bad play.
+Anyone can occasionally go to the gym, eat a healthy meal, and have a productive day. Doing it once in a while is common and doesn't mean much.
+Moments don't make legends. Consistency does. And the hardest consistency isn't in doing brilliant things but avoiding stupid ones. Every mistake puts you in hard mode, forcing you to make up lost ground.
+Anyone can do it once. The outliers do it often.
+====
+Stop fighting your nature. Start winning with it. You're born with certain core traits. Fighting them is like being a sprinter forced to run marathons – exhausting and futile. But these "limitations" can become your biggest advantage. Your instincts, personality, and preferences aren't flaws - they're features. When something seems to be holding you back that you can't change, the key is to change your environment. What's a headwind in one situation is a tailwind in another. The most successful people don't fight their nature. They architect their environment to amplify it. Stop asking: "How do I fix myself?" Start asking: "How do I position myself where my natural traits are assets?"
+====
+I think it's generally human nature to over-estimate risk and under-estimate opportunity. ... The risks are probably not as big as you perceive and the opportunities may be bigger than you percieve. - Jeff Bezos
+====
 "If you're not willing to look like an idiot in the short term, you will never look like a genius in the long term."
 ====
 “It's so simple, yet makes such a difference. Pretend that every single person you meet has a sign around his or her neck that says, 'Make me feel important.'” — Mary Kay Ash
@@ -76,6 +85,8 @@ I remember once I called Dov Charney, founder of American Apparel, about some li
 The thing that’s wrong about imposter syndrome is that for the most part no one is thinking about you at all. They’re too busy with their own doubts and their own work.
 ====
 Find canvases for other people to paint on. Come up with ideas to hand over to your boss. Find people, thinkers, up and comers to introduce them to. Cross wires to create new sparks. Find what nobody else wants to do and do it. Find inefficiency and waste and redundancies. Identify leaks and patches to free up resources for new areas. Produce more than everyone else and give your ideas away. The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.
+====
+If you want new ideas, read old books.
 ====
 Very rarely have I ever let anyone go because they did not have the skills to do their job. It’s almost always their unwillingness to learn those skills or their inability to take feedback.
 ====
@@ -313,6 +324,8 @@ Tell the truth. “I’m going to be honest with you…”. How many times have 
 ====
 Love. In the struggle against injustice, it’s easy to let bitterness and hatred harden your heart. As Marcus Aurelius wrote: “What doesn’t transmit light creates its own darkness.” When we close ourselves off to love and hope, we naturally experience less love and hope. The Bible reminds us that “whoever hardens their heart falls into trouble.” And James Baldwin, that “hatred…has never failed to destroy the men who hated.” Hatred corrodes. It takes you south, backward, down, down to depths. Love, on the other hand, protects, trusts, hopes, preserves. Love does not fail. It takes you north, it leads you forward. It always wins. Which way are you going? Is your heart growing or shrinking? Is your love and compassion and connection for other people, your hope for a better future, growing or shrinking?
 ====
+"If I can stop one heart from breaking, I shall not live in vain." - Emily Dickinson
+====
 Just be kind. How did Hadrian know that Antoninus would be a worthy mentor to Marcus Aurelius? That he could give his absolute power to another man with only a promise that Antoninus would protect and guide Marcus to one day rule in his place? Because he felt he had glimpsed into Antoninus’ true character when he had once watched Antoninus help his elderly stepfather up a flight of stairs. He didn’t know anyone could see. It wasn’t a performance. It wasn’t ‘virtue signaling’ as we call it today. It was actual virtue—what Antonius brought to his twenty years as Marcus’ guardian and to the Roman people as their leader. Character is fate, the Stoics said. Small acts are no small thing, they said. A helping hand, a smile, a door held open, a favor rendered—you never know who might be watching. You never know what low moment you might be rescuing a person from. You never know the ripple effect your small gesture can have. But that’s not why we do it. We do it because it’s right—because people deserve kindness and because kindness makes us better. We do it because it’s the discipline we practice.
 ====
 “It is not death that one should fear, but never beginning to live.” - Marcus Aurelius
@@ -401,7 +414,8 @@ Instead of waiting for something to go wrong and then conducting a post-mortem, 
 Imagine you wake up in a hospital. What could have been the most likely reason? Is there anything you can do today to prevent that?
 Imagine your partner breaks up with you. What could have been the most likely reason? Is there anything you can do today to prevent that?
 Imagine you lose your job. What could have been the most likely reason? Is there anything you can do today to prevent that?
-—Luca Dellanna
+— Luca Dellanna
+====
 9. Gambler’s Conceit
 People hooked on a risky behavior (e.g. gambling, smoking) reassure themselves they’ll be able to quit while ahead (before bankruptcy, lung cancer). However, their future-self tends to act a lot like them, so if they can't quit now, they likely won't quit later when they’re even deeper in.
 ====
@@ -698,6 +712,8 @@ If you want the highest quality information, you have to speak to the best peopl
 Actually, shoes have nothing to do with my success. What I’ve accomplished comes down to one thing: my knack for identifying and then solving problems. What I do better than anything else is cut out distractions. If a system isn’t working efficiently, I can see where it's jammed, eliminate the problem, and find a way to keep everything moving forward.” — Paul Van Doren
 ====
 “Be less curious about people and more curious about ideas.” — Marie Curie
+====
+You cannot hope to build a better world without improving the individuals. To that end each of us must work for his own improvement, and at the same time share a general responsibility for all humanity, our particular duty being to aid those to whom we think we can be most useful. — Marie Curie
 ====
 1. Most decisions are reversible. Don’t obsess about making the “right” decision. Define the problem, list out the potential solutions, and choose a path forward. Some decisions are one-way doors, but most are not. - https://calvinrosser.com/40-pieces-of-advice/
 ====
@@ -2650,6 +2666,12 @@ Mental Model
 V3 | Systems | Equilibrium
 Equilibrium is the state of balance, where opposing forces cancel each other out. It’s the calm in the center of the storm, the stable point around which the chaos swirls. In a system at equilibrium, there’s no net change. Everything is in a steady state, humming along at a constant pace.
 However, systems are rarely static. They continuously adjust toward equilibrium but rarely stay in balance for long. Equilibrium is a  double-edged sword, both stability and stagnation. In our lives, we often act like we can reach an equilibrium: once we get into a relationship, we’ll be happy; once we move, we’ll be productive; once X thing happens, we’ll be in Y state. But things are always in flux. We don’t reach a certain steady state and then stay there forever. The endless adjustments are our lives. The trick is to find the right balance, to strive for equilibrium where it’s needed, but to also know when to break free, to embrace the dis-equilibrium that drives progress.
+====
+Mental Model
+V3 | Systems | Bottlenecks
+Bottlenecks are the choke points, the narrow parts of the hourglass where everything slows down. They’re the constraints that limit the flow, the weakest links in the chain that determine the strength of the whole. In any system, the bottleneck is the part holding everything else back.
+The tricky thing about bottlenecks is that they’re not always obvious. It’s easy to focus on the parts of the system that are moving quickly and assume everything is fine. But the real leverage is in finding and fixing the bottlenecks. Speed up the slowest part, and you speed up the whole system. This is the theory of constraints in a nutshell. Figure out your bottleneck and focus all your efforts on alleviating it. Don’t waste time optimizing the parts that are already fast. They’re not the limiting factor. However, bottlenecks aren’t always the villains we make them out to be. Sometimes, they’re a necessary part of the system. Think of a security checkpoint at an airport. It slows everything down, but it’s there for a reason. Remove it, and you might speed things up, but at the cost of safety.
+The key is to be intentional about your bottlenecks. Choose them wisely and make sure they serve a purpose. A deliberate bottleneck can be a powerful tool for focusing effort and maintaining quality, while an accidental bottleneck is just a drag on the system. Bottlenecks are the leverage points where a little effort can go a long way.
 ====
 Mental Model
 V4 | Economics and Art | Scarcity
