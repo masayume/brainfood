@@ -137,6 +137,8 @@ Learning is priceless. Robert Greene used to have to nag me to submit my hours w
 ====
 My career in Hollywood came to an end when one of the talent managers took a dislike to me (I told this story at the beginning of my appearance on Joe Rogan). When I ended up at American Apparel, I asked Robert Greene about how to prevent that from happening. He pointed out my problem before was that I had only had one ally or patron. I needed to cultivate relationships with multiple decision makers/power brokers at the new company, especially a place as political and full of intrigue as American Apparel. So that’s what I did–you don’t want to be dependent on a single thread or a single vote of confidence. You need redundancies. You need relationships.
 ====
+The quality of your relationships determines the quality of your life. - Esther Perel
+====
 “Run rates always start at zero.” The point there was: Don’t be discouraged at the outset. It takes time to build up from nothing.
 ====
 There is a story about an exchange between Jerry Seinfeld and a young comedian. The comedian approaches Seinfeld in a club one night and asks him for advice about marketing and getting exposure. Exposure? Marketing? Seinfeld asks. Just work on your act. Your work is the only thing that matters.
@@ -1412,6 +1414,8 @@ Clustering Illusions: Falsely assuming that the inevitable bunching of random re
 ====
 Foundational Species: A single thing that plays an outsized role in supporting an ecosystem, whose loss would pull down many others with it. In nature: kelp, algae, and coral. In business: The Federal Reserve and Amazon.
 ====
+You can mess up a lot of things in business and still do well as long as you get the big trend right. - Ludwig Jesselson
+====
 Bizarreness Effect: Crazy things are easier to remember than common things, providing a distorted sense of “normal.”
 ====
 Nonlinearity: Outputs aren’t always proportional to inputs, so the world is a barrage of massive wins and horrible losses that surprise people.
@@ -1970,6 +1974,8 @@ Step 4: Organize, convey, and review.
 True genius is the ability to simplify, not complicate. Simple is beautiful.
 ====
 The first principle is that you must not fool yourse —and you are the easiest person to fool. — Richard Feynman
+====
+We are trying to prove ourselves wrong as quickly as possible, because only in that way we can find progress. — Richard Feynman
 ====
 “Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn’t matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don’t think about what you want to be, but what you want to do.” — Richard Feynman, The Feynman Lectures on Physics
 ====
@@ -2640,6 +2646,13 @@ V2 | Physics | Reciprocity
 "Reciprocity underlies everything from basic human kindness to the most complex trade systems. At its core, reciprocity is the simple idea of treating others as they treat us—giving what we get. From this simple principle grows a vast web of social interactions and expectations that shapes nearly every aspect of our lives.
 ====
 Mental Model
+V2 | Chemistry | Activation Energy
+Activation energy is the spark that ignites the fire of change, the initial burst of effort required to kick-start a reaction or transformation. It’s the metaphorical push that gets the boulder rolling down the hill, the investment of energy needed to overcome inertia and set a process in motion.
+In chemistry, activation energy is the minimum energy that must be input for a reaction. It’s the hurdle molecules must overcome to break their bonds and form new ones, the energetic barrier separating the reactants from the products.
+But activation energy isn’t just a chemical concept. It’s a principle that applies to any system where change is possible but not automatic. In personal growth, activation energy is the effort required to break old habits and form new ones. In innovation, it’s the investment needed to turn an idea into reality.
+The key is recognizing activation energy for what it is: a necessary upfront cost, not a permanent obstacle. Once things are moving, momentum takes over. Once the reaction starts, it becomes self-sustaining.
+====
+Mental Model
 V2 | Physics | Inertia
 "Inertia is the stubborn resistance of the universe to change. It’s the reason why objects at rest tend to stay at rest and objects in motion tend to stay in motion. You can think of inertia as the guardian of the status quo.
 At its core, inertia is a property of mass. The more massive an object is, the more it resists changes to its state of motion. A feather, with its tiny mass, is easily blown about by the slightest breeze. A boulder, on the other hand, requires a powerful force to get it moving. This is why it takes more effort to push a heavy cart than a light one, more energy to launch a rocket than to toss a ball.
@@ -2927,5 +2940,6 @@ Is this something that needs to be said by me right now?
 
 Is it kind? Is it true? Is it necessary? 
 ====
+"Words are, of course, the most powerful drug used by mankind." - Rudyard Kipling
 ====
 =====
