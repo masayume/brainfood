@@ -11,6 +11,20 @@ Intensity impresses; consistency transforms.”
 Short-term results come from intensity.
 Long-term results come from consistency.
 ====
+Two rules to help you be consistent with exercise this year:
+1. Show up.
+2. You can quit tomorrow.
+Repeat.
+====
+Stick to the basics:
+Be reliable.
+Do your job.
+Speak for yourself.
+Outcome over ego.
+Focus on the details.
+See challenges as opportunities.
+Go to bed smarter than when you woke up.
+====
 Your calendar is the most honest autobiography you'll ever write. It doesn't matter what you say your priorities are; your calendar reveals the truth. Each block is a decision about what matters, stripped of pretense and rationalization. Your calendar isn't just recording your time—it's exposing your lies.
 ====
 In the short term, you are as good as your intensity. In the long term, you are only as good as your consistency.
@@ -302,6 +316,19 @@ A simple and easy approach to decision-making that prevents us from manipulating
 “Reliability is essential for progress in life.” — Charlie Munger
 ====
 “In my whole life I’ve never been good at something I wasn’t very interested in. It just doesn’t work. There’s no substitute for strong interest.” — Charlie Munger
+====
+Neither Warren nor I are smart enough to make decisions with no time to think. We make actual decisions very rapidly, but that's because we have spent so much time preparing ourselves by quietly reading. — Charlie Munger
+====
+Wisdom is Prevention - Charlie Munger
+1. Wisdom is prevention.
+2. The fundamental algorithm of life: repeat what works.
+3. The wise of every generation discover the same truths.
+4. Avoid distraction.
+5. Spend time thinking.
+6. Position yourself for opportunity.
+7. Invert: Much of success comes from simply avoiding common paths to failure.
+8. Avoiding stupidity is easier than seeking brilliance.
+9. The weakest link causes the problem.
 ====
 Long-term thinking eliminates a lot of poor behavior.
 ====
@@ -2235,6 +2262,8 @@ Still simmering: I'm certainly guilty of opting for a quick opinion rather than 
 ====
 This is the game we play: The only thing you really know is what you can put into words — Alan Watts
 ====
+You are under no obligation to be the same person you were five minutes ago. — Alan Watts
+====
 Many arguments with my wife that started on very simple and tangible things that escalated to definitions of definition have told me that, the more we say, the more we move into the world of words and away from reality as it is on its own prior to conception (and feelings) 
 ====
 If you don’t bring it with you, you won’t find it there — Poem on pilgrimage
@@ -2681,6 +2710,13 @@ Velocity is also a metaphor for life. Consider it the rate at which we learn and
 Velocity challenges us to think about what we can do to put ourselves on the right trajectory, to find a balance between mass and speed to move toward our goals. The ability to set a direction, improve your tactics, and adjust to new information becomes paramount.
 Velocity isn’t just about raw speed. Direction matters as much. A car moving at high speed in circles goes nowhere, while a slow, steady walk in a straight line can cross continents.
 Velocity is progress. Sometimes progress comes from adding more force, and sometimes, progress comes from removing friction. Once you have a destination, you can improve your velocity by working harder and eliminating things that aren’t contributing toward reaching that goal.
+====
+Mental Model
+V3 | Systems | Margin of Safety
+Margin of safety is a secret weapon. It’s the buffer, the extra capacity, the redundancy that you build into a system to handle unexpected stress. It’s the difference between a bridge that can barely handle the expected load, and one that can hold ten times that load without breaking a sweat.
+You can apply a margin of safety to any area of life with risk. The key is always asking yourself: What if I’m wrong? What if things don’t go as planned?
+But here's the rub: margin of safety isn't free. It means spending more upfront. In the short term, you'll look overly cautious and leave immediate profits on the table. But in the long run, this apparent overcaution lets you survive when others break - and thrive when others merely survive.
+Margin of safety is the unsung hero of long-term success. It’s not flashy. It’s not exciting, but it’s the foundation on which everything else is built. Master it, and you’ll be well on your way to navigating the uncertainties of life with confidence and stability.
 ====
 Mental Model
 V3 | Systems | Feedback Loops
