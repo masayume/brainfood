@@ -313,6 +313,8 @@ https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
 The Munger Two-Step filter for effective decisions
 A simple and easy approach to decision-making that prevents us from manipulating ourselves. First, understand the forces at play. Then, understand how your subconscious might be leading you astray: https://fs.blog/munger-two-step/
 ====
+It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.” — Charlie Munger
+====
 “Reliability is essential for progress in life.” — Charlie Munger
 ====
 “In my whole life I’ve never been good at something I wasn’t very interested in. It just doesn’t work. There’s no substitute for strong interest.” — Charlie Munger
@@ -2742,6 +2744,13 @@ The tricky thing about bottlenecks is that they’re not always obvious. It’s 
 The key is to be intentional about your bottlenecks. Choose them wisely and make sure they serve a purpose. A deliberate bottleneck can be a powerful tool for focusing effort and maintaining quality, while an accidental bottleneck is just a drag on the system. Bottlenecks are the leverage points where a little effort can go a long way.
 ====
 Mental Model
+V4 | Economics | Specialization
+Specialization is a trade-off: pursuing one course means not pursuing another. It’s narrowing your focus to increase your impact.
+In a world of infinite knowledge and finite time, specialization is the key to unlocking mastery. It’s about going deep, not wide.
+Specialization has risks. If the world changes, what was once a valuable specialty can become obsolete. And yet, we need specialists. You wouldn’t want a generalist doing your brain surgery or a root canal.
+Ultimately, specialization is about where you spend your time and effort. It’s how you stand out. It’s choosing to be great at one thing instead of okay at many.
+====
+Mental Model
 V4 | Economics | Optimization
 Optimization is about making the most of what you have. It’s like cleverly solving a puzzle, finding a trick to skip steps and get to the answer faster.
 In a world of scarcity, optimization is powerful. It allows us to make the most of our limited resources, whether that’s time, money, or energy. But like any tool, it’s only as good as the hand that wields it. Used wisely, optimization unlocks hidden potential and drives extraordinary results. Used poorly, it leads to wasted effort and missed opportunities.
@@ -3244,4 +3253,5 @@ Action is the antidote to despair. - Joan Baez
 ====
 Heroes always have their scars. Some you can see, some you read about later on." - George Foreman
 ====
+The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’ - George Leonard
 =====
