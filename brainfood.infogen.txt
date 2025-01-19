@@ -226,7 +226,18 @@ Amateurs have a goal. Professionals have a system.
 ====
 “Many of life’s failures are people who didn’t realize how close they were to success when they gave up.” - Thomas Edison on perseverance
 ====
+<<<<<<< HEAD
 "Your failures are your accomplishments because it makes you prepared for whatever it is that you are going to do next." - Lee Daniels
+=======
+Your best relationships aren't just connections - they're multipliers that improve everything in your life. Yet, we often exhaust ourselves trying to save difficult relationships while neglecting the good ones.
+Think of relationships like a garden: some plants naturally thrive and help everything around them grow, while others struggle despite constant care. Every hour spent on a toxic connection is stolen from relationships with real potential.
+Stop trying to save what's dying. Find what's thriving and help it flourish.
+====
+Great work requires being stubborn about your goals but flexible about your methods. The best people I know stick relentlessly to what they want to achieve, but quickly adapt how they'll achieve it when they see a better way. Most people do the opposite - they cling to their methods even when better options appear.
+Elite rowers understand this balance instinctively: grip too tight and you'll catch an oar and flip; grip too loose and you'll lose control. The right grip isn't about strength - it's about knowing exactly when to hold firm and when to adjust.
+====
+When we tell ourselves we'll do something later we run the risk of waking up one day and finally realizing it's just not going to happen, not because we failed, but rather because it just became too late to try. - Strauss Zelnick
+>>>>>>> b3b6795 (back)
 ====
 "So much advantage in life comes from being willing to look like a failure in the short term."
 ====
@@ -376,6 +387,8 @@ Just be kind. How did Hadrian know that Antoninus would be a worthy mentor to Ma
 ====
 “It is not death that one should fear, but never beginning to live.” - Marcus Aurelius
 How many of the posts you recently scrolled through on social media do you remember? Not many? Then was there much difference between scrolling and being a corpse? 
+====
+No one ever tells you that bravery feels like fear. - Mary Kate Teske
 ====
 Fishermen know that the sea is dangerous and the storm fearsome, but they have never found these dangers sufficient reason for remaining ashore. They leave that wisdom to those to whom it appeals. When the storm comes—when night falls—what’s worse: the danger or the fear of danger? Give me reality, the danger itself. - Vincent Van Gogh
 ====
@@ -2186,6 +2199,8 @@ The key to being a wonderful writer is not to write. You just get out of the way
 ====
 Creative work relies on breakthroughs - eureka moments. Over the years I’ve developed an appreciation for the little control I have over how the breakthroughs happen. One can give himself a slight edge with a few hacks and rituals but in the end, it's never fully in our control. Appreciating the struggle of it all and creating the space allows one to elevate the creative act beyond oneself. I’m not big on god, nor making Art but I  sense little free will in my own process. 
 ====
+The most regretful people on earth are those who felt the call to creative work, who felt their own creative power restive and uprising, and gave to it neither power nor time. - Mary Oliver
+====
 The outcomes are a byproduct of your process — Marc Hemeon
 ====
 I'm a creature of habits with a massive struggle to find focus for the sake of making a thing. Partly because I don't have a strong sense of what I want to do with my 4000 weeks, but as Marc points out, I'm not convinced that having a sharply defined target is the best way to get anywhere. I have my quirks, my process of making stuff because it all goes somewhere- like these notes. 
@@ -2653,6 +2668,13 @@ The Map Is Not the Territory
 Mistaking the maps for the territory is dangerous. Consider the person who has a great résumé and checks all the boxes on paper but can’t do the actual job. Updating our maps is a difficult process of reconciling what we want to be true with what is true.
 In many areas of life, we are offered maps by other people. We are reliant on the maps provided by experts, pundits, and teachers. In these cases, the best we can do is to choose our mapmakers wisely, to seek out those who are rigorous, transparent, and open to revision.
 Ultimately, the map/territory distinction is an invitation to engage with the world as it is, not just as we imagine it to be. And remember, when you don’t make the map yourself, choose your cartographer wisely."
+====
+Mental Model
+V1 | General Thinking Tools | Probabilistic Thinking
+Probabilistic thinking is the art of navigating uncertainty. Success- fully thinking in shades of probability means roughly identifying what matters, coming up with a sense of the odds, checking our assumptions, and then deciding.
+The challenge of probabilistic thinking is that it requires constant updating. As new information emerges, the probabilities change. What seemed likely yesterday may seem unlikely today. This explains why probabilistic thinkers always revise their beliefs with new data and why it’s uncomfortable for many people.
+It’s much easier to believe something false is true than to deal with the fact that it might not be true. Being a probabilistic thinker means being willing to say, “I don’t know for sure, but based on the evidence, I think there’s a 63 percent chance of X.”
+The rewards of probabilistic thinking are immense. By embracing uncertainty, we can make better decisions, avoid the pitfalls of overconfidence, and navigate complex situations with greater skill and flexibility. We can be more open-­ minded, more receptive to new ideas, and more resilient in the face of change.
 ====
 Mental Model
 V1 | General Thinking Concepts | First Principles
