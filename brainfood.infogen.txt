@@ -95,6 +95,10 @@ Anyone can occasionally go to the gym, eat a healthy meal, and have a productive
 Moments don't make legends. Consistency does. And the hardest consistency isn't in doing brilliant things but avoiding stupid ones. Every mistake puts you in hard mode, forcing you to make up lost ground.
 Anyone can do it once. The outliers do it often.
 ====
+Your mistakes aren’t the best teacher—just the most expensive.
+You can start at the bottom of the mountain and make every mistake from scratch on the way to the top, or you can take a sherpa with you and master the best of what other people have already figured out.
+The successful learn vicariously; the foolish insist on firsthand pain.
+====
 Stop fighting your nature. Start winning with it. You're born with certain core traits. Fighting them is like being a sprinter forced to run marathons – exhausting and futile. But these "limitations" can become your biggest advantage. Your instincts, personality, and preferences aren't flaws - they're features. When something seems to be holding you back that you can't change, the key is to change your environment. What's a headwind in one situation is a tailwind in another. The most successful people don't fight their nature. They architect their environment to amplify it. Stop asking: "How do I fix myself?" Start asking: "How do I position myself where my natural traits are assets?"
 ====
 I think it's generally human nature to over-estimate risk and under-estimate opportunity. ... The risks are probably not as big as you perceive and the opportunities may be bigger than you percieve. - Jeff Bezos
@@ -219,6 +223,14 @@ The master knows when to ignore them.
 Amateurs have a goal. Professionals have a system.
 ====
 "There is a door we all want to walk through, and writing can help you find it and open it. Writing can give you what having a baby can give you: it can get you to start paying attention, can help you soften, can wake you up. But publishing won’t do any of those things; you’ll never get in that way." - Anne Lamott, on using writing to open a door
+====
+"There is a door we all want to walk through, but the key lies within us." - gemini
+====
+"There is a door we all want to walk through, but it leads to a room where we must constantly grow." - gemini
+====
+"There is a door we all want to walk through, but beyond it lies a path unknown." - gemini
+====
+"There is a door we all want to walk through, and on the other side, we find ourselves connected to something greater." - gemini
 ====
 “Luck is the intersection of preparation and opportunity. Opportunities parade past all of us all the time. The key is that you must be paying attention to see them, you must be willing to take risks, you must expose yourself to the possibility of massive failure and you must believe in what you are doing so much that you do it anyway." - Richard Garriott on believing in what you do so much that you do it anyway
 ====
@@ -1004,7 +1016,7 @@ We tend to recall the beginnings (Primacy effect) and endings (Recency effect) o
 Believing you’re good can make you behave bad. Those who consider themselves virtuous worry less about their own behavior, making them more susceptible to ethical lapses. A big cause of immorality is self-righteous morality.
 ====
 14. Preference Falsification:
-If people are afraid to say what they really think, they will instead lie. Therefore, punishing speech—whether by taking offence or by threatening censorship—is ultimately a request to be deceived.
+If people are afraid to say what they really think, they will instead lie. Therefore, punishing speech — whether by taking offence or by threatening censorship — is ultimately a request to be deceived.
 ====
 15. Nutpicking:
 Online political debate mainly involves cherry-picking the most outlandish members of the enemy side and presenting them as indicative in order to make the entire side look crazy.
@@ -2670,11 +2682,20 @@ In many areas of life, we are offered maps by other people. We are reliant on th
 Ultimately, the map/territory distinction is an invitation to engage with the world as it is, not just as we imagine it to be. And remember, when you don’t make the map yourself, choose your cartographer wisely."
 ====
 Mental Model
+<<<<<<< HEAD
 V1 | General Thinking Tools | Probabilistic Thinking
 Probabilistic thinking is the art of navigating uncertainty. Success- fully thinking in shades of probability means roughly identifying what matters, coming up with a sense of the odds, checking our assumptions, and then deciding.
 The challenge of probabilistic thinking is that it requires constant updating. As new information emerges, the probabilities change. What seemed likely yesterday may seem unlikely today. This explains why probabilistic thinkers always revise their beliefs with new data and why it’s uncomfortable for many people.
 It’s much easier to believe something false is true than to deal with the fact that it might not be true. Being a probabilistic thinker means being willing to say, “I don’t know for sure, but based on the evidence, I think there’s a 63 percent chance of X.”
 The rewards of probabilistic thinking are immense. By embracing uncertainty, we can make better decisions, avoid the pitfalls of overconfidence, and navigate complex situations with greater skill and flexibility. We can be more open-­ minded, more receptive to new ideas, and more resilient in the face of change.
+=======
+V1 | General Thinking Tools | Inversion
+A lot of advantages can be gained simply by avoiding the standard paths to failure.
+Inversion is not the way we are taught to think. We are taught to identify what we want and explore things that will move us closer to our objective. However, by identifying and avoiding things that will ensure we don’t get what we want, we dramatically increase our odds of success.
+Often, we get so fixated on solving a problem in a particular way that we miss simpler, more elegant solutions. Inversion forces us to consider the opposite side of the equation. Instead of asking, “How do I solve this problem?” inversion asks, “What would guarantee failure?”
+Instead of asking, “How can I achieve this goal?” it asks, “What is preventing me from achieving it?” By inverting the question, we can gain insights that our normal thought patterns might miss.
+The next time you find yourself struggling, try inverting your thinking. Ask yourself how you could guarantee failure. The answers may surprise you and open up new avenues for possible solutions.
+>>>>>>> 459dd87 (Bion)
 ====
 Mental Model
 V1 | General Thinking Concepts | First Principles
@@ -3289,6 +3310,22 @@ Much of what truly matters we take for granted until it's gone.
 ====
 "Friendship is a priceless gift that cannot be bought nor sold, but its value is far greater than a mountain made of gold." - Muhammad Ali
 ====
+"Failure is not a sign of weakness. It is a sign that you are alive and growing." - Buzz Aldrin
+====
+"We are the opening verse of the opening page of the chapter of endless possibilities." - Rudyard Kipling
+====
 "Le origini sono il vestito che non smetti mai" - Vitaliano Trevisan
+====
+Bureaucracies make everyone feel productive while doing very little useful work.
+====
+It can be hard to appreciate just how much reliability impacts opportunity. 
+It's fun to outperform people who are way smarter than you by being more reliable than they are.
+Reliability isn't just a virtue - it's a competitive advantage that compounds over time.
+====
+I have thought it my duty to exhibit things as they are, not as they ought to be. - Alexander Hamilton on the duty to tell the truth:
+====
+"Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not." - Oprah Winfrey
+====
+We should not try to alter circumstances but to adapt ourselves to them as they really are, just as sailors do. They don't try to change the winds or the sea but ensure that they are always ready to adapt themselves to conditions. In a flat calm they use the oars; with a following breeze they hoist full sail; in a head wind they shorten sail or heave to. Adapt yourself to circumstances in the same way. - Bion of Borysthenes
 ====
 =====
