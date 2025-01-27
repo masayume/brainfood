@@ -404,6 +404,8 @@ No one ever tells you that bravery feels like fear. - Mary Kate Teske
 ====
 Fishermen know that the sea is dangerous and the storm fearsome, but they have never found these dangers sufficient reason for remaining ashore. They leave that wisdom to those to whom it appeals. When the storm comes—when night falls—what’s worse: the danger or the fear of danger? Give me reality, the danger itself. - Vincent Van Gogh
 ====
+“Great things are not done by impulse, but by a series of small things brought together. The trick is to focus on the first small thing. Starting small is still starting, and small beginnings often lead to extraordinary endings.” - Vincent Van Gogh on the accumulation of small things:
+====
 “You have power over your mind — not outside events. Realize this, and you will find strength.” - Marcus Aurelius
 When you change the way you look at things, the things you look at change.
 ====
@@ -2718,6 +2720,18 @@ The power of thought experiments lies in their ability to create a simplified mo
 Thought experiments remind us that some of the most profound insights and innovations start with a simple question: What if?
 ====
 Mental Model
+V2 | Physics | Leverage
+Leverage is the force multiplier of the world, the principle that allows the small to move the large and the few to influence the many. It’s the idea that a little force, strategically applied, can yield outsize outputs.
+At its core, leverage is amplification. Think of a crowbar prying two boards apart or a pulley system hoisting a heavy load. In each case, the applied force is multiplied. But leverage isn’t just useful in physics. Rather, it’s a principle that applies across our lives.
+Leverage is often lurking in the background of nonlinear outcomes. Consider the author who took the ideas in their head, put them in a book, and sold millions of copies, or the Wall Street investor who made a single decision that resulted in billions. Or even the CEO who directs the people working for them. All of these examples are leverage in action.
+In personal development, leverage is about identifying the key habits, skills, and relationships that will impact your life and work most. It’s about focusing your energy on the critical few rather than the trivial many, about finding the points of maximum leverage where small changes can cascade into massive results.
+An example of personal leverage is an employee who learns to use AI to amplify their impact on the organization far beyond their experience or effort. While labor is still a form of leverage, it can often be done with silicon chips. In this sense, the person who can leverage technology can compete in a way never imaginable.
+However, leverage is not without its risks and responsibilities. Just as a small action can have an outsized positive impact, so can it have negative consequences. If you borrow too much money against your house and it turns out to be less valuable than assumed or interest rates change, the downside of leverage can quickly wipe you out.
+Good ideas taken too far often cause unanticipated consequences. Wielding leverage to maximum effect all the time, as the West Virginia mine owners did, sows the seeds of ongoing unrest that undermines one’s ability to be truly effective. No one wants to feel exploited, and those who are never give their loyalty or their best work.
+The key is to use leverage wisely and judiciously by understanding the systems you want to influence and considering the second- and third-­ order effects of your actions.
+Leverage is a tool, not a toy, and like any tool, it requires skill, judgment, and respect.
+====
+Mental Model
 V2 | Physics | Reciprocity
 "Reciprocity underlies everything from basic human kindness to the most complex trade systems. At its core, reciprocity is the simple idea of treating others as they treat us—giving what we get. From this simple principle grows a vast web of social interactions and expectations that shapes nearly every aspect of our lives.
 ====
@@ -3329,6 +3343,18 @@ I have thought it my duty to exhibit things as they are, not as they ought to be
 "Hope is a good breakfast, but it is a bad supper." - Francis Bacon
 ====
 We should not try to alter circumstances but to adapt ourselves to them as they really are, just as sailors do. They don't try to change the winds or the sea but ensure that they are always ready to adapt themselves to conditions. In a flat calm they use the oars; with a following breeze they hoist full sail; in a head wind they shorten sail or heave to. Adapt yourself to circumstances in the same way. - Bion of Borysthenes
+====
+“Success is being excited to go to work and being excited to come home.” - Will Ahmed 
+====
+If you want to get paid, find the contrast.
+No one hears you if you sneeze in the middle of New York. But if you sneeze in a library, everyone does. The same concept applies to work.
+It's better to dominate a small pond than drown in an ocean.
+====
+Everyone gets knocked down; the difference is who stays down.
+When you’re on the ground, you’ll hear people saying, ‘That's not fair’ or ‘That shouldn't happen.’ The longer you lie there, the louder the voices become.
+Getting up isn’t easy, but it’s the only way forward.
+====
+"Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse." - Winston Churchill
 ====
 "Le origini sono il vestito che non smetti mai" - Vitaliano Trevisan
 ====
