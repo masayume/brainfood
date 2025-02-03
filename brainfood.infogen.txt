@@ -1,7 +1,9 @@
 ====
 The person who focuses on fewer things goes further than the person distracted by many.
 ====
-You don't need more time; you need more focus. Fewer projects. Fewer commitments. Fewer obligations. Fewer responsibilities. Carefully choose your commitments, then go all in.
+You don't need more time; you need more focus. Fewer projects. Fewer commitments. Fewer obligations. Fewer responsibilities. Carefully choose your commitments, then go all in. Time isn't the constraint. Your choices are. Great outcomes aren't built on great days, but on consistent ones.
+You can't just count the days when it's easy. Each day moves you closer to the goal. No day is a hero; no day is a villain.
+Perfect days don't compound. Consistent ones do.
 ====
 Going all in on something for a month gets better results than dabbling in it for a decade. The dabbler spreads their energy over many things. The focused person concentrates their effort on one. The most dangerous competitor is the one with a single goal.
 ====
@@ -28,6 +30,8 @@ Go to bed smarter than when you woke up.
 Your calendar is the most honest autobiography you'll ever write. It doesn't matter what you say your priorities are; your calendar reveals the truth. Each block is a decision about what matters, stripped of pretense and rationalization. Your calendar isn't just recording your time—it's exposing your lies.
 ====
 In the short term, you are as good as your intensity. In the long term, you are only as good as your consistency.
+====
+Consistency compounds while occasional brilliance fades.
 ====
 There are a lot of things you don't control.
 
@@ -2773,6 +2777,12 @@ Velocity isn’t just about raw speed. Direction matters as much. A car moving a
 Velocity is progress. Sometimes progress comes from adding more force, and sometimes, progress comes from removing friction. Once you have a destination, you can improve your velocity by working harder and eliminating things that aren’t contributing toward reaching that goal.
 ====
 Mental Model
+V3 | Systems | Churn
+Churn is the silent killer of businesses. It’s the slow leak, the constant drip of customers slipping away, of users drifting off to find something new. The attrition eats away at your growth, forcing you to keep running to stay in place.
+The thing about churn is that it’s often hidden. It’s not like a crisis that grabs your attention. It’s a slow, quiet process that happens in the background. Churn can present opportunity. Like a snake shedding its skin, replacing components of a system is a natural part to keeping it healthy. New parts can improve functionality.
+But here's what's counterintuitive: some churn is healthy. New employees bring new ideas; new customers bring new opportunities. Replacing what is worn out creates new opportunities. Some churn is inevitable. Too much can kill you.
+====
+Mental Model
 V3 | Systems | Margin of Safety
 Margin of safety is a secret weapon. It’s the buffer, the extra capacity, the redundancy that you build into a system to handle unexpected stress. It’s the difference between a bridge that can barely handle the expected load, and one that can hold ten times that load without breaking a sweat.
 You can apply a margin of safety to any area of life with risk. The key is always asking yourself: What if I’m wrong? What if things don’t go as planned?
@@ -3365,6 +3375,18 @@ The measure of who we are is what we do with what we have.” - Vince Lombardi
 "The world has enough for everyone's need, but not enough for everyone's greed." - Mahatma Gandhi
 ====
 "Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse." - Winston Churchill
+====
+One can have no smaller or greater mastery than mastery of oneself; you will never have a greater or lesser dominion than that over yourself; the height of your success is gauged by your self-mastery, the depth of your failure by your self-abandonment. Those who cannot establish dominion over themselves will have no dominion over others.
+====
+"Saper ascoltare significa possedere, oltre al proprio, il cervello degli altri." - Leonardo
+====
+Colui che più possiede, è colui che più ha paura di perdere. - Leonardo
+====
+"Gli uomini di genio a volte realizzano di più quando lavorano di meno, perché stanno pensando invenzioni e formando nelle loro menti l'idea perfetta che successivamente esprimono con le loro mani." - Leonardo
+====
+La semplicità è l'ultima sofisticazione. - Leonardo
+====
+Chi nega la ragion delle cose, pubblica la sua ignoranza. - Leonardo
 ====
 "Le origini sono il vestito che non smetti mai" - Vitaliano Trevisan
 ====
