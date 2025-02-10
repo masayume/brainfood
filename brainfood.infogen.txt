@@ -187,6 +187,9 @@ A friend of mine just left a very important job that a lot of people would kill 
 ====
 "Nobody wants to believe happiness is a choice, because that puts responsibility in their hands. It’s the same reason people self-pity: to delay action, to make an outcry to the universe, as though the more they state how bad things are, the more likely it is that someone else will change them." — Brianna Wiest
 ====
+The hardest truth about happiness is that it's a choice.
+Watch how people discuss their problems. They'll spend hours explaining why things are terrible, how unfair life is, and how others need to change. But suggest they might have the power to improve things and they suddenly have countless reasons why that's impossible. Self-pity feels safer than responsibility.
+====
 “When we learn to do anything new—how to drive, for example—we go through three stages. The first stage demands a lot of attention as we try out the controls, learn the rules of driving, and so on. In the second stage we begin to coordinate our knowledge, linking movements together and more fluidly combining our actions with our knowledge of the car, the situation, and the rules. In the third stage we drive the car with barely a thought. It’s automatic. And with that our improvement at driving slows dramatically, eventually stopping completely.” — Geoff Colvin
 ====
 “I once believed, as most do, that if arguments are to be won, the opponent must be pummeled into submission and silenced. You can imagine how that idea played at home. If, in accordance with such a definition, I won an argument, I began to lose the relationship.” — Gerry Spence
@@ -618,6 +621,8 @@ I know that travel is valuable because most knowledge can’t be written down. T
 ====
 I know that sometimes, persistence is not a virtue. I would trade my other abilities to be an exceptional songwriter. I gave it a serious enough try to know that I don’t have the knack, for years, and I’m not interested in being publicly mediocre at the performing arts. My life is incalculably better for having let the dream go. The world will be happiest with a certain range of behaviors from you—life will be easier if you find a place in that range where you’re content. David Whyte calls this the conversational nature of reality, and he is correct about the importance of this concept.
 ====
+Energy without imagination is force. Energy with imagination is persistence.
+====
 I know that talent doesn’t feel like you’re amazing. It feels like the difficulties that trouble others are mysteriously absent in your case. Don’t ask yourself where your true gifts lie. Ask what other people seem weirdly bad at.
 ====
 I know that cabbage is underestimated. Braised cabbage is delicious. Quarter a head of cabbage, sear on all sides in a cast iron pan until slightly blackened, braise with white wine and chicken stock (or this, if you’re vegetarian) until tender, add more butter than seems reasonable, throw some thyme in the pan if you’re fancy, finish with a squeeze of lemon and some Maldon salt. Also, sauerkraut is one of the few foods that will almost always make you feel good.
@@ -771,6 +776,8 @@ There is a big difference between being interested in something and being commit
 Respect others. Clementine Churchill once left a note for her husband. “My Darling Winston,” she wrote, “I must confess that I have noticed a deterioration in your manner; & you are not so kind as you used to be.” Yes, he had power, she noted, but if you keep disrespecting people, “You won’t get the best results.” The way you treat others sets off a chain reaction that shapes your life in profound ways. Disrespect, rudeness, pettiness, jealousy—these things repel. But dignity, equanimity, politeness, calm—they attract. They draw people in. They bring the best out of others. Choose wisely.
 ====
 Give, give, give. When Rabbi Harold Kushner wrote a book, he avoided procrastination and overthinking. His only ritual before starting was to make a small donation to a charity he and his wife supported. Like ancient sacrifices to gods before battle, the rabbi waged the war of art by first striking with an act of kindness. Generosity is admirable, and many of us wish we could be better at it. There’s only one way to improve, and it happens to be the same way one gets better at writing or any other craft: by doing it. Not later, once we’re better off or once somebody really needs it. But consistently, regularly, habitually. Money is not the only currency of generosity. You can give your time, your energy, your words of encouragement, your patience, your kindness. Seneca reminds us that every person we meet is an opportunity for kindness. For expressions of generosity. How are you doing? Do you need anything? Can I help you with that? These opportunities are everywhere, every day. Start to seize them. Make a habit of it.
+====
+Overthinking is the biggest waste of human energy. Trust yourself, make a decision, and gain more experience. There is no such thing as perfect. You cannot think your way into perfection, just take action. - Sylvester McNutt III 
 ====
 Find the good. During one of his many stints in prison, Gandhi made a pair of sandals for General Jan Smuts, the prime minister of South Africa, who put Gandhi in jail. Somewhere in Smuts, despite his complicity in a racist and exploitative system, there was goodness, Gandhi believed. Smuts wore the sandals and thought of Gandhi’s grace and goodness as he did. Smuts eventually tried to return them, saying he felt unworthy to stand in the shoes of such a great man. To his credit, he made an effort to fill those shoes. He contributed to the founding of the League of Nations, drafted the UN Charter, and helped find a homeland for Jews after the Holocaust. He said Gandhi inspired him to redeem himself. Each of us, the Holocaust survivor Edith Eger would later write, has both a Hitler and a Corrie ten Boom (one of the Righteous Among the Nations honorees) inside us. Which one are you letting out? Which one are you seeing in others?
 ====
@@ -2695,7 +2702,7 @@ V1 | General Thinking Tools | Probabilistic Thinking
 Probabilistic thinking is the art of navigating uncertainty. Success- fully thinking in shades of probability means roughly identifying what matters, coming up with a sense of the odds, checking our assumptions, and then deciding.
 The challenge of probabilistic thinking is that it requires constant updating. As new information emerges, the probabilities change. What seemed likely yesterday may seem unlikely today. This explains why probabilistic thinkers always revise their beliefs with new data and why it’s uncomfortable for many people.
 It’s much easier to believe something false is true than to deal with the fact that it might not be true. Being a probabilistic thinker means being willing to say, “I don’t know for sure, but based on the evidence, I think there’s a 63 percent chance of X.”
-The rewards of probabilistic thinking are immense. By embracing uncertainty, we can make better decisions, avoid the pitfalls of overconfidence, and navigate complex situations with greater skill and flexibility. We can be more open-­ minded, more receptive to new ideas, and more resilient in the face of change.
+The rewards of probabilistic thinking are immense. By embracing uncertainty, we can make better decisions, avoid the pitfalls of overconfidence, and navigate complex situations with greater skill and flexibility. We can be more open- minded, more receptive to new ideas, and more resilient in the face of change.
 =======
 V1 | General Thinking Tools | Inversion
 A lot of advantages can be gained simply by avoiding the standard paths to failure.
@@ -2734,7 +2741,7 @@ In personal development, leverage is about identifying the key habits, skills, a
 An example of personal leverage is an employee who learns to use AI to amplify their impact on the organization far beyond their experience or effort. While labor is still a form of leverage, it can often be done with silicon chips. In this sense, the person who can leverage technology can compete in a way never imaginable.
 However, leverage is not without its risks and responsibilities. Just as a small action can have an outsized positive impact, so can it have negative consequences. If you borrow too much money against your house and it turns out to be less valuable than assumed or interest rates change, the downside of leverage can quickly wipe you out.
 Good ideas taken too far often cause unanticipated consequences. Wielding leverage to maximum effect all the time, as the West Virginia mine owners did, sows the seeds of ongoing unrest that undermines one’s ability to be truly effective. No one wants to feel exploited, and those who are never give their loyalty or their best work.
-The key is to use leverage wisely and judiciously by understanding the systems you want to influence and considering the second- and third-­ order effects of your actions.
+The key is to use leverage wisely and judiciously by understanding the systems you want to influence and considering the second- and third- order effects of your actions.
 Leverage is a tool, not a toy, and like any tool, it requires skill, judgment, and respect.
 ====
 Mental Model
@@ -2811,6 +2818,15 @@ V3 | Systems | Bottlenecks
 Bottlenecks are the choke points, the narrow parts of the hourglass where everything slows down. They’re the constraints that limit the flow, the weakest links in the chain that determine the strength of the whole. In any system, the bottleneck is the part holding everything else back.
 The tricky thing about bottlenecks is that they’re not always obvious. It’s easy to focus on the parts of the system that are moving quickly and assume everything is fine. But the real leverage is in finding and fixing the bottlenecks. Speed up the slowest part, and you speed up the whole system. This is the theory of constraints in a nutshell. Figure out your bottleneck and focus all your efforts on alleviating it. Don’t waste time optimizing the parts that are already fast. They’re not the limiting factor. However, bottlenecks aren’t always the villains we make them out to be. Sometimes, they’re a necessary part of the system. Think of a security checkpoint at an airport. It slows everything down, but it’s there for a reason. Remove it, and you might speed things up, but at the cost of safety.
 The key is to be intentional about your bottlenecks. Choose them wisely and make sure they serve a purpose. A deliberate bottleneck can be a powerful tool for focusing effort and maintaining quality, while an accidental bottleneck is just a drag on the system. Bottlenecks are the leverage points where a little effort can go a long way.
+====
+Mental Model
+V4 | Art | Audience
+
+The audience is the invisible participant in every work of art. They are the eyes that see, the ears that hear, the minds that interpret. Without an audience, art is like a tree falling in an empty  forest— it may make a sound, but does it matter? The audience is what gives art its meaning, its purpose, and its very existence.
+Every observer infuses art with personal significance, transforming it into a co-creation. A painting of a sunset may evoke feelings of peace and beauty for one person and feelings of melancholy and loss for another. The artwork is the same, but the audience is different, so the meaning is different. In this sense, the audience is a cocreator of the art.
+Great artists design their work for these silent judges, balancing authenticity with expectation without succumbing to pandering. The audience is their silent collaborator and their ultimate judge.
+The audience is something real in a world where so much can be faked. You can fake likes, followers, and reviews, but you can’t fake the genuine human experience of engaging with art. The spontaneous laughter, unexpected tears, and long, thoughtful silence are the honest reactions that both the audience and the artist lives for.
+Never forget your audience, but never let them dictate your creation.
 ====
 Mental Model
 V4 | Economics | Specialization
@@ -2973,6 +2989,8 @@ The person who carefully designs their daily routine goes further than the perso
 Let inertia work for you.
 ====
 Copying others doesn't work because success without substance doesn't last.
+====
+Obsess over substance, not status. What endures is what matters.
 ====
 The path to differentiated results looks like madness to the masses. As the adage goes, if you do what everyone else does, you'll get the same results everyone else gets. Extraordinary success requires misunderstood choices.
 ====
@@ -3387,6 +3405,10 @@ The measure of who we are is what we do with what we have.” - Vince Lombardi
 One can have no smaller or greater mastery than mastery of oneself; you will never have a greater or lesser dominion than that over yourself; the height of your success is gauged by your self-mastery, the depth of your failure by your self-abandonment. Those who cannot establish dominion over themselves will have no dominion over others.
 ====
 "We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy." - Arthur Ashe
+====
+To free us from the expectations of others, to give us back to ourselves—there lies the great, the singular power of self-respect. - Joan Didion
+====
+The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short. - Schopenhauer
 ====
 "Saper ascoltare significa possedere, oltre al proprio, il cervello degli altri." - Leonardo
 ====
