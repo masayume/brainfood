@@ -1491,6 +1491,8 @@ Nonlinearity: Outputs aren’t always proportional to inputs, so the world is a 
 ====
 Moderating Relationship: The correlation between two variables depends on a third, seemingly unrelated variable. The quality of a marriage may be dependent on a spouse’s work project that’s causing stress.
 ====
+"A successful marriage requires falling in love many times, always with the same person." - Mignon McLaughlin
+====
 Denomination Effect: One hundred $1 bills feels like less money than one $100 bill. Also explains stock splits – buying 10 shares for $10 each feels cheaper than one share for $100.
 ====
 Woozle Effect: “A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.” - Daniel Kahneman.
@@ -3435,6 +3437,10 @@ The best books come from someplace inside. You don't write because you want to, 
 I’m thinking of Leonard Nimoy’s spiritual journey from writing I Am Not Spock (1975) to writing I Am Spock (1995). This is a journey we all must make. — Tim Kreider
 ====
 This present moment was once the unimaginable future — Stewart Brand
+====
+At the moment of truth, there are either reasons or results. - Chuck Yeager
+====
+"Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 ====
 "Saper ascoltare significa possedere, oltre al proprio, il cervello degli altri." - Leonardo
 ====
