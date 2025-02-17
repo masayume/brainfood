@@ -539,6 +539,8 @@ If you make a claim, it's up to you to prove it, not to me to disprove it.
 ====
 The Liking Gap - Multiple studies have found that people consistently underestimate how much a conversation partner likes them and enjoys their company. So don't be shy, you're probably cooler than you think.
 ====
+Once something is obvious and working, people tend to underestimate it.
+====
 Boomerang Effect
 Deny someone something, and they'll want it even more, out of defiance. If you want your child to eat broccoli, tell them they’re not big enough to eat broccoli.
 Helps explain why censorship often backfires (the Streisand Effect).
@@ -1120,6 +1122,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 “More information is just a form of procrastination.” – Russ Roberts
 ====
 “Injuries done to us by others tend to be acute; the self-inflicted ones tend to be chronic.” – Nassim Taleb
+====
+It takes inordinate courage to introspect, to confront oneself, to accept one’s limitations—scientists are seeing more and more evidence that we are specifically designed by mother nature to fool ourselves. – Nassim Taleb
 ====
 “The thing that is least perceived about wealth is that all pleasure in money ends at the point where economy becomes unnecessary. The man who can buy anything he covets, without any consultation with his banker, values nothing that he buys.” – William Dawson
 ====
@@ -2735,6 +2739,13 @@ The power of thought experiments lies in their ability to create a simplified mo
 Thought experiments remind us that some of the most profound insights and innovations start with a simple question: What if?
 ====
 Mental Model
+V1 | General Thinking Tools | Occam's Razor
+Occam’s razor is the intellectual equivalent of “keep it simple.”
+When faced with competing explanations or solutions, Occam’s razor suggests that the correct explanation is most likely the simplest one, making the fewest assumptions.
+This doesn’t mean the simplest theory is always true, only that it should be preferred until proven otherwise. Sometimes, the truth is complex, and the simplest explanation doesn’t account for all the facts.
+The key to Occam's Razor is understanding when it works for you and against you. A theory that is too simple will fail to capture reality, and one that is too complex will collapse under its own weight.
+====
+Mental Model
 V2 | Physics | Leverage
 Leverage is the force multiplier of the world, the principle that allows the small to move the large and the few to influence the many. It’s the idea that a little force, strategically applied, can yield outsize outputs.
 At its core, leverage is amplification. Think of a crowbar prying two boards apart or a pulley system hoisting a heavy load. In each case, the applied force is multiplied. But leverage isn’t just useful in physics. Rather, it’s a principle that applies across our lives.
@@ -3042,6 +3053,8 @@ Work hard in silence. Let success be your noise - Frank Ocean
 ====
 I never feared about my skills because I put in the work. Work ethic eliminates fear. So you if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
 ====
+Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it." - Michael Jordan
+====
 Learn from fields very different from your own. They each have ways of thinking that can be useful at surprising times. Just learning to think like an anthropologist, a psychologist, and a philosopher will beneficially stretch your mind. - David Chapman
 ====
 "Rock isn't art; it's the way ordinary people talk." - Billy Idol
@@ -3344,6 +3357,13 @@ Heroes always have their scars. Some you can see, some you read about later on."
 ====
 The most important lessons here — especially for young people — is that even if you’re shooting for the stars, you’re going to spend most of your time on a plateau. That’s where the deepest, most lasting learning takes place, so you might as well enjoy it. When I was first learning…I just assumed that I would steadily improve. My first plateau was something of a shock and disappointment, but I persevered and finally experienced an apparent spurt of learning. The next time my outward progress stopped, I said to myself ‘oh damn, another plateau’. After a few months, there was another spurt of progress and then, of course, the inevitable plateau. This time, something marvellous happened. I found myself thinking ‘Oh boy, another plateau. Good, if I stay on it and keep practicing, I’m absolutely assured another surge of progress. It was one of the best and warmest moments of my life.’ - George Leonard
 ====
+Most people quit before they reach their best work.
+Excellence lives in doing a bit more than others.
+====
+The meaning you give work determines its difficulty.
+A coder working on a passion project works 12 hours straight and calls it energizing. That same programmer, doing maintenance on legacy code they consider meaningless, feels exhausted after 2 hours.
+Your relationship with the work shapes its weight more than the work itself.
+====
 "Art is the human disposition of sensible or intelligible matter for an aesthetic end." - James Joyce
 ====
 "I've come to the conclusion that life is for the taking and just too short to dwell on the negative." - Dolores O'Riordan
@@ -3440,6 +3460,8 @@ This present moment was once the unimaginable future — Stewart Brand
 ====
 At the moment of truth, there are either reasons or results. - Chuck Yeager
 ====
+Ten people who yell make more noise than ten thousand who keep silent. - Napoleon
+====
 "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 ====
 "Saper ascoltare significa possedere, oltre al proprio, il cervello degli altri." - Leonardo
@@ -3455,4 +3477,6 @@ Chi nega la ragion delle cose, pubblica la sua ignoranza. - Leonardo
 "Le origini sono il vestito che non smetti mai" - Vitaliano Trevisan
 ====
 "Il vecchio mondo sta morendo. Quello nuovo tarda a comparire. E in questo chiaroscuro nascono i mostri." - Antonio Gramsci
+====
+Il sole, con tutti quei pianeti  che gli girano intorno può ancor far maturare una manciata di grappoli d’uva, come se non avesse nient’altro da fare nell’Universo. - Galileo Galilei
 =====
