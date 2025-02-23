@@ -5,6 +5,8 @@ You don't need more time; you need more focus. Fewer projects. Fewer commitments
 You can't just count the days when it's easy. Each day moves you closer to the goal. No day is a hero; no day is a villain.
 Perfect days don't compound. Consistent ones do.
 ====
+Your choices determine your trajectory.
+====
 Going all in on something for a month gets better results than dabbling in it for a decade. The dabbler spreads their energy over many things. The focused person concentrates their effort on one. The most dangerous competitor is the one with a single goal.
 ====
 “You don't need more intensity; you need more consistency.
@@ -134,6 +136,8 @@ I was working full time at American Apparel but planning my next move, saving my
 When you’re lacking motivation, remind yourself: discipline now, freedom later. The labor will pass, and the rewards will last.
 ====
 When I first moved to Austin in 2013, I went out to lunch—fittingly—with a writer named Austin Kleon. I was a longtime fan of his book Steal Like an Artist (his book Keep Going is another favorite). After we ate, he drove me around the city, showing me things and giving me advice. Austin was a little older than me and already married with kids. I remember asking him how he made time for it all. “I don’t,” he told me. “Life is about tradeoffs.” And then he gave me a little rule that has stuck with me always: Work, family, scene. Pick two. Your creative output, your personal relationships, and your social life—balancing all three is impossible. You can excel in two if you say no to one. If you can’t, you’ll have none.
+====
+“Double the pleasure and divide the pain,” and that’s what relationships are all about. When you care for and love those around you, they give back—and that’s where the reward comes.” - Tom Brady
 ====
 Lengthen your timeline. Opening my bookstore, The Painted Porch (delayed a year by COVID) taught me that it always takes longer than you think it’s going to take. That’s Hofstadter’s law. And even when you take the law into account, you’re still surprised.
 ====
@@ -2416,7 +2420,11 @@ As the global warming crisis is unfolding, let's keep in mind this fundamental p
 ====
 Conversation – whether with other people or with ourselves – remains our only means of making intelectual and moral progress. — Sam Harris
 ====
-The hundreds of hours of conversation with my wife have proven this over and over again. Thought crystalizes during conversation and get beaten down to it essence. As imperfact as human communication is, it remain our best tool to make sense of things. 
+The hundreds of hours of conversation with my wife have proven this over and over again. Thought crystalizes during conversation and get beaten down to it essence. As imperfect as human communication is, it remain our best tool to make sense of things. 
+====
+An imperfect solution that exists outperforms a perfect one that doesn't.
+Facebook wasn't the first social network - it was just the one that kept iterating and showing up. The Wright brothers weren't the most educated aviation pioneers, but they were the ones who got a plane off the ground.
+What you build matters more than what you could have built.
 ====
 Honesty requires that we each radically reduce our expectations that machines will do our work for us or that therapists can make us learned or healthy. — Ivan Illich
 ====
@@ -2746,6 +2754,13 @@ Occam’s razor is the intellectual equivalent of “keep it simple.”
 When faced with competing explanations or solutions, Occam’s razor suggests that the correct explanation is most likely the simplest one, making the fewest assumptions.
 This doesn’t mean the simplest theory is always true, only that it should be preferred until proven otherwise. Sometimes, the truth is complex, and the simplest explanation doesn’t account for all the facts.
 The key to Occam's Razor is understanding when it works for you and against you. A theory that is too simple will fail to capture reality, and one that is too complex will collapse under its own weight.
+====
+Mental Model
+V2 | Chemistry | Alloying
+Alloying is the art of mixing elements to create something greater than the sum of its parts. While our intuition tells us that pure substances are best, alloying shows this is not always true. One plus one can equal ten. By blending ingredients in precise proportions, metallurgists can create materials with bespoke properties—the lightness of aluminum with the strength of steel, the corrosion resistance of chromium with the affordability of iron.
+But alloying isn’t just about physical properties. It’s a metaphor for the power of diversity and combination in all walks of life. In teams, alloying is the mixing of different skills, perspectives, and personalities to create a more creative, adaptable, and resilient group than any individual could be alone. In ideas, it’s the blending of concepts from different fields to spark innovation and insight.
+In people, alloying is the combination of skills that makes them unstoppable. Consider a person possessing deep engineering skills who can clearly explain ideas. They are more valuable than someone with just the engineering skills. Now add empathy, humility, resilience, and drive. This person becomes incredibly rare.
+The key to successful alloying is knowing which elements to combine and in what proportions. Too little of one ingredient and you don’t get the desired effect; too much and you might end up with something brittle or unstable. The art lies in finding the sweet spot, the golden ratio where the whole becomes more than the sum of its parts.
 ====
 Mental Model
 V2 | Physics | Leverage
@@ -3400,6 +3415,10 @@ I have thought it my duty to exhibit things as they are, not as they ought to be
 ====
 We should not try to alter circumstances but to adapt ourselves to them as they really are, just as sailors do. They don't try to change the winds or the sea but ensure that they are always ready to adapt themselves to conditions. In a flat calm they use the oars; with a following breeze they hoist full sail; in a head wind they shorten sail or heave to. Adapt yourself to circumstances in the same way. - Bion of Borysthenes
 ====
+Waiting for perfect conditions is how otherwise intelligent people keep themselves stuck.
+Two entrepreneurs spot the same opportunity. One builds elaborate plans; the other tests crude prototypes. The planner is still planning when the tester sells their company.
+While you wait for perfect conditions, others are creating them.
+====
 “Success is being excited to go to work and being excited to come home.” - Will Ahmed 
 ====
 If you want to get paid, find the contrast.
@@ -3455,6 +3474,8 @@ Self employment is a never-ending contest between the world’s worst manager an
 If you want new ideas, read old books. — Shane Parrish
 ====
 The best books come from someplace inside. You don't write because you want to, but because you have to." - Judy Blume
+====
+“You've got to find what you love. And that is as true for your work as it is for your lovers. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.... Don't settle.” - Steve Jobs
 ====
 I’m thinking of Leonard Nimoy’s spiritual journey from writing I Am Not Spock (1975) to writing I Am Spock (1995). This is a journey we all must make. — Tim Kreider
 ====
