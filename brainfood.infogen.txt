@@ -20,6 +20,8 @@ Two rules to help you be consistent with exercise this year:
 2. You can quit tomorrow.
 Repeat.
 ====
+"What to do with a mistake: recognize it, admit it, learn from it, forget it." - Dean Smith
+====
 Stick to the basics:
 Be reliable.
 Do your job.
@@ -234,6 +236,10 @@ What every human being wants and needs:
 The beginner plays within the boundaries.
 The competent explore the boundaries.
 The master knows when to ignore them.
+====
+What works gets ignored; what fails gets attention.
+====
+Spend time more carefully than money - you only run out of time once.
 ====
 Amateurs have a goal. Professionals have a system.
 ====
@@ -851,6 +857,10 @@ You cannot hope to build a better world without improving the individuals. To th
 ====
 19. Choose optimism. Pessimism is more persuasive than optimism. But optimism in the face of a difficult situation is what motivates people to find a way forward.
 ====
+Optimism is a performance-enhancing drug that's both legal and free.
+While experts predicted failure, Sam Walton opened discount stores in small towns. When critics said 'too risky,' FedEx launched overnight delivery.
+While pessimists write reports, optimists write history.
+====
 20. Follow your energy. If something in your life feels off, listen to your gut. Leave a relationship. Change your career. You can’t always connect the dots forward.
 ====
 21. Listen for the birds. Birds chirp everywhere in the world. But when you’re wrapped up with your inner drama, you won’t hear them. When you’re calm and present, you will. Pursue a life of inner stillness. The birds will let you know when you’re on track.
@@ -1209,6 +1219,8 @@ Choose the thought worth paying attention to. “Allowing all thoughts to be pre
 “There is a time in every man's education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse as his portion; that though the wide universe is full of good, no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given him to till. The power which resides in him is new in nature, and none but he knows what that is which he can do, nor does he know until he has tried." — Emerson, Essay on Self-reliance
 ====
 “Some decisions are consequential and irreversible or nearly irreversible – one-way doors – and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions. But most decisions aren’t like that – they are changeable, reversible – they’re two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.” - Jeff Bezos
+====
+“Thinking small is a self-fulfilling prophecy.” - Jeff Bezos
 ====
 Your blessing in life is when you find the torture you're comfortable with. - J. Seinfeld
 ====
@@ -2060,6 +2072,8 @@ Step 4: Organize, convey, and review.
 
 True genius is the ability to simplify, not complicate. Simple is beautiful.
 ====
+“if I wanted to implement something new into my game, I’d see it and try incorporating it immediately. I wasn’t scared of missing, looking bad, or being embarrassed. That’s because I always kept the end result, the long game, in my mind.” - Kobe Bryant
+====
 The first principle is that you must not fool yourse —and you are the easiest person to fool. — Richard Feynman
 ====
 We are trying to prove ourselves wrong as quickly as possible, because only in that way we can find progress. — Richard Feynman
@@ -2816,6 +2830,13 @@ Velocity is also a metaphor for life. Consider it the rate at which we learn and
 Velocity challenges us to think about what we can do to put ourselves on the right trajectory, to find a balance between mass and speed to move toward our goals. The ability to set a direction, improve your tactics, and adjust to new information becomes paramount.
 Velocity isn’t just about raw speed. Direction matters as much. A car moving at high speed in circles goes nowhere, while a slow, steady walk in a straight line can cross continents.
 Velocity is progress. Sometimes progress comes from adding more force, and sometimes, progress comes from removing friction. Once you have a destination, you can improve your velocity by working harder and eliminating things that aren’t contributing toward reaching that goal.
+====
+Mental Model
+V3 | Systems | Feedback Loops
+Feedback loops are the engines of growth and change. They’re the mechanisms by which the output of a system influences its input.
+Complex systems often have many feedback loops, and it can be hard to appreciate how adjusting to feedback in one part of the system will affect the rest.
+Using feedback loops as a mental model begins with noticing the feedback you give and respond to daily. The model also provides insight into the value of iterations in adjusting based on the feedback you receive. With this lens, you gain insight into where to direct system changes based on feedback and the pace you need to go to monitor the impacts.
+Feedback loops are what make systems dynamic. Without feedback, a system does the same thing over and over. Understand them, respect them, and use them wisely.
 ====
 Mental Model
 V3 | Systems | Churn
