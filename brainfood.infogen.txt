@@ -224,6 +224,10 @@ Being well-positioned enables anyone to come out ahead no matter what obstacles 
 ====
 “Thinking is all about the ability to look at complex situations and strip away things that don't count—the ability to filter out situations and find what's at their core.” — Paraphrasing Douglas Hofstadter
 ====
+You get more of whatever you give attention to.
+====
+A master billiards player approaches the table with dual vision. While amateurs focus solely on pocketing the immediate shot, professionals focus on how the current shot positions them for the next one. This deceptively simple insight—that present moves determine future options—perfectly captures how reputations function in our interconnected world.
+====
 What every human being wants and needs:
 
 1. To be part of something larger than themselves
@@ -1937,6 +1941,8 @@ Book Freak
 Use storytelling to involve your audience
 “The way you deliver a message to them is a cue to how they should react. If you make an argument, you’re implicitly asking them to evaluate your argument—judge it, debate it, criticize it — and then argue back, at least in their minds. But with a story, Denning argues, you engage the audience — you are involving people with the idea, asking them to participate with you.”
 ====
+“When you counsel someone, you should appear to be reminding him of something he had forgotten, not of the light he was unable to see.” - Baltasar Gracián
+====
 https://gurwinder.substack.com/p/40-mind-expanding-concepts-spring
 1. Dysrationalia:
 Just because someone is intelligent, doesn’t mean their intelligence is pursuing intelligent goals. It’s possible to devote a genius-level intelligence to justifying idiotic opinions and behaviors. Tragically, a common fate of intellectuals.
@@ -2152,6 +2158,8 @@ Hypnotize yourself in a positive way: “It is no exaggeration to say that every
 New problems constantly arise — get used to it: “Happiness is a mental habit, a mental attitude, and if it is not learned and practiced in the present it is never experienced. It cannot be made contingent upon solving some external problem. When one problem is solved, another appears to take its place. Life is a series of problems. If you are to be happy at all, you must be happy — period! Not happy ‘because of.’”
 ====
 Learn from errors, don’t dwell on them: “Our errors, mistakes, failures, and sometimes even our humiliations, were necessary steps in the learning process. However, they were meant to be means to an end - and not an end in themselves. When they have served their purpose, they should be forgotten. If we consciously dwell on the error, or consciously feel guilty about the error and keep berating ourselves because of it, then — unwittingly — the error or failure itself becomes the "goal" that is consciously held in imagination and memory.”
+====
+“When it's over, I don't want to wonder if I have made of my life something particular, and real. I don't want to find myself sighing and frightened, or full of argument. I don't want to end up simply having visited this world.” - Mary Oliver
 ====
 7 Powers
 Hamilton Helmer's "7 Powers" is a holy grail of business strategy.
@@ -2660,9 +2668,7 @@ There is no such thing as a quantum leap. There is only dogged persistence – a
 ====
 Keep the goal. Change your mind about how to reach it.
 ====
-Il Fascismo conviene agli italiani perché è nella loro natura e racchiude le loro aspirazioni, esalta i loro odi, rassicura la loro inferiorità. Il fascismo è demagogico ma padronale, retorico, xenofobo, odiatore di cultura, spregiatore della libertà e della giustizia, oppressore dei deboli, servo dei forti, sempre pronto a indicare negli “altri” le cause della sua impotenza o sconfitta. Il fascismo è lirico, gerontofobo, teppista se occorre, stupido sempre, ma alacre, plagiatore, manierista. Non ama la natura, perché identifica la natura nella vita di campagna, cioè nella vita dei servi; ma è cafone, cioè ha le spocchie del servo arricchito. Odia gli animali, non ha senso dell’arte, non ama la solitudine, né rispetta il vicino, il quale d’altronde non rispetta lui. Non ama l’amore, ma il possesso. Non ha senso religioso, ma vede nella religione il baluardo per impedire agli altri l’ascesa al potere. Intimamente crede in Dio, ma come ente col quale ha stabilito un concordato, do ut des.
-È superstizioso, vuole essere libero di fare quel che gli pare, specialmente se a danno o a fastidio degli altri.
-Ennio Flaiano, Don't Forget, 1976
+"There was one of two things I had a right to, liberty, or death; if I could not have one, I would have the other." - Harriet Tubman
 ====
 "It is foolish to think that you have to read all the books you buy, as it is foolish to criticize those who buy more books than they will ever be able to read. It would be like saying that you should use all the cutlery or glasses or screwdrivers or drill bits you bought before buying new ones.
 "There are things in life that we need to always have plenty of supplies, even if we will only use a small portion.
@@ -2877,6 +2883,17 @@ V3 | Systems | Bottlenecks
 Bottlenecks are the choke points, the narrow parts of the hourglass where everything slows down. They’re the constraints that limit the flow, the weakest links in the chain that determine the strength of the whole. In any system, the bottleneck is the part holding everything else back.
 The tricky thing about bottlenecks is that they’re not always obvious. It’s easy to focus on the parts of the system that are moving quickly and assume everything is fine. But the real leverage is in finding and fixing the bottlenecks. Speed up the slowest part, and you speed up the whole system. This is the theory of constraints in a nutshell. Figure out your bottleneck and focus all your efforts on alleviating it. Don’t waste time optimizing the parts that are already fast. They’re not the limiting factor. However, bottlenecks aren’t always the villains we make them out to be. Sometimes, they’re a necessary part of the system. Think of a security checkpoint at an airport. It slows everything down, but it’s there for a reason. Remove it, and you might speed things up, but at the cost of safety.
 The key is to be intentional about your bottlenecks. Choose them wisely and make sure they serve a purpose. A deliberate bottleneck can be a powerful tool for focusing effort and maintaining quality, while an accidental bottleneck is just a drag on the system. Bottlenecks are the leverage points where a little effort can go a long way.
+====
+Mental Model
+V4 | Economics | Interdependence
+
+Interdependence is the web that ties us all together. It’s the recognition that no person, no company, no country is an island. We’re all connected, all reliant on one another in countless ways, big and small. Interdependence is the reality that underlies the illusion of self-sufficiency. No one is entirely self-made.
+
+Interdependence can be both a vulnerability and a strength. When we recognize our interdependencies, we can leverage them for mutual benefit. We can form alliances, partnerships, and ecosystems. We can create value that no single entity could create alone.
+
+Interdependence is the foundation of synergy, the alchemy of the whole being greater than the sum of its parts. On the other hand, if we depend on others for something critical, it can expose us if they fail to deliver or change their minds. It’s easy to be a good partner when things are going well. But you want to be careful with whom you depend in a crisis.
+
+Interdependence isn’t just a macro concept. It’s deeply personal. We’re all interdependent with our families, our friends, our communities. We rely on one another for support, for love, for meaning. Interdependence is the fabric of our social lives.
 ====
 Mental Model
 V4 | Art | Audience
@@ -3531,6 +3548,10 @@ At the moment of truth, there are either reasons or results. - Chuck Yeager
 Ten people who yell make more noise than ten thousand who keep silent. - Napoleon
 ====
 "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+====
+Il Fascismo conviene agli italiani perché è nella loro natura e racchiude le loro aspirazioni, esalta i loro odi, rassicura la loro inferiorità. Il fascismo è demagogico ma padronale, retorico, xenofobo, odiatore di cultura, spregiatore della libertà e della giustizia, oppressore dei deboli, servo dei forti, sempre pronto a indicare negli “altri” le cause della sua impotenza o sconfitta. Il fascismo è lirico, gerontofobo, teppista se occorre, stupido sempre, ma alacre, plagiatore, manierista. Non ama la natura, perché identifica la natura nella vita di campagna, cioè nella vita dei servi; ma è cafone, cioè ha le spocchie del servo arricchito. Odia gli animali, non ha senso dell’arte, non ama la solitudine, né rispetta il vicino, il quale d’altronde non rispetta lui. Non ama l’amore, ma il possesso. Non ha senso religioso, ma vede nella religione il baluardo per impedire agli altri l’ascesa al potere. Intimamente crede in Dio, ma come ente col quale ha stabilito un concordato, do ut des.
+È superstizioso, vuole essere libero di fare quel che gli pare, specialmente se a danno o a fastidio degli altri.
+Ennio Flaiano, Don't Forget, 1976
 ====
 "Saper ascoltare significa possedere, oltre al proprio, il cervello degli altri." - Leonardo
 ====
