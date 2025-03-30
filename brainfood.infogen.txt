@@ -64,6 +64,8 @@ The greats don't wait. Every major innovation started with someone doing somethi
 But here's the key: Start small and learn fast. Your first move doesn't need to be perfect; it just needs to teach you something. Focus more on the next small step that moves you closer to the goal.
 Motion creates momentum, and momentum reveals opportunities that standing still never could.
 ====
+A focused hour outweighs an unfocused day.
+====
 The courage to start.
 The discipline to focus.
 The confidence to figure it out.
@@ -140,6 +142,8 @@ The thing that’s wrong about imposter syndrome is that for the most part no on
 Find canvases for other people to paint on. Come up with ideas to hand over to your boss. Find people, thinkers, up and comers to introduce them to. Cross wires to create new sparks. Find what nobody else wants to do and do it. Find inefficiency and waste and redundancies. Identify leaks and patches to free up resources for new areas. Produce more than everyone else and give your ideas away. The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.
 ====
 If you want new ideas, read old books.
+====
+Great ideas often look wrong at first; that's why the independent-minded discover them.
 ====
 "All good ideas start out as bad ideas; that’s why it takes so long." - Steven Spielberg
 ====
@@ -289,9 +293,10 @@ Amateurs have a goal. Professionals have a system.
 ====
 “Many of life’s failures are people who didn’t realize how close they were to success when they gave up.” - Thomas Edison on perseverance
 ====
-<<<<<<< HEAD
+Progress doesn't come from revolutionary leaps but from the patient accumulation of small, earned advances.
+====
 "Your failures are your accomplishments because it makes you prepared for whatever it is that you are going to do next." - Lee Daniels
-=======
+====
 Your best relationships aren't just connections - they're multipliers that improve everything in your life. Yet, we often exhaust ourselves trying to save difficult relationships while neglecting the good ones.
 Think of relationships like a garden: some plants naturally thrive and help everything around them grow, while others struggle despite constant care. Every hour spent on a toxic connection is stolen from relationships with real potential.
 Stop trying to save what's dying. Find what's thriving and help it flourish.
@@ -2121,7 +2126,9 @@ The first principle is that you must not fool yourse —and you are the easiest 
 ====
 We are trying to prove ourselves wrong as quickly as possible, because only in that way we can find progress. — Richard Feynman
 ====
-“Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn’t matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don’t think about what you want to be, but what you want to do.” — Richard Feynman, The Feynman Lectures on Physics
+“Fall in love with some activity, and do it! Nobody ever figures out what life is all about, and it doesn’t matter. Explore the world. Nearly everything is really interesting if you go into it deeply enough. Work as hard and as much as you want to on the things you like to do the best. Don’t think about what you want to be, but what you want to do. Keep up some kind of a minimum with other things so that society doesn’t stop you from doing anything at all.” — Richard Feynman, The Feynman Lectures on Physics
+====
+We are never definitely right; we can only be sure we are definitely wrong. — Richard Feynman
 ====
 “You are under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.” — Richard Feynman
 ====
@@ -2322,6 +2329,8 @@ Ambiguity in a world of endless distraction distractions urges us to live faster
 Nothing is more peaceful than having no interest in a anyon — popular statement seen online
 ====
 While the first read seems to indicate a desire to justify, perhaps even appreciate solitude rather than seek attention and romance, I hear something broader. Especially when replacing the term ‘anyone’ with ‘something’. I’m rarely at peace with rejecting something or someone, even when I have truly no interest. Saying no allows peace to be kept and judgment surrendered, ideally on both sides. 
+====
+“Conversation enriches the understanding but solitude is the school of genius.” - Edward Gibbon
 ====
 How are we going to get to get back up?… That’s a problem for a later-m — dad of 3 met at the bottom of a tall dune
 ====
@@ -2784,7 +2793,6 @@ In many areas of life, we are offered maps by other people. We are reliant on th
 Ultimately, the map/territory distinction is an invitation to engage with the world as it is, not just as we imagine it to be. And remember, when you don’t make the map yourself, choose your cartographer wisely."
 ====
 Mental Model
-<<<<<<< HEAD
 V1 | General Thinking Tools | Probabilistic Thinking
 Probabilistic thinking is the art of navigating uncertainty. Success- fully thinking in shades of probability means roughly identifying what matters, coming up with a sense of the odds, checking our assumptions, and then deciding.
 The challenge of probabilistic thinking is that it requires constant updating. As new information emerges, the probabilities change. What seemed likely yesterday may seem unlikely today. This explains why probabilistic thinkers always revise their beliefs with new data and why it’s uncomfortable for many people.
@@ -3550,6 +3558,8 @@ One can have no smaller or greater mastery than mastery of oneself; you will nev
 ====
 To free us from the expectations of others, to give us back to ourselves—there lies the great, the singular power of self-respect. - Joan Didion
 ====
+“I’m not telling you to make the world better, because I don’t think that progress is necessarily part of the package. I’m just telling you to live in it. Not just to endure it, not just to suffer it, not just to pass through it, but to live in it. To look at it. To try to get the picture. To live recklessly. To take chances. To make your own work and take pride in it. To seize the moment. And if you ask me why you should bother to do that, I could tell you that the grave’s a fine and private place, but none I think do there embrace. Nor do they sing there, or write, or argue, or see the tidal bore on the Amazon, or touch their children. And that’s what there is to do and get it while you can and good luck at it.” - Joan Didion
+====
 The art of not reading is a very important one. It consists in not taking an interest in whatever may be engaging the attention of the general public at any particular time. When some political or ecclesiastical pamphlet, or novel, or poem is making a great commotion, you should remember that he who writes for fools always finds a large public. A precondition for reading good books is not reading bad ones: for life is short. - Schopenhauer
 ====
 The world is a museum of other people’s passion projects. — John Collison
@@ -3563,8 +3573,6 @@ The cause of death is birth. — David Hockney
 When dreaming, imagine success. When preparing, imagine failure. — James Clear
 ====
 Today is the worst AI will ever be. — Alex Irpan
-====
-We are never definitely right; we can only be sure we are definitely wrong. — Richard Feynman
 ====
 The things you do badly are as much part of your style as the things you do well. — Martin Scorsese
 ====
