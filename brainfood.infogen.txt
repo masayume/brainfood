@@ -66,11 +66,17 @@ Motion creates momentum, and momentum reveals opportunities that standing still 
 ====
 A focused hour outweighs an unfocused day.
 ====
+Discipline is cheaper than regret.
+====
+The loudest signals come from the emptiest sources. Those who truly possess something rarely need to announce it.
+====
 The courage to start.
 The discipline to focus.
 The confidence to figure it out.
 The patience to know progress is not always visible.
 The persistence to keep going, even on the bad days.
+====
+“'I don’t have enough time' is not a useful phrase when it comes to anything related to your dream. It’s okay to actively choose to do something or not, but don’t blame time.” - Alexi Pappas
 ====
 “It can be hard to appreciate just how much the world will give you what you want after you stop waiting for it to give you what you deserve.
 Stop waiting for the world to recognize your potential; start giving the world something positive. Don't wait for a friend's apology; reach out and reconnect. Instead of waiting for the perfect partner, become that partner. Rather than waiting for motivation to exercise, start small and build momentum. Don't complain about something; change it.
@@ -782,6 +788,8 @@ You should just be yourself, not because it will make you more likable (it won�
 ====
 Never argue with stupid people. It's easier to win an argument with a genius than an idiot.
 ====
+Those who fear appearing foolish rarely discover anything new. The genius of tomorrow often looks like an idiot today.
+====
 If you can’t state the opposing view as well as the people who hold it, you shouldn’t feel entitled to your own view.
 ====
 Don’t believe everything you think. The voice in your head is not you, and it’s not honest.
@@ -1232,6 +1240,8 @@ Nine sources of advantage:
 - Ability to take pain - Are you willing to look like an idiot to get better? How much risk are you willing to take, AND, importantly, can you handle the losses?
 - Temperament - Keeping your head when everyone else is losing theirs.
 - Luck
+====
+“If you're busy showing off your brains, you're probably not listening closely enough, thinking hard enough or reaching the smartest conclusions.” - Strauss Zelnick
 ====
 Dysrationalia: Just because someone is intelligent, doesn’t mean their intelligence is pursuing intelligent goals. Many genius-level intellects are put into the service of idiotic delusions.
 ====
@@ -3485,6 +3495,8 @@ The most important lessons here — especially for young people — is that even
 ====
 Most people quit before they reach their best work.
 Excellence lives in doing a bit more than others.
+====
+“What I know for certain is that the conclusions I would draw from experience are different from the ones based only on figures. Because if Lionel Messi scores three times out of every ten attempts, he might be criticized by someone who sees only the statistics for being just 30 per cent effective. I’d say: just copy him and see if you can get up to that level. It’s practically impossible.” - Johan Cruyff
 ====
 The meaning you give work determines its difficulty.
 A coder working on a passion project works 12 hours straight and calls it energizing. That same programmer, doing maintenance on legacy code they consider meaningless, feels exhausted after 2 hours.
