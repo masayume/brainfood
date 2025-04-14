@@ -90,6 +90,8 @@ If you want to change your behavior, change your narrative. If you want to chang
 ====
 “Think of these levels as reading to entertain, reading to inform, reading to understand, and reading to master. When you learned to read in elementary school, you were taught to read for entertainment. If you made it to high school and college, you learned to read to inform. This is where most people stop. But most of the value comes at the last two levels.”
 ====
+“There is only one way to read, which is to browse in libraries and bookshops, picking up books that attract you, reading only those, dropping them when they bore you, skipping the parts that drag – and never, never reading anything because you feel you ought, or because it is part of a trend or a movement. Remember that the book which bores you when you are twenty or thirty will open doors for you when you are forty or fifty-and vise versa. Don’t read a book out of its right time for you.” - Doris Lessing 
+====
 Competence is often less of a problem than confidence.
 An underrated aspect of doing anything hard is believing in yourself. Action creates both confidence and momentum.
 When action seems hard, narrow the gap between where you are and what you focus on.
@@ -298,6 +300,8 @@ Amateurs have a goal. Professionals have a system.
 “In every life there is a moment—an event or a realization-that changes that life irrevocably. If the change is to be a happy one, one must be able to recognize the moment and seize it without delay. Rose Kennedy once told me that good luck is something you make and bad luck is something you endure, a very wise observation indeed. People do make their luck by daring to follow their instincts, taking risks, and embracing every possibility.”
 ====
 “Many of life’s failures are people who didn’t realize how close they were to success when they gave up.” - Thomas Edison on perseverance
+====
+A Taste for Saltwater: Most people mistake discomfort as a signal to stop; the great ones see it as evidence they’re on the right track. Excellence is just pain tolerance disguised as genius. The real advantage isn’t talent but cultivating a perverse appreciation for the discomfort others instinctively avoid.
 ====
 Progress doesn't come from revolutionary leaps but from the patient accumulation of small, earned advances.
 ====
@@ -1172,6 +1176,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 ====
 “Happiness is that feeling you get right before you need more happiness” – Don Draper
 ====
+“A man is a gregarious animal, and much more so in his mind than in his body. He may like to go alone for a walk, but he hates to stand alone in his opinions.” - George Santayana
+====
 “Jokes of the proper kind, properly told, can do more to enlighten questions of politics, philosophy, and literature than any number of dull arguments.” – Isaac Asimov
 ====
 “Inherited wealth is as certain a death to ambition as cocaine is to morality.” – William Vanderbilt
@@ -1191,6 +1197,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 “More information is just a form of procrastination.” – Russ Roberts
 ====
 “Injuries done to us by others tend to be acute; the self-inflicted ones tend to be chronic.” – Nassim Taleb
+====
+"Study nature, love nature, stay close to nature. It will never fail you." - Frank Lloyd Wright
 ====
 It takes inordinate courage to introspect, to confront oneself, to accept one’s limitations—scientists are seeing more and more evidence that we are specifically designed by mother nature to fool ourselves. – Nassim Taleb
 ====
@@ -1270,6 +1278,8 @@ Choose the thought worth paying attention to. “Allowing all thoughts to be pre
 “There is a time in every man's education when he arrives at the conviction that envy is ignorance; that imitation is suicide; that he must take himself for better, for worse as his portion; that though the wide universe is full of good, no kernel of nourishing corn can come to him but through his toil bestowed on that plot of ground which is given him to till. The power which resides in him is new in nature, and none but he knows what that is which he can do, nor does he know until he has tried." — Emerson, Essay on Self-reliance
 ====
 “Some decisions are consequential and irreversible or nearly irreversible – one-way doors – and these decisions must be made methodically, carefully, slowly, with great deliberation and consultation. If you walk through and don’t like what you see on the other side, you can’t get back to where you were before. We can call these Type 1 decisions. But most decisions aren’t like that – they are changeable, reversible – they’re two-way doors. If you’ve made a suboptimal Type 2 decision, you don’t have to live with the consequences for that long. You can reopen the door and go back through. Type 2 decisions can and should be made quickly by high judgment individuals or small groups.” - Jeff Bezos
+====
+“The most important thing is to stay focused on what matters. Most little things ultimately have no effect on an enterprise. It's the big deals - and the big decisions that do. Don't spend too much time on little things. The important choices and opportunities are the ones that move the dial.” - Larry Tisch
 ====
 “Thinking small is a self-fulfilling prophecy.” - Jeff Bezos
 ====
@@ -2602,6 +2612,8 @@ The part can never be well unless the whole is well. — Plato
 ====
 It's easy to fall for incremetnal gain but leave the root cause be. The bigness argument always surface. Sometimes allegedly. Often as rejection of the true origin, or worse, intelectual dishonesty. 
 ====
+Rejection isn’t a verdict; it’s data. Use it.
+====
 He who jumps into the void owes no explanation to those who stand and watch. — Jean-Luc Godard
 ====
 Being different is okay. Knowing that difference and not allowing alienation is recommended. 
@@ -3621,6 +3633,8 @@ This present moment was once the unimaginable future — Stewart Brand
 "Man does not suffer so much from poverty today as he suffers from the fact that he has become a cog in a large machine, an automaton, that his life has become empty and lost its meaning." ― Erich Fromm, Escape from Freedom
 ====
 "One cannot grow fine flowers in a thin soil." - Virginia Woolf
+====
+"Those who dwell among the beauties and mysteries of the earth are never alone or weary of life." - Rachel Carson
 ====
 "Snatching the eternal out of the desperately fleeting is the great magic trick of human existence." - Tennessee Williams
 ====
