@@ -1243,7 +1243,9 @@ It takes inordinate courage to introspect, to confront oneself, to accept one’
 ====
 “Nothing in life is as important as you think it is when you are thinking about it.” – Kahneman
 ====
-“The way to be safe is to never be secure.” – Ben Franklin
+“The way to be safe is to never be secure.” – Benjamin Franklin
+====
+"Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety." - Benjamin Franklin
 ====
 “If we can’t laugh at something, we can’t think rationally about it.” – Clay Johnson
 ====
@@ -1626,6 +1628,10 @@ Founder’s Syndrome: When a CEO is so emotionally invested in a company that th
 In-Group Favoritism: Giving preference to people from your social group regardless of their objective qualifications.
 ====
 Bounded Rationality: People can’t be fully rational because your brain is a hormone machine, not an Excel spreadsheet.
+====
+Rationality requires a dialogue between heart and mind, blending analysis and intuition to chart a course through complexity.
+Analytical types are prone to underestimate the importance of intuition, and creative types, the importance of rigorous analysis.
+Both intuition and analysis are powerful tools with complementary strengths and weaknesses. It disadvantages you if you mainly rely on just one.
 ====
 Luxury Paradox: The more expensive something is the less likely you are to use it, so the relationship between price and utility is an inverted U. Ferraris sit in garages; Hondas get driven.
 ====
@@ -3207,6 +3213,8 @@ Work hard in silence. Let success be your noise - Frank Ocean
 You cannot fear something that you don't know. Nobody is afraid of the unknown. What you really fear is the loss of the known. That's what you fear. - J. Francis Stroud
 ====
 I never feared about my skills because I put in the work. Work ethic eliminates fear. So you if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
+====
+"The good and the great are only separated by the willingness to sacrifice." - Kareem Abdul-Jabbar
 ====
 "It is better to look ahead and prepare than to look back and regret." - Jackie Joyner-Kersee
 ====
