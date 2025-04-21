@@ -147,6 +147,8 @@ science - Use the Baloney Detection Kit
 “In the course of their training, scientists are equipped with a baloney detection kit. The kit is brought out as a matter of course whenever new ideas are offered for consideration. If the new idea survives examination by the tools in our kit, we grant it warm, although tentative, acceptance. If you're so inclined, if you don't want to buy baloney even when it's reassuring to do so, there are precautions that can be taken; there's a tried-and-true, consumer-tested method.
 “What's in the kit? Tools for skeptical thinking. - Carl Sagan, The Demon-Haunted World 
 ====
+Consider again that dot. That's here, that's home, that's us. On it everyone you love, everyone you know, everyone you ever heard of, every human being who ever was, lived out their lives ... on a mote of dust suspended in a sunbeam. - Carl Sagan
+====
 Question Authority
 "One of the great commandments of science is, 'Mistrust arguments from authority.’ (Scientists, being primates, and thus given to dominance hierarchies, of course do not always follow this commandment.) Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else. This independence of science, its occasional unwillingness to accept conventional wisdom, makes it dangerous to doctrines less self-critical, or with pretensions to certitude. - Carl Sagan, The Demon-Haunted World
 ====
@@ -534,6 +536,8 @@ Action reduces fear.
 The price you pay for doing what everyone else does is getting what everyone else gets.
 ====
 “A problem well-stated is a problem half-solved.” - Charles Kettering, Former Head Of Innovation, GM
+====
+"Courage is resistance to fear, mastery of fear — not absence of fear." - Mark Twain
 ====
 “It is not what you don't know that gets you into trouble. It is what you know for certain that just ain't so.” - Mark Twain
 ====
@@ -1491,6 +1495,8 @@ False-Consensus Effect: Overestimating how widely held your own beliefs are, cau
 ====
 Boomerang Effect: Trying to persuade someone to do one thing can make them more likely to do the opposite, because the act of persuasion can feel like someone stealing your freedom and doing the opposite makes you feel like you’re taking your freedom back.
 ====
+"Personal experience" can be a potent tool of persuasion. The listener gave considerably higher attention if they knew that the person had personal experience of the issue at hand.
+====
 Chronological Snobbery: “The assumption that whatever has gone out of date is on that account discredited. You must find why it went out of date. Was it ever refuted (and if so by whom, where, and how conclusively) or did it merely die away as fashions do? If the latter, this tells us nothing about its truth or falsehood. From seeing this, one passes to the realization that our own age is also ‘a period,’ and certainly has, like all periods, its own characteristic illusions.” – C.S. Lewis
 ====
 Planck’s Principle: “A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it.”
@@ -1853,6 +1859,8 @@ We all know how biased journalists can be, but even those who attempt to be obje
 ====
 29. Popper’s Falsifiability Principle:
 For a theory to be considered scientific, it must be possible to disprove or refute it. As such, for each of your beliefs you should have a clear idea of what would persuade you you're wrong, otherwise your belief is immune to reason.
+====
+"The growth of knowledge depends entirely upon disagreement" - Karl Popper
 ====
 [Gurwinder][2]https://gurwinder.substack.com/p/40-useful-concepts-you-should-know?utm_source=substack&utm_medium=email
 1. Baader-Meinhof Phenomenon:
