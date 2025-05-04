@@ -68,6 +68,8 @@ Motion creates momentum, and momentum reveals opportunities that standing still 
 ====
 A focused hour outweighs an unfocused day.
 ====
+The most valuable skill isn't inspiration but the ability to work without it.
+====
 Discipline is cheaper than regret.
 ====
 The loudest signals come from the emptiest sources. Those who truly possess something rarely need to announce it.
@@ -134,6 +136,9 @@ Stop fighting your nature. Start winning with it. You're born with certain core 
 I think it's generally human nature to over-estimate risk and under-estimate opportunity. ... The risks are probably not as big as you perceive and the opportunities may be bigger than you percieve. - Jeff Bezos
 ====
 “The anditode to doom is curiosity.” - Ezra Klein
+====
+What you find interesting is a better predictor of success than what you're good at.
+Curiosity isn't random; it's a compass.
 ====
 Work becomes great when curiosity drives it beyond obligation.
 ====
@@ -425,6 +430,8 @@ https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
 The Munger Two-Step filter for effective decisions
 A simple and easy approach to decision-making that prevents us from manipulating ourselves. First, understand the forces at play. Then, understand how your subconscious might be leading you astray: https://fs.blog/munger-two-step/
 ====
+“One reason the best in the world make consistently good decisions is they rarely find themselves forced into a decision by circumstances.”
+====
 The quicker you want something, the easier it is to manipulate you.
 ====
 It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.” — Charlie Munger
@@ -680,6 +687,8 @@ If your reasoning is correct, you have nothing to fear. If it's wrong, you have 
 "If an opinion contrary to your own makes you angry, that is a sign that you are subconsciously aware of having no good reason for thinking as you do. If some one maintains that two and two are five, or that Iceland is on the equator, you feel pity rather than anger, unless you know so little of arithmetic or geography that his opinion shakes your own contrary conviction. The most savage controversies are those about matters as to which there is no good evidence either way."
 ====
 "Asking for help is a superpower anyone can have but only some people use. It is brave to ask for help. Asking for help is the first step toward finding a mentor. Mentors can help us change our lives if we let them." — Alexi Pappas
+====
+“We go through life thinking everyone else has it better than us until we grow up and realize we’re all in our own tiny boats of self-doubt and second-guessing.” — Alexi Pappas
 ====
 “Trust your obsessions. This is one I learned more or less accidentally. People sometimes ask whether the research or the idea for the story comes first for me. And I tell them, normally the first thing that turns up is the obsession: for example, all of a sudden I notice that I’m reading nothing but English 17th century metaphysical verse. And I know it’ll show up somewhere—whether I’ll name a character after one of those poets, or use that time period, or use the poetry, I have no idea. But I know one day it’ll be there waiting for me. You don’t always use your obsessions. Sometimes you stick them onto the compost heap in the back of your head, where the rot down, and attach to other things, and get half-forgotten, and will, one day, turn into something completely usable. Go where your obsessions take you. ... Your obsessions may not always take you to commercial places, or apparently commercial places. But trust them.” — Neil Gaiman
 ====
@@ -3098,6 +3107,8 @@ The movement provides them with a sense of identity and purpose they lack as ind
 “No one ever made a decision because of a number. They need a story.” — Daniel Kahneman
 ====
 “The most powerful person in the world is the storyteller. The storyteller sets the vision, values and agenda of an entire generation that is to come.” — Steve Jobs
+====
+“I've never found in my whole life that you could convince someone who doesn't want to work hard to work hard.” — Steve Jobs
 ====
 “The best way to think is to write.”
 ====
