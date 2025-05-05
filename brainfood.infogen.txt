@@ -405,24 +405,6 @@ Darryn Kruse, a campus principal and teacher, created a slightly different versi
 - Expand on other’s ideas
 https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
 ====
-CAMPER questions for critical thinking
-This set of questions can be used when consuming content to practice critical thinking and to think better.
-
-Consequences: What are the consequences of believing this?
-Consistency: How consistent is the information?
-Assumptions: What assumptions have been made here?
-Accuracy: How accurate is the data or information?
-Meaning: What is the meaning of this?
-Main Points: What are the main points?
-Prejudice: What prejudice is being shown here?
-Point of View: What other points of view could be expressed?
-Evidence: What evidence is there to support the position or claims?
-Examples: What examples are there to back-up the position or claims?
-Relevance: How relevant is the position or claims?
-Reliability: How reliable is the information, writer or source?
-
-https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
-====
 Five Whys
 Five Whys is an iterative interrogative technique. By repeating the question “why?” five times in a row, the technique is used to explore the cause-and-effect relationships underlying a particular problem, with the primary goal of the technique is to determine the root cause of a problem.
 
@@ -1375,6 +1357,9 @@ Examples: What examples are there to back-up the position or claims?
 Relevance: How relevant is the position or claims?
 Reliability: How reliable is the information, writer or source?
 These are particularly helpful when you instinctively agree or disagree with a piece of information, as it may be a sign of subjective thinking.
+https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
+====
+"The air is the only place free from prejudice." - Bessie Coleman
 ====
 4. Five Whys
 Five Whys is an iterative interrogative technique. By repeating the question “why?” five times in a row, the technique is used to explore the cause-and-effect relationships underlying a particular problem, with the primary goal of the technique is to determine the root cause of a problem.
@@ -1583,6 +1568,8 @@ Self-Handicapping: Avoiding effort because you don’t want to deal with the emo
 Hanlon’s Razor: “Never attribute to malice that which can be adequately explained by stupidity.”
 ====
 False Uniqueness Effect: Assuming your skills are unique when they’re not. Comes from conflating “I’m good at this” with “Others are bad at this.”
+====
+The Wadsworth Constant says that you can safely skip the first 30% of anything you see online. It was meant for YouTube videos, but it applies just as well to writing. Somehow, whenever I finish a draft, my first few paragraphs almost always contain ideas that were necessary for writing the rest of the piece, but that aren’t necessary for understanding it. It’s like I’m giving someone a tour of my hometown and I start by showing them all the dead ends. - Adam Mastroianni
 ====
 Hard-Easy Effect: Hard tasks promote overconfidence because the rewards are high and fun to dream about; easy tasks promote underconfidence because they’re boring and easy to put off.
 ====
