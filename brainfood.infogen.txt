@@ -59,6 +59,10 @@ Your response is a choice.
 The people you hang around are a choice.
 Changing your trajectory is a choice.
 ====
+The most selfish act of all is kindness, because it's payback is so much greater than the investment. — Tom Peters
+====
+The illiterate of the 21st century will be those who cannot learn, unlearn, and relearn. — Alvin Toffler
+====
 “We want the outcome, but we need the journey.
 Falling in love with outcomes doesn't move you forward. Falling in love with the process does.”
 ====
@@ -171,7 +175,7 @@ The thing that’s wrong about imposter syndrome is that for the most part no on
 ====
 Find canvases for other people to paint on. Come up with ideas to hand over to your boss. Find people, thinkers, up and comers to introduce them to. Cross wires to create new sparks. Find what nobody else wants to do and do it. Find inefficiency and waste and redundancies. Identify leaks and patches to free up resources for new areas. Produce more than everyone else and give your ideas away. The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.
 ====
-If you want new ideas, read old books.
+If you want new ideas, read old books. - Shane Parrish
 ====
 Great ideas often look wrong at first; that's why the independent-minded discover them.
 ====
@@ -234,6 +238,8 @@ Peter Thiel: “Competition is for losers.” I loved this the second I heard it
 There is a story about the manager of Iron Maiden, one of the greatest metal bands of all time. At a dinner honoring the band, a young agent comes up to him and says how much he admires his skillful work in the music business. The manager looks at him and says, “HA! You think I am in the music business? No. I’m in the Iron fucking Maiden business.” The idea being that you want to be in the business of YOU. Not of your respective industry. Not of the critics. Not of the fads and trends and what everyone else is doing.
 ====
 If you can afford to, delegate it. If you can’t yet afford to, automate it. Time is the most precious resource.
+====
+Time exists in order that everything doesn't happen all at once… and space exists so that it doesn't all happen to you. — Susan Sontag
 ====
 The best coaches and CEOs aren’t the ones who succeed just on the field or in the boardroom. The true greats are measured by their coaching tree—what the people who worked for them, who they mentored, who they inspired go on to do.
 ====
@@ -2553,7 +2559,11 @@ The stronger a theory is, the easier it is in principle to find that it is false
 ====
 I'm not the sharpest tool in the shed – so this is a healthy reminder to not fall for overly simplistic explanations often supported by Einstein words: if you can't explain something simply you don't know it well enough. Reality is messy and has granularity that isn't easy to grasp. 
 ====
+Everything that needs to be said has already been said. But since no one was listening, everything must be said again. — André Gid
+====
 "The important thing is not to stop questioning." - Albert Einstein
+====
+To understand recursion, one must first understand recursion. — Stephen Hawking
 ====
 Communication is limited by perspective. — Andrei Tarkovsky
 ====
@@ -2628,6 +2638,8 @@ Wisdom lies in correctly discerning where we are free to mold reality to our des
 Human have clearly overstepped the boundaries of what stoic would have called reasonalble. Nature is not here to please us and we should not always bend it to our desires. Don't build a house at the feet of volcano. 
 ====
 Democracy has no capability to prevent its development towards totalitarism when resources become scarce. — Lasse Norlund
+====
+Scarcity is the one thing you can never have enough of. — Marc Randolph
 ====
 The concept of post scarcity annoys me as it feels so detached from reality. There is too many things not working in our current system to be that delusional. We all need food, water and shelter. The condition for widespread access to this is a precarious balance. 
 ====
