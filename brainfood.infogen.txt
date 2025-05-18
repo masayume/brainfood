@@ -150,6 +150,8 @@ Boredom invites trouble.
 ====
 Accept paradox.
 ====
+Strength isn't measured by victories, but by the caliber of challenges you're willing to face.
+====
 "We need to redefine "problems" into opportunities.
 Problems are an opportunity to create value.
 Problems are an opportunity to strengthen relationships.
@@ -282,6 +284,8 @@ Having now been in pro locker rooms and boardrooms and briefing rooms with speci
 I think of creativity as a game of catch between your analytic mind and subconscious. - Spencer Greenberg
 ====
 "An essential aspect of creativity is not being afraid to fail." - Edwin H. Land
+====
+The greater the distance between two ideas, the more original and surprising their combination tends to be. - Yoed Kenett
 ====
 If it makes you a worse person (parent, neighbor, writer, whatever), it’s not success. If starting a business stresses you out, if it tears your relationships apart, if it makes you bitter or frustrated with people—then it doesn’t matter how much money it makes or external praise it receives. It’s not successful.
 ====
@@ -645,6 +649,8 @@ The more you pursue happiness, the less likely you are to obtain it, because the
 “Happiness is like a butterfly, the more you chase it, the more it will evade you, but if you notice the other things around you, it will gently come and sit on your shoulder.”
 ― Henry David Thoreau
 ====
+“Simplify, simplify, simplify!” - Henry David Thoreau on the hard part
+====
 17. Balaji's Transformer
 Have a written idea? Draw it. Have a visual idea? Write it. Reformatting an idea lets you see it from a new perspective. Walt Disney turned a dull business plan into a diagram, revealing new connections and opening new pathways of thought.
 ====
@@ -908,6 +914,8 @@ It is important to admit your mistakes, and to do so before you are charged with
 There is a big difference between being interested in something and being committed to something. Committed people do what interested people won’t.
 ====
 Respect others. Clementine Churchill once left a note for her husband. “My Darling Winston,” she wrote, “I must confess that I have noticed a deterioration in your manner; & you are not so kind as you used to be.” Yes, he had power, she noted, but if you keep disrespecting people, “You won’t get the best results.” The way you treat others sets off a chain reaction that shapes your life in profound ways. Disrespect, rudeness, pettiness, jealousy—these things repel. But dignity, equanimity, politeness, calm—they attract. They draw people in. They bring the best out of others. Choose wisely.
+====
+True generosity whispers in private, far from applauding crowds.
 ====
 Give, give, give. When Rabbi Harold Kushner wrote a book, he avoided procrastination and overthinking. His only ritual before starting was to make a small donation to a charity he and his wife supported. Like ancient sacrifices to gods before battle, the rabbi waged the war of art by first striking with an act of kindness. Generosity is admirable, and many of us wish we could be better at it. There’s only one way to improve, and it happens to be the same way one gets better at writing or any other craft: by doing it. Not later, once we’re better off or once somebody really needs it. But consistently, regularly, habitually. Money is not the only currency of generosity. You can give your time, your energy, your words of encouragement, your patience, your kindness. Seneca reminds us that every person we meet is an opportunity for kindness. For expressions of generosity. How are you doing? Do you need anything? Can I help you with that? These opportunities are everywhere, every day. Start to seize them. Make a habit of it.
 ====
@@ -1384,6 +1392,14 @@ Reliability: How reliable is the information, writer or source?
 These are particularly helpful when you instinctively agree or disagree with a piece of information, as it may be a sign of subjective thinking.
 https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
 ====
+“Many people think they are thinking when they are merely rearranging their prejudices.” - William Fitzjames Oldham
+====
+Your mindset is either your launchpad or hamster wheel. 
+If you feel stuck, question the roof. 
+Break it. Replace it.
+Or upgrade it.
+====
+
 "The air is the only place free from prejudice." - Bessie Coleman
 ====
 4. Five Whys
@@ -1751,6 +1767,8 @@ Action creates progress. Progress creates momentum. Momentum creates motivation.
 ====
 The difference between open and closed-minded people:
 Over time, the person who approaches life with an openness to being wrong and a willingness to learn outperforms the person who doesn’t: https://fs.blog/open-closed-minded/
+====
+Being wrong isn't something to fear but rather something to expect.
 ====
 “One sign that determination matters more than talent: there are lots of talented people who never achieve anything, but not that many determined people who don't.”
 — Paul Graham
@@ -2569,6 +2587,8 @@ Living the first moments with my own child made me quickly reflect on my relentl
 ====
 For all its material advantages, the sedentary life has left us edgy, unfulfilled. Even after 400 generations in villages and cities, we haven’t forgotten. The open road still softly calls, like a nearly forgotten song of childhood. — Carl Sagan
 ====
+“Man is condemned to be free; because once thrown into the world, he is responsible for everything he does.” — Jean-Paul Sartre
+====
 Courage, not cleverness, not even inspiration, is the grain of mustard that grows up to be a great tree - Wittgenstein
 ====
 "We make our world significant by the courage of our questions and by the depth of our answers." - Carl Sagan
@@ -2678,6 +2698,10 @@ Scarcity is the one thing you can never have enough of. — Marc Randolph
 The concept of post scarcity annoys me as it feels so detached from reality. There is too many things not working in our current system to be that delusional. We all need food, water and shelter. The condition for widespread access to this is a precarious balance. 
 ====
 Nature does not hurry, yet everything is accomplished. — Lao Tzu
+
+Adopt the pace of nature: her secret is patience. - Ralph Waldo Emerson.
+====
+“If you never change your mind, why have one?” - Edward de Bono
 ====
 Gardening taught me something beyond patience. An acknowledgment of the perfection i  
 ====
@@ -3302,6 +3326,8 @@ I never feared about my skills because I put in the work. Work ethic eliminates 
 ====
 "The good and the great are only separated by the willingness to sacrifice." - Kareem Abdul-Jabbar
 ====
+"Within our dreams and aspirations we find our opportunities." - Sugar Ray Leonard
+====
 "It is better to look ahead and prepare than to look back and regret." - Jackie Joyner-Kersee
 ====
 Obstacles don't have to stop you. If you run into a wall, don't turn around and give up. Figure out how to climb it, go through it, or work around it." - Michael Jordan
@@ -3783,6 +3809,403 @@ Ten people who yell make more noise than ten thousand who keep silent. - Napoleo
 "What counts in life is not the mere fact that we have lived. It is what difference we have made to the lives of others that will determine the significance of the life we lead." - Nelson Mandela
 ====
 habit: Old-fashioned reading before bedtime can make your brain stronger and sharper. Experts reveal its benefits and tell us how to inculcate the habit of reading. - https://www.newindianexpress.com/cities/hyderabad/2025/Apr/23/why-reading-before-you-sleep-is-a-boon-for-your-brain
+====
+Badger’s Law: “Any website with the word ‘Truth’ in the URL has none in the posted content.” (see also: Haig’s Law)
+====
+Brandolini’s Law: “The amount of energy needed to refute bullshit is an order of magnitude larger than to produce it.”
+====
+Brown’s Corollary: “On the Internet, nobody knows you’re a dog, but everybody knows if you’re a jerk.”
+====
+CAD’s Theorem of Topic Closure: “A clear, well thought-out, well-written post is less likely to receive a reply than a shitty, moronic, badly mistaken post, because it leaves less to be said. A really full and comprehensive post may even appear to bring the conversation to a screeching halt.”
+====
+Cohen’s Law: “Whoever resorts to the argument that ‘whoever resorts to the argument that…has automatically lost the debate’ has automatically lost the debate.”
+====
+Conservation of Intelligence: “For a well-thought-out post, the longer it is and the more sources it cites, the more likely replies to it will consist of only one sentence that dismisses the entire argument through use of a straw man and/or logical fallacy, usually both.”
+====
+Cunningham’s Law: “The best way to get a correct answer to a posed question is to post the wrong answer and wait for someone to correct you.”
+====
+Danth’s Law: “If you have to insist that you’ve won an internet argument, you’ve probably lost badly.”
+====
+DarkShikari’s Theorem: “Any community that gets its laughs by pretending to be idiots will eventually be flooded by actual idiots who mistakenly believe that they're in good company.”
+====
+DeMyer’s Second Law: “Anyone who posts an argument on the internet which is largely quotations can be very safely ignored, and is deemed to have lost the argument before it has begun.”
+====
+First Law of Discussion Non-Response Bias: “Discussions tend to attract those with strong opinions, because moderates are less likely to make an effort to give their opinions.”
+====
+Godwin’s Law: “As an online discussion grows longer, the probability of a comparison involving Hitler approaches 1.”
+====
+Haig’s Law: “The awfulness of a website’s design is directly proportional to the insanity of its contents and creator.” (see also: Badger’s Law)
+====
+Illusions of Grandeur Principle: “The more someone calls attention to their talents, the less they will accomplish with them.”
+====
+Inverse Attraction Effect: “When someone starts a thread seeking fans of something (ex. ‘Who else here likes Twilight?’) on a forum not devoted to that thing, the thread is going to primarily attract people who dislike it and would like to tell the original poster about that. The reverse is also true (e.g. ‘Who else thinks anime is too popular?’ will rally the fans).”
+====
+John Gabriel’s Greater Internet Fuckwad Theory: “Normal Person + Anonymity + Audience = Total Fuckwad.”
+====
+Jordy’s Law: “Discussions aren’t settled on the internet, it continues until there is one man standing.” (Alternatively: “Discussions on the internet are a battle royale. The person left probably thinks he won the argument, the people who quit probably thought it wasn't worth the effort.”)
+====
+Law of Exclamation: “The more exclamation points used in an email (or other posting), the more likely it is a complete lie. This is also true for excessive capital letters.”
+====
+Law of Fakery: “Anything fake which attracts enough attention will have some people vehemently proclaiming it’s real. Anything real which attracts enough attention will have some people vehemently proclaiming it’s fake. (Corollary: If the creator confesses that it was fake, some people will still claim it’s real and call the confession a fake.)”
+====
+Law of Go FAQ Yourself: “People will repeat a question answered in a given forum’s FAQ at least once a week.”
+====
+Layne’s Law(s): “A) Every debate is over the definition of a word, B) every debate eventually degenerates into debating the definition of a word, or C) once a debate degenerates into debating the definition of a word, the debate is debatably over.”
+====
+Lewis’ Law: “The comments on any article about feminism justify feminism.”
+====
+Martin’s Law: “If during an online argument anyone accuses their interlocutor of living in their parents’ basement, the argument is over and the accuser has lost.”
+====
+Munroe’s Law: “You will never change anyone's opinion on anything by making a post on the Internet. Knowing this will not stop you from trying.”
+====
+Muphry’s Law (also known as Hartman’s Law of Prescriptivist Retaliation): “Any article or statement about correct grammar, punctuation, or spelling is bound to contain at least one eror.”
+====
+Poe’s Law: “Without a winking smiley or other blatant display of humour, it is impossible to create a parody of fundamentalism that someone won’t mistake for the real thing.” (see also: Poppy’s Law)
+====
+Pommer’s Law: “A person’s mind can be changed by reading information on the internet. The nature of this change will be from having no opinion to having a wrong opinion.”
+====
+Poppy’s Law: “There are sincere posts by fundamentalists so absurd that they are likely to be mistaken for satire.” (see also: Poe’s Law) (h/t Joe Hughson in the comments)
+====
+Reed’s Law: “The utility of large networks, particularly social networks, scales exponentially with the size of the network.”
+====
+Shaker’s Law of Departure: “Those who egregiously announce their imminent departure from an Internet discussion forum almost never actually leave.”
+====
+Shank’s Law: “There is no idea so batshit insane that you can’t find at least one PhD scientist to support it.”
+====
+Skarka’s Law: “On internet message boards, there is no subject so vile or indefensible that someone won’t show up and defend it.”
+====
+Skitt’s Law: “Any post correcting an error in another post will contain at least one error itself” or “the likelihood of an error in a post is directly proportional to the embarrassment it will cause the poster.” (see also: Muphry’s Law)
+====
+Streisand Effect: “The phenomenon whereby an attempt to hide, remove, or censor a piece of information has the unintended consequence of publicizing the information more widely, usually facilitated by the Internet.”
+====
+“Thanks for Nothing” Effect: “If the original post in a thread ends with the sentence ‘Thanks in advance!’ it is exponentially less likely that it will be replied to.”
+====
+Theory of Internet Relativity: “The more frequently you click ‘refresh’ on a given site, the less frequently new content will appear therein.”
+====
+Time Cube Law: “As the length of a webpage grows linearly, the likelihood of the author being a lunatic increases exponentially.”
+====
+Wadsworth Constant: “The first 30% of any video can be skipped because it contains no worthwhile or interesting information.”
+====
+You Broke It Rule: “A new thread with a first reply which is severely off-topic or lacking in content is not likely to see an improvement.”
+====
+Computer Laws
+Bradley’s Bromide: “If computers get too powerful, we can organize them into a committee — that will do them in.”
+====
+Brooks’ Law: “Adding manpower to a late software project makes it later.”
+====
+Conway’s Law: “Any piece of software reflects the organizational structure that produced it.” Or… “Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.”
+====
+Dead Sea Effect: “The more talented and effective IT engineers are the ones most likely to leave (to evaporate); the residue—those who remain behind—are the least talented and effective IT engineers.”
+====
+Eagleson’s Law: “Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.”
+====
+Flon’s Law: “There does not now, nor will there ever, exist a programming language in which it is the least bit hard to write bad programs.”
+====
+Hartree’s Law: “Whatever the state of a project, the time a project-leader will estimate for completion is constant.”
+====
+Hoare’s Law of Large Programs: “Inside every large program is a small program struggling to get out.”
+====
+Jakob’s Law of the Internet Use Experience: “Users spend most of their time on other sites. This means that users prefer your site to work the same way as all the other sites they already know.”
+====
+Kerchkhoff’s Principle: “In cryptography, a system should be secure even if everything about the system, except for a small piece of information – the key – is public knowledge.”
+====
+Kernighan’s Law: “Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.”
+====
+Knuth’s Optimization Principle: “Premature optimization is the root of all evil.”
+====
+Law of Demeter: “Don’t talk to strangers.” (A unit of software should talk only to its immediate collaborators.)
+====
+Linus’ Law: “Given enough eyeballs, all bugs are shallow.”
+====
+Mooer’s Law: “An information retrieval system will tend not to be used whenever it is more painful and troublesome for a customer to access information than for him not to have it.”
+====
+Moravec’s Law: “It is comparatively easy to make computers exhibit adult-level performance in solving problems, but difficult to give them the skills of a one-year-old in sensorimotor tasks.”
+====
+Ninety-Ninety Rule: “The first 90% of the code takes 90% of the time. The remaining 10% takes the other 90% of the time.”
+====
+Postel’s Law: “Be conservative in what you send, be liberal in what you accept.” (In other words, programs that send messages to other machines (or to other programs on the same machine) should conform completely to the specifications, but programs that receive messages should accept non-conformant input as long as the meaning is clear.)
+====
+Weinberg’s Law: “If builders built buildings the way programmers wrote programs, the first woodpecker that came along would destroy civilization.”
+====
+Wirth’s Law: “Software gets slower faster than hardware gets faster.” (cf. Moore’s Law)
+====
+YAGNI (You Aren’t Gonna Need It): “Always implement things when you actually need them, never when you just foresee that you need them.”
+====
+Dave Akin’s 1st Law: “Engineering is done with numbers. Analysis without numbers is only an opinion.”
+====
+Dave Akin’s 2nd Law: “To design a spacecraft right takes an infinite amount of effort. This is why it’s a good idea to design them to operate when some things are wrong.”
+====
+Dave Akin’s 3rd Law: “Design is an iterative process. The necessary number of iterations is one more than the number you have currently done. This is true at any point in time.”
+====
+Dave Akin’s 4th Law: “Your best design efforts will inevitably wind up being useless in the final design. Learn to live with the disappointment.”
+====
+Dave Akin’s 5th Law (a.k.a. Miller’s Law): “Three points determine a curve.”
+====
+Dave Akin’s 6th Law (a.k.a. Mar’s Law): “Everything is linear if plotted log-log with a fat magic marker.”
+====
+Dave Akin’s 7th Law: “At the start of any design effort, the person who most wants to be team leader is least likely to be capable of it.”
+====
+Dave Akin’s 8th Law: “In nature, the optimum is almost always in the middle somewhere. Distrust assertions that the optimum is at an extreme point.”
+====
+Dave Akin’s 9th Law: “Not having all the information you need is never a satisfactory excuse for not starting the analysis.”
+====
+Dave Akin’s 10th Law: “When in doubt, estimate. In an emergency, guess. But be sure to go back and clean up the mess when the real numbers come along.”
+====
+Dave Akin’s 11th Law: “Sometimes, the fastest way to get to the end is to throw everything out and start over.”
+====
+Dave Akin’s 12th Law: “There is never a single right solution. There are always multiple wrong ones, though.”
+====
+Dave Akin’s 13th Law: “Design is based on requirements. There’s no justification for designing something one bit ‘better’ than the requirements dictate.”
+====
+Dave Akin’s 14th Law (a.k.a. Voltaire’s Law): “Better” is the enemy of “good”.
+====
+Dave Akin’s 15th Law (a.k.a. Shea’s Law): “The ability to improve a design occurs primarily at the interfaces. This is also the prime location for screwing it up.”
+====
+Dave Akin’s 16th Law: “The previous people who did a similar analysis did not have a direct pipeline to the wisdom of the ages. There is therefore no reason to believe their analysis over yours. There is especially no reason to present their analysis as yours.”
+====
+Dave Akin’s 17th Law: “The fact that an analysis appears in print has no relationship to the likelihood of its being correct.”
+====
+Dave Akin’s 18th Law: “Past experience is excellent for providing a reality check. Too much reality can doom an otherwise worthwhile design, though.”
+====
+Dave Akin’s 19th Law: “The odds are greatly against you being immensely smarter than everyone else in the field. If your analysis says your terminal velocity is twice the speed of light, you may have invented warp drive, but the chances are a lot better that you’ve screwed up.”
+====
+Dave Akin’s 20th Law: “A bad design with a good presentation is doomed eventually. A good design with a bad presentation is doomed immediately.”
+====
+Dave Akin’s 21st Law (a.k.a. Larrabee’s Law): “Half of everything you hear in a classroom is crap. Education is figuring out which half is which.”
+====
+Dave Akin’s 22nd Law: “When in doubt, document. (Documentation requirements will reach a maximum shortly after the termination of a program.)”
+====
+Dave Akin’s 23rd Law: “The schedule you develop will seem like a complete work of fiction up until the time your customer fires you for not meeting it.”
+====
+Dave Akin’s 24th Law: “It’s called a ‘Work Breakdown Structure’ because the Work remaining will grow until you have a Breakdown, unless you enforce some Structure on it.”
+====
+Dave Akin’s 25th Law (a.k.a. Bowden’s Law): “Following a testing failure, it’s always possible to refine the analysis to show that you really had negative margins all along.”
+====
+Dave Akin’s 26th Law (a.k.a. Montemerlo’s Law): “Don’t do nuthin’ dumb.”
+====
+Dave Akin’s 27th Law (a.k.a. Varsi’s Law): “Schedules only move in one direction.”
+====
+Dave Akin’s 28th Law (a.k.a. Ranger’s Law): “There ain’t no such thing as a free launch.”
+====
+Dave Akin’s 29th Law (a.k.a. von Tiesenhausen’s Law of Program Management): “To get an accurate estimate of final program requirements, multiply the initial time estimates by pi, and slide the decimal point on the cost estimates one place to the right.”
+====
+Dave Akin’s 30th Law (a.k.a. von Tiesenhausen’s Law of Engineering Design): “If you want to have a maximum effect on the design of a new engineering system, learn to draw. Engineers always wind up designing the vehicle to look like the initial artist’s concept.”
+====
+Dave Akin’s 31st Law (a.k.a. Mo’s Law of Evolutionary Development): “You can’t get to the moon by climbing successively taller trees.”
+====
+Dave Akin’s 32nd Law (a.k.a. Atkin’s Law of Demonstrations): “When the hardware is working perfectly, the really important visitors don’t show up.”
+====
+Dave Akin’s 33rd Law (a.k.a. Patton’s Law of Program Planning): “A good plan violently executed now is better than a perfect plan next week.”
+====
+Dave Akin’s 34th Law (a.k.a. Roosevelt’s Law of Task Planning): “Do what you can, where you are, with what you have.”
+====
+Dave Akin’s 36th Law: “Any run-of-the-mill engineer can design something which is elegant. A good engineer designs systems to be efficient. A great engineer designs them to be effective.”
+====
+Dave Akin’s 37th Law (a.k.a. Henshaw’s Law): “One key to success in a mission is establishing clear lines of blame.”
+====
+Dave Akin’s 38th Law: “Capabilities drive requirements, regardless of what the systems engineering textbooks say.”
+====
+Dave Akin’s 39th Law: “Any exploration program which ‘just happens’ to include a new launch vehicle is, de facto, a launch vehicle program.”
+====
+Dave Akin’s 40th Law (a.k.a. McBryan’s Law): “You can’t make it better until you make it work.”
+====
+Dave Akin’s 41st Law: “There’s never enough time to do it right, but somehow, there’s always enough time to do it over.”
+====
+Dave Akin’s 42nd Law: “If there’s not a flight program, there’s no money. If there is a flight program, there’s no time.”
+====
+Dave Akin’s 43rd Law: “You really understand something the third time you see it (or the first time you teach it).”
+====
+Dave Akin’s 44th Law (a.k.a. Lachance’s Law): “‘Plenty of time’ becomes ‘not enough time’ in a very short time.”
+====
+Dave Akin’s 45th Law: “Space is a completely unforgiving environment. If you screw up the engineering, somebody dies (and there’s no partial credit because most of the analysis was right...).”
+====
+Acton’s Dictum: “Power tends to corrupt, and absolute power corrupts absolutely.”
+====
+Amara’s Law: “We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.”
+====
+Barrow’s First Law: “Any universe simple enough to be understood is too simple to produce a mind able to understand it.”
+====
+Benford’s Law: “In many naturally occurring collections of numbers, the leading significant digit is likely to be small.” (For example, in sets that obey the law, the number 1 appears as the most significant digit about 30% of the time, while 9 appears as the most significant digit less than 5% of the time. If the digits were distributed uniformly, they would each occur about 11.1% of the time.)
+====
+Benford’s Law of Controversy: “Passion is inversely proportional to the amount of real information available.”
+====
+Betteridge’s Rule: “98% of leading or speculative questions in thread titles can be correctly answered, ‘No’.”
+====
+Box’s Law: “All models are wrong, but some are useful.”
+====
+Campbell’s Law: “The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.” (see also: Goodhart’s Law)
+====
+Celine’s 1st Law: “National Security is the chief cause of national insecurity.”
+====
+Celine’s 2nd Law: “Honest communication occurs only between equals.”
+====
+Celine’s 3rd Law: “An honest politician is more dangerous than a corrupt one.”
+====
+Chesterton’s Fence: “Reforms should not be made until the reasoning behind the existing state of affairs is understood.”
+====
+Clarke’s 1st Law: “When a distinguished but elderly scientist states that something is possible, he is almost certainly right. When he states that something is impossible, he is very probably wrong.”
+====
+Clarke’s 2nd Law: “The only way of discovering the limits of the possible is to venture a little way past them into the impossible.”
+====
+Clarke’s 3rd Law: “Any sufficiently advanced technology is indistinguishable from magic.”
+====
+Gehm’s Corollary: Any technology distinguishable from magic is insufficiently advanced.
+====
+Heterodyne’s Inversion: “Any sufficiently well-understood magic is indistinguishable from technology.”
+====
+Ambrose’s Appendix: “Any technology, no matter how primitive, is magic to those who don't understand it.”
+====
+Cleek’s Law: “Today’s conservatism is the opposite of what liberals want today, updated daily.”
+====
+Cole’s Law: “A salad made with thinly-sliced or shredded cabbage. It can include carrots, and is often made with vinegar or a vinaigrette. In the United States, it is often made with mayonnaise.”
+====
+Collingridge’s Dilemma: “Technology can only be regulated well if its impacts are known, but once a technology is known it is often too entrenched to be regulated.”
+====
+Conquest’s First Law: “Everyone is conservative about what he knows best.”
+====
+Conquest’s Second Law: “Any organization not explicitly right-wing sooner or later becomes left-wing.”
+====
+Conquest’s Last Law: “The simplest way to explain the behavior of any bureaucratic organization is to assume that it is controlled by a cabal of its enemies.”
+====
+Cosmic Schmuck Principle: “There are two types of people in this world: those who sometimes worry that they’re a moron, and actual morons.”
+====
+Crabtree’s Bludgeon: “It’s possible to create a coherent explanation for any set of observations—even ones that are mutually contradictory.”
+====
+Dawkins’ Law of the Conservation of Difficulty: “The easier an academic field, the more it will try to preserve its difficulty by using complex jargon.”
+====
+Dilbert Principle: “Companies are hesitant to fire people but also want to not let them hurt their business, so companies promote incompetent workers into the place where they can do the least harm: management.” (see also: Putt’s Law.)
+====
+Dykstra’s Law: “Everybody is somebody else’s weirdo.”
+====
+Ebert’s Law: “It’s not what it's about, it's how it’s about it.”
+====
+Gall’s Law: “A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work. You have to start over, beginning with a working simple system.”
+====
+Gibson’s Law: “For every PhD there is an equal and opposite PhD.”
+====
+Golden Law of Stupidity: “A stupid person is a person who causes losses to others while themselves deriving no gain and even possibly incurring losses.”
+====
+Goodhart’s Law: “When a measure becomes a target, it ceases to be a good measure” (see also Campbell’s Law)
+====
+Hanlon’s Razor: “Never attribute to malice that which is adequately explained by stupidity.”
+====
+Hickam’s Dictum: “A man can have as many diseases as he damn well pleases.” (cf. Occam’s Razor.)
+====
+Hick’s Law: “Decision time grows logarithmically with the number of options you can choose from.”
+====
+Hitchens’ Razor: “What can be asserted without evidence can be dismissed without evidence.”
+====
+Hutber’s Law: “Improvement means deterioration.” (A claim of improvement from a business or organization often means they will be doing less for you or charging more.)
+====
+Iron Law of Oligarchy: “All forms of organization, regardless of how democratic they may be at the start, will eventually and inevitably develop oligarchic tendencies, thus making true democracy practically and theoretically impossible, especially in large groups and complex organizations.”
+====
+Joy’s Law: “No matter who you are, most of the smartest people work for someone else.”
+====
+KISS Principle: “Keep it simple, stupid.”
+====
+Kranzburg’s First Law of Technology: “Technology is neither good nor bad; nor is it neutral.”
+====
+Law of Image Overcompensation: “The amount of effort a person, group, or organization puts into projecting any image for themselves is inversely proportional to how accurate that image is. This is especially true of politicians and advertising campaigns. For example, it’s always the biggest homophobes who turn out to be Armoured Closet Gay. Likewise, the ‘pro-family’ politicians are always the ones who have been cheating on their spouses, and ‘this is not your grandfather’s car’ means it most definitely is your grandfather’s car.”
+====
+Law of the Instrument: “If all you have is a hammer, everything looks like a nail.”
+====
+Lincoln’s Law: “If a country or group’s name has the word ‘People’s’ in it, it will have nothing to do with either democracy or The People.”
+====
+The Lindy Effect: “The future life expectancy of a non-perishable thing is proportional to its current age.”
+====
+Littlewood’s Law: “A person can expect to experience events with odds of one in a million (a ‘miracle’) at the rate of about one per month.”
+====
+Lizard’s Law: “People fuck everything.” (source; h/t Sintana in the comments)
+====
+Martec’s Law: “Technology changes exponentially, but organizations change logarithmically.”
+====
+Matthew Effect: “The rich get richer, the poor get poorer.” (Eminent scientists will often get more credit than a comparatively unknown researcher, even if their work is similar; also, credit will usually be given to researchers who are already famous.)
+====
+Mencken’s Law (a.k.a. Shaw’s Law): “Those who can, do. Those who cannot, teach.”
+====
+Martin’s Extension: Those who cannot teach, teach education (or teach teachers; or administrate).
+====
+Short’s Extension: Those who cannot teach, criticize.
+====
+Russell’s Extension: Those who cannot teach, write.
+====
+Some Yale Prof's Extension: Those who cannot teach, do research.
+====
+Allen’s Extension: Those who cannot teach, teach gym.
+====
+Miller’s Law (1): “Human short-term memory can hold approximately 7 ± 2 pieces of information at a time.”
+====
+Miller’s Law (2): “In order to understand what someone is telling you, it is necessary for you to assume the person is being truthful, then imagine what could be true about it.”
+====
+Murphy’s Law: “Anything that can go wrong will go wrong.”
+====
+Murphy’s Second Law: “Nothing is as easy as it looks.”
+====
+Murphy’s Third Law (a.k.a. Hofstadter’s Law): “Everything takes longer than you expect, even when you account for Murphy’s Third Law.”
+====
+Murphy’s Fourth Law: “If multiple things can go wrong, the one causing the most chaos will go wrong, and it’ll pick the worst possible moment to do so.”
+====
+Napoleon’s Law: “Never interrupt your enemy when he is making a mistake.”
+====
+Occam’s Razor: “Entities must not be multiplied beyond necessity.” (When faced with competing explanations for the same phenomenon, the simplest is likely the correct one.)
+====
+Okrent’s Law: “Striving for balance in debates leads to false equivalence.”
+====
+Pareto Principle (a.k.a. the 80/20 Rule): “80% of consequences stem from 20% of the causes.”
+====
+Parkinson’s Law: “Work expands so as to fill the time available for its completion.”
+====
+Parkinson’s Law of Triviality (a.k.a. Bike-shedding): “Members of an organization give disproportionate weight to trivial issues.” (Parkinson provides the example of a fictional committee whose job was to approve the plans for a nuclear power plant spending the majority of its time on discussions about relatively minor but easy-to-grasp issues, such as what materials to use for the staff bike shed, while neglecting the proposed design of the plant itself, which is far more important and a far more difficult and complex task.)
+====
+Peter Principle: “In a hierarchy, every employee tends to rise to his level of incompetence.” (see also: the Dilbert Principle.)
+====
+Planck’s principle: “A new scientific truth does not triumph by convincing its opponents and making them see the light, but rather because its opponents eventually die and a new generation grows up that is familiar with it.”
+====
+Platt’s Law of AI Forecasting: “Any AI forecast will put strong AI thirty years out from when the forecast is made.”
+====
+Pournelle’s Iron Law of Bureaucracy: “In any bureaucracy, the people devoted to the benefit of the bureaucracy itself always get in control and those dedicated to the goals that the bureaucracy is supposed to accomplish have less and less influence, and sometimes are eliminated entirely.”
+====
+Putt’s Law: “Technology is dominated by two types of people, those who understand what they do not manage and those who manage what they do not understand.”
+====
+Ringelmann Effect: “Individuals becoming increasingly inefficient as more and more people become involved in a task.” (see also: Brooks’ Law.)
+====
+Ringwald’s Law of Household Geometry: “Any horizontal surface is soon piled up on.”
+====
+Rothbard’s Law: “People tend to specialize in what they’re worst at.” (If a talent comes naturally to someone, they assume it’s nothing special.)
+====
+Ruckert’s Law: “There is nothing so small that it can’t be blown out of proportion.”
+====
+Say’s Law: “Supply creates its own demand.”
+====
+Sayre’s Law: “In any dispute the intensity of feeling is inversely proportional to the value of the issues at stake.” (see also: Parkinson’s law)
+====
+Segal’s Law: “A man with a watch knows what time it is. A man with 2 watches is never sure.”
+====
+Shirky Principle: “Institutions will try to preserve the problem to which they are the solution.”
+====
+Sinclair’s Law: “It is difficult to get a man to understand something, when his salary depends upon his not understanding it!”
+====
+Stigler’s Law of Eponymy: “No scientific discovery is named after its original discoverer.”
+====
+Sturgeon’s Law: “Ninety percent of everything is crap.”
+====
+Thoreau’s Law: “If you see a man approaching you with the obvious intention of doing you good, you should run for your life.”
+====
+Tuchman’s Law: “The fact of being reported multiplies the apparent extent of any deplorable development by five- to tenfold (or any other figure the reader would care to supply).”
+====
+Tuckman’s Law: “Groups typically progress through stages of forming, storming, norming, performing, and adjourning.”
+====
+Two Pizza Rule: “If you can’t feed a team with two pizzas, it’s too large.”
+====
+Twyman’s Law: “The more unusual or interesting the data, the more likely they are to have been the result of an error of one kind or another.”
+====
+Wheaton’s Law: “Don’t be a dick.”
+====
+Wiio’s Law: “Communication usually fails, except by accident.”
+====
+Zeigler’s Law: “If a politician says that government is a problem, what he means is that if you elect him, government will be a problem.”
+====
+Zymurgy’s Law of Evolving Systems Dynamics: “Once you open up a can of worms, the only way to get it back in is to use a bigger can.”
 ====
 Il Fascismo conviene agli italiani perché è nella loro natura e racchiude le loro aspirazioni, esalta i loro odi, rassicura la loro inferiorità. Il fascismo è demagogico ma padronale, retorico, xenofobo, odiatore di cultura, spregiatore della libertà e della giustizia, oppressore dei deboli, servo dei forti, sempre pronto a indicare negli “altri” le cause della sua impotenza o sconfitta. Il fascismo è lirico, gerontofobo, teppista se occorre, stupido sempre, ma alacre, plagiatore, manierista. Non ama la natura, perché identifica la natura nella vita di campagna, cioè nella vita dei servi; ma è cafone, cioè ha le spocchie del servo arricchito. Odia gli animali, non ha senso dell’arte, non ama la solitudine, né rispetta il vicino, il quale d’altronde non rispetta lui. Non ama l’amore, ma il possesso. Non ha senso religioso, ma vede nella religione il baluardo per impedire agli altri l’ascesa al potere. Intimamente crede in Dio, ma come ente col quale ha stabilito un concordato, do ut des.
 È superstizioso, vuole essere libero di fare quel che gli pare, specialmente se a danno o a fastidio degli altri.
