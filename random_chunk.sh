@@ -30,7 +30,7 @@ random_index=$(( RANDOM % total_chunks ))
 
 
 # Output the random chunk, pretty formatted at 60 characters length
-printf " ${chunks[$random_index]}" | fmt -w 60
+printf " ${chunks[$random_index]}" | sed 's/^/    /' | fmt -w 60 
 
 echo -e '\n'
 
