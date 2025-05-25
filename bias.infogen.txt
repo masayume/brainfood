@@ -1,0 +1,49 @@
+================================================
+ Biases Affecting Judgment and Decision-Making:
+================================================
+Anchoring Bias: Tendency to rely too heavily on the first piece of information (the "anchor") offered when making decisions, even if it's irrelevant.
+Availability Heuristic/Bias: Overestimating the likelihood of events or the trustworthiness of ideas that come to mind more easily or are more vivid/recent.
+Bandwagon Effect: Adopting beliefs or behaviors because many other people do.
+Confirmation Bias: Seeking out, interpreting, and remembering information that confirms one's existing beliefs while ignoring or downplaying contradictory evidence.
+Dunning-Kruger Effect: A cognitive bias in which people with low ability at a task overestimate their ability, while those with high ability may underestimate it.
+Framing Effect: Making different choices based on how information is presented (framed), rather than on the objective content.
+Gambler's Fallacy: The mistaken belief that future probabilities are affected by past events (e.g., after a string of reds in roulette, believing black is "due").
+Halo Effect: When an individual's overall perception of a person, object, or situation is influenced by a single positive or negative trait.
+Hindsight Bias ("I knew it all along"): The inclination to see events that have already occurred as being more predictable than they were before they took place.
+Loss Aversion: The tendency to prefer avoiding losses over acquiring equivalent gains.
+Negativity Bias: Giving more weight or focus to negative events or outcomes compared to positive or neutral ones.
+Optimism Bias: The tendency to believe that one is less at risk of experiencing a negative event compared to others.
+Overconfidence Bias: Overestimating one's own abilities, knowledge, or the accuracy of one's beliefs.
+Sunk Cost Fallacy: Continuing to invest time, money, or effort into something because of resources already invested, even if it's not rational to do so ("throwing good money after bad").
+Status Quo Bias: A preference for keeping things as they are, resisting change even when a change might be beneficial.
+Recency Effect: Giving more weight to the most recent information or events when making judgments.
+Ambiguity Effect: Tendency to prefer options for which the probability of a favorable outcome is known over options for which the probability is unknown.
+Clustering Illusion: The tendency to erroneously perceive patterns in random sequences of data.
+Conjunction Fallacy: Assuming that specific conditions are more probable than general ones.
+Authority Bias: Giving greater weight and accuracy to the opinions of a person in a position of authority, regardless of the context.
+Action Bias: The preference for doing something over doing nothing, even when doing nothing is the better option.
+Normalcy Bias: The belief that things will continue as they normally have, leading to underestimation of the likelihood or impact of a disaster.
+Choice Overload: Having a harder time making a decision when there are too many options.
+
+====================================================
+ Biases Affecting Social Perception and Interaction:
+====================================================
+Actor-Observer Bias: Attributing one's own actions to external influences and other people's actions to internal characteristics (e.g., "I was late because of traffic," but "They were late because they're lazy").
+Affinity Bias: An unconscious preference for people who share qualities with you or are similar to you.
+False Consensus Effect: Overestimating the extent to which one's opinions, beliefs, preferences, values, and habits are normal and typical of those of others.
+Fundamental Attribution Error: The tendency to attribute other people's behavior to their personalities or stable traits rather than to situational factors.
+Groupthink: A psychological phenomenon that occurs within a group of people in which the desire for harmony or conformity results in an irrational or dysfunctional decision-making outcome.
+In-Group Bias (In-group favoritism): Tendency to favor and value people who belong to the same group one identifies with.
+Just-World Hypothesis: The belief that people get what they deserve and deserve what they get, often leading to blaming victims.
+Self-Serving Bias: Attributing positive events to one's own character but attributing negative events to external factors.
+Spotlight Effect: Overestimating the extent to which one's actions and appearance are noticed by others.
+Out-group Homogeneity Bias: The tendency to view members of an out-group as more alike than members of one's own in-group.
+Implicit Bias (Unconscious Bias): Attitudes or stereotypes that affect our understanding, actions, and decisions in an unconscious manner.
+
+========================
+ Memory-Related Biases:
+========================
+Misinformation Effect: When false information introduced after an event can distort a person's memory of the event.
+Rosy Retrospection: The tendency to recall past events more positively than they actually were, often remembering the good and forgetting the bad.
+Source Amnesia: Forgetting where information was learned or when an event occurred.
+Suggestibility: The tendency to incorporate information from external sources into one's own memories, often due to leading questions.
