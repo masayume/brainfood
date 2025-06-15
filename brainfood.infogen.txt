@@ -421,6 +421,8 @@ Amateurs have a goal. Professionals have a system.
 ====
 “Many of life’s failures are people who didn’t realize how close they were to success when they gave up.” - Thomas Edison on perseverance
 ====
+The lesson isn't avoiding failure. It's refusing to let failure define the outcome.
+====
 "It's a heavy burden to look up at the mountain and want to start the climb." - Abby Wambach
 ====
 "I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature." - John D. Rockefeller
@@ -1035,6 +1037,10 @@ You cannot hope to build a better world without improving the individuals. To th
 ====
 2. Stop trying to feel happy. Self-help culture tricks you into thinking happiness is around the corner. But humans evolved to survive, not to be happy. If you’re going through a tough time or don’t feel joy at every moment, that’s normal. You’re human.
 ====
+The entire self-help industry in one sentence: Do what makes mornings exciting and nights peaceful.
+Will this make me excited to wake up? Will this let me sleep in peace?
+Everything that fails both tests is noise.
+====
 3. It’s not about you. If someone slights you or turns you down, don’t take it personally. Most people are too consumed with their own problems to appreciate what you’re doing or who you are.
 ====
 4. Careers don’t exist. Don’t worry about the narrative of your “career.” Pursue your interests. Take care of your needs. Adapt to new circumstances. And be willing to reinvent yourself at any age.
@@ -1352,6 +1358,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 “Better to get your dopamine from improving your ideas than having them validated. “ – Nat Friedman
 ====
 “It’s good to have people in your life who you don’t want to disappoint.” – Warren Buffett
+====
+“You don’t have to do exceptional things to get exceptional results.” – Warren Buffett
 ====
 “More information is just a form of procrastination.” – Russ Roberts
 ====
@@ -3900,17 +3908,19 @@ This present moment was once the unimaginable future - Stewart Brand
 ====
 What makes us feel liberated is not total freedom, but rather living in a set of limitations that we have created and prescribed for ourselves - Andrea Zittel
 ====
+“The day I decided that my life was magical, there was suddenly magic all around me.” - Marabeth Quin
+====
 "Put it before them briefly so they will read it, clearly so they will appreciate it, picturesquely so they will remember it, and above all, accurately so they will be guided by its light." - Joseph Pulitzer
 ====
 “If you accept death, it is altogether like a frosty night and an anxious misgiving, but a frosty night in a vineyard full of sweet grapes. You will soon take pleasure in your wealth. Death ripens. One needs death to be able to harvest the fruit. Without death, life would be meaningless, since the long-lasting rises again and denies its own meaning. To be, and to enjoy your being, you need death, and limitation enables you to fulfill your being.” - Carl Jung
-====
-Most people do not really want freedom because freedom involves responsibility and most people are frightened of responsibility - Sigmund Freud
 ====
 "If you always do what interests you, at least one person is pleased." - Katharine Hepburn
 ====
 "The only person with whom you have to compare yourself is you in the past." - Sigmund Freud
 ====
 "One cannot grow fine flowers in a thin soil." - Virginia Woolf
+====
+Most people do not really want freedom because freedom involves responsibility and most people are frightened of responsibility - Sigmund Freud
 ====
 "Those who dwell among the beauties and mysteries of the earth are never alone or weary of life." - Rachel Carson
 ====
