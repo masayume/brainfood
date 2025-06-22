@@ -1,5 +1,215 @@
-url:	https://www.instagram.com/p/C9SElu5vaC7
+from:	https://www.instagram.com/p/C9SElu5vaC7
 prov:	継続を力なり
-trad:	Persistence is power
+trad:	"Persistence is power"
 word: 	継続: けいぞく, persistence
-===
+====
+from:
+prov:
+trad:	“Your garden is not complete until there is nothing else you can take out of it.”
+word:
+====
+from: 	Miyamoto Musashi
+prov:
+trad:	“It is better to be a warrior in a garden, than a gardener in a war.” 
+word:
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	自業自得 (Jigoujitoku)
+trad: 	“One’s act, one’s profit”
+word: 	自得: jitoku, "gain"
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	虎穴に入らずんば虎子を得ず (koketsu ni irazunba koji o ezu)
+trad: 	“If you do not enter the tiger’s cave, you will not catch its cub.”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	猿も木から落ちる (saru mo ki kara ochiru)
+trad: 	“Even monkeys fall from trees”
+word: 	落ちる: ochiru, "to fall"
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	光陰矢の如し (Kouin ya no gotoshi)
+trad: 	“Time flies like an arrow.”
+word: 	如し: gotoshi, "like"
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	覆水盆に返らず (Fukusui bon ni kaerazu)
+trad: 	“Spilt water won’t go back into its tray”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	明日は明日の風が吹く (Ashita wa ashita no kaze ga fuku)
+trad: 	“The winds of tomorrow will blow tomorrow”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	七転び八起き (Nana korobi ya oki)
+trad: 	“Fall down seven times but get up eight times”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	清水の舞台から飛び降りる (kiyomizuno butai kara tobioriru)
+trad: 	“Take a leap from the stage of Kiyomizu”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	雨降って地固まる (ame futte ji katamaru)
+trad: 	“After a storm comes a calm”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	三人寄れば文殊の知恵 (sannin yoreba monju no chie)
+trad: 	“When three people meet, wisdom is exchanged”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	因果応報 (ingaouhou)
+trad: 	“Cause brings result”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	同じ釜の飯を食う (onajikama no meshi o kuu)
+trad: 	“Eating from the same rice pot” 
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	猫に小判 (neko ni koban)
+trad: 	“Gold coins to a cat” 
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	二兎を追う者は一兎をも得ず (nito o oumono wa itto mo ezu)
+trad: 	“One who chases after 2 rabbits will not even catch one” 
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	人のふり見てわがふり直せ (hito no furi mite wagafuri naose)
+trad: 	“One man’s fault is another’s lesson”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	花より団子 (hana yori dango)
+trad: 	“Dumplings over flowers”; People are more interested in the practical than the aesthetic
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	口は災いの元 (kuchi ha wazawai no moto)
+trad: 	“The mouth is the origin of disasters.” 
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	初心忘るべからず (shoshin wasuru bekarazu)
+trad: 	“Don’t forget our original intention.”; Never forget the original enthusiasm when you try new things
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	縁の下の力持ち (en no shita no chikaramochi)
+trad: 	“The strong person under the veranda.”; Unsung hero / Someone who does a thankless task
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	ちりも積もれば山となる (chiri mo tsumoreba yama to naru)
+trad: 	“Even dust, when piled up, can become a mountain.”; Many a little makes a mickle / Just small effort does make a difference 
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	魚心あれば水心 (uogokoro areba mizugokoro)
+trad: 	“If a fish cares for water, the water will care for the fish.”
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	灯台下暗し (toudai moto kurashi)
+trad: 	“The darkness at the foot of the light fixture.”; It’s hard to see what is under your nose. 
+word: 	
+====
+from:   https://cotoacademy.com/top-inspiring-japanese-proverbs/	
+prov:	花鳥風月 (kachou fuugetsu)
+trad: 	“Flower, Bird, Wind, Moon.”; Experience the beauties of nature, and in doing so learn about yourself. 
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	苦あれば楽あり (ku areba raku ari)
+trad: 	“With hardships comes pleasure and pleasure comes hardships.”; No Pain No Gain 
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	一期一会 (ichigo ichie)
+trad: 	“Once in a lifetime encounter.”; Enjoy every encounter to the fullest 
+word:
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	千里の道も一歩から (senri no michi mo ippo kara)
+trad: 	“A journey of a thousand miles begins with a single step.”; It takes a series of steps to achieve success 
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	笑う門には福来たる (warau kado niwa kitaru)
+trad: 	Laughter and smiles will bring happiness and fortune
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	水に流す (mizu ni nagasu)
+trad: 	“The water flows.”; Forgive and forget
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	出る杭は打たれる (deru kui wa utareru)	
+trad: 	“The nail that sticks out gets hammered down.”; People who stick out too much get punished
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	開いた口が塞がらない (aita kuchi ga fusagaranai) 
+trad: 	“Open mouth does not close.”; Someone’s words or behavior are appalling and beyond understanding, and you’re lost for words
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	井の中の蛙大海を知らず  (I no naka no kawazu, taikai wo shirazu)
+trad: 	“A frog in a well doesn’t know the vast greatness of the ocean.”; People who don’t expose themselves to a variety of experiences will have a narrow world view.
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	案ずるより産むが易し (Anzuru yori umuga yasushi)
+trad: 	“Giving birth is easier than worrying about it.”; Doing the actual task is not as difficult as you might think. Don’t worry or stress about the future. 
+word: 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	見ぬが花: Minu ga hana 
+trad: 	“Not seeing is a flower”; Your imagination is often better than reality; ignorance is bliss
+word: 	 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/ 
+prov:	馬の耳に念仏 (Uma no mimi ni nenbutsu)
+trad: 	“Preaching to a horse’s ear”; Giving advice or convincing someone who doesn’t listen or understand is futile.
+word: 	 	
+====
+from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
+prov:	月とすっぽん (Tsuki to suppon)
+trad: 	“The moon and the turtle”; Despite the roundness of the turtle and moon, they are incomparable in every other way.
+word: 	 	
+====
+from: 	
+prov:	
+trad: 	
+word: 	 	
+====
+from: 	
+prov:	
+trad: 	
+word: 	 	
+====
+from: 	
+prov:	
+trad: 	
+word: 	 	
+====
+from: 	
+prov:	
+trad: 	
+word: 	 	
+====
+from: 	
+prov:	
+trad: 	
+word: 	 	
+=====
