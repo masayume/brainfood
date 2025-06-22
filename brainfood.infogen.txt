@@ -83,6 +83,8 @@ Changing your trajectory is a choice.
 “Faced with the choice between changing one’s mind and proving that there is no need to do so, almost everyone gets busy on the proof.”
 - John Kenneth Galbraith
 ====
+“I consider that a man's brain originally is like a little empty attic, and you have to stock it with such furniture as you choose. A fool takes in all the lumber of every sort that he comes across, so that the knowledge which might be useful to him gets crowded out, or at best is jumbled up with a lot of other things so that he has a difficulty in laying his hands.” - Sherlock Holmes
+====
 The most selfish act of all is kindness, because it's payback is so much greater than the investment. - Tom Peters
 ====
 The illiterate of the 21st century will be those who cannot learn, unlearn, and relearn. - Alvin Toffler
@@ -100,6 +102,8 @@ Your Attention Requires Three Forms of Light
 Spotlight attention: Focuses on immediate tasks and short-term actions (making coffee, finding glasses, reading a chapter). When disrupted, you can't complete these immediate tasks.
 Starlight attention: Directs your longer-term projects and goals (writing a book, building a business, being a good parent). Like stars guiding travelers, it keeps you oriented toward your bigger objectives. When disrupted, you lose sight of where you're heading.
 Daylight attention: Enables self-reflection and clarity about what you truly want. It helps you understand why you chose your long-term goals and who you want to be. When this attention is disrupted, you may lose touch with your core identity and purpose. - Johann Hari
+====
+The greatest business failures often come not from playing the game poorly, but from continuing to excel at things that no longer matter.
 ====
 Multi-Tasking is a Myth
 The human brain can only hold one or two conscious thoughts at a time - this is a fixed biological limit of our neural hardware. Yet we've convinced ourselves we can think about many things simultaneously. This is simply a myth we created rather than accepting our natural cognitive constraints. - Johann Hari
@@ -566,6 +570,8 @@ On trust - Never completely trust people right away, no matter how nice or compe
 On desire - Don't reveal too much about yourself too quickly when trying to attract someone. Maintain an air of mystery. The less people know, the more they will want to possess you.
 ====
 On empathy - Don't just listen to people's words. Pay attention to nonverbal cues like tone of voice, breathing patterns, and body language to truly understand their inner state.
+====
+"To listen well is as powerful a means of communication and influence as to talk well." - Chief Justice John Marshall
 ====
 «You can be anxious, sensitive, kind and wear your heart on your sleeve. You can be … a nerd, a crier, a hugger – you can be all of these things, and not only can you be here – you can lead.» - Jacinda Ardern
 ====
@@ -3949,6 +3955,8 @@ At the moment of truth, there are either reasons or results. - Chuck Yeager
 “The moment you think you know exactly who you are, you become something else - you become boring.” - Oscar Wilde
 ====
 Ten people who yell make more noise than ten thousand who keep silent. - Napoleon
+====
+“All great events hang by a single thread. The clever man takes advantage of everything, neglects nothing that may give him some added opportunity; the less clever man, by neglecting one thing, sometimes misses everything.” - Napoleon
 ====
 "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 ====
