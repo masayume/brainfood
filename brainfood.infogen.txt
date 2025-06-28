@@ -1015,6 +1015,8 @@ It is important to admit your mistakes, and to do so before you are charged with
 ====
 There is a big difference between being interested in something and being committed to something. Committed people do what interested people won’t.
 ====
+"Too many people opt out and never discover their own abilities because they fear failure. They don't understand commitment." - Pat Summitt
+====
 “Why do we love committers but act like browsers? I think it’s because of three fears. First, we have a fear of regret: we worry that if we commit to something, we will later regret having not committed to something else. Second, we have a fear of association: we think that if we commit to something, we will be vulnerable to the chaos that that commitment brings to our identity, our reputation, and our sense of control. Third, we have a fear of missing out: we feel that if we commit to something, the responsibilities that come with it will prevent us from being everything, everywhere, to everyone. Because of these fears, the tension sticks around. We act like browsers, we love committers, and we’re too scared to make the jump—so we’re stuck.” - Pete Davis
 ====
 Respect others. Clementine Churchill once left a note for her husband. “My Darling Winston,” she wrote, “I must confess that I have noticed a deterioration in your manner; & you are not so kind as you used to be.” Yes, he had power, she noted, but if you keep disrespecting people, “You won’t get the best results.” The way you treat others sets off a chain reaction that shapes your life in profound ways. Disrespect, rudeness, pettiness, jealousy—these things repel. But dignity, equanimity, politeness, calm—they attract. They draw people in. They bring the best out of others. Choose wisely.
