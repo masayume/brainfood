@@ -18,11 +18,9 @@ The following files and one script (random_chunk.sh) to show a random entry are 
 
 
 ```
-
 echo '============================================================='
 shuf -n 1  ~/DATA/E/Desktop/DSET/INFO/INFO.my/latin.proverbs.txt
 echo '============================================================='
 
 usage: random_chunk.sh brainfood.infogen.txt ====
-
 ```
