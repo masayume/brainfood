@@ -1,6 +1,7 @@
 # brainfood
 Small but indispensable chunks of wisdom from all human history.
 
+![example phrase](https://github.com/masayume/brainfood/blob/main/img/0text.webp "Example phrase")
 
 The following files and one script (random_chunk.sh) to show a random entry are included:
 
