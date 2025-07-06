@@ -579,6 +579,8 @@ On desire - Don't reveal too much about yourself too quickly when trying to attr
 ====
 On empathy - Don't just listen to people's words. Pay attention to nonverbal cues like tone of voice, breathing patterns, and body language to truly understand their inner state.
 ====
+"Remove justice and what are states but gangs of bandits on a large scale ? And what are bandit gangs if not kingdoms in miniature ?" - St Augustin
+====
 "To listen well is as powerful a means of communication and influence as to talk well." - Chief Justice John Marshall
 ====
 «You can be anxious, sensitive, kind and wear your heart on your sleeve. You can be … a nerd, a crier, a hugger – you can be all of these things, and not only can you be here – you can lead.» - Jacinda Ardern
@@ -817,6 +819,11 @@ The layer cake of bad causal reasoning:
 #1: a successful person did X, so it works (anecdotal argument)
 #2: successful people often do X, so it works (survivorship bias)
 #3: successful people do X more often than unsuccessful people, so it works (correlation ≠ causation)
+====
+Not all correlations mean that one thing causes the other. Some correlations are real but misleading. Others are simply due to chance. Understanding which is which can help you avoid common reasoning errors and make better decisions.
+There are five common types of correlations. Only one involves a direct causal link. The others include spurious patterns (flukes), reverse causation, confounding variables, and feedback loops, each with different implications for how we interpret data.
+Random patterns can look convincing. The more variables you compare, the more likely it is you’ll find strong but meaningless correlations. This is known as “data dredging,” and it’s a major cause of misinformation in science and media.
+Before assuming causality, consider alternatives. Could B be causing A? Could both be caused by C? Could the link be coincidental? By questioning the source of a correlation, you can avoid flawed conclusions and spot more reliable patterns.
 ====
 Reasoning in public forces discipline of thought.
 It's like doing math on the chalkboard in front of the class. Every step must be clear and correct, or someone will point out the mistake. There's no room for fuzzy thinking or skipped steps.
