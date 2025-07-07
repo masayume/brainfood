@@ -14,8 +14,8 @@ trad:	“It is better to be a warrior in a garden, than a gardener in a war.”
 word:
 ====
 from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
-prov:	自業自得 (Jigoujitoku)
-trad: 	“One’s act, one’s profit”
+prov:	自業自得 (Jigou jitoku)
+trad: 	“One’s act, one’s profit”, “What goes around comes around.”
 word: 	自得: jitoku, "gain"
 ====
 from: 	https://cotoacademy.com/top-inspiring-japanese-proverbs/
@@ -188,20 +188,30 @@ prov:	月とすっぽん (Tsuki to suppon)
 trad: 	“The moon and the turtle”; Despite the roundness of the turtle and moon, they are incomparable in every other way.
 word: 	 	
 ====
-from: 	
-prov:	
-trad: 	
+from: 	https://www.japaneseexplorer.com.sg/japanese-proverbs/
+prov:	悪銭身に付かず (Akusen mi ni tsukazu)
+trad: 	“Easy come, easy go.”
 word: 	 	
 ====
-from: 	
-prov:	
-trad: 	
+from: 	https://www.japaneseexplorer.com.sg/japanese-proverbs/
+prov:	負けるが勝ち (makeru ga kachi)
+trad: 	“There is victory in losing.”
 word: 	 	
 ====
-from: 	
-prov:	
-trad: 	
+from: 	https://www.japaneseexplorer.com.sg/japanese-proverbs/
+prov:	相手のない喧嘩はできない (aite no nai kenka wa dekinai)
+trad: 	“You can’t fight without an opponent.”
 word: 	 	
+====
+from: 	https://www.japaneseexplorer.com.sg/japanese-proverbs/
+prov:	言わぬが花 (Iwanu Ga Hana)
+trad: 	“Silence is golden.”
+word: 	 	
+====
+from: 	https://www.japaneseexplorer.com.sg/japanese-proverbs/
+prov:	能ある鷹は爪を隠す (Nou aru taka wa tsume wo kakusu)
+trad: 	“The adept hawk hides its claws.”
+word: 
 ====
 from: 	
 prov:	
