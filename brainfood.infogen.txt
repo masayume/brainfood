@@ -36,6 +36,8 @@ Don't let your worst moments become your story.
 You blow the presentation and spend the drive home scripting perfect comebacks to an audience that's already gone. Your relationship ends and you spend months replaying conversations that can't be changed. All the time spent perfecting the past is stolen from the future that's still waiting.
 The past is a teacher, not a judge. Your next move matters more than your last mistake.
 ====
+"One child, one teacher, one book, one pen can change the world." - Malala Yousafzai
+====
 Progress is just falling and getting back up over and over again, disguised as a straight line.
 ====
 What you're taught isn’t always what matters.
@@ -50,6 +52,10 @@ Outcome over ego.
 Focus on the details.
 See challenges as opportunities.
 Go to bed smarter than when you woke up.
+====
+Swim in your lane.
+Every second you spend looking at a person in another lane comes at the cost of your progress.
+Focus on yourself.
 ====
 "All of us invent ourselves. Some of us just have more imagination than others." - Cherilyn "Cher" Sarkisian
 ====
@@ -259,6 +265,10 @@ Maintain Wonder While Being Skeptical
 "At the heart of science is a balance between two seemingly contradictory attitudes - an openness to new ideas, no matter how bizarre or counterintuitive, and the most ruthlessly skeptical scrutiny of all ideas, old and new. This is how deep truths are winnowed from deep nonsense." - Carl Sagan, The Demon-Haunted World
 ====
 I remember once I called Dov Charney, founder of American Apparel, about some little success I’d had on some project. He was very busy and frustrated that I’d interrupted, but politely, he said, “Ryan, you are calling me to tell me that you did your job.” I thought of that conversation when I saw that famous scene in Mad Men where Peggy complains that Don never says thank you. “That’s what the money is for!” he tells her. - Ryan Holiday
+====
+Compensation follows autonomy.
+When you need to be managed, there's a cap on what you can earn. When you know how to create value and do it without being told, there's no cap. This is structural, not personal.
+The compensation gap isn't about performance; it's about autonomy.
 ====
 The thing that’s wrong about imposter syndrome is that for the most part no one is thinking about you at all. They’re too busy with their own doubts and their own work.
 ====
@@ -525,9 +535,11 @@ Pair: consolidate individual thoughts together.
 Share: share back with the rest of the team.
 https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
 ====
+"You don't try to forget the mistakes, but you don't dwell on it. Don't let it have any of your energy, or any of your time, or any of your space." - Johnny Cash
+====
 "We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side." - Charlie Munger on The Work Required to Have an Opinion
 ====
-"You don't try to forget the mistakes, but you don't dwell on it. Don't let it have any of your energy, or any of your time, or any of your space." - Johnny Cash
+“All intelligent people should think primarily in terms of opportunity cost. When deciding whether to do something compare it with the best opportunity you have.” - Charlie Munger
 ====
 “It's good to learn from your mistakes. It's better to learn from other people's mistakes.” - Charlie Munger
 ====
@@ -780,6 +792,8 @@ Boomers & Generation X had wildly different experiences of how the economy works
 Mismatch Theory - Moths evolved to navigate by the moon, a good strategy until the invention of electric lamps, which now lead them astray. Equally, humans evolved to be tribal, a good strategy until the digital age, where it now leads us to act like polarized goons online.
 ====
 Common Knowledge Effect - Groups are meant to be better decision-makers than individuals, because they combine many perspectives. But in practice, a group doesn't base its decisions on the info specific to each member, but only on the info common to them all. This casts doubt on the idea that “two heads are better than one”, and helps explain why, despite popular wisdom, diversity generally does not make teams better.
+====
+“The common trait of people who supposedly have vision is that they spend a lot of time reading and gathering information, and then synthesize it until they come up with an idea.” - Fred Smith 
 ====
 Champion Bias - We assume winners have the best advice, but those who win rarely examine why they won, while those who lose often regretfully dwell on their mistakes. So you’ll often obtain the best advice on winning not from winners but from losers.
 ====
@@ -1679,6 +1693,8 @@ The successful entrepreneur? Working on a Friday night, again.
 The invisible advantage is choosing to do what other people could do, but don't.
 ====
 Ride the virtuous circle of passion-practice-skill: “Passion for something leads to disproportionate time practicing or working at it. That time spent eventually translates to skill, and when skill improves, results improve. Better results generally lead to more enjoyment, and more passion and more time is invested. It can be a virtuous cycle all the way to extraordinary results.”
+====
+“If you're not passionate about the field you're engaged in you won't have the grit or perseverance to compete with those who are.” - Ken Griffin
 ====
 "Passion is what makes life interesting." - Pat Tillman
 ====
