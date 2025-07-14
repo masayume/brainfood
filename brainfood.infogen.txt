@@ -57,6 +57,8 @@ Swim in your lane.
 Every second you spend looking at a person in another lane comes at the cost of your progress.
 Focus on yourself.
 ====
+Things take longer to happen than you think they will, and then they happen faster than you thought they could. - Rudiger Dornbusch
+====
 "All of us invent ourselves. Some of us just have more imagination than others." - Cherilyn "Cher" Sarkisian
 ====
 The clearer you are about your priorities, the easier it is to say no.
@@ -2713,6 +2715,10 @@ Sometimes unsolvable questions like “what is my purpose?” and “why should 
 ====
 A point of view can be a dangerous luxury when substituted for insight and understanding. - Marshall McLuhan
 ====
+I wouldn’t have seen it, if I didn’t believe it. — Marshall McLuhan
+====
+There are two kinds of people in the world… and who is not both of them? - James Richardson
+====
 Still simmering: I'm certainly guilty of opting for a quick opinion rather than getting evertyhing factually right - perhaps to a fault and definitely to the great displeasure of my wife. tere seem to be too few socratic truths to really uphold such a standard, yet I see the slope. 
 ====
 This is the game we play: The only thing you really know is what you can put into words - Alan Watts
@@ -3079,6 +3085,8 @@ The more you create, the more powerful you become. The more you consume the more
 “Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.” - Howard Aiken
 ====
 “One of the hardest things for a beginner to do is merely to get started on his first set of comic strips. It is strange that most people who have ambitions in the cartoon field are not willing to put in the great amount of work that many other people do in comparable fields. Most people who have comic-strip ambition wish to be able to draw only two or three weeks' material and then have it marketed. They are not willing to go through many years of apprenticeship.” - Charles Schulz
+====
+A cartoonist is someone who has to draw the same thing day after day without repeating himself. - Charles M. Schulz
 ====
 “A risk with watching your competition too closely is that you get drawn into playing their game and lose focus on your own.”
 ====
@@ -3500,6 +3508,8 @@ The world wants you to be typical. Don’t let it happen. - Jeff Bezos
 ====
 Please, God, please, don't let me be normal". Sigourney Weaver
 ====
+You have to be unreasonable to see the world that doesn’t yet exist. — Will Guidara
+====
 The smallest act in the most limited circumstances bears the seed of… boundlessness, because one deed, and sometimes one word, suffices to change every constellation. - Hannah Arendt, "The Human Condition“
 ====
 “Our whole economy has become a waste economy, in which things must be almost as quickly devoured and discarded as they have appeared in the world.” - Hannah Arendt, "The Human Condition“
@@ -3540,7 +3550,7 @@ Mastery is the best goal because the rich can’t buy it, the impatient can’t 
 ====
 Impatience is an expensive emotion.
 Every app wants your decision in seconds. Every employer wants results this quarter. Every investment platform profits when you trade. Meanwhile, the boring investor who indexed and touched nothing decades ago owns your neighborhood. Who's winning?
-The patient inherit everything the impatient leave behind.
+The patient inherit everything the impatient leave behind. - Shane Parish
 ====
 It's true that determining the actual problem takes time, but it’s far quicker than solving the wrong one and starting over.
 ====
@@ -4074,6 +4084,8 @@ Brown’s Corollary: “On the Internet, nobody knows you’re a dog, but everyb
 CAD’s Theorem of Topic Closure: “A clear, well thought-out, well-written post is less likely to receive a reply than a shitty, moronic, badly mistaken post, because it leaves less to be said. A really full and comprehensive post may even appear to bring the conversation to a screeching halt.”
 ====
 Cohen’s Law: “Whoever resorts to the argument that ‘whoever resorts to the argument that…has automatically lost the debate’ has automatically lost the debate.”
+====
+If I knew where songs came from, I’d go there more often. - Leonard Cohen
 ====
 Conservation of Intelligence: “For a well-thought-out post, the longer it is and the more sources it cites, the more likely replies to it will consist of only one sentence that dismisses the entire argument through use of a straw man and/or logical fallacy, usually both.”
 ====
