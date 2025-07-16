@@ -1,4 +1,94 @@
 ====
+Emotion: Feelings, instincts, and spontaneous reactions, often seen as powerful motivators. "Heart's impulse."
+Reason: Logical thought, deliberation, and rational calculation. "Mind's logic."
+====
+Conscious: The part of the mind that is aware, awake, and capable of rational thought. "Aware mind."
+Unconscious: The part of the mind that contains desires, memories, and thoughts outside of immediate awareness, yet influencing behavior. "Hidden drives."
+====
+Ego: The center of consciousness, the "I" that interacts with the external world and forms one's identity. "My everyday identity."
+Self: The totality of the psyche, conscious and unconscious, representing the unified whole and individual potential. "My deeper totality."
+====
+Tradition: Customs, beliefs, and practices passed down through generations, often valuing stability and continuity. "The ways of old."
+Modernity: A state or quality of being current or contemporary; characterized by a break from traditional forms and an embrace of progress and innovation. "The new frontier."
+====
+Assimilation: The process by which a minority group adopts the customs and attitudes of the prevailing culture. "Blend into one."
+Multiculturalism: The presence of, or support for the presence of, several distinct cultural or ethnic groups within a society. "Celebrate the many."
+====
+Conflict: Disagreement or opposition between individuals or groups, often seen as a driver of change. "Clash of wills."
+Consensus: General agreement among the members of a group or community, emphasizing shared understanding and cooperation. "Shared accord."
+====
+Deduction: Reasoning from general principles to specific conclusions (e.g., All men are mortal; Socrates is a man; therefore, Socrates is mortal). "From general to specific."
+Induction: Reasoning from specific observations to general conclusions (e.g., Every swan I've seen is white; therefore, all swans are white). "From specific to general."
+====
+Truth: A statement or idea that corresponds to reality, fact, or actuality, independent of what one thinks.
+Belief: An acceptance that a statement is true or that something exists, often based on conviction or faith rather than absolute proof.
+====
+Form: The structure, composition, or medium of an artwork; how it is made.  "The how."
+Content: The subject matter, meaning, or message conveyed by an artwork; what it is about. "The what."
+====
+Beauty: Qualities that give pleasure to the senses or pleasurably elevate the mind. "Aesthetic delight."
+Ugliness: Qualities that are unpleasant or repugnant to the senses or mind. "Aesthetic discomfort."
+====
+Reductionism: The belief that complex systems can be understood by breaking them down into their fundamental parts. "Parts explain the whole."
+Holism: The belief that systems should be viewed as wholes, and that their properties cannot be explained by examining their parts in isolation. "The whole is greater than its parts."
+====
+Quantitative: Pertaining to measurable or countable data; expressed in numbers. "Measured and counted."
+Qualitative: Pertaining to descriptive, non-numerical data; exploring qualities, characteristics, or meanings.  "Described and understood."
+====
+Freedom: The power or right to act, speak, or think as one wants without hindrance or restraint. "Unrestricted choice."
+Security: The state of being free from danger or threat. "Protected existence."
+====
+Hierarchy: A system or organization in which people or groups are ranked one above the other according to status or authority.  "Order by rank."
+Egalitarianism: The principle that all people are equal and deserve equal rights and opportunities. "Equality for all."
+====
+Centralization: The concentration of power and authority in a central governing body or location.
+Decentralization: The distribution of power and authority away from a central point to lower levels or local entities.
+====
+Egoism: The ethical stance that individuals should act in their own self-interest. "Self-serving."
+Altruism: The ethical stance that individuals should act to benefit others, often at a cost to themselves. "Other-serving."
+====
+Deontology: Ethical theories that judge the morality of an action based on whether it adheres to a rule or duty, irrespective of its outcome.  "Duty dictates."
+Consequentialism: Ethical theories that judge the morality of an action based on its outcomes or consequences. "Outcomes rule."
+====
+A Priori: Knowledge or justification that is independent of experience (e.g., mathematical truths, logical deductions). "Known before experience."
+A Posteriori: Knowledge or justification that is dependent on experience or empirical evidence. "Known after experience."
+====
+Universal: A general concept, property, or relation that can be instantiated by many particular things (e.g., "redness," "humanity"). "The shared essence."
+Particular: A specific, individual thing or instance (e.g., "this red apple," "Socrates"). "The unique instance."
+====
+Being: The static, unchanging essence or existence of something. "What endures."
+Becoming: The process of change, development, and transformation. "What evolves."
+====
+Mind: The non-physical aspect of a being, encompassing consciousness, thought, and feeling. "Inner experience."
+Body: The physical, material aspect of a being. "Outer form."
+====
+Appearance: How things seem to us through our senses or immediate experience. "What meets the eye."
+Reality: The true nature of things, independent of our perception. "The underlying truth."
+====
+Nature: Innate qualities and characteristics determined by genetics and biology.
+Nurture: The influence of environment and experience on an individual's development.
+====
+Free Will: The belief that individuals have the ability to make choices and control their own actions, independent of prior causes.
+Determinism: The belief that all events, including human actions, are ultimately determined by causes external to the will, often by physical laws or prior events.
+====
+Rationalism: The belief that reason is the primary source of knowledge and justification.
+Empiricism: The belief that sensory experience is the primary source of knowledge.
+====
+Objective: Existing independently of an individual's mind or perceptions; based on facts, not feelings or opinions.
+Subjective: Dependent on an individual's mind or perceptions; influenced by personal feelings, tastes, or opinions.
+====
+Individualism: A social theory favoring freedom of action for individuals over collective or state control.
+Collectivism: The practice or principle of giving a group priority over each individual in it.
+====
+Analytic: A statement whose truth is determined solely by the meaning of the words used (e.g., "All bachelors are unmarried men").
+Synthetic: A statement whose truth depends on how the world actually is, requiring empirical verification (e.g., "The cat is on the mat").
+====
+Monism: The view that reality is ultimately composed of a single substance or kind of thing.
+Dualism: The view that reality is ultimately composed of two fundamentally different substances or kinds of things (e.g., mind and body).
+====
+Physicalism: The view that everything that exists is ultimately physical. "All is matter."
+Idealism: The view that reality is fundamentally mental or consciousness-based, and that the physical world is a manifestation of mind.
+====
 Getting rich requires the willingness to take big risks. 
 Staying rich requires the paranoia to avoid big risks.
 - Morgan Housel
