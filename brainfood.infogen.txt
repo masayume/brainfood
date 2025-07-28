@@ -1446,8 +1446,6 @@ If you really want to understand a topic, don’t read about it, write about it.
 ====
 “A great way to understand yourself is to seriously reflect on everything you find irritating in others.” – Kevin Kelly
 ====
-“People in their 30s know where the world is going because they’re going to do it. I’m in my 80s so I have no idea.” – Daniel Kahneman
-====
 “I’m at the stage in life where I stay out of arguments. Even if you say 1+1=5, you’re right. Have fun.” – Keanu Reeves
 ====
 “If you find the right balance between desperation and fear you can make people do anything.” – Trevor Noah
@@ -1511,8 +1509,6 @@ It takes inordinate courage to introspect, to confront oneself, to accept one’
 “If people want happiness so badly, why don’t they attempt to understand their false beliefs? First, because it never occurs to them to see them as false or even as beliefs. They see them as facts and reality, so deeply have they been programmed.” – Anthony DiMello
 ====
 “The purpose of life is to experience things for which you will later experience nostalgia.” – FedSpeak
-====
-“Nothing in life is as important as you think it is when you are thinking about it.” – Kahneman
 ====
 “The way to be safe is to never be secure.” – Benjamin Franklin
 ====
@@ -1892,8 +1888,6 @@ Moderating Relationship: The correlation between two variables depends on a thir
 "A successful marriage requires falling in love many times, always with the same person." - Mignon McLaughlin
 ====
 Denomination Effect: One hundred $1 bills feels like less money than one $100 bill. Also explains stock splits – buying 10 shares for $10 each feels cheaper than one share for $100.
-====
-Woozle Effect: “A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.” - Daniel Kahneman.
 ====
 Google Scholar Effect: Scientific research depends on citing other research, and the research that gets cited the most is whatever shows up in the top results of Google Scholar searches, regardless of its contribution to the field.
 ====
@@ -3418,8 +3412,6 @@ The movement provides them with a sense of identity and purpose they lack as ind
 ====
 “There are two times to admit mistakes: early and late. Early admissions solve problems. Late admissions create them. A person who proactively tells another they made a mistake gains trust and respect for their honesty. In contrast, one who tries to hide errors quickly loses trust. Swift admissions build bridges. Slow ones burn them.”
 ====
-“No one ever made a decision because of a number. They need a story.” - Daniel Kahneman
-====
 “The most powerful person in the world is the storyteller. The storyteller sets the vision, values and agenda of an entire generation that is to come.” - Steve Jobs
 ====
 “My observation is that the doers are the major thinkers. The people that really create the things that change this industry are both the thinker and doer in one person. Leonardo was the artist, but he also mixed all his own paints. He also was a fairly good chemist. He knew about pigments, knew about human anatomy. And combining all of those skills together, the art and the science, the thinking and the doing, was what resulted in the exceptional result. And there is no difference in our industry. The people that have really made the contributions have been the thinkers and the doers.” - Steve Jobs
@@ -4022,6 +4014,14 @@ The art of not reading is a very important one. It consists in not taking an int
 ====
 “In times of change, learners inherit the earth, while the learned find themselves beautifully equipped to deal with a world that no longer exists.” - Eric Hoffer
 ====
+“People in their 30s know where the world is going because they’re going to do it. I’m in my 80s so I have no idea.” – Daniel Kahneman
+====
+“Nothing in life is as important as you think it is when you are thinking about it.” – Daniel Kahneman
+====
+Woozle Effect: “A reliable way to make people believe in falsehoods is frequent repetition, because familiarity is not easily distinguished from truth.” - Daniel Kahneman.
+====
+“No one ever made a decision because of a number. They need a story.” - Daniel Kahneman
+====
 1. Delay Your Intuition: Most people form an impression in seconds and spend the rest of their time confirming it. The best wait for all the information before letting their intuition speak. - Daniel Kahneman
 ====
 2. Loss Aversion Creates Permanent Programs: Once you give people something (a perk, a feature, a benefit), it’s nearly impossible to take back. The founder who would offer free lunch on day one can’t cancel it on day 1000. Small groups lose something specific, while large groups gain something abstract. Every time. - Daniel Kahneman
@@ -4029,6 +4029,20 @@ The art of not reading is a very important one. It consists in not taking an int
 3. Your Rules Become Your Default: Danny was human just like us; he often said yes to things he didn’t want to do. So he created a rule. Not a goal, not an intention, a rule. It reprogrammed his unconscious mind, turning his desired behavior into his default behavior. - Daniel Kahneman
 ====
 4. Facts Don’t Form Beliefs: “I believe in climate change,” Kahneman said. “I believe in the people who tell me there is climate change. The people who don’t believe in climate change, they believe in other people.” This is how we form all beliefs. We don’t examine evidence and reach conclusions. We trust people we like, then adopt their views. “The reasons are not the causes of our beliefs,” he explained. They’re the stories we tell ourselves afterward. Want to change someone’s mind? Facts won’t do it. They need to trust you first. If they admire you, they’ll find reasons to agree. If they dislike you, the best evidence won’t matter. Smart people believe opposite things because they trust different people. - Daniel Kahneman
+====
+5. The Julia Fallacy: You have the following information. Julia is graduating college. She read fluently at age four. What’s her GPA? You just thought of something around 3.8, and Kahneman knew you would. Here’s why: a four-year-old who reads fluently seems exceptional, maybe 90th percentile. So your brain assumes 90th percentile everything. “It’s idiotic statistically,” he said. Early reading barely predicts college performance. Doesn’t matter. We can’t help ourselves. Stellar interview means stellar employee. One bad presentation means the person can’t teach. Our predictions match our impressions, even when they shouldn’t. - Daniel Kahneman
+====
+6. Winners Want the Score, Not the Prize: Why do billionaires work 80-hour weeks? “They’re clearly not doing this because they need more money,” Kahneman observed. At that level, money becomes proof that you’re good at what you do. His research found that past $70,000, extra money doesn’t make you emotionally happier, it just makes you more satisfied with your life. And these are completely different things. Happiness is social, it’s being with people who love you. Satisfaction is conventional success: money, prestige, achievements. The tragedy? “People don’t seem to care about how happy they’ll be. They want to be satisfied with their life.” We optimize for the story we’ll tell, not the life we’ll actually live. - Daniel Kahneman
+====
+7. Behavior Is Situation, Not Personality: When someone acts like a jerk, “look at the situation they’re in,” Kahneman advised. We instinctively blame personality. Psychologists call this the fundamental attribution error. When others speed, we think they’re reckless. When we speed, we know we’re late for something important. “People do good things for a mixture of good and bad reasons, and they do bad things for a mixture of good and bad reasons.” The kindest person will snap under enough pressure, and the worst person will help when the conditions are right. Change the environment, change the behavior. - Daniel Kahneman
+====
+8. Algorithms Beat You Every Time: “If you can replace judgements by rules and algorithms, they’ll do better,” Kahneman said. Not sometimes, always. We trust our judgment and value human insight, but we’re consistently wrong about this. The real problem is that we prefer confident, intuitive leaders to analytical ones. “People want leaders who are intuitive,” Kahneman observed. We choose the leaders who make us feel good about ourselves, not the ones who make good decisions. - Daniel Kahneman
+====
+9. Wherever There’s Judgment, There’s Noise: An insurance company asked Kahneman to test their underwriters. Same exact cases, same information, 50 different people. The executives expected maybe 10% variation in quotes. The reality shocked them: 50% variation. One customer gets quoted $10,000, another gets $15,000 for the exact same coverage. “Wherever there is judgment, there is noise, and more of it than you think,” he said. The solution is simple: use algorithms or structured procedures. But companies would rather live with expensive chaos than admit their experts disagree with each other. - Daniel Kahneman
+====
+10. Legitimize Doubt: Before making a big decision, Kahneman recommended this technique: gather your team and say, “It’s two years from now. We made this decision and it was a disaster. Write down what went wrong.” He loved this because timing is everything. “When people are coming close to a decision, it becomes difficult to raise doubts,” he explained. Anyone slowing things down becomes the enemy. The premortem flips this dynamic, it doesn’t just allow dissent, it requires it. It won’t prevent every mistake, but it forces you to face the problems everyone’s trying to ignore. - Daniel Kahneman
+====
+11. Clear Intuitions Fool Experts: Experts see all the options. You don’t. When economists design policies or product managers add features, they imagine users comparing every possibility. But you take a job and forget the others existed. You buy a house and stop thinking about the ones you passed on. Life isn’t a menu where you see all choices side by side, it’s one door closing as another opens. “They are completely lost between clear intuitions and strong intuitions,” Kahneman said. The expert thinks small differences matter because they can see them all. You can’t see them, so they don’t. That’s why economists botch predictions and why your phone has 50 features you’ve never touched. - Daniel Kahneman
 ====
 Politicians do not win elections to make policies; they make policies to win elections. What’s most persuasive to voters isn’t whether an idea is right, but whether it narrates a story that confirms what they see and believe in the world.
 ====
