@@ -89,6 +89,9 @@ Dualism: The view that reality is ultimately composed of two fundamentally diffe
 Physicalism: The view that everything that exists is ultimately physical. "All is matter."
 Idealism: The view that reality is fundamentally mental or consciousness-based, and that the physical world is a manifestation of mind.
 ====
+“Lean ideas” (in innovation): Reusable rockets, electric cars, artificial fertilisers, airplanes, AI are all lean ideas . they’re characterised by assertions of great difficulty with a high payoff at the end. 
+“Fat ideas”  Lasers, cars, the Internet, germ theory are all fat ideas - they’re initially perceived as being niche or useless, involving “a lot of piddling around”
+====
 Getting rich requires the willingness to take big risks. 
 Staying rich requires the paranoia to avoid big risks.
 - Morgan Housel
