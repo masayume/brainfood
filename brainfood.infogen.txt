@@ -75,6 +75,8 @@ Swim in your lane.
 Every second you spend looking at a person in another lane comes at the cost of your progress.
 Focus on yourself.
 ====
+Progress only comes from changing how you see the world.
+====
 Things take longer to happen than you think they will, and then they happen faster than you thought they could. - Rudiger Dornbusch
 ====
 "All of us invent ourselves. Some of us just have more imagination than others." - Cherilyn "Cher" Sarkisian
@@ -186,6 +188,8 @@ If you want to change your behavior, change your narrative. If you want to chang
 “Think of these levels as reading to entertain, reading to inform, reading to understand, and reading to master. When you learned to read in elementary school, you were taught to read for entertainment. If you made it to high school and college, you learned to read to inform. This is where most people stop. But most of the value comes at the last two levels.”
 ====
 “There is only one way to read, which is to browse in libraries and bookshops, picking up books that attract you, reading only those, dropping them when they bore you, skipping the parts that drag – and never, never reading anything because you feel you ought, or because it is part of a trend or a movement. Remember that the book which bores you when you are twenty or thirty will open doors for you when you are forty or fifty-and vise versa. Don’t read a book out of its right time for you.” - Doris Lessing 
+====
+“If a book is tedious to you, don’t read it; that book was not written for you.” - Jorge Luis Borges
 ====
 Competence is often less of a problem than confidence.
 An underrated aspect of doing anything hard is believing in yourself. Action creates both confidence and momentum.
@@ -1818,6 +1822,8 @@ The 90-9-1 Rule: In social media networks, 90% of users just read content, 9% of
 ====
 Texas Sharpshooter Fallacy: Goals set retroactively after an activity, like shooting a blank wall and then drawing a bullseye around the holes you left, or picking a benchmark after you’ve invested.
 ====
+The walls you put up to protect yourself work to imprison you.
+====
 Fredkin’s Paradox: Confronted with two equally good options, you struggle to decide, even though your decision doesn’t matter because both options are equally good. The more equal the options, the harder the decision.
 ====
 Poisoning the Well: Presenting irrelevant adverse information about someone in a way that makes everything else that person says seem untrustworthy. “Before you hear my opponent’s healthcare plan, let me remind you that he got a DUI in college.”
@@ -2663,6 +2669,8 @@ Most wealth is inherited, not self-create - Thomas Piketty
 ====
 This has been on top of my facts-that-irritate-me list for a while. Everyone sane knows that the current system is not truly a meritocracy. Facing this statistical reality can be a grounding or frustrating experience. As growth slows, past wealth naturally takes on a larger importance. It's harder for us today than it was for those before, and much harder for those who'll come after. I'll leave this here as a reminder for people like my mother-in-law and advice-leaking poolside boomers. 
 ====
+The longer you delay that thing you know you should do, the more difficult it gets. The easier thing in the short run is often the harder thing in the long run. Pain today, gain tomorrow.
+====
 Frustration is bargaining with reality, hoping it will change.
 Yelling at traffic doesn't make it move faster. Rehearsing the same complaints about your spouse doesn't change their behavior. Getting angry at the delayed flight doesn't make it take off sooner. While you're busy fighting what is, you're blind to what could be. All the energy you put into arguing with reality comes at the expense of improving your situation. The mountain doesn't care how much you yell at it, but you'll find a path around it if you stop and look.
 ====
@@ -2758,7 +2766,61 @@ Sometimes unsolvable questions like “what is my purpose?” and “why should 
 ====
 A point of view can be a dangerous luxury when substituted for insight and understanding. - Marshall McLuhan
 ====
-I wouldn’t have seen it, if I didn’t believe it. — Marshall McLuhan
+I wouldn’t have seen it, if I didn’t believe it. - Marshall McLuhan
+====
+“Every society honors its live conformists and its dead troublemakers.” - Marshall McLuhan
+====
+“We become what we behold. We shape our tools, and thereafter our tools shape us.” - Marshall McLuhan
+====
+“Many a good argument is ruined by some fool who knows what he is talking about.” - Marshall McLuhan
+====
+“Art is anything you can get away with.” - Marshall McLuhan
+====
+“First we build the tools, then they build us.” - Marshall McLuhan
+====
+“We look at the present through a rear view mirror. We march backwards into the future.” - Marshall McLuhan
+====
+“We don't know who discovered water, but we know it wasn't the fish.” - Marshall McLuhan
+====
+“Most of our assumptions have outlived their uselessness.” - Marshall McLuhan
+====
+“There is absolutely no inevitability as long as there is a willingness to contemplate what is happening.” - Marshall McLuhan
+====
+“All words, in every language, are metaphors.” - Marshall McLuhan
+====
+“Politics will eventually be replaced by imagery. The politician will be only too happy to abdicate in favor of his image, because the image will be much more powerful than he could ever be.” - Marshall McLuhan
+====
+“All media are extensions of some human faculty, psychic or physical.” - Marshall McLuhan
+====
+“Ads are the cave art of the twentieth century.” - Marshall McLuhan
+====
+“Language is metaphor in the sense that it not only stores but translates experience from one mode into another. Money is metaphor in the sense that it stores skill and labour and also translates one skill into another.” - Marshall McLuhan
+====
+“Today's child is growing up absurd, because he lives in two worlds, and neither of them inclines him to grow up.” - Marshall McLuhan
+====
+“The artist is a person who is expert in the training of perception.” - Marshall McLuhan
+====
+“Anyone who tries to make a distinction between education and entertainment doesn't know the first thing about either.” - Marshall McLuhan
+====
+“Politics offers yesterday's answers to today's questions.” - Marshall McLuhan
+====
+“World War 3 is a guerrilla information war with no division between military and civilian participation.” - Marshall McLuhan
+====
+“The visible world is no longer a reality and the unseen world is no longer a dream.” - Marshall McLuhan
+====
+“Delegated authority is lineal, visual, hierarchical. The authority of knowledge is nonlineal, nonvisual, and inclusive.” - Marshall McLuhan
+====
+“The price of eternal vigilance is indifference.” - Marshall McLuhan
+====
+“Only puny secrets need protection. Big discoveries are protected by public incredulity.” - Marshall McLuhan
+====
+“A typewriter is a means of transcribing thought, not expressing it.” - Marshall McLuhan
+====
+“The more the data banks record about each one of us, the less we exist.” - Marshall McLuhan
+====
+“One thing about which fish know exactly nothing is water, since they have no anti-environment which would enable them to perceive the element they live in.” - Marshall McLuhan
+====
+“In the land of the blind, the one-eyed man is a hallucinating idiot...for he sees what no one else does: things that, to everyone else, are not there.” - Marshall McLuhan
 ====
 There are two kinds of people in the world… and who is not both of them? - James Richardson
 ====
@@ -4145,7 +4207,11 @@ At the moment of truth, there are either reasons or results. - Chuck Yeager
 ====
 Ten people who yell make more noise than ten thousand who keep silent. - Napoleon
 ====
+“The pursuit of detail is the religion of success.” - Napoleon
+====
 “All great events hang by a single thread. The clever man takes advantage of everything, neglects nothing that may give him some added opportunity; the less clever man, by neglecting one thing, sometimes misses everything.” - Napoleon
+====
+“Make every detail perfect and limit the number of details to perfect.” - Jack Dorsey
 ====
 "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 ====
