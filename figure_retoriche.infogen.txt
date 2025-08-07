@@ -1,6 +1,12 @@
 ====
-anacenosi: In retorica, richiesta di consiglio rivolta a chi ascolta
+anacenosi: In retorica, richiesta di consiglio rivolta a chi ascolta.
 voce dotta recuperata dal latino tardo [anacoenòsis], dal greco [anakóinosis] ‘comunicazione’, da [koinós] ‘comune’.
+====
+ipallage: Figura retorica che consiste nel riferire a un termine qualcosa che all’interno della frase dovrebbe essere riferito a un altro.
+voce dotta recuperata dal latino tardo hypàllage, prestito dal greco hypallagé ‘scambio’, dal verbo hypallássein ‘scambiare’, letteralmente ‘mettere sotto ad altro’ (hypó ‘sotto’, állos ‘altro’).
+ES: "Le mura dell’alta Roma"; "Dare i venti alle navi." - Eneide, Virgilio
+ES: "Passare delle notti insonni"
+https://unaparolaalgiorno.it/significato/ipallage
 ====
 Retorico: Relativo all’arte della retorica; vuoto, ampolloso, ingannevole
 voce dotta recuperata dal latino rhetoricus, dal greco rhetorikós, da rhétor ‘retore, maestro di eloquenza’, dal tema di éiro, ‘parlare’.
