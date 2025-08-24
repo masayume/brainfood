@@ -112,6 +112,10 @@ Changing your trajectory is a choice.
 ====
 "Change, although it involves risks, is the law of life." - Robert Kennedy
 ====
+Your heroes are your blueprints.
+Study what makes them exceptional, not to become them but to become who you're capable of being. The point isn't to be a second-rate version of your hero, it's to be a first-rate version of yourself with upgraded tools.
+Learn their system. Keep your soul.
+====
 “Faced with the choice between changing one’s mind and proving that there is no need to do so, almost everyone gets busy on the proof.”
 - John Kenneth Galbraith
 ====
@@ -2964,6 +2968,8 @@ Everything that needs to be said has already been said. But since no one was lis
 ====
 "The important thing is not to stop questioning." - Albert Einstein
 ====
+"This is my work. I have to take full responsibility for doing it right as well as doing it wrong. Doing it wrong isn’t bad, but doing it wrong and thinking you’ve done it right is." - Toni Morrison
+====
 To understand recursion, one must first understand recursion. - Stephen Hawking
 ====
 "If I had my life to live over again, I would have made a rule to read some poetry and listen to some music at least once every week." - Charles Darwin
@@ -3266,6 +3272,8 @@ Spend time thinking about what to focus on.”
 stealing like an artist: “Just looking at something and going, I like that, and then trying to break down, why do I like that? What is it about that… that I like? What do I steal? What can I repurpose or tweak to make it fit what we’re trying to do? It’s just homework, and the best part of this job is that your homework is watching great movies.” - Steven Soderbergh
 ====
 “There is a phrase, variations of which many of the subjects of this book ended up uttering at some point. As they were describing why they did this or that, they would say they ’listened’ to the work, or the work would ‘tell’ them what to do; the work would ’speak’ to them, as if a character in a book or a color on a canvas could issue orders…. For a long while, I dismissed this phrasing as cliché - more of the empty language people often employ to describe how they work because creation is so hard to describe. Eventually, however, I began to think that no, maybe listening was the whole deal.” - Adam Moss, "The Work of Art"
+====
+"One thing seems more and more evident to me now — people’s basic character does not change over the years … Far from improving them, success usually accentuates their faults or short-comings. The brilliant guys at school often turn out to be not so brilliant once they are out in the world. If you disliked or despised certain lads in your class you will dislike them even more when they become financiers, statesmen or five star generals. Life forces us to learn a few lessons, but not necessarily to grow." - Henry Miller
 ====
 “The question is not whether we will die, but how we will live.” - Dr. Joan Borysenko
 ====
@@ -3719,6 +3727,8 @@ You cannot fear something that you don't know. Nobody is afraid of the unknown. 
 "Celebrate the life you had, not the life you could've had." - Earvin "Magic" Johnson
 ====
 I never feared about my skills because I put in the work. Work ethic eliminates fear. So you if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
+====
+"Preparation is never wasted, regardless of outcome." - Bill Belichick on being ready
 ====
 "The good and the great are only separated by the willingness to sacrifice." - Kareem Abdul-Jabbar
 ====
