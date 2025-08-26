@@ -1,12 +1,41 @@
 ====
+allegoria: figura retorica che consiste nell’affidare a un testo (sia esso scritto o orale) un senso diverso da quello letterale e logico delle parole che lo compongono. Etimologia dal latino tardo allegòria, a sua volta dal greco allegorìa, composto di "àllos" ‘altro’ e "agorèuo" ‘io parlo’.
+- https://unaparolaalgiorno.it/significato/allegoria
+====
 anacenosi: In retorica, richiesta di consiglio rivolta a chi ascolta.
 voce dotta recuperata dal latino tardo [anacoenòsis], dal greco [anakóinosis] ‘comunicazione’, da [koinós] ‘comune’.
+====
+antonomasia: figura retorica che consiste nell’usare un nome comune o una perifrasi per indicare un nome proprio; figura retorica che consiste nell’usare il nome di un personaggio famoso per identificare una persona che si ritiene abbia caratteri simili. 
+Etimologia voce dotta recuperata dal latino antonomasia, prestito dal greco antonomasía, composto di antì ‘al posto di’ e di un derivato di ónoma ‘nome’. - https://unaparolaalgiorno.it/significato/antonomasia
+====
+disfemismo: figura retorica, opposta all’eufemismo, che consiste nell’utilizzo di un termine propriamente dispregiativo con un’accezione però positiva (spesso affettuosa).
+Etimologia dal greco dysphemìa ‘improperio’, legato a dysphemèo ‘io parlo male, composto da dys-, prefisso che annulla il valore positivo della parola a cui è affisso, e phemì ‘io parlo’. - https://unaparolaalgiorno.it/significato/disfemismo
+====
+eufemismo: figura retorica con cui si smorza l’asprezza di un’espressione - usando una perifrasi o dei sinonimi.
+Etimologia dal greco: "euphemì"" parlar bene, composto da "eu" (bene) e "pheme" (cosa detta). - https://unaparolaalgiorno.it/significato/eufemismo
 ====
 ipallage: Figura retorica che consiste nel riferire a un termine qualcosa che all’interno della frase dovrebbe essere riferito a un altro.
 voce dotta recuperata dal latino tardo hypàllage, prestito dal greco hypallagé ‘scambio’, dal verbo hypallássein ‘scambiare’, letteralmente ‘mettere sotto ad altro’ (hypó ‘sotto’, állos ‘altro’).
 ES: "Le mura dell’alta Roma"; "Dare i venti alle navi." - Eneide, Virgilio
 ES: "Passare delle notti insonni"
 https://unaparolaalgiorno.it/significato/ipallage
+====
+iperbole: Figura retorica che consiste nell’esagerare qualcosa per eccesso o per difetto; esagerazione; tipo di curva. 
+Etimologia dal greco "hyperbolé", dal verbo "hyperbàllein", composto da "bàllein" lanciare e "hypér" oltre. - https://unaparolaalgiorno.it/significato/iperbole
+====
+metafora: figura retorica che consiste nella sostituzione di un termine con un altro secondo analogia, rispetto a cui è sottintesa una similitudine; traslato. Etimologia dal greco metaphorà trasferimento, composto da "meta" (oltre) e "phero" (portare). - https://unaparolaalgiorno.it/significato/metafora 
+====
+metonimia: figura retorica che consiste nello scambio di nome tra due entità tra le quali vi è un rapporto di contiguità dei sensi.
+Etimologia dal latino "metonýmia", mutuato dal greco "metonymìa" ‘scambio di nome’.
+Scambio di nome in contiguità di sensi. Qualche esempio? Bevo una bottiglia, lei è la chitarra migliore del nostro gruppo. Chi legge Leopardi non sta seduto ore e ore a leggere la parola ‘Leopardi’ ininterrottamente, ma legge le opere da lui prodotte. - https://unaparolaalgiorno.it/significato/metonimia
+====
+sineddoche: figura retorica che consiste nello scambio di nome tra due entità tra le quali vi è un rapporto quantitativo. Etimologia dal latino "synècdoche", mutuato dal greco "synekdokhé", derivante dal verbo "synekdékhomai" ‘supplire alla mancanza di una parola o un pensiero con parole o pensieri a essi connessi’.
+La sineddoche non è altro che la cara sorella della metonimia. Se mi è concesso un giudizio di qualità, poi, è a volte anche più semplice. «Tutto a posto allora, nessun problema!», direte voi. E invece no, il problema c’è eccome, perché sineddoche e metonimia sono sorelle quasi gemelle: a volte indistinguibili. - https://unaparolaalgiorno.it/significato/sineddoche
+====
+tropo: Sono tropi tutte quelle figure retoriche che traslano dei significati, che dicono qualcosa per qualcos’altro: il greco trópos è derivato da trépo, giusto un ‘volgo, trasferisco’. Ad esempio: metafora, allegoria, sineddoche e metonimia, eufemismi e disfemismi, perifrasi, antonomasie, iperboli. - https://unaparolaalgiorno.it/significato/tropo
+====
+====
+====
 ====
 Retorico: Relativo all’arte della retorica; vuoto, ampolloso, ingannevole
 voce dotta recuperata dal latino rhetoricus, dal greco rhetorikós, da rhétor ‘retore, maestro di eloquenza’, dal tema di éiro, ‘parlare’.
