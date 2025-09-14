@@ -17,6 +17,8 @@ Be really, really tender. - Laurie Anderson and Lou Reed rules for living
 ====
 The person who focuses on fewer things goes further than the person distracted by many.
 ====
+Surround yourself with people who are thoughtful in ways you are not, because they see what you can't.
+====
 Convince yourself and others to forgo instant gratification, often through strategic distraction.
 ====
 You don't need more time; you need more focus. Fewer projects. Fewer commitments. Fewer obligations. Fewer responsibilities. Carefully choose your commitments, then go all in. Time isn't the constraint. Your choices are. Great outcomes aren't built on great days, but on consistent ones.
@@ -86,9 +88,15 @@ Swim in your lane.
 Every second you spend looking at a person in another lane comes at the cost of your progress.
 Focus on yourself.
 ====
+All the time you spend worrying about the opportunities you don't have comes at the expense of maximizing the opportunities you do have.
+====
 Progress only comes from changing how you see the world.
 ====
 Things take longer to happen than you think they will, and then they happen faster than you thought they could. - Rudiger Dornbusch
+====
+Anyone can move fast. That's the trap. Speed is cheap, but the ability to be fast without being reckless is expensive.
+The chess master's lightning moves come from decades of slow study. The CEO who is in the weeds knows where the problems lurk.
+Details don't slow you down; they speed you up.
 ====
 "All of us invent ourselves. Some of us just have more imagination than others." - Cherilyn "Cher" Sarkisian
 ====
@@ -223,6 +231,10 @@ Be quiet, work hard, and stay healthy. It’s not ambition or skill that is goin
 "Purpose is an essential element of you ... the struggles along the way are only meant to shape you for your purpose." - Chadwick Boseman
 ====
 “There was something heavy in me. … I wasn’t doing the right thing. I was just trying to copy exactly everything I had learned. And I think that happens in every craft in life. You’re young. You have a master. You want to emulate them, do what they do. But at some point in life, you have to turn around and say I have to find my own way in my own language.” - Chef Francis Mallmann
+====
+“[I]t is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence.” - William Clifford
+====
+It is more accurate to think of belief as probabilistic. There are probably contexts where you already do this, but some where it is much less common.
 ====
 “I believe the way toward mastery of any endeavor is to work toward simplicity; replace complex technology with knowledge. The more you know, the less you need. From my feeble attempts at simplifying my own life I’ve learned enough to know that should we have to, or choose to, live more simply, it won’t be an impoverished life but one richer in all the ways that really matter.” - Yvon Chouinard
 ====
@@ -2997,6 +3009,8 @@ After all these years, I have come to realise that I must go through a period of
 ====
 Nothing good comes easy. The creative process is a torture that usually feels too personal. I like how zimmer puts in perspective the pain of the process that rarely get acknowldge in our hustle culture that want flow state and breakthoughts on demand. 
 ====
+“It’s easy to feel as if we’re standing two inches away from a huge canvas that’s noisy and crowded and changing with every microsecond. It’s only by stepping farther back and standing still that we can begin to see what that canvas (which is our life) really means, and to take in the larger picture.” - Pico Iyer
+====
 The dose makes the poison - Paracelsus
 ====
 We've know about the idea of hormesis for a long time but seem to forget quite often that a bit os something bad for us can have positive effects. Too much comfort makes us weak; not enough can kill. Finding the limit is a perilous exercise of moderation. I try to apply this hormetic approach to nutrition, exercise and intelect as frequently as possible. 
@@ -3642,6 +3656,8 @@ Smaller groups are more likely to find truth than larger ones.”
 ====
 "The beautiful thing about learning is nobody can take it away from you." - BB King
 ====
+“What we see in people is determined, in large part, by what we expect to find.” - Paul Smith
+====
 "Reputation is what others think about you. What’s far more important is character, because that is what you think about yourself." - Billie Jean King
 ====
 “Reputation is like a shadow. Sometimes it's bigger than you, and sometimes it's smaller.”
@@ -3784,6 +3800,8 @@ You cannot fear something that you don't know. Nobody is afraid of the unknown. 
 “Helping the team win doesn't look warm and fuzzy. It looks like work—usually hard work—if you want to outcompete your opponent.” - Bill Belichick on competing:
 ====
 "This is my invariable advice to people: Learn how to cook—try new recipes, learn from your mistakes, be fearless and above all have fun." - Julia Child
+====
+"The road to the Olympics, leads to no city, no country. It goes far beyond New York or Moscow, ancient Greece or Nazi Germany. The road to the Olympics leads—in the end—to the best within us." - Jesse Owens
 ====
 "Do not pray for an easy life, pray to be a strong person." - Nadia Comăneci
 ====
