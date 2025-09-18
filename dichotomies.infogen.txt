@@ -68,6 +68,9 @@ Body: The physical, material aspect of a being. "Outer form."
 Appearance: How things seem to us through our senses or immediate experience. "What meets the eye."
 Reality: The true nature of things, independent of our perception. "The underlying truth."
 ====
+Realist: there is a mind-independent, objective phenomenon that the definition aims to pick out.
+Anti-realist: the definition doesn’t pick out anything that exists in a mind-independent, objective way.
+====
 Nature: Innate qualities and characteristics determined by genetics and biology.
 Nurture: The influence of environment and experience on an individual's development.
 ====
@@ -91,6 +94,9 @@ Dualism: The view that reality is ultimately composed of two fundamentally diffe
 ====
 Physicalism: The view that everything that exists is ultimately physical. "All is matter."
 Idealism: The view that reality is fundamentally mental or consciousness-based, and that the physical world is a manifestation of mind.
+====
+Pragmatism: language is, most importantly, a tool for achieving goals.
+Idealistm: language is, most importantly, a tool for describing reality.
 ====
 “Lean ideas” (in innovation): Reusable rockets, electric cars, artificial fertilisers, airplanes, AI are all lean ideas . they’re characterised by assertions of great difficulty with a high payoff at the end. 
 “Fat ideas”  Lasers, cars, the Internet, germ theory are all fat ideas - they’re initially perceived as being niche or useless, involving “a lot of piddling around”
