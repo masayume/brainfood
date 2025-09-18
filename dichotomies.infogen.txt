@@ -2,6 +2,9 @@
 Emotion: Feelings, instincts, and spontaneous reactions, often seen as powerful motivators. "Heart's impulse."
 Reason: Logical thought, deliberation, and rational calculation. "Mind's logic."
 ====
+Monist: there is a single best way to define the word in question.
+Pluralist: there can be many different but equally good definitions.
+====
 Conscious: The part of the mind that is aware, awake, and capable of rational thought. "Aware mind."
 Unconscious: The part of the mind that contains desires, memories, and thoughts outside of immediate awareness, yet influencing behavior. "Hidden drives."
 ====
