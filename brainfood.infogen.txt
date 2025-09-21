@@ -1,6 +1,8 @@
 ====
 "Life’s a roller coaster you don’t always get to choose the seat you’re in, but you can choose to throw your hands up and enjoy the ride." - Anonymous
 ====
+“Pain is the universe’s way of demanding that you continue to learn. The more pain you can tolerate, the more you can learn.” - Phil Stutz and Barry Michels 
+====
 The goal of life is to be excited to go to work and to be excited to come back home. - Joshua Kushner
 ====
 It doesn’t matter what position you find yourself in right now. What matters is whether you improve your position today. Every ordinary moment is an opportunity to make the future easier or harder.
@@ -83,6 +85,9 @@ Outcome over ego.
 Focus on the details.
 See challenges as opportunities.
 Go to bed smarter than when you woke up.
+====
+Most arguments are ego competitions disguised as truth-seeking.
+Learning to say "you're probably right" will save you a lot of time and energy.
 ====
 Swim in your lane.
 Every second you spend looking at a person in another lane comes at the cost of your progress.
@@ -206,6 +211,8 @@ The single most effective habit is the willingness to change your own mind.
 If you want to understand someone, figure out the narrative they tell themselves about themself.
 If you want to change your behavior, change your narrative. If you want to change someone else’s behavior, offer them a more compelling narrative they can tell themselves.
 ====
+“The beginning of a habit is like an invisible thread, but every time we repeat the act, we strengthen the strand, add to it another filament, until it becomes a great cable and binds us irrevocably in thought and act.” - Orison Swett Marden
+====
 "Change, by its very nature, is threatening but it is also often productive." - Betty Ford
 ====
 “Lessons are repeated until they are learned. A lesson will be presented to you in various forms until you have learned it. When you have learned it, you can go on to the next lesson.” - Cherie Carter-Scott
@@ -296,6 +303,10 @@ Your mistakes aren’t the best teacher—just the most expensive.
 You can start at the bottom of the mountain and make every mistake from scratch on the way to the top, or you can take a sherpa with you and master the best of what other people have already figured out.
 The successful learn vicariously; the foolish insist on firsthand pain.
 ====
+The people who get the most done don't agonize over decisions. It's not because they have better judgment. They've just structured their lives so being wrong isn't expensive.
+When mistakes are cheap, you can move fast and fix what doesn't work. When mistakes are expensive, you overthink everything and still choose wrong.
+This is why startups can run circles around big companies. It's not because they're smarter, but because being wrong isn't expensive.
+====
 Stop fighting your nature. Start winning with it. You're born with certain core traits. Fighting them is like being a sprinter forced to run marathons – exhausting and futile. But these "limitations" can become your biggest advantage. Your instincts, personality, and preferences aren't flaws - they're features. When something seems to be holding you back that you can't change, the key is to change your environment. What's a headwind in one situation is a tailwind in another. The most successful people don't fight their nature. They architect their environment to amplify it. Stop asking: "How do I fix myself?" Start asking: "How do I position myself where my natural traits are assets?"
 ====
 I think it's generally human nature to over-estimate risk and under-estimate opportunity. ... The risks are probably not as big as you perceive and the opportunities may be bigger than you percieve. - Jeff Bezos
@@ -362,6 +373,8 @@ Great ideas often look wrong at first; that's why the independent-minded discove
 "All good ideas start out as bad ideas; that’s why it takes so long." - Steven Spielberg
 ====
 “The only thing you can do is trust your initial instincts. You just have to say, 'This is what I’m making. This is what I’m doing. This is why I wrote this script. It is going to work. Just trust it.'” - Christopher Nolan
+====
+“Every film I do, I have to believe that I'm making the best film that's ever been made. Films are really hard to make. They are all-consuming. So it had never occurred to me there were people doing it who weren't trying to make the best film that ever was. Why would you otherwise? Even if it's not going to be the best film that's ever been made, you have to believe that it could be. You just pour yourself into it and when it affects someone that way, that is a huge thrill for me—huge thrill. I feel like I have managed to wrap them the up in it way I try to wrap myself up.” - Christopher Nolan
 ====
 Very rarely have I ever let anyone go because they did not have the skills to do their job. It’s almost always their unwillingness to learn those skills or their inability to take feedback.
 ====
@@ -4682,6 +4695,8 @@ Gall’s Law: “A complex system that works is invariably found to have evolved
 Gibson’s Law: “For every PhD there is an equal and opposite PhD.”
 ====
 Golden Law of Stupidity: “A stupid person is a person who causes losses to others while themselves deriving no gain and even possibly incurring losses.”
+====
+Avoiding stupidity is easier than seeking brilliance.
 ====
 Goodhart’s Law: “When a measure becomes a target, it ceases to be a good measure” (see also Campbell’s Law)
 ====
