@@ -927,6 +927,8 @@ Mismatch Theory - Moths evolved to navigate by the moon, a good strategy until t
 ====
 Common Knowledge Effect - Groups are meant to be better decision-makers than individuals, because they combine many perspectives. But in practice, a group doesn't base its decisions on the info specific to each member, but only on the info common to them all. This casts doubt on the idea that “two heads are better than one”, and helps explain why, despite popular wisdom, diversity generally does not make teams better.
 ====
+"Even doubt needs reasons, otherwise it is a rhetorical exercise, and as such can be ignored." - George Edward Moore
+====
 “The common trait of people who supposedly have vision is that they spend a lot of time reading and gathering information, and then synthesize it until they come up with an idea.” - Fred Smith 
 ====
 Champion Bias - We assume winners have the best advice, but those who win rarely examine why they won, while those who lose often regretfully dwell on their mistakes. So you’ll often obtain the best advice on winning not from winners but from losers.
