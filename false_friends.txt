@@ -54,11 +54,13 @@ Furniture sembrerebbe “fornitura” (supply) ma in realtà sta per “mobili�
 Genial farebbe pensare a “geniale” (ingenious) ma vuol dire “cordiale, piacevole, socievole”.
 Gracious non è “grazioso” (pretty) ma “clemente, misericordioso”.
 Grave non è “grave” (severe) bensì “tomba”.
+Gross non è grosso (large) bensì volgare.
 Incident non è “incidente” (accident) ma “evento”.
 Inhabited non è “disabitato” (uninhabited) ma “abitato”
 Injury non è “ingiuria” (insult) ma ferita, lesione.
 Large non è “largo” (wide) ma “grande”.
 Lecture non è “lettura” (reading) ma conferenza.
+Lord non è “lordo” (gross) ma signore.
 Lunatic non è “lunatico” (moody) ma pazzo.
 Lurid non è “lurido” (dirty, smutty) ma “vivido, sgargiante”.
 To magnify non è magnificare (to praise) ma ingrandire.
