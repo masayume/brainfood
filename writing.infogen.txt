@@ -19,6 +19,8 @@
 ====
 "Use dialect sparingly." - Elmore Leonard
 ====
+"Soul is when you take a song and make it a part of you—a part that's so true, so real, people think it must have happened to you." - Ray Charles
+====
 "Avoid detailed descriptions of characters." - Elmore Leonard
 ====
 "Same ("Avoid detailed descriptions of characters.") for places + things." - Elmore Leonard
@@ -178,6 +180,10 @@ Writing is the process by which you realize that you do not understand what you 
 “Self employment, for me at least, is a never-ending contest between the world’s worst manager and the world’s laziest employee.”
 
 — Daniel Akst
+====
+“If you know what you’re doing in the arts, then you’re doing it wrong.” 
+
+— Terry Riley
 ====
 “If you would be a poet, write living newspapers. Be a reporter from outer space, filing dispatches to some supreme managing editor who believes in full disclosure and has a low tolerance for bullshit.”
 
