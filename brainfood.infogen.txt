@@ -31,6 +31,8 @@ Your capacity for excellence is inversely proportional to the number of your com
 ====
 Your choices determine your trajectory.
 ====
+Make your mood, or it makes you.
+====
 When your primary goal is to be liked, you can't take risks. You can't disagree. You can't push boundaries. You become a prisoner of other people's expectations.
 ====
 "The secret to happiness, of course, is not getting what you want; it's wanting what you get." - Alex Trebek
@@ -339,6 +341,9 @@ When we lack real problems, we create imaginary ones; when we lack meaningful wo
 ====
 "If you're not willing to look like an idiot in the short term, you will never look like a genius in the long term."
 ====
+“Tolerate genius. My observation has been that mediocre men recognize genius, resent it, and feel compelled to destroy it.
+There are very few men of genius. But we need all we can find. Almost without exception, they are disagreeable. Don't destroy them. They lay golden eggs.” - David Ogilvy
+====
 “It's so simple, yet makes such a difference. Pretend that every single person you meet has a sign around his or her neck that says, 'Make me feel important.'” - Mary Kay Ash
 ====
 science - Use the Baloney Detection Kit
@@ -610,6 +615,14 @@ Make a little progress today on your most important objective. Repeat tomorrow."
 ====
 “Give people what they want in a way they're not expecting.”
 ====
+Most complexity is unnecessary, but we manage it instead of removing it because deletion requires courage that addition doesn't.
+====
+We avoid doing simple things that work because they don't make us look smart.
+Smart people feel stupid doing simple things, so we invent complicated alternatives that accomplish less but feel more intellectually satisfying.
+Meanwhile, the people who dominate their fields are doing embarrassingly basic things, but they do them better than everyone else.
+====
+
+====
 1. Bloom’s taxonomy of learning
 When studying a topic, it may be hard to define our learning objectives. Bloom’s taxonomy is Bloom’s taxonomy is a set of three lists used to classify educational learning objectives into levels of complexity and specificity. The three lists focus respectively on learning objectives in the cognitive domain (knowledge-based), affective (emotion-based) and psychomotor domains (action-based).
 - Knowledge-based objectives. The six levels of the cognitive domain are knowledge, comprehension, application, analysis, synthesis, and evaluation. 
@@ -653,6 +666,8 @@ Share: share back with the rest of the team.
 https://nesslabs.com/thinking-tools-metacognitive-toolbox?ref=masayume.it
 ====
 "You don't try to forget the mistakes, but you don't dwell on it. Don't let it have any of your energy, or any of your time, or any of your space." - Johnny Cash
+====
+“I think that a life properly lived is just learn, learn, learn all the time.” - Charlie Munger
 ====
 "We all are learning, modifying, or destroying ideas all the time. Rapid destruction of your ideas when the time is right is one of the most valuable qualities you can acquire. You must force yourself to consider arguments on the other side." - Charlie Munger on The Work Required to Have an Opinion
 ====
@@ -4336,6 +4351,8 @@ When dreaming, imagine success. When preparing, imagine failure. - James Clear
 "Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world." - Lucille Ball
 ====
 "The secret to staying young is to live honestly, eat slowly, and lie about your age." - Lucille Ball
+====
+“Remember that there are practically no “overnight" successes. Before that brilliant hit performance came ten, fifteen, sometimes twenty years in the salt mines, sweating it out.” - Lucille Ball
 ====
 "I succeeded by saying what everyone else is thinking." - Joan Rivers
 ====
