@@ -1610,6 +1610,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 ====
 “A man is a gregarious animal, and much more so in his mind than in his body. He may like to go alone for a walk, but he hates to stand alone in his opinions.” - George Santayana
 ====
+"Any work of art, provided it springs from a sincere motivation to further understanding between people, is an act of faith and therefore is an act of love." - Truman Capote
+====
 “Jokes of the proper kind, properly told, can do more to enlighten questions of politics, philosophy, and literature than any number of dull arguments.” – Isaac Asimov
 ====
 “Inherited wealth is as certain a death to ambition as cocaine is to morality.” – William Vanderbilt
@@ -2336,7 +2338,7 @@ Craving is contagious; watching other people want a thing makes us want it too. 
 ====
 9. Overblown Implications Effect
 “We think people judge us by a single success or failure, but they don’t. If you mess up one meal no one thinks you're a bad chef, and if you have one great idea no one thinks you're a genius. People just aren't thinking about you that much.”
-—Ethan Mollick
+- Ethan Mollick
 ====
 10. Ellsberg Paradox:
 People prefer a clear risk over an unclear one, even if it's no safer. E.g. They'd rather bet on a ball picked from a mix of 50 red & 50 black balls than on one where the exact ratio of red to black balls is unknown. Helps explain market volatility.
