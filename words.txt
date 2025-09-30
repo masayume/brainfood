@@ -1,13 +1,40 @@
 ====
 Age-Otori (上げ劣り): looking worse after putting up one's hair
 ====
+Alexithymia – A condition where you struggle to identify, describe, and/or differentiate your emotions. If you often can’t tell how you feel or usually can’t put your emotions into words, you may have Alexithymia.
+====
+Alonely – negative feelings caused by not getting enough time alone (the opposite of loneliness).
+====
+Apophenia (Spectrum) – Apophenia is the cognitive bias of perceiving meaningful patterns or connections in random or meaningless data. I prefer, though, to adapt this concept to use it as a spectrum applied to people. I use it to indicate the extent to which you spot patterns and connections. Those who are high in apophenia find real patterns that others miss but also see more false patterns, whereas those who are low have fewer false patterns but may miss real patterns. There’s a fundamental trade-off related to pattern identification – some people have more false positives, whereas others have more false negatives. People with schizophrenia tend to be very high in apophenia.
+====
+Bezel – Galbraith’s term for the illusory wealth created by fraud or embezzlement before it gets discovered. It’s the gap between the perceived and real asset value. The bezel makes the defrauder and defrauded both have a psychological perception of wealth.
+====
 Brouhaha: A noisy and overexcited reaction or response to something.
 ====
 Chokkan ni Hanshita (直観に反した): counter-intuition
 ====
+D.A.R.V.O. – A tactic often used by abusers when they are accused of wrongdoing: (1) Deny wrongdoing, (2) Attack the accuser, and (3) Reverse Victim and Offender (so as to make the abuser appear to be the victim)
+28) Mimophant – Someone who is simultaneously aggressive, forceful, or insensitive to other people’s feelings (charging forward like an elephant) yet hypersensitive to criticism or has their own feelings easily hurt (like a mimosa plant, which quickly retracts its leaves when touched).
+====
+Deepity – Statements that seem profound by exploiting ambiguity: they have one interpretation by which they are trivially or boringly true and another interpretation by which they are meaningless or false (but where it would seem profound if true). Our brains can accidentally mix these interpretations together, leading to the mistaken impression that the statement is both true and profound (e.g., “Love is just a word.”)
+====
+Defusion – The skill of viewing thoughts as transient mental events rather than literal truths – such as by viewing them from an external perspective – which reduces their emotional power over us. For example, instead of just having a thought X and being “inside” it, you observe that “you’re having the thought that X” or even “I’m noticing that I’m having the thought that I’m having the thought that X.” You can ask yourself about a particular thought: are you “fused” with that thought (living inside of it, treating it as the truth) or defused from it?
+====
+Ego-syntonic – Experienced as consistent with one’s self-image, values, and goals. For instance, Narcissistic Personality Disorder is usually ego-syntonic, meaning that insofar as they’re willing to accept their traits, narcissists usually don’t see them as problematic.
+====
+Epistemics – The norms, methods, and quality standards governing how beliefs are formed, updated, and justified. If you think that society is bad at figuring out what’s true, you may want people to work on improving their epistemics.
+====
 Epistemology: the branch of philosophy that examines the nature, origin, and limits of knowledge. Also called theory of knowledge.
 ====
+Gamable – Able to be strategically manipulated or “gamed,” i.e., its rules allow actors to extract advantage without fulfilling the system’s intended purpose. One of the most important aspects of system design in high-stakes situations lacking trust is that systems should be ungamable. Otherwise, the system will be exploited or not achieve its intended purpose.
+====
 Gung Ho: especially enthusiastic or dedicated to it, or have no qualms or hesitancy in their willingness to do something. [https://www.mentalfloss.com/gung-ho-phrase-origins]
+====
+Healthspan – The length of time you spend in good health, free from chronic disease and disability (not merely alive). For some who see themselves as wanting to increase their lifespan, their values might be more accurately captured by aiming to increase their healthspan.
+====
+Hyperstition – A narrative or idea that becomes true (or shapes reality) precisely because people believe and propagate it. For instance, if people believe a company to be very valuable, that can make it become very valuable, or if people believe a handbag is very popular (even if at that time it isn’t actually), that can make it become very popular.
+====
+Hormetic exposure – Exposures that are beneficial precisely because they are mild stresses (e.g., exercise, fasting, hot/cold therapy). By putting the body under stress, in some cases, you can trigger helpful adaptive over-compensation (hormesis).
 ====
 Ikigai: (生き甲斐): reason for living; something one lives for; purpose in life; raison d'être
 ====
@@ -15,19 +42,33 @@ Irusu (居留守): pretending to be out
 ====
 Iyashikei (癒し系): literature, manga, anime created with the specific purpose of having a healing or soothing effect on the audience.
 ====
+JOMO (Joy of Missing Out) – Positive satisfaction you get from deliberately skipping social or popular activities in favor of using time for something more personally valuable (such as time with loved ones). Some see it as the near opposite of FOMO (fear of missing out).
+====
 Kakizome (書初め): the first written thing of the year.
 ====
 Komorebi (木漏れ日): sunlight filtering through trees
 ====
 Limerence (limerenza): an involuntary, uncontrollable and obsessive desire for another person. This fixation can lead to significant distress, disrupting daily life, and may have negative impacts on other people too.
 ====
+Longtermism – An ethical view that “positively influencing the long-term future is a key moral priority of our time.” Sometimes, it’s justified by arguing that the importance of actions may lie in their effects on the far future, given the vast potential number of future lives.
+====
 Majime (真面目): serious; earnest; sober; grave. A conscientious, reliable person who always simplifies life and faces everything without drama.
+====
+M.E.C.E. – A useful principle for structuring information by dividing it into categories that are mutually exclusive (there’s no overlap between categories) and collectively exhaustive (no items are left out; everything has a category).
 ====
 Metacognitive:  knowledge and understanding of your own thinking, knowledge.
 ====
+Mudita – Buddhist “sympathetic joy,” that is, genuine happiness at another’s good fortune, which can be viewed as the inverse of envy or schadenfreude.
+====
+Musterbating: Albert Ellis’ term for rigid, self-imposed ideas that many people hold that “I/you/they absolutely must (or should) do X.” Rather than seeing these as preferences or nice-to-haves, they see them as absolutes, which fuels irrational belief and negative emotions.
+====
 Oshikatsu (推し活): (doing) various things to support one's favourite member of a boy band, girl group
 ====
+Paltering – Misleading an audience by selectively stating only true facts that nonetheless foster a false overall impression. Some of the most effective public manipulators mainly palter instead of lying.
+====
 Preterintention: an act that goes beyond its original intent.
+====
+Pronoid – A pervasive conviction that other people or the universe at large are conspiring for your benefit. It is the optimistic mirror-image of being paranoid: where a paranoid expects hidden threats, a pronoid expects hidden aid. Thanks to Andreea Alexuc for introducing me to this concept.
 ====
 Ṛta (ऋतं, "rita"): 1) A fixed or settled rule, law (religious); Sacred custom, pious action; Divine/Cosmic law, divine truth.
 ====
@@ -35,10 +76,15 @@ Shoshin (初心): fresh spirit and no preconceptions; one's original intention; 
 ====
 Shinrin-Yoku (森林浴): forest bathing; forest therapy; peaceful walk through the woods for health benefits
 ====
+Superstimuli – something that is optimized by human ingenuity to stimulate our naturally evolved reward circuits more than they could be stimulated by things in our natural environment. For instance, junk food is a food superstimulus, or social media is a social superstimulus.
+====
 Tsundoku (積ん読): the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them. The term is also used to refer to books ready for reading later when they are on a bookshelf. A stack of books found after cleaning a room
 ====
 Ukiyo (): fleeting life; this transient world; floating world. To take a break from the stresses of life
 ====
+Umwelt – An organism’s perceptual experience of the world or the slice of reality created by a particular creature’s unique sensory and cognitive apparatus. For instance, the Elephantnose Fish apparently gets a 3d sense of its surroundings by creating an electric field – their umwelt must be nearly unimaginably different than our own.
+====
 Vorfreude: the pleasure of anticipation. The magic of vorfreude lies in how it stretches out the pleasure of any upcoming event or experience. Once I hit 'Confirm' to book a trip, it kicks off joy for months whenever I think about the trip
 ====
+Wamb – A term coined by John Nerst, which means the opposite of “nerd.” Things that are wamb tend to be socially mainstream, trendy, cool, and non-intellectual. Jock, prom king, football players in high school are often the epitome of wamb. We can also think about a wamb-to-nerd spectrum that people and things can be placed on.
 =====
