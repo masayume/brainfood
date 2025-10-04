@@ -1981,7 +1981,11 @@ Hanlon’s Razor: “Never attribute to malice that which can be adequately expl
 ====
 False Uniqueness Effect: Assuming your skills are unique when they’re not. Comes from conflating “I’m good at this” with “Others are bad at this.”
 ====
+Annoyance is the only truly renewable resource known to man. - Adam Mastroianni
+====
 The Wadsworth Constant says that you can safely skip the first 30% of anything you see online. It was meant for YouTube videos, but it applies just as well to writing. Somehow, whenever I finish a draft, my first few paragraphs almost always contain ideas that were necessary for writing the rest of the piece, but that aren’t necessary for understanding it. It’s like I’m giving someone a tour of my hometown and I start by showing them all the dead ends. - Adam Mastroianni
+====
+Everyone has this dream of a frictionless existence; nobody seems to like it much when they get it. Infinity pools and bottomless margaritas are fine for a time, but eventually you start wishing the moles would pop back up again so you could hit ‘em with a mallet. - Adam Mastroianni
 ====
 Hard-Easy Effect: Hard tasks promote overconfidence because the rewards are high and fun to dream about; easy tasks promote underconfidence because they’re boring and easy to put off.
 ====
@@ -3754,6 +3758,10 @@ The highest form of leverage is reputation.
 ====
 “Tact is not the quality by which you often please, but by which you seldom offend.” - Alice Wellington Rollins
 ====
+"After you make a fool of yourself a few hundred times, you learn what works." - Gwen Stefani
+====
+"Being an intellectual creates a lot of questions and no answers." - Janis Joplin
+====
 "It's the rough side of the mountain that’s the easiest to climb; the smooth side doesn’t have anything for you to hang on to." - Aretha Franklin
 ====
 “You cannot define a person on just one thing. You can’t just forget all these wonderful and good things that a person has done because one thing didn’t come off the way you thought it should come off.”
@@ -3892,6 +3900,8 @@ You cannot fear something that you don't know. Nobody is afraid of the unknown. 
 "Celebrate the life you had, not the life you could've had." - Earvin "Magic" Johnson
 ====
 I never feared about my skills because I put in the work. Work ethic eliminates fear. So you if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
+====
+I play tennis for a living, even though I hate tennis, hate it with a dark and secret passion, and always have. [...] I slide to my knees and in a whisper I say: Please let this be over. Then: I’m not ready for it to be over. - Andre Agassi
 ====
 "Preparation is never wasted, regardless of outcome." - Bill Belichick on being ready
 ====
@@ -4302,6 +4312,8 @@ The measure of who we are is what we do with what we have.” - Vince Lombardi
 ====
 "The world has enough for everyone's need, but not enough for everyone's greed." - Mahatma Gandhi
 ====
+"The weak can never forgive. Forgiveness is the attribute of the strong." - Mahatma Gandhi
+====
 "Without tradition, art is a flock of sheep without a shepherd. Without innovation, it is a corpse." - Winston Churchill
 ====
 "In the morning there is meaning, in the evening there is feeling." - Gertrude Stein
@@ -4371,6 +4383,8 @@ When dreaming, imagine success. When preparing, imagine failure. - James Clear
 "Sometimes opportunities float right past your nose. Work hard, apply yourself, and be ready. When an opportunity comes you can grab it." - Julie Andrews
 ====
 "Getting old is like climbing a mountain; you get a little out of breath, but the view is much better!" - Ingrid Bergman
+====
+Bleehhh...eehhh...uhh...god, I hate this sometimes. - Meryl Streep
 ====
 "Love yourself first and everything else falls into line. You really have to love yourself to get anything done in this world." - Lucille Ball
 ====
