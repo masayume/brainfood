@@ -459,6 +459,11 @@ Time exists in order that everything doesn't happen all at once… and space exi
 ====
 The best coaches and CEOs aren’t the ones who succeed just on the field or in the boardroom. The true greats are measured by their coaching tree—what the people who worked for them, who they mentored, who they inspired go on to do.
 ====
+Nothing is permanent. Some things are just renewed faster than they decay.
+We want the naturally perfect relationship, but the ones that endure are renewed each morning.
+Here's the paradox: fragility plus daily care outlasts strength plus neglect. The cast-iron pan seasoned daily outlives the new nonstick. The handwritten menu, which changes daily, outlasts the laminated one.
+You can only optimize so much, but you can care forever. Efficiency has limits, devotion doesn't.
+====
 Be able to adapt and make use of new tools. I have no idea what the long term implications of artificial technology will be, all I know is that the best approach as an individual is to find a way to use it to get better at what you do.
 ====
 “Boredom: the great engine of creativity. I now believe with all my heart that it’s only in the crushing silences of boredom — without all that black-mirror dopamine — that you can access your deepest creative wells.” - Craig Mod
@@ -466,6 +471,8 @@ Be able to adapt and make use of new tools. I have no idea what the long term im
 Having now been in pro locker rooms and boardrooms and briefing rooms with special forces operators and the Senate dining room—all very different worlds—I have come to believe that elite performance is elite performance is elite performance. While these folks all do very different jobs at very different levels of fame or fortune, they’re all basically thinking about the same handful of things, accessing the same core mental skills: Resilience. Creativity. Focus. Collaboration.
 ====
 I think of creativity as a game of catch between your analytic mind and subconscious. - Spencer Greenberg
+====
+Memory works by reconstruction, so vivid confidence in a story is no proof it happened that way - Spencer Greenberg
 ====
 Ordinary moments like the one you're experiencing right now. The more you can learn to appreciate and enjoy these sorts of moments, the more you appreciate and enjoy your life. After all, these ordinary moments of yours will vastly outnumber your extraordinary ones. - Spencer Greenberg
 ====
@@ -620,6 +627,12 @@ Make a little progress today on your most important objective. Repeat tomorrow."
 “Give people what they want in a way they're not expecting.”
 ====
 Most complexity is unnecessary, but we manage it instead of removing it because deletion requires courage that addition doesn't.
+====
+Complexity increases because adding is easy and removing is dangerous.
+Whenever there's a problem, we add: a new person, requirement, or process. We never subtract.
+Why? Because everything that already exists has a champion. That clause in the tax code, that step in the process, that feature in the product ... someone fought for it, and they'll fight you if you try to remove it.
+So we become professional complexity managers. Entire careers are built managing unnecessary mass. But this is the opportunity. While everyone else adds mass to the system, removing it creates an unfair advantage. The lighter you are, the faster you move.
+Removing what shouldn't exist creates more value than any addition could.
 ====
 We avoid doing simple things that work because they don't make us look smart.
 Smart people feel stupid doing simple things, so we invent complicated alternatives that accomplish less but feel more intellectually satisfying.
@@ -4382,6 +4395,8 @@ The cause of death is birth. - David Hockney
 ====
 When dreaming, imagine success. When preparing, imagine failure. - James Clear
 ====
+“You can fail at what you don't want, so you might as well take a chance on doing what you love?” - Jim Carrey
+====
 "You will never be happier than you expect. To change your happiness, change your expectation." - Bette Davis
 ====
 "Sometimes opportunities float right past your nose. Work hard, apply yourself, and be ready. When an opportunity comes you can grab it." - Julie Andrews
@@ -4483,6 +4498,10 @@ Ten people who yell make more noise than ten thousand who keep silent. - Napoleo
 “All great events hang by a single thread. The clever man takes advantage of everything, neglects nothing that may give him some added opportunity; the less clever man, by neglecting one thing, sometimes misses everything.” - Napoleon
 ====
 “Make every detail perfect and limit the number of details to perfect.” - Jack Dorsey
+====
+“The knowledge we get by tinkering, via trial and error, experience, and the workings of time, in other words, contact with the earth, is vastly superior to that obtained through reasoning, something self-serving institutions have been very busy hiding from us.” - Nassim Taleb
+====
+“I can't tell you how much time is spent worrying about decisions that don't matter. To just be able to make a decision and see what happens is tremendously empowering, but that means you have to set up the situation such that when something does go wrong, you can fix it. When something does go wrong, it doesn't cost you or your customer an exorbitant amount. It isn't ridiculously expensive. When you get in situations where you cannot afford to make a mistake, it's very hard to do the right thing. So if you're trying to do the right thing, the right thing might be to eliminate the cost of making a mistake rather than try to guess what's right.” - Ward Cunningham
 ====
 "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 ====
