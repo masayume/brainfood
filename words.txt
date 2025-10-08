@@ -26,6 +26,8 @@ Epistemics – The norms, methods, and quality standards governing how beliefs a
 ====
 Epistemology: the branch of philosophy that examines the nature, origin, and limits of knowledge. Also called theory of knowledge.
 ====
+Eudaimonia: the Greek word that we translate as happiness, in fact, has little to do with that “personal fulfillment” which is instead the true myth of our time, fueled by massive doses of selfishness, narcissism, conformism, and competitive spirit. Rather, it alludes to the attempt to harmonize our desires as much as possible with the “demonic part” that speaks in riddles within us, modulating a voice that is unique to each of us: an agreement, a kind of “government” of the inner city that, however, has nothing intimate about it.
+====
 Gamable – Able to be strategically manipulated or “gamed,” i.e., its rules allow actors to extract advantage without fulfilling the system’s intended purpose. One of the most important aspects of system design in high-stakes situations lacking trust is that systems should be ungamable. Otherwise, the system will be exploited or not achieve its intended purpose.
 ====
 Gung Ho: especially enthusiastic or dedicated to it, or have no qualms or hesitancy in their willingness to do something. [https://www.mentalfloss.com/gung-ho-phrase-origins]
