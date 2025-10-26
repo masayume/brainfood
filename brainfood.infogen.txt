@@ -5,6 +5,8 @@
 ====
 The goal of life is to be excited to go to work and to be excited to come back home. - Joshua Kushner
 ====
+Everyone searches for opportunities while running from problems, missing that they're the same thing. Problems aren't obstacles to opportunity, they ARE the opportunity.
+====
 It doesn’t matter what position you find yourself in right now. What matters is whether you improve your position today. Every ordinary moment is an opportunity to make the future easier or harder.
 ====
 "Now is the accepted time, not tomorrow, not some more convenient season. It is today that our best work can be done." - W.E.B. Du Bois
@@ -196,6 +198,8 @@ The discipline to focus.
 The confidence to figure it out.
 The patience to know progress is not always visible.
 The persistence to keep going, even on the bad days.
+====
+"Self-development is a higher duty than self-sacrifice." - Elizabeth Cady Stanton
 ====
 "Respect your efforts, respect yourself. Self-respect leads to self-discipline. When you have both firmly under your belt, that's real power." - Clint Eastwood
 ====
@@ -1302,10 +1306,9 @@ Avoid procrastination rule #6: make a public commitment. Because breaking a prom
 ====
 Avoid procrastination rule #7: You say to yourself "just 5 more", when you feel your motivation waning. Five more minutes, five more items, five more sentences. Five more units. Over time you train yourself to push a little beyond the point you normally would quit, and that expands your capacity to focus and work. - Daniel Pink
 ====
-
-to leveraging future regret and making public commitments, I break down how to outsmart the mental traps that keep you stuck. Whether you're avoiding emails, delaying workouts, or pushing off a big creative project, these tools will help you take action now—and feel better doing it.
-
-Stick around till the end for my personal favorite trick (spoiler: it only takes five minutes) and a powerful follow-up video on how regret can actually fuel your progress.
+“The camera never lies… but you can take a thousand different pictures of the same scene.” - Hector Macdonald on blind spots
+====
+When people feel like you deserve more than you have, they'll go out of their way to help you. But the minute you forget you were once the underdog, they'll root against you.
 ====
 Overthinking is underdoing with better vocabulary.
 ====
@@ -2000,6 +2003,8 @@ Ludic Fallacy: Falsely associated simulations with real life. Nassim Taleb: “O
 ====
 Normalcy Bias: Underestimating the odds of disaster because it’s comforting to assume things will keep functioning the way they’ve always functioned.
 ====
+“It's a lot easier than you think to 'beat the odds' because the odds are based on average people. Show up and elevate.” - Dr. Julie Gurner 
+====
 Actor-Observer Asymmetry: We judge others based solely on their actions, but when judging ourselves we have an internal dialogue that justifies our mistakes and bad decisions.
 ====
 The 90-9-1 Rule: In social media networks, 90% of users just read content, 9% of users contribute a little content, and 1% of users contribute almost all the content. Gives a false impression of what ideas are popular or “average.”
@@ -2101,6 +2106,8 @@ Moderating Relationship: The correlation between two variables depends on a thir
 "A successful marriage requires falling in love many times, always with the same person." - Mignon McLaughlin
 ====
 Denomination Effect: One hundred $1 bills feels like less money than one $100 bill. Also explains stock splits – buying 10 shares for $10 each feels cheaper than one share for $100.
+====
+“I have never worshipped money and I never worked for money. I worked for pride and accomplishment. Money can become a nuisance. It's a hell of a lot more fun chasing it than getting it. The fun is in the race.” - Ray Kroc
 ====
 Google Scholar Effect: Scientific research depends on citing other research, and the research that gets cited the most is whatever shows up in the top results of Google Scholar searches, regardless of its contribution to the field.
 ====
