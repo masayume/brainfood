@@ -12,7 +12,7 @@ It doesn’t matter what position you find yourself in right now. What matters i
 "Now is the accepted time, not tomorrow, not some more convenient season. It is today that our best work can be done." - W.E.B. Du Bois
 ====
 Don’t be afraid of anyone. If you can imagine: living your life, you’re not afraid of anyone. - Laurie Anderson and Lou Reed rules for living
-====	
+====
 You get a really good bullshit detector, and you learn how to use it. You know, just: “Is that really happening or not?” - Laurie Anderson and Lou Reed rules for living
 ====
 Be really, really tender. - Laurie Anderson and Lou Reed rules for living
@@ -251,6 +251,8 @@ Be quiet, work hard, and stay healthy. It’s not ambition or skill that is goin
 “There was something heavy in me. … I wasn’t doing the right thing. I was just trying to copy exactly everything I had learned. And I think that happens in every craft in life. You’re young. You have a master. You want to emulate them, do what they do. But at some point in life, you have to turn around and say I have to find my own way in my own language.” - Chef Francis Mallmann
 ====
 “[I]t is wrong always, everywhere, and for anyone, to believe anything upon insufficient evidence.” - William Clifford
+====
+"Believe nothing of what you hear, and only half of what you see" - commonly misattributed to Edgar Allan Poe, 
 ====
 It is more accurate to think of belief as probabilistic. There are probably contexts where you already do this, but some where it is much less common.
 ====
@@ -501,6 +503,8 @@ Here's the paradox: fragility plus daily care outlasts strength plus neglect. Th
 You can only optimize so much, but you can care forever. Efficiency has limits, devotion doesn't.
 ====
 Be able to adapt and make use of new tools. I have no idea what the long term implications of artificial technology will be, all I know is that the best approach as an individual is to find a way to use it to get better at what you do.
+====
+Kuleshov Effect: Editing principle where viewers derive more meaning from the juxtaposition of two sequential shots than from a single shot in isolation.
 ====
 “Boredom: the great engine of creativity. I now believe with all my heart that it’s only in the crushing silences of boredom — without all that black-mirror dopamine — that you can access your deepest creative wells.” - Craig Mod
 ====
@@ -902,6 +906,8 @@ If its your job to eat a frog, do it first thing in the morning.
 If its your job to eat two frogs, eat the biggest one first. 
 
 - Mark Twain
+====
+“Positive action produces positive attitudes, which produce a positive atmosphere.”
 ====
 1. Dopamine Culture
 “Every kind of organized distraction tends to become progressively more and more imbecile.” - Aldous Huxley
@@ -1664,6 +1670,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 ====
 "Any work of art, provided it springs from a sincere motivation to further understanding between people, is an act of faith and therefore is an act of love." - Truman Capote
 ====
+"Reality is that which, when you stop believing in it, doesn't go away." - Philip K. Dick
+====
 “Jokes of the proper kind, properly told, can do more to enlighten questions of politics, philosophy, and literature than any number of dull arguments.” – Isaac Asimov
 ====
 “Inherited wealth is as certain a death to ambition as cocaine is to morality.” – William Vanderbilt
@@ -1792,6 +1800,10 @@ There are many brainstorming methods. But the key principles are pretty stable. 
 Deferral of judgment | Off-beat ideas | Vast quantities of ideas | Elaboration/expansion of ideas
 > Darryn Kruse, a campus principal and teacher, created a slightly different version, the ROPE method of brainstorming:
 Record all ideas | Original ideas are encouraged (no stupid ideas) | Put off evaluation (judgement can be done later) | Expand on other’s ideas
+====
+Some people get used to sloppy thinking in many areas of their lives, thinking that those situations are low-stakes or just for fun, so they don't matter.
+While, of course, the effort we put into our thinking should depend on the importance of that topic, without a habit of engaging in critical thinking and lots of practice doing it well, it's unlikely we'll suddenly be able to turn it on effectively when it actually matters.
+Aiming to use critical thinking only when it really matters is like not bothering to learn to swim well, assuming you'll be able to figure out how to swim once you've fallen overboard. Except, without critical thinking, you won't even know when you've fallen overboard.
 ====
 3. CAMPER questions for critical thinking. This set of questions can be used when consuming content to practice critical thinking and to think  	better.
 Consequences: What are the consequences of believing this?
@@ -4290,6 +4302,8 @@ I've learned that a lot of teaching, maybe all of it, is sharing what you love, 
 One must be sane to think clearly, but one can think deeply and be quite insane. - Nikola Tesla
 ====
 "The scientific man does not aim at an immediate result ... His duty is to lay the foundation for those who are to come, and point the way." - Nikola Tesla
+====
+"Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun." - Pablo Picasso
 ====
 The willingness to figure things out as you go is often the only difference between those who achieve difficult things and those who never begin.
 ====
