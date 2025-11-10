@@ -376,6 +376,8 @@ science - Use the Baloney Detection Kit
 “In the course of their training, scientists are equipped with a baloney detection kit. The kit is brought out as a matter of course whenever new ideas are offered for consideration. If the new idea survives examination by the tools in our kit, we grant it warm, although tentative, acceptance. If you're so inclined, if you don't want to buy baloney even when it's reassuring to do so, there are precautions that can be taken; there's a tried-and-true, consumer-tested method.
 “What's in the kit? Tools for skeptical thinking. - Carl Sagan, The Demon-Haunted World 
 ====
+"Every one of us is, in the cosmic perspective, precious. If a human disagrees with you, let him live. In a hundred billion galaxies, you will not find another." - Carl Sagan
+====
 We're wired for novelty, but life rewards repetition.
 Good ideas are rare. When you find something that works, you've found gold. But instead of mining it, we go looking for more gold.
 We'd rather have ten ideas that might work than one that does.
