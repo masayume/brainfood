@@ -444,6 +444,8 @@ If you want new ideas, read old books. - Shane Parrish
 ====
 Great ideas often look wrong at first; that's why the independent-minded discover them.
 ====
+"The proper function of man is to live, not to exist. I shall not waste my days in trying to prolong them. I shall use my time." - Jack London
+====
 "All good ideas start out as bad ideas; that’s why it takes so long." - Steven Spielberg
 ====
 “Above all, be the heroine of your life, not the victim.” - Nora Ephron on agency
@@ -1902,6 +1904,8 @@ The most effective form of patience is active patience. Active patience implies 
 2. Selective Laziness: We scrutinize the opinions of others more closely than our own. Trouche et al. (2016) found that people often reject their own opinions if tricked into believing they’re someone else’s. To properly evaluate your beliefs, imagine they’re someone else’s.
 ====
 3. Moravec's Paradox: What is easy for humans is hard for AI, and vice versa. Differential calculus requires far less compute than merely climbing steps. Thus, AI may replace most white collar jobs before it replaces most blue collar ones.
+====
+“As soon as it works, no one calls it AI any more.” - John McCarthy, an early AI pioneer in the 70s
 ====
 4. Price Anchoring: Retailers often briefly raise the price of an item so they can then reduce it to RRP and advertize it as a big saving. So when you buy a “discounted” item on Black Friday, etc, you often just bought it at normal price. To avoid this, use online price-trackers.
 ====
