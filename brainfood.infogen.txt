@@ -4899,6 +4899,8 @@ Betteridge’s Rule: “98% of leading or speculative questions in thread titles
 ====
 Box’s Law: “All models are wrong, but some are useful.”
 ====
+"Mutual ignorance breeds mutual distrust." - Andrew Carnegie
+====
 Campbell’s Law: “The more any quantitative social indicator is used for social decision-making, the more subject it will be to corruption pressures and the more apt it will be to distort and corrupt the social processes it is intended to monitor.” (see also: Goodhart’s Law)
 ====
 Celine’s 1st Law: “National Security is the chief cause of national insecurity.”
