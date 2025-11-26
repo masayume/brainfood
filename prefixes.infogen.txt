@@ -1,2 +1,6 @@
-ex: completely (emolere: macinare completamente, da molere: macinare)
+cum: with (cum-quibus: con i quali)
+====
+ex: completely (e-molere: macinare completamente, da molere: macinare)
+====
+in: negative (in-demnis: senza danno)
 ====
