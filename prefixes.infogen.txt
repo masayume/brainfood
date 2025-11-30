@@ -4,3 +4,10 @@ ex: completely (e-molere: macinare completamente, da molere: macinare)
 ====
 in: negative (in-demnis: senza danno)
 ====
+in: inside
+====
+re: repeat
+====
+rin: re (ripetere) + in (dentro)
+====
+====
