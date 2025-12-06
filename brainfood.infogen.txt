@@ -1062,6 +1062,8 @@ Common Knowledge Effect - Groups are meant to be better decision-makers than ind
 ====
 "Even doubt needs reasons, otherwise it is a rhetorical exercise, and as such can be ignored." - George Edward Moore
 ====
+"Fear of life closes off more opportunities for us than fear of death ever does." - Agnes Moorehead
+====
 “The common trait of people who supposedly have vision is that they spend a lot of time reading and gathering information, and then synthesize it until they come up with an idea.” - Fred Smith 
 ====
 Champion Bias - We assume winners have the best advice, but those who win rarely examine why they won, while those who lose often regretfully dwell on their mistakes. So you’ll often obtain the best advice on winning not from winners but from losers.
