@@ -1,5 +1,7 @@
 cum: with (cum-quibus: con i quali)
 ====
+ex: from, outside of (ex-rogare: distribuire, da rogare: chiedere)
+====
 ex: completely (e-molere: macinare completamente, da molere: macinare)
 ====
 in: negative (in-demnis: senza danno)
