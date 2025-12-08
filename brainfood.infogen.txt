@@ -330,6 +330,8 @@ High agency people are different. They care. And because they care, they solve p
 High agency people act like owners. Owners see a problem and fix it. They don't wait. They don't need permission. They don't think this is someone else's job. They don't think this is hard. They don't think "I can't do this, I've never done it before." They don't think this is someone else's job.
 Act like an owner before you are one. That's how you become one.
 ====
+Your reputation isn’t what you shout, it’s what people whisper.
+====
 Stop trying to be spectacular. Start being consistent. Your reputation isn't built on your best day. It's built on your worst. Warren Buffett's fortune was built on avoiding losses. Tom Brady became the GOAT not because of his highlight-reel throws, but because he rarely made a bad play.
 Anyone can occasionally go to the gym, eat a healthy meal, and have a productive day. Doing it once in a while is common and doesn't mean much.
 Moments don't make legends. Consistency does. And the hardest consistency isn't in doing brilliant things but avoiding stupid ones. Every mistake puts you in hard mode, forcing you to make up lost ground.
@@ -344,6 +346,8 @@ When mistakes are cheap, you can move fast and fix what doesn't work. When mista
 This is why startups can run circles around big companies. It's not because they're smarter, but because being wrong isn't expensive.
 ====
 “There are no limitations to the mind except those we acknowledge.” - Napoleon Hill
+====
+Someone always has an advantage. If you don’t know who, it isn’t you.
 ====
 Stop fighting your nature. Start winning with it. You're born with certain core traits. Fighting them is like being a sprinter forced to run marathons – exhausting and futile. But these "limitations" can become your biggest advantage. Your instincts, personality, and preferences aren't flaws - they're features. When something seems to be holding you back that you can't change, the key is to change your environment. What's a headwind in one situation is a tailwind in another. The most successful people don't fight their nature. They architect their environment to amplify it. Stop asking: "How do I fix myself?" Start asking: "How do I position myself where my natural traits are assets?"
 ====
@@ -1174,6 +1178,8 @@ I know that the people who will make you feel warm and fuzzy when you’re sad, 
 I know that people really and truly cannot read your mind. It’s easy to think that people are ignoring your wants or emotions because they don’t care about you. But it’s likely that they have no idea what those are. If you’ve told them, they’ve likely forgotten, and may need a reminder - they have their own whole crowded bubble of consciousness going on!
 ====
 I know that travel is valuable because most knowledge can’t be written down. The most crucial info about a society is how it feels to be there—the rhythms of street life, where and when people eat meals, how gender works. You can read a million things about Japan without knowing the bodily experience of walking around in a truly high-trust society, for example.
+====
+It's never about the outcome. It's always about the day.
 ====
 I know that sometimes, persistence is not a virtue. I would trade my other abilities to be an exceptional songwriter. I gave it a serious enough try to know that I don’t have the knack, for years, and I’m not interested in being publicly mediocre at the performing arts. My life is incalculably better for having let the dream go. The world will be happiest with a certain range of behaviors from you—life will be easier if you find a place in that range where you’re content. David Whyte calls this the conversational nature of reality, and he is correct about the importance of this concept.
 ====
@@ -3278,6 +3284,8 @@ To understand recursion, one must first understand recursion. - Stephen Hawking
 ====
 Communication is limited by perspective. - Andrei Tarkovsky
 ====
+“Simplicity is the key to brilliance.” - Bruce Lee
+====
 This capture in a mantra like simplicity what makes human communication so complicated. 
 ====
 The content or message of any particular medium has about as much importance as the stenciling on the casing of an atomic bomb. - Marshall McLuhan
@@ -3297,6 +3305,8 @@ Facebook wasn't the first social network - it was just the one that kept iterati
 What you build matters more than what you could have built.
 ====
 Honesty requires that we each radically reduce our expectations that machines will do our work for us or that therapists can make us learned or healthy. - Ivan Illich
+====
+“One who looks around him is intelligent; one who looks within him is wise.” - Matshona Dhliwayo
 ====
 I spent my 20s accumulating stuff, habit, money. Entering my 30s I came to realize that a bit of that wisdom that come with aging is about unlearning certain behavior and expectations. The value of putting the work, examining yourselfs becaome more real but also easier to ignore or escape over time. You can't beat entropy, even if technology makes you think you can. 
 ====
@@ -3942,6 +3952,8 @@ The highest form of leverage is reputation.
 ====
 “Your job, throughout your entire life, is to disappoint as many people as it takes to avoid disappointing yourself.” - Glennon Doyle
 ====
+"We are more fulfilled when we are involved in something bigger than ourselves." - John Glenn
+====
 Action creates inspiration.
 ====
 “The advice I like to give anybody who’ll listen to me, is not to wait around for inspiration. Inspiration is for amateurs; the rest of us just show up and get to work. If you wait around for the clouds to part and a bolt of lightning to strike you in the brain, you are not going to do an awful lot of work.
@@ -4071,6 +4083,8 @@ You cannot fear something that you don't know. Nobody is afraid of the unknown. 
 "Talent is never enough. With few exceptions, the best players are the hardest workers." - Earvin "Magic" Johnson
 ====
 I never feared about my skills because I put in the work. Work ethic eliminates fear. So you if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
+====
+“I’m not so dominant that I can’t listen to creative ideas from other people. Successful people listen. Those who don’t listen, don’t survive long.” - Michael Jordan
 ====
 “In my heart it is clear to me why I go to the line time and again. I can assure you it’s not a medal hanging around my neck I’m after. Medals are things I send to my mom in Winnipeg, which she in turn shares with friends and family. They are not what provide the deep sense of accomplishment, which fills my sense of self, in turn teaching me how to live.” -	Clara Hughes, Olympic Gold Medalist
 ====
@@ -4458,6 +4472,8 @@ Much of what truly matters we take for granted until it's gone.
 "We are the opening verse of the opening page of the chapter of endless possibilities." - Rudyard Kipling
 ====
 Bureaucracies make everyone feel productive while doing very little useful work.
+====
+"Unfortunately, many people do not consider fun an important item on their daily agenda. For me, that was always a high priority in whatever I was doing." - Chuck Yeager
 ====
 It can be hard to appreciate just how much reliability impacts opportunity. 
 It's fun to outperform people who are way smarter than you by being more reliable than they are.
