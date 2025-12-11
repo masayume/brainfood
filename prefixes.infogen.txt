@@ -8,6 +8,8 @@ in: negative (in-demnis: senza danno)
 ====
 in: inside
 ====
+prae: before, forward
+====
 re: repeat
 ====
 rin: re (ripetere) + in (dentro)
