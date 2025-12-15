@@ -341,6 +341,8 @@ Anyone can occasionally go to the gym, eat a healthy meal, and have a productive
 Moments don't make legends. Consistency does. And the hardest consistency isn't in doing brilliant things but avoiding stupid ones. Every mistake puts you in hard mode, forcing you to make up lost ground.
 Anyone can do it once. The outliers do it often.
 ====
+"The minute you start talking about what you're going to do if you lose, you have lost." - George Shultz
+====
 Your mistakes aren’t the best teacher—just the most expensive.
 You can start at the bottom of the mountain and make every mistake from scratch on the way to the top, or you can take a sherpa with you and master the best of what other people have already figured out.
 The successful learn vicariously; the foolish insist on firsthand pain.
@@ -356,6 +358,8 @@ Someone always has an advantage. If you don’t know who, it isn’t you.
 Stop fighting your nature. Start winning with it. You're born with certain core traits. Fighting them is like being a sprinter forced to run marathons – exhausting and futile. But these "limitations" can become your biggest advantage. Your instincts, personality, and preferences aren't flaws - they're features. When something seems to be holding you back that you can't change, the key is to change your environment. What's a headwind in one situation is a tailwind in another. The most successful people don't fight their nature. They architect their environment to amplify it. Stop asking: "How do I fix myself?" Start asking: "How do I position myself where my natural traits are assets?"
 ====
 I think it's generally human nature to over-estimate risk and under-estimate opportunity. ... The risks are probably not as big as you perceive and the opportunities may be bigger than you percieve. - Jeff Bezos
+====
+Thinking small is a self-fulfilling prophecy. - Jeff Bezos
 ====
 "Whoever is not in the possession of leisure can hardly be said to possess independence." - Herman Melville
 ====
@@ -444,6 +448,8 @@ Simple, but not easy.
 ====
 I remember once I called Dov Charney, founder of American Apparel, about some little success I’d had on some project. He was very busy and frustrated that I’d interrupted, but politely, he said, “Ryan, you are calling me to tell me that you did your job.” I thought of that conversation when I saw that famous scene in Mad Men where Peggy complains that Don never says thank you. “That’s what the money is for!” he tells her. - Ryan Holiday
 ====
+"I ought to be jealous of the tower. She is more famous than I am." - Gustave Eiffel
+====
 Compensation follows autonomy.
 When you need to be managed, there's a cap on what you can earn. When you know how to create value and do it without being told, there's no cap. This is structural, not personal.
 The compensation gap isn't about performance; it's about autonomy.
@@ -451,8 +457,6 @@ The compensation gap isn't about performance; it's about autonomy.
 The thing that’s wrong about imposter syndrome is that for the most part no one is thinking about you at all. They’re too busy with their own doubts and their own work.
 ====
 Find canvases for other people to paint on. Come up with ideas to hand over to your boss. Find people, thinkers, up and comers to introduce them to. Cross wires to create new sparks. Find what nobody else wants to do and do it. Find inefficiency and waste and redundancies. Identify leaks and patches to free up resources for new areas. Produce more than everyone else and give your ideas away. The person who clears the path ultimately controls its direction, just as the canvas shapes the painting.
-====
-If you want new ideas, read old books. - Shane Parrish
 ====
 "A word after a word after a word is power." - Margaret Atwood
 ====
@@ -1823,9 +1827,7 @@ It takes inordinate courage to introspect, to confront oneself, to accept one’
 ====
 “If we can’t laugh at something, we can’t think rationally about it.” – Clay Johnson
 ====
-“There are two types of stability: active and passive … People get in trouble when they confuse the two types of stability. Relationships, for example, require attention and care. If you assume that your relationship is passively stable, you’ll wake up one day to divorce papers.” – Shane Parrish
-====
-“Write your obituary, then work backwards to live it.” – Buffett
+“Write your obituary, then work backwards to live it.” – Warren Buffett
 ====
 Nine sources of advantage:
 - Raw talent/intelligence - Some people are just naturally better and smarter.
@@ -3887,6 +3889,8 @@ The movement provides them with a sense of identity and purpose they lack as ind
 ====
 “There are two times to admit mistakes: early and late. Early admissions solve problems. Late admissions create them. A person who proactively tells another they made a mistake gains trust and respect for their honesty. In contrast, one who tries to hide errors quickly loses trust. Swift admissions build bridges. Slow ones burn them.”
 ====
+It takes a lot of work to make something simple. - Steve Wozniak
+====
 “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” - Steve Jobs
 ====
 “The most powerful person in the world is the storyteller. The storyteller sets the vision, values and agenda of an entire generation that is to come.” - Steve Jobs
@@ -4068,10 +4072,6 @@ The world's greatest works weren't commissioned; they were created by people who
 You can't go back and change the beginning, but you can start where you are and change the ending. - C.S. Lewis
 ====
 Mastery is the best goal because the rich can’t buy it, the impatient can’t rush it, the privileged can’t inherit it, and nobody can steal it. You can only earn it through hard work. Mastery is the ultimate status. - Derek Sivers
-====
-Impatience is an expensive emotion.
-Every app wants your decision in seconds. Every employer wants results this quarter. Every investment platform profits when you trade. Meanwhile, the boring investor who indexed and touched nothing decades ago owns your neighborhood. Who's winning?
-The patient inherit everything the impatient leave behind. - Shane Parish
 ====
 It's true that determining the actual problem takes time, but it’s far quicker than solving the wrong one and starting over.
 ====
@@ -4631,7 +4631,19 @@ The things you do badly are as much part of your style as the things you do well
 ====
 Self employment is a never-ending contest between the world’s worst manager and the world’s laziest employee. - Daniel Akst
 ====
+Without data, you’re just another person with an opinion. - W. Edwards Deming
+====
+Impatience is an expensive emotion.
+Every app wants your decision in seconds. Every employer wants results this quarter. Every investment platform profits when you trade. Meanwhile, the boring investor who indexed and touched nothing decades ago owns your neighborhood. Who's winning?
+The patient inherit everything the impatient leave behind. - Shane Parrish
+====
+“There are two types of stability: active and passive … People get in trouble when they confuse the two types of stability. Relationships, for example, require attention and care. If you assume that your relationship is passively stable, you’ll wake up one day to divorce papers.” – Shane Parrish
+====
+The three lenses of opportunity cost: (1) Compared with what? (2) And then what? (3) At the expense of what? - Shane Parrish
+====
 If you want new ideas, read old books. - Shane Parrish
+====
+Everyone searches for opportunities while running from problems, missing that they’re the same thing. Problems aren’t obstacles to opportunity, they ARE the opportunity. - Shane Parrish
 ====
 "We knew the world would not be the same. A few people laughed, a few people cried. Most people were silent." - Robert Oppenheimer
 ====
@@ -4735,6 +4747,8 @@ In an age of information overload, the ability to read deeply and extract genuin
 2. Analytical Reading: Engage in genuine conversation with the author. Identify core arguments, challenge assumptions, and connect ideas rather than just collecting facts.
 3. Syntopical Reading: Master the art of reading multiple books on the same subject. Create a dialogue between different authors and develop your own well-reasoned position.
 - Mortimer J. Adler, Charles van Doren: "How to Read a Book"
+====
+You never know what worse luck your bad luck has saved you from. - Cormac McCarthy
 ====
 "Reading a book on any level beyond the elementary is essentially an effort on your part to ask it questions (and to answer them to the best of your ability). The art of reading is largely the art of asking the right questions in the right order." - Mortimer J. Adler, Charles van Doren: "How to Read a Book"
 ====
