@@ -1,4 +1,30 @@
 ====
+“ I know one thing: that I know nothing.” - Socrates
+====
+Struggle Is Good. Never say “I can’t take it anymore.” Say “Bring it on!”
+====
+Learn Every Day. You’ve got to train your brain to stay alert. You don’t have to read a book a day to learn every day. Learn from your mistakes. Learn from the people around you — be open to what they can teach you.
+====
+Money Is Not The Most Important Thing. You have to train yourself not to care about money and focus on providing value instead. Also, don’t become too dependent on the stuff you own — otherwise, the stuff will own you.
+====
+Be Nice. I don’t mean you should be a pushover. You can be someone that doesn’t take shit and be nice about it. Just don’t insult people, think you’re better than them, or act like an idiot.
+====
+Think About Others. Just be mindful, that’s all. We all have families, bills to pay, and our own issues. Don’t always make everything about yourself.
+====
+Don’t Complain. Complaining is the biggest waste of time there is. Either do something about it, and if you can’t, shut up about it.
+====
+Don’t Judge. Just because people make different choices than you, they are not stupid. Also, you don’t know everything about people, so don’t judge them. Help them.
+====
+Give Without Expecting Something In Return. Don’t keep score. You will become a bitter person if you do that. Give solely for the joy of giving. If you get something in return, great, if you don’t, great.
+====
+Don’t Take Yourself So Seriously. Yeah, yeah, you’re an individual, and people have to take you seriously, I get it. But at the end of the day, we’re all a bunch of ants trying to chase the same things. Lighten up.
+====
+Never Look Back Too Long. Reflecting on the past is only good for one thing: Learning.
+====
+Take Action. Don’t just sit there, do something. Without action, there is no outcome.
+====
+Enjoy Small Things. I like clichés because they are true. Especially this one. You know why? Everyone says they know it, but no one lives up to it. They just chase big things.
+====
 "Life’s a roller coaster you don’t always get to choose the seat you’re in, but you can choose to throw your hands up and enjoy the ride." - Anonymous
 ====
 “Pain is the universe’s way of demanding that you continue to learn. The more pain you can tolerate, the more you can learn.” - Phil Stutz and Barry Michels 
@@ -16,6 +42,10 @@ Don’t be afraid of anyone. If you can imagine: living your life, you’re not 
 If you don’t commit to living life on your terms, other people will commit you to theirs.
 ====
 You get a really good bullshit detector, and you learn how to use it. You know, just: “Is that really happening or not?” - Laurie Anderson and Lou Reed rules for living
+====
+Bullshit can be a greater enemy of the truth than lies. - Harry Frankfurt
+====
+The real problem of humanity is… paleolithic emotions, medieval institutions, and godlike technology. - Edward O. Wilson
 ====
 Be really, really tender. - Laurie Anderson and Lou Reed rules for living
 ====
@@ -201,6 +231,8 @@ Starlight attention: Directs your longer-term projects and goals (writing a book
 Daylight attention: Enables self-reflection and clarity about what you truly want. It helps you understand why you chose your long-term goals and who you want to be. When this attention is disrupted, you may lose touch with your core identity and purpose. - Johann Hari
 ====
 The greatest business failures often come not from playing the game poorly, but from continuing to excel at things that no longer matter.
+====
+"Your failures are your accomplishments because it makes you prepared for whatever it is that you are going to do next." - Lee Daniels
 ====
 Multi-Tasking is a Myth
 The human brain can only hold one or two conscious thoughts at a time - this is a fixed biological limit of our neural hardware. Yet we've convinced ourselves we can think about many things simultaneously. This is simply a myth we created rather than accepting our natural cognitive constraints. - Johann Hari
@@ -1783,6 +1815,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 ====
 “Better to get your dopamine from improving your ideas than having them validated. “ – Nat Friedman
 ====
+Never invest in something you do not understand. - Warren Buffett
+====
 “It’s good to have people in your life who you don’t want to disappoint.” – Warren Buffett
 ====
 “You don’t have to do exceptional things to get exceptional results.” – Warren Buffett
@@ -3166,6 +3200,8 @@ I wouldn’t have seen it, if I didn’t believe it. - Marshall McLuhan
 ====
 “In the land of the blind, the one-eyed man is a hallucinating idiot...for he sees what no one else does: things that, to everyone else, are not there.” - Marshall McLuhan
 ====
+There is nothing so useless as doing efficiently that which should not be done at all. - Peter Drucker
+====
 There are two kinds of people in the world… and who is not both of them? - James Richardson
 ====
 Still simmering: I'm certainly guilty of opting for a quick opinion rather than getting evertyhing factually right - perhaps to a fault and definitely to the great displeasure of my wife. tere seem to be too few socratic truths to really uphold such a standard, yet I see the slope. 
@@ -3229,6 +3265,8 @@ It took me a while to emotioanlly acknowldge that a moment exist only because I 
 It is impossible for a man to learn what he thinks he already knows. - Epictetus
 ====
 My ego supported by modern technology often makes me believe I've, or can figure things out, fairly easily. But some things like gardening or parenting, do not obey to classic ignorance &gt; knowledge &gt; solution pattern. It needs to be experienced to viscerally be discarded. 
+====
+There are rarely solutions, only tradeoffs. - Thomas Sowell
 ====
 What a strangely fitting end to a life so very well lived - Josh about Socrates
 ====
