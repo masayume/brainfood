@@ -1,6 +1,8 @@
 # brainfood
 Small but indispensable chunks of wisdom from all human history.
 
+_"I love quotations because it is a joy to find thoughts one might have, beautifully expressed with much authority by someone recognized wiser than oneself."_ - Marlene Dietrich
+
 ![example phrase](https://github.com/masayume/brainfood/blob/main/img/0text.webp "Example phrase")
 
 The following files and one script (random_chunk.sh) to show a random entry are included:
