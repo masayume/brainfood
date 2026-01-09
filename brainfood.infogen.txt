@@ -3364,6 +3364,8 @@ Everything that needs to be said has already been said. But since no one was lis
 ====
 To understand recursion, one must first understand recursion. - Stephen Hawking
 ====
+"One of the basic rules of the universe is that nothing is perfect. Perfection simply doesn’t exist … Without imperfection, neither you nor I would exist." - Stephen Hawking
+====
 "If I had my life to live over again, I would have made a rule to read some poetry and listen to some music at least once every week." - Charles Darwin
 ====
 Communication is limited by perspective. - Andrei Tarkovsky
@@ -4517,6 +4519,8 @@ The willingness to figure things out as you go is often the only difference betw
 "It isn't up to the painter to define the symbols. The public who look at the picture must interpret the symbols as they understand them." - Pablo Picasso
 ====
 Action is the antidote to despair. - Joan Baez
+====
+"You don't get to choose how you're going to die or when. You can only decide how you're going to live. Now." - Joan Baez
 ====
 "I'm an instant star. Just add water and stir." - David Bowie
 ====
