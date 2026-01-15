@@ -1885,6 +1885,8 @@ It takes inordinate courage to introspect, to confront oneself, to accept one’
 ====
 “The way to be safe is to never be secure.” – Benjamin Franklin
 ====
+"An investment in knowledge pays the best interest." – Benjamin Franklin
+====
 "Those who would give up essential Liberty, to purchase a little temporary Safety, deserve neither Liberty nor Safety." - Benjamin Franklin
 ====
 "If liberty means anything at all it means the right to tell people what they do not want to hear." – George Orwell
@@ -4544,6 +4546,10 @@ Excellence lives in doing a bit more than others.
 The meaning you give work determines its difficulty.
 A coder working on a passion project works 12 hours straight and calls it energizing. That same programmer, doing maintenance on legacy code they consider meaningless, feels exhausted after 2 hours.
 Your relationship with the work shapes its weight more than the work itself.
+====
+Code is a liability. Code's capabilities are assets. The goal of a tech shop is to have code whose capabilities generate more revenue than the costs associated with keeping that code running. - Cory Doctorow
+====
+"Writing code" is about making code that *runs well*. "Software engineering" is about making code that *fails well*. - Cory Doctorow
 ====
 "Art is the human disposition of sensible or intelligible matter for an aesthetic end." - James Joyce
 ====
