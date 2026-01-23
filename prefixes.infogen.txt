@@ -1,3 +1,5 @@
+ad: to (ad-locum)
+====
 cum: with (cum-quibus: con i quali)
 ====
 dis: distribute (dis-vulgus: divulgare)
@@ -16,4 +18,5 @@ re: repeat
 ====
 rin: re (ripetere) + in (dentro)
 ====
+syn: con, insieme (sýntoma [lat:synptoma]: coincidenza, accidente, avvenimento fortuito)
 ====
