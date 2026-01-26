@@ -287,6 +287,10 @@ The persistence to keep going, even on the bad days.
 ====
 “The patience you need for big things, is developed by your patience with the little things.” - Kevin Kelly
 ====
+What looks like success is often just patience.
+====
+Mastery is the revenge of the patient on the privileged.
+====
 "Self-development is a higher duty than self-sacrifice." - Elizabeth Cady Stanton
 ====
 "Respect your efforts, respect yourself. Self-respect leads to self-discipline. When you have both firmly under your belt, that's real power." - Clint Eastwood
@@ -379,6 +383,8 @@ Every problem is an opportunity in disguise."
 “Effort requires no talent. Hustle requires no talent.” - Marshall Faulk
 ====
 "Talent and potential mean nothing if you can't consistently do things when you don't feel like doing them."
+====
+"If you are honest, truthful, and transparent, people trust you. If people trust you, you have no grounds for fear, suspicion, or jealousy." - The Dalai Lama
 ====
 The best things in life, trust, talent, luck, have one thing in common: the harder you chase them, the faster they run.
 Your reputation is the only magnet strong enough to make them come to you.
@@ -1502,6 +1508,8 @@ Find the good. During one of his many stints in prison, Gandhi made a pair of sa
 Choose a north star. I watched Dov Charney go from a hero in the fashion business to one of its villains. In the early days, he was focused on challenging the broken assumptions of the business. He cared about his workers. He cared about the environment. Later, it became all about him, all about his urges, all about his power. This is the power of a north star. It can take you on an amazing journey or get you hopelessly lost. Your values, your aspirations, the things pushing and pulling you—whatever they are, they foretell a prophecy. They determine where you’ll end up…and who you’ll be when you get there. Cash is a bad but easy north star to default to. Same with ego, fame, power, a desire for revenge or dominance—they will lead you astray. Loyalty, mastery, a love of the game, a desire to keep your hands clean, to be an open book, have a clear conscience. These things take you north. They lead you forward. They cut through the noise. Of the cardinal directions, justice is the clearest, the Stoics said—it points you north, shows you where to go. Follow it, and you’ll end up in a good place…and you’ll be a good person when you get there.
 ====
 Hold the line. Your north star will illuminate a line in your life. That is, the line between good and evil, right and wrong, ethical and unethical, fair and unfair. Courage requires you to put your ass on that line. Self-discipline tells you to get your ass in line. Justice is holding that line. It’s what you will do and what you won’t. What you will stand for and what you won’t stand for. It’s the decisions you make, the actions you take. Indeed, all the philosophical and religious traditions–from Confucius to Christianity, Plato to Hobbes and Kant—are best preached not with words but with actions. Each action is like a lantern that hollows darkness and uncertainty. Each decision to do the right thing is a statement that our peers, children, and future generations will hear. So draw the line and hold it.
+====
+"What each of us must come to realize is that our intent always comes through." - Thurgood Marshall
 ====
 Develop competence. Keeping your word, taking responsibility, having compassion, good intentions, and good values are great. So is wanting to change things, to take on evil or injustice. But these feelings are worthless without competence. Florence Nightingale is often portrayed as an angelic nurse gliding through the halls of hospitals. The reality is much more impressive. She was a tireless seeker of knowledge, a stern teacher and trainer of a generation of talented nurses, a fierce advocate for resources, a diligent fundraiser, and a skilled steward of that money. If a problem is to be solved, it must be studied. If progress is to be made, if positive change is to happen, it will be paved not with good intentions but rock-hard competence. It will require courage, discipline, and wisdom. Of course it will. If change, if being of service, if developing smarts, capability, and competence were easy, everyone would do it and no one would be impressive.
 ====
@@ -2875,8 +2883,6 @@ Step 4: Organize, convey, and review.
 
 True genius is the ability to simplify, not complicate. Simple is beautiful.
 ====
-“if I wanted to implement something new into my game, I’d see it and try incorporating it immediately. I wasn’t scared of missing, looking bad, or being embarrassed. That’s because I always kept the end result, the long game, in my mind.” - Kobe Bryant
-====
 The first principle is that you must not fool yourse —and you are the easiest person to fool. - Richard Feynman
 ====
 "Civilization is a method of living, an attitude of equal respect for all men." - Jane Addams
@@ -3997,6 +4003,8 @@ The movement provides them with a sense of identity and purpose they lack as ind
 ====
 It takes a lot of work to make something simple. - Steve Wozniak
 ====
+"Your time is limited, so don’t waste it living someone else’s life… have the courage to follow your heart and intuition… Remembering that I’ll be dead soon is the most important tool I’ve ever encountered to help me make the big choices in life." - Steve Jobs
+====
 “Have the courage to follow your heart and intuition. They somehow already know what you truly want to become. Everything else is secondary.” - Steve Jobs
 ====
 “The most powerful person in the world is the storyteller. The storyteller sets the vision, values and agenda of an entire generation that is to come.” - Steve Jobs
@@ -4206,6 +4214,10 @@ I never feared about my skills because I put in the work. Work ethic eliminates 
 ====
 “I’m not so dominant that I can’t listen to creative ideas from other people. Successful people listen. Those who don’t listen, don’t survive long.” - Michael Jordan
 ====
+“if I wanted to implement something new into my game, I’d see it and try incorporating it immediately. I wasn’t scared of missing, looking bad, or being embarrassed. That’s because I always kept the end result, the long game, in my mind.” - Kobe Bryant
+====
+"It’s the one thing you can control. You are responsible for how people remember you—or don’t. So don’t take it lightly." - Kobe Bryant
+====
 “In my heart it is clear to me why I go to the line time and again. I can assure you it’s not a medal hanging around my neck I’m after. Medals are things I send to my mom in Winnipeg, which she in turn shares with friends and family. They are not what provide the deep sense of accomplishment, which fills my sense of self, in turn teaching me how to live.” -	Clara Hughes, Olympic Gold Medalist
 ====
 I play tennis for a living, even though I hate tennis, hate it with a dark and secret passion, and always have. [...] I slide to my knees and in a whisper I say: Please let this be over. Then: I’m not ready for it to be over. - Andre Agassi
@@ -4280,6 +4292,8 @@ Ditto for institutions.
 There is no such thing as a fair competition.
 ====
 In any conflict, there is rarely just one possible compromise.
+====
+"If you’re in a situation of conflict ... you can’t hold yourself responsible for their feelings. Regardless of how they handle the situation, you need to speak your truth. You need to do it in a respectful way, and then walk away knowing that you stood up for yourself." - Michelle McMahon
 ====
 “Nothing scales” in education.
 Scaling involves, along with everything else, exposing your “innovative” compromise to something more like the full force of parental desires. This is one way that scaling pushes institutions towards business as usual.
@@ -4615,7 +4629,9 @@ I have thought it my duty to exhibit things as they are, not as they ought to be
 ====
 "Real integrity is doing the right thing, knowing that nobody's going to know whether you did it or not." - Oprah Winfrey
 ====
-"Have no fear of perfection—you'll never reach it." - Salvador Dalí
+"Have no fear of perfection. You'll never reach it." - Salvador Dalí
+====
+"Mistakes are almost always of a sacred nature. Never try to correct them. On the contrary: rationalize them, understand them thoroughly. After that, it will be possible for you to sublimate them." - Salvador Dalí
 ====
 "Hope is a good breakfast, but it is a bad supper." - Francis Bacon
 ====
