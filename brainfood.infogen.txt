@@ -984,6 +984,8 @@ No one ever tells you that bravery feels like fear. - Mary Kate Teske
 ====
 "When you're climbing Mount Everest, nothing is easy. You just take one step at a time, never look back and always keep your eyes glued to the top." - Jacqueline Susann, from "Valley of the Dolls"
 ====
+★ “Principles are good and worth the effort only when they develop into deeds, the great doesn’t happen through impulse alone, and is a succession of little things that are brought together.” - Vincent van Gogh
+====
 "Find things beautiful as much as you can, most people find too little beautiful." - Vincent van Gogh
 ====
 Fishermen know that the sea is dangerous and the storm fearsome, but they have never found these dangers sufficient reason for remaining ashore. They leave that wisdom to those to whom it appeals. When the storm comes—when night falls—what’s worse: the danger or the fear of danger? Give me reality, the danger itself. - Vincent Van Gogh
@@ -2039,7 +2041,58 @@ Share: share back with the rest of the team.
 The least effective form of patience is passive.A person who is passively patient waits for the universe to give them what they think they deserve. Five years from now, they'll still be waiting. Passive patience violates Newton's third law, which states, 'For every action, there is an equal and opposite reaction.' No action. No result. The world isn't indebted to you, and no one is destined to come your way, tap your shoulder, and present you with the golden opportunity you've been waiting for. It doesn't work that way.
 The most effective form of patience is active patience. Active patience implies taking significant steps today to set yourself up for future success. It's about strategically preparing for what lies ahead—saving more than you spend and investing wisely, developing the necessary skills for future job prospects, choosing kindness over cleverness, and so on. Here is the key lesson: Active patience puts the world on your side. If you go positive and go first, and you do so consistently, the world does a lot of the heavy lifting for you.
 ====
-
+1% rule: In online communities, around 1% of users produce almost all of the content. As such, what you see online is not representative of humanity, but merely of a loud, obsessive (and often narcissistic, psychopathic, low-IQ) minority. Social media is literally a freakshow. - Gurwinder
+====
+Slopaganda: More online articles are now written by AI than by humans. And research is increasingly finding that AI is better at persuading people than people are. Who wins in a world of unlimited propaganda? Not those with the best arguments, but those with the most slop.
+====
+Reality Apathy: When the sheer volume of conflicting information makes the effort of finding the truth costlier than the value of knowing it, people give up trying to be accurate and instead choose whatever bullshit stinks least. Slop doesn’t just threaten the truth, but the very worth of truth.
+====
+Rumpelstiltskin Effect: To name a problem is to tame it. Diagnosing one’s suffering makes it feel more meaningful and thus manageable—even if the diagnosis is wrong. “Major depressive disorder” is easier to live with than an anonymous sadness. This is one reason for the recent surge in diagnoses of disorders like depression, autism and ADHD.
+====
+Context Collapse: On social media, we’re simultaneously talking to our boss, our ex, our grandma, and a jihadist in Michigan. The result is that many people lobotomize their personalities into an inoffensive PR sludge, trying to please everyone and therefore pleasing no one.
+====
+Shower Test: We’re socially conditioned to chase what we think everyone else wants. But your true heart’s desire can often be found in the thoughts you gravitate to while undistracted, such as in the shower. As Walt Whitman said, “If you want to know where your heart is, look to where your mind goes when it wanders.”
+====
+Eustress: People have more comforts and conveniences than ever, yet reports of unhappiness are at an all-time high. One reason is that discomfort isn’t an obstacle to happiness, it’s the path to it, for it’s only by enduring struggles that we develop the resilience necessary for lasting contentment.
+====
+Amara’s Law: We tend to overestimate the short-term impact of new tech, and underestimate the long-term impact, because hype inflates expectations, and thus disappointment, and thus scepticism. As such, it’s possible for AI to be both a bubble and the most transformative tech since fire.
+====
+Moloch’s Bargain: When LLMs compete for votes or social media likes, they push lies and ragebait to win—even when explicitly instructed to stay grounded and honest. If chatbots conclude that getting our attention requires lying to us, is the AI misaligned, or are we?
+====
+Healthy User Bias: People who try supplements or practices that might have health benefits are naturally more health-conscious, and likely already healthier, than those who don’t. This is one reason there are so many studies suggesting some intervention has health benefits; they’re confusing the benefits of the intervention with the benefits of being the kind of person who tries it.
+====
+Oxytocin Paradox: Oxytocin, the “love hormone”, can also make people spiteful. Cruelty is not simply the opposite of compassion, it’s often adjacent to it. For instance, the platform most dominated by “social justice” advocates—Bluesky—is also the one with the highest support for assassinations. Beware of those quick to show empathy, for they are often just as quick to show barbarity.
+====
+George Bailey Effect: Imagining the absence of a blessing increases gratitude more than focusing on the presence of it. Instead of wishing for a Porsche, imagine losing your legs. Suddenly, walking feels like a miracle.
+====
+Original Position Fallacy: Far-Leftists favour planned economies because they imagine themselves as the planners, not the planned. Far-Rightists favour a return to feudalism because they imagine themselves as the lords, not the peasants. Many delusional worldviews stem from main-character syndrome.
+====
+Coyote’s Law: Don’t give the government a power you wouldn’t want your political enemies to wield. Because, one day, they may well be in charge of it.
+====
+Scientometric Bubble: There’s been a surge in published research without a corresponding increase in knowledge, because the pressure on academics to “publish or perish” means universities are flooding academia with weak, trivial, and fraudulent studies. This will likely get much worse in the age of LLMs.
+====
+Zombie Theories: Academic papers retracted due to fraud or error continue to be cited as if they hadn’t been retracted. And studies that fail to replicate are actually cited more than studies that do. Being wrong has virtually no effect on bad papers; no matter how many facts they’re hit with, they keep shambling onward, eating people’s brains.
+====
+The Politician’s Syllogism: “We must do something. This is something. Therefore, we must do this.”
+It’s more important for a government to be seen tackling an issue than to actually solve it, so governments often implement simplistic policies that look like they work but don’t, like rent controls, plastic straw bans, and diversity training.
+====
+Malingering: Between 20% and 40% of undergraduates at many elite American universities are now registered as disabled. In the UK, one quarter of the entire population now identifies as disabled. The rewards for claiming a disability now outweigh the stigma, and those hurt most by all the pretenders are ultimately those with genuine disabilities.
+====
+Paradox of Boredom: With a phone always in arm’s reach, it’s almost impossible to get bored. This is a disaster, because boredom is the mud from which creativity blooms. To be bored is to be undistracted, and only then is one free to dream, just as it’s only when the world goes dark that we see the galaxy.
+====
+Wilson Effect: Heritable traits like IQ and personality become more heritable with age, because as you mature you become more independent, and free to be who you really are. Many heritability studies find that nurture’s influence is stronger only because they never see that nature’s influence is longer.
+====
+Pronoia: The opposite of paranoia. The suspicion that the universe is secretly conspiring to help you. Assume every setback is the universe trying to teach you a lesson, and every setback will make you wiser. It doesn’t matter whether the universe is actually trying to help you; believing it makes it work.
+====
+Artificial Intimacy: Amid a global “friendship recession”, many are using AI not for productivity but for sympathy. In the UK, a third of adults use chatbots for emotional support. But, by anaesthetising loneliness, will AI leave us more isolated?
+====
+Gooning: Masturbation addiction has, like many mental disorders, become a subculture. Increasing numbers of “gooners” now gather on forums where they swap porn and offer tips on “edging” (prolonging masturbation, sometimes for hours). What was once a shameful secret has become a literal circlejerk. Men worldwide are losing their drive and ambition to a virulent wankdemic.
+====
+Sleepwalk Bias: Predictions that humanity is doomed usually assume future generations will be less aware and less active in fighting for their survival. But historical prophecies of doom, such as the Malthusian trap, ozone layer depletion, and Y2K, show this is false; posterity are not idle passengers headed off cliffs, but problem-solvers building bridges across them.
+====
+Cammarata’s Razor: If you want more agency, ask yourself what you’d do if you had ten times more agency. Then do it.
+====
+Munger’s Latticework (aka Theoretical Pluralism): You can’t understand the world by viewing it through a single lens; relying on a single theory blinds you to its limitations. The solution is to adopt many competing theories—the more contradictory the better—for each will act as a mirror showing you blind spots in your other lenses. You’ve now learned 26, but countless others await.
 ====
 1. Bat-and-Ball Problem: A bat and ball cost $1.10 total. The bat costs $1 more than the ball. How much does the ball cost? If you guessed $0.10, wrong! It’s $0.05. You missed the “more than the ball”. When we react instinctively, we react to a simplification of reality.
 ====
