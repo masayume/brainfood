@@ -2,7 +2,7 @@ ad: to (ad-locum)
 ====
 cum: with (cum-quibus: con i quali)
 ====
-dis: distribute (dis-vulgus: divulgare)
+dis: distribute, separate (dis-vulgus: divulgare; dis-iungere)
 ====
 ex: from, outside of (ex-rogare: distribuire, da rogare: chiedere)
 ====
@@ -12,7 +12,7 @@ in: negative (in-demnis: senza danno)
 ====
 in: inside
 ====
-prae: before, forward
+prae: before, forward (prae-monitio: premonizione)
 ====
 re: repeat
 ====
