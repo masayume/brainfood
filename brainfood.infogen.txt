@@ -490,6 +490,16 @@ science - Use the Baloney Detection Kit
 ====
 "Every one of us is, in the cosmic perspective, precious. If a human disagrees with you, let him live. In a hundred billion galaxies, you will not find another." - Carl Sagan
 ====
+‘A good idea is something that solves multiple problems in a flash.’ 
+This is something that Shigeru Miyamoto taught me about making games. For him, the phrase functions as a kind of creed of game design. 
+Miyamoto is always looking for that one thing, pushing himself and relentlessly asking ‘What is it? What is it?’ …
+When Miyamoto said ‘I got it’, he meant he had an idea for the game that we were making together, but specifically, he meant ‘This idea will take out three or four of the big problems that are bugging us.’ - Satoru Iwata
+====
+Iwata: Miyamoto makes his games by taking leaps of faith, deciding that ‘if we do this, here’s what we can expect,’ and in that sense he has a much higher batting average than most, but he is not omnipotent, and makes his fair share of mistakes. 
+But how does he fix them?
+By snatching up some person in the company who has never touched the game. He pulls them from their desk, without explanation, hands them a controller, and says ‘All right, play.’
+… Since the early days, Miyamoto has been spiriting away these unassuming employees and sitting them down with a controller. Telling them ‘Go on, play’ and watching from behind without further explanation. - Satoru Iwata
+====
 We're wired for novelty, but life rewards repetition.
 Good ideas are rare. When you find something that works, you've found gold. But instead of mining it, we go looking for more gold.
 We'd rather have ten ideas that might work than one that does.
