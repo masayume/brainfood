@@ -1164,8 +1164,6 @@ Boomerang Effect
 Deny someone something, and they'll want it even more, out of defiance. If you want your child to eat broccoli, tell them they’re not big enough to eat broccoli.
 Helps explain why censorship often backfires (the Streisand Effect).
 ====
-Anchored-to-your-own-history bias
-“Your personal experiences make up maybe 0.00000001% of what’s happened in the world but maybe 80% of how you think the world works.” - Morgan Housel
 Boomers & Generation X had wildly different experiences of how the economy works, and this gave them different dispositions, worldviews, and political preferences.
 ====
 Mismatch Theory - Moths evolved to navigate by the moon, a good strategy until the invention of electric lamps, which now lead them astray. Equally, humans evolved to be tribal, a good strategy until the digital age, where it now leads us to act like polarized goons online.
@@ -1924,6 +1922,11 @@ It takes inordinate courage to introspect, to confront oneself, to accept one’
 “If people want happiness so badly, why don’t they attempt to understand their false beliefs? First, because it never occurs to them to see them as false or even as beliefs. They see them as facts and reality, so deeply have they been programmed.” – Anthony DiMello
 ====
 “The purpose of life is to experience things for which you will later experience nostalgia.” – FedSpeak
+====
+Anchored-to-your-own-history bias
+“Your personal experiences make up maybe 0.00000001% of what’s happened in the world but maybe 80% of how you think the world works.” - Morgan Housel
+====
+“There are two ways to use money. One is as a tool to live a better life. The other is as a yardstick of status to measure yourself against others. Many people aspire for the former but spend their life chasing the latter.” - Morgan Housel
 ====
 Nostalgia happens because the best survival strategy in an uncertain world is to overworry. When you look back, you forget about all the things you worried about that never came true. So life appears better in the past because in hindsight there wasn’t as much to worry about as you were actually worrying about at the time. - Morgan Housel
 ====
