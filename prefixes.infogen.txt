@@ -18,5 +18,9 @@ re: repeat
 ====
 rin: re (ripetere) + in (dentro)
 ====
+s: negative (scomparire)
+====
+sub: under (sub-conscious)
+====
 syn: con, insieme (sýntoma [lat:synptoma]: coincidenza, accidente, avvenimento fortuito)
 ====
