@@ -2951,9 +2951,9 @@ Step 4: Organize, convey, and review.
 
 True genius is the ability to simplify, not complicate. Simple is beautiful.
 ====
-The first principle is that you must not fool yourse —and you are the easiest person to fool. - Richard Feynman
+The first principle is that you must not fool yourself and you are the easiest person to fool. - Richard Feynman
 ====
-"Civilization is a method of living, an attitude of equal respect for all men." - Jane Addams
+“We are trying to prove ourselves wrong as quickly as possible, because only in that way can we find progress.” - Richard Feynman
 ====
 We are trying to prove ourselves wrong as quickly as possible, because only in that way we can find progress. - Richard Feynman
 ====
@@ -2962,6 +2962,12 @@ We are trying to prove ourselves wrong as quickly as possible, because only in t
 We are never definitely right; we can only be sure we are definitely wrong. - Richard Feynman
 ====
 “You are under no obligation to remain the same person you were a year ago, a month ago, or even a day ago. You are here to create yourself, continuously.” - Richard Feynman
+====
+"Being wrong early is actually a shortcut to being right." - Jeremy Hsu
+====
+Get something on screen fast, ugly (not too ugly that you can’t admit this is your work), incomplete, and possibly wrong. Why? Because feedback on a real thing beats silence over a “perfect” phantom. Let’s be clear: failing fast doesn’t mean delivering trash. It means iterating with intention. As designers, we have a responsibility to aim for quality,even when we’re moving fast. - Jeremy Hsu
+====
+"Civilization is a method of living, an attitude of equal respect for all men." - Jane Addams
 ====
 Directional Arrow of Progress
 "Study the undeniable arrows of progress." - @wolfejosh
