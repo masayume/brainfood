@@ -7,6 +7,8 @@ Alonely: negative feelings caused by not getting enough time alone (the opposite
 ====
 Apophenia (Spectrum): Apophenia is the cognitive bias of perceiving meaningful patterns or connections in random or meaningless data. I prefer, though, to adapt this concept to use it as a spectrum applied to people. I use it to indicate the extent to which you spot patterns and connections. Those who are high in apophenia find real patterns that others miss but also see more false patterns, whereas those who are low have fewer false patterns but may miss real patterns. There’s a fundamental trade-off related to pattern identification – some people have more false positives, whereas others have more false negatives. People with schizophrenia tend to be very high in apophenia.
 ====
+Bafflegab: incomprehensible or pretentious verbiage, especially bureaucratic jargon.
+====
 Bezel: Galbraith’s term for the illusory wealth created by fraud or embezzlement before it gets discovered. It’s the gap between the perceived and real asset value. The bezel makes the defrauder and defrauded both have a psychological perception of wealth.
 ====
 Brouhaha: A noisy and overexcited reaction or response to something.
