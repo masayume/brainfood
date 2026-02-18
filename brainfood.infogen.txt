@@ -9,7 +9,7 @@ Struggle Is Good. Never say “I can’t take it anymore.” Say “Bring it on!
 ====
 "Why am I trying to become what I don’t want to be … when all I want is out there, waiting for me the minute I say I know who I am." - Arthur Miller, in "Death of a Salesman"
 ====
-"Take something you like," she said, "and try to copy it exactly. Copying teaches you a lot about technique." - Celine Nguyen
+★ "Take something you like," she said, "and try to copy it exactly. Copying teaches you a lot about technique." - Celine Nguyen
 ====
 Learn Every Day. You’ve got to train your brain to stay alert. You don’t have to read a book a day to learn every day. Learn from your mistakes. Learn from the people around you — be open to what they can teach you.
 ====
@@ -68,6 +68,9 @@ The person who focuses on fewer things goes further than the person distracted b
 Surround yourself with people who are thoughtful in ways you are not, because they see what you can't.
 ====
 Convince yourself and others to forgo instant gratification, often through strategic distraction.
+====
+What you say about yourself is forgotten. What you do for others compounds.
+Serve people well, and their word about you will travel further than yours ever could.
 ====
 You don't need more time; you need more focus. Fewer projects. Fewer commitments. Fewer obligations. Fewer responsibilities. Carefully choose your commitments, then go all in. Time isn't the constraint. Your choices are. Great outcomes aren't built on great days, but on consistent ones.
 You can't just count the days when it's easy. Each day moves you closer to the goal. No day is a hero; no day is a villain.
@@ -255,6 +258,9 @@ A focused hour outweighs an unfocused day.
 "Once you learn to read, you will be forever free." - Frederick Douglass
 ====
 “It would be ridiculous to refer to the electromagnetic field through which the message runs as a republic.” - Vilèm Flusser
+====
+The more you watch the score, the worse you play.
+Checking the scoreboard feels like doing something, but it pulls attention away from the only thing that can change it: What now?
 ====
 What information consumes is rather obvious: it consumes the attention of its recipients. Hence a wealth of information creates a poverty of attention and a need to allocate that attention efficiently among the overabundance of information sources that might consume it. - Herb Simon
 ====
@@ -1232,6 +1238,18 @@ Art can help us heal.
 Bees have to move very fast to stay still. - David Foster Wallace
 ====
 “Learning how to think really means learning how to exercise some control over how and what you think. It means being conscious and aware enough to choose what you pay attention to and to choose how you construct meaning from experience.” - David Foster Wallace
+====
+We See Patterns in Randomness
+Our brains are pattern-recognition machines that often work too well. We see meaningful clusters in random data, believe in “hot hands” in basketball when the streaks are statistically normal, and find significance in coincidences that are mathematically inevitable. The clustering illusion makes us trust our intuitions about randomness when we shouldn’t. - Thomas Gilovich
+====
+Confirmation Bias Shapes Everything
+When examining evidence, we see what we expect to see and conclude what we expect to conclude. Information consistent with our existing beliefs is accepted at face value; evidence that contradicts it is scrutinized and discounted. Worse: for conclusions we want to be true, we ask “Can I believe this?” — but for unwelcome conclusions, we ask “Must I believe this?” - Thomas Gilovich
+====
+We Overestimate Agreement
+The false consensus effect leads us to overestimate how much others share our beliefs. Because we associate with like-minded people and disagreement often stays hidden, we don’t subject our beliefs to healthy scrutiny. This social bubble reinforces false beliefs and makes them feel like common sense. - Thomas Gilovich
+====
+We’re Better at Generating Than Evaluating
+Humans are extraordinarily good at generating ideas, theories, and explanations that sound plausible. We are far less skilled at rigorously testing them. We prefer black-and-white thinking over shades of gray, and we’ll always be tempted to hold oversimplified beliefs that feel satisfying even when reality is more complex. - Thomas Gilovich
 ====
 “We do not escape into philosophy, psychology, and art - we go there to restore our shattered selves into whole ones.” - Anaïs Nin
 ====
@@ -4306,7 +4324,9 @@ You cannot fear something that you don't know. Nobody is afraid of the unknown. 
 ====
 "Talent is never enough. With few exceptions, the best players are the hardest workers." - Earvin "Magic" Johnson
 ====
-I never feared about my skills because I put in the work. Work ethic eliminates fear. So you if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
+I never feared about my skills because I put in the work. Work ethic eliminates fear. So if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
+====
+"I never looked at the consequences of missing a big shot. Why? Because when you think about the consequences you always think of a negative result." - Michael Jordan
 ====
 “I’m not so dominant that I can’t listen to creative ideas from other people. Successful people listen. Those who don’t listen, don’t survive long.” - Michael Jordan
 ====
