@@ -12,6 +12,8 @@ in: negative (in-demnis: senza danno)
 ====
 in: inside
 ====
+para: beside (paroidía, composto da [para-] ‘presso, accanto’ e [oidé] ‘canto’).
+====
 per: through (pèr-spicax, spicere: guardare)
 ====
 prae: before, forward (prae-monitio: premonizione)
