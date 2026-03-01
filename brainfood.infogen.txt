@@ -139,6 +139,8 @@ Going all in on something for a month gets better results than dabbling in it fo
 ====
 “Every human being is dealt a different hand in life and you can’t control the cards that someone else is holding. The more time you spend staring at someone else, the more you miss the entire point of the game.”
 ====
+“In life, the challenge is not so much to figure out how best to play the game; the challenge is to figure out what game you’re playing.” - Kwame Anthony Appiah
+====
 “You don't need more intensity; you need more consistency.
 Intensity impresses; consistency transforms.”
 ====
@@ -4215,6 +4217,8 @@ The highest form of leverage is reputation.
 ====
 "Be silent, if you choose; but when it is necessary, speak–and speak in such a way that people will remember it." - Wolfgang Amadeus Mozart
 ====
+“Every artist is only showing you his best. When you watch a movie, every scene—they only show you the one take that worked. Seventeen times, they missed it. You’re only seeing the peak of it.” - Jerry Seinfeld
+====
 "I've come to the conclusion that life is for the taking and just too short to dwell on the negative." - Dolores O’Riordan
 ====
 "After you make a fool of yourself a few hundred times, you learn what works." - Gwen Stefani
@@ -4222,6 +4226,8 @@ The highest form of leverage is reputation.
 "Being an intellectual creates a lot of questions and no answers." - Janis Joplin
 ====
 "If your world doesn't allow you to dream, move to one where you can." - Billy Idol
+====
+“They laugh at me because I'm different; I laugh at them because they're all the same" - Kurt Cobain 
 ====
 "It's the rough side of the mountain that’s the easiest to climb; the smooth side doesn’t have anything for you to hang on to." - Aretha Franklin
 ====
@@ -4359,6 +4365,12 @@ You cannot fear something that you don't know. Nobody is afraid of the unknown. 
 "The road to the Olympics, leads to no city, no country. It goes far beyond New York or Moscow, ancient Greece or Nazi Germany. The road to the Olympics leads—in the end—to the best within us." - Jesse Owens
 ====
 "Do not pray for an easy life, pray to be a strong person." - Nadia Comăneci
+====
+♥ “I love struggling, actually. It makes me feel alive.” - Alysa Liu
+====
+♥★ “I'm a very introspective. I spend a lot of time in my head, and it's not a bad place to be. I journal a lot. I break down all of my thought processes. I think I apply a very analytical lens to my own thinking, and I kind of modify it because it's so interesting. You can control what you think. You can control how you think, and therefore, you can control who you are." - Eileen Gu
+====
+“I want things to be intentional and slow, I don’t need them to be optimized.” - Spencer Richardson
 ====
 "Celebrate the life you had, not the life you could've had." - Earvin "Magic" Johnson
 ====
@@ -5162,6 +5174,8 @@ Knuth’s Optimization Principle: “Premature optimization is the root of all e
 Law of Demeter: “Don’t talk to strangers.” (A unit of software should talk only to its immediate collaborators.)
 ====
 Linus’ Law: “Given enough eyeballs, all bugs are shallow.”
+====
+Simple and shallow sound the same until you ask the second question. The person who earned their simplicity can go ten levels deep when challenged. The person who skipped the work falls apart at level two.
 ====
 Mooer’s Law: “An information retrieval system will tend not to be used whenever it is more painful and troublesome for a customer to access information than for him not to have it.”
 ====
