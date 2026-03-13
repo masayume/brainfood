@@ -64,7 +64,7 @@ Lord non è “lordo” (gross) ma signore.
 Lunatic non è “lunatico” (moody) ma pazzo.
 Lurid non è “lurido” (dirty, smutty) ma “vivido, sgargiante”.
 To magnify non è magnificare (to praise) ma ingrandire.
-Mansion sembra la stessa parola di “mansione”, ma significa “villa”.
+Mansion sembra la stessa parola di “mansione” (job description), ma significa “villa”.
 Maroon non è “marrone” (brown) ma “amaranto, granata”.
 Mayor non è “maggiore” (major) ma “sindaco”.
 Mess non è “messa” (mass) ma “confusione, disordine”.
@@ -75,6 +75,7 @@ Mundane potrebbe sembrare “mondano” (worldly), ma è “noioso, banale, ordi
 Notice non è “notizia” (news) ma “avviso, comunicazione”.
 Novel non è “novella, racconto breve” (short story, short tale, novella) ma “romanzo” o “racconto lungo”.
 Ostrich non è “ostrica” (oyster), ma struzzo.
+Otter non è "otaria" (sea lion), ma lontra
 Parent non è “parente” (relative) ma “genitore”.
 Patent è non “patente” ma “brevetto”.
 Pavement non è “pavimento” (floor) ma “marciapiede”.
@@ -86,7 +87,7 @@ Physician non è “fisico” (physicist) ma “medico”.
 Rape non vuol dire né “rapa” (turnip) né rapina (robbery), ma “stupro”.
 Recipient suona come “recipiente” (container) ma vuol dire “destinatario, ricevente”.
 To realize non è “realizzare” (fulfil, carry out) ma “rendersi conto”.
-Rise non è né “riso” (alimento) né il sostantivo del ridere (= smile, grin), ma “aumento, salita”.
+Rise non è né “riso” (rice, alimento) né il sostantivo del ridere (= smile, grin), ma “aumento, salita”.
 Romance non è “romanzo” (novel) ma “storia d’amore”.
 Rumour non è “rumore” ma “diceria”.
 Sane non è “sano” (nel corpo) ma “mentalmente sano”.
