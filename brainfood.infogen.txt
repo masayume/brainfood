@@ -3,6 +3,8 @@
 ====
 “I know one thing: that I know nothing.” - Socrates
 ====
+★ “In the sky, there is no distinction between east and west; people create distinctions in their own minds and then believe them to be true.” - Gautama Siddhartha
+====
 Struggle Is Good. Never say “I can’t take it anymore.” Say “Bring it on!”
 ====
 ★ "For every complex problem there is an answer that is clear, simple, and wrong." - H. L. Mencken
@@ -16,6 +18,8 @@ Struggle Is Good. Never say “I can’t take it anymore.” Say “Bring it on!
 Learn Every Day. You’ve got to train your brain to stay alert. You don’t have to read a book a day to learn every day. Learn from your mistakes. Learn from the people around you — be open to what they can teach you.
 ====
 When you are at peace, you don't pick fights, create drama, or worry about what others think of you.
+====
+“There’s a distinctive signature to authentic people: they prefer meaningful conversations with a few over shallow exchanges with many. Their love is demonstrated rather than declared. Their words and actions align, even when no one’s watching. They bring a quality of presence that makes you feel truly seen, and carry a sense of peace and joy that doesn’t depend on external validation.” - Vex King
 ====
 Stubbornness and flexibility aren't opposites; they're responses to different inputs.
 Be impenetrable to social pressure and quick to adapt to evidence.
@@ -37,6 +41,10 @@ Give Without Expecting Something In Return. Don’t keep score. You will become 
 Don’t Take Yourself So Seriously. Yeah, yeah, you’re an individual, and people have to take you seriously, I get it. But at the end of the day, we’re all a bunch of ants trying to chase the same things. Lighten up.
 ====
 Never Look Back Too Long. Reflecting on the past is only good for one thing: Learning.
+====
+“Every day do something that won’t compute.” - Wendell Berry
+====
+“Really all you have to do is be yourself. Be cool.” - Elmore Leonard
 ====
 Take Action. Don’t just sit there, do something. Without action, there is no outcome.
 ====
@@ -1109,6 +1117,8 @@ Fishermen know that the sea is dangerous and the storm fearsome, but they have n
 ====
 “Great things are not done by impulse, but by a series of small things brought together. The trick is to focus on the first small thing. Starting small is still starting, and small beginnings often lead to extraordinary endings.” - Vincent Van Gogh on the accumulation of small things:
 ====
+"If you hear a voice within you say ‘you cannot paint,’ then by all means paint, and that voice will be silenced." - Vincent van Gogh
+====
 “You have power over your mind - not outside events. Realize this, and you will find strength.” - Marcus Aurelius
 When you change the way you look at things, the things you look at change.
 ====
@@ -1179,6 +1189,8 @@ If its your job to eat two frogs, eat the biggest one first.
 - Mark Twain
 ====
 “Always do right. This will gratify some people and astonish the rest.” - Mark Twain 
+====
+"The first of April is the day we remember what we are the other 364 days of the year." - Mark Twain
 ====
 “Positive action produces positive attitudes, which produce a positive atmosphere.”
 ====
@@ -2435,6 +2447,9 @@ Self-Handicapping: Avoiding effort because you don’t want to deal with the emo
 ====
 Hanlon’s Razor: “Never attribute to malice that which can be adequately explained by stupidity.”
 ====
+Forgive everything but malicious intent.
+Nearly everyone deserves a second chance.
+====
 False Uniqueness Effect: Assuming your skills are unique when they’re not. Comes from conflating “I’m good at this” with “Others are bad at this.”
 ====
 Annoyance is the only truly renewable resource known to man. - Adam Mastroianni
@@ -2586,6 +2601,8 @@ The truth is whispered while opinions are shouted.
 “One of the symptoms of an approaching nervous breakdown is the belief that one’s work is terribly important.” - Bertrand Russell, "The Conquest of Happiness"
 ====
 “One should as a rule respect public opinion in so far as is necessary to avoid starvation and to keep out of prison, but anything that goes beyond this is voluntary submission to an unnecessary tyranny, and is likely to interfere with happiness in all kinds of ways.” - Bertrand Russell, "The Conquest of Happiness" 
+====
+Not all desires are equal. There are three categories: Natural desires (food, shelter, friendship): pursue these freely. Extravagant desires (fine dining, enriching experiences): enjoy occasionally without dependence. Corrosive desires (wealth, fame, power): these are insatiable by design and generate more anxiety than they relieve. The key is recognizing which category a desire falls into before chasing it. - Emily Austin, "Living for Pleasure"
 ====
 “The man who acquires easily things for which he feels only a very moderate desire concludes that the attainment of desire does not bring happiness. If he is of a philosophic disposition, he concludes that human life is essentially wretched, since the man who has all he wants is still unhappy. He forgets that to be without some of the things you want is an indispensable part of happiness.” - Bertrand Russell, "The Conquest of Happiness"
 ====
@@ -2766,6 +2783,10 @@ We all know how biased journalists can be, but even those who attempt to be obje
 ====
 29. Popper’s Falsifiability Principle:
 For a theory to be considered scientific, it must be possible to disprove or refute it. As such, for each of your beliefs you should have a clear idea of what would persuade you you're wrong, otherwise your belief is immune to reason.
+====
+People don't evaluate your reasoning. They evaluate you.
+We reject a recommendation from someone we don't like but embrace it from someone we admire.
+If you want to persuade, sell yourself before you sell your ideas.
 ====
 "The growth of knowledge depends entirely upon disagreement" - Karl Popper
 ====
@@ -4240,6 +4261,8 @@ It takes a lot of work to make something simple. - Steve Wozniak
 “The only way to do great work is to love what you do. If you haven’t found it yet, keep looking. Don’t settle.” - Steve Jobs
 ====
 "My model for business is The Beatles: They were four guys that kept each others' negative tendencies in check; they balanced each other. And the total was greater than the sum of the parts." - Steve Jobs
+====
+"You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life." - Steve Jobs
 ====
 “The best way to think is to write.”
 ====
