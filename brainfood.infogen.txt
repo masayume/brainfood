@@ -11,9 +11,13 @@ Struggle Is Good. Never say “I can’t take it anymore.” Say “Bring it on!
 ====
 ★ "When you rigidly hold certain irrational beliefs, when you dogmatically command that you must do well, have to be approved by others, have got to have people treat you fairly, and always ought to live with easy and enjoyable conditions, when you stoutly hold these irrational beliefs, you will tend to make yourself needlessly miserable and will probably defeat some of your most cherished goals." - Dr. Albert Ellis
 ====
+★ “The ultimate reason for setting goals is to entice you to become the person it takes to achieve them.” - Jim Rohn
+====
 "Why am I trying to become what I don’t want to be … when all I want is out there, waiting for me the minute I say I know who I am." - Arthur Miller, in "Death of a Salesman"
 ====
 ★ "Take something you like," she said, "and try to copy it exactly. Copying teaches you a lot about technique." - Celine Nguyen
+====
+"The first draft of everything is shit" - Ernest Hemingway
 ====
 Learn Every Day. You’ve got to train your brain to stay alert. You don’t have to read a book a day to learn every day. Learn from your mistakes. Learn from the people around you — be open to what they can teach you.
 ====
@@ -515,6 +519,19 @@ Anyone can do it once. The outliers do it often.
 ====
 "If you’re in a place in life you don’t want to be, it’s up to you to make it better. To reframe it by focusing on the positive, and approaching it with enthusiasm. In the end, your positivity and enthusiasm will contribute to creating the outcome you’re after. Once you apply this mindset to all aspects of your life, you corner fear. Fear basically has nowhere to go." - Tom Brady
 ====
+A fixed mindset assumes intelligence and talent are carved in stone. When you believe your qualities can’t change, success becomes about proving you’re smart, and failure becomes a verdict on your worth. You avoid challenges that might expose you. You get defensive about criticism. You start to see effort as a sign you don’t have natural ability. Every situation becomes a test of who you are.
+A growth mindset sees abilities as developable through effort, good strategy, and help from others. Failure isn’t a verdict. It’s information. People with this mindset don’t just seek challenge; they get energized by it, because struggle means they’re learning. Dweck’s key point: a person’s true potential is unknown and unknowable. You can’t predict what someone will accomplish with years of dedicated practice. - Carol Dweck, "Mindset"
+====
+A growth mindset turns “I can’t do this” into “I can’t do this yet.” One word, but it changes your whole relationship to difficulty. When students learn they can strengthen their brains through effort, their performance improves. And there’s a physical difference: brain scans show that growth-mindset brains light up when reviewing errors, while fixed-mindset brains show no activity at all. One brain is engaging with the mistake. The other is ignoring it. - Carol Dweck, "Mindset"
+====
+Praising children’s intelligence backfires. They stop wanting challenges because they don’t want to look stupid. Praising effort and strategy does the opposite. If you want to give kids a gift, teach them to love challenges and be curious about their mistakes. This applies to how you talk to yourself, too. - Carol Dweck, "Mindset"
+====
+The next time you avoid a challenge because you might fail, stop and ask: am I protecting my self-image, or am I learning ?
+When you catch yourself thinking “I’m not good at this,” add “yet.” Notice how one word changes the feeling.
+Listen to how you praise others. Are you praising talent (”You’re so smart!”) or effort (”You worked hard and tried a new approach”) ? Shift toward the second one, including when you talk to yourself. - Carol Dweck
+====
+“The view you adopt for yourself profoundly affects the way you lead your life.” - Carol Dweck, "Mindset"
+====
 "The minute you start talking about what you're going to do if you lose, you have lost." - George Shultz
 ====
 Your mistakes aren’t the best teacher—just the most expensive.
@@ -733,6 +750,8 @@ Peter Thiel: “Competition is for losers.” I loved this the second I heard it
 There is a story about the manager of Iron Maiden, one of the greatest metal bands of all time. At a dinner honoring the band, a young agent comes up to him and says how much he admires his skillful work in the music business. The manager looks at him and says, “HA! You think I am in the music business? No. I’m in the Iron fucking Maiden business.” The idea being that you want to be in the business of YOU. Not of your respective industry. Not of the critics. Not of the fads and trends and what everyone else is doing.
 ====
 If you can afford to, delegate it. If you can’t yet afford to, automate it. Time is the most precious resource.
+====
+“Taste has no system and no proofs. But there is something like a logic of taste: the consistent sensibility which underlies and gives rise to a certain taste.” - Susan Sontag
 ====
 Time exists in order that everything doesn't happen all at once… and space exists so that it doesn't all happen to you. - Susan Sontag
 ====
@@ -1146,6 +1165,8 @@ No one is paying as much attention to you as you are. Everyone is too busy worry
 ====
 If you want to uplift yourself, then uplift someone else.
 ====
+"There are two ways of exerting one’s strength; one is pushing down, the other is pulling up." - Booker T. Washington
+====
 "No one is useless in this world who lightens the burdens of another." - Charles Dickens, in "Our Mutual Friend"
 ====
 "Carry out a random act of kindness with no expectation of reward, safe in the knowledge that one day someone might do the same for you." - Princess Diana
@@ -1168,6 +1189,28 @@ We grow so accustomed to life that we forget how miraculous it is. Imagine you w
 “Do you know the biggest mistake most musicians make?” He said. “Their first album comes from love, heartbreak, passion, or depression. They have no expectation of how the world will respond. They write it from the heart, and if it catches on, they’re validated by the world. But then they start writing their second album, and they don’t necessarily write it based on love, heartbreak, or passion. They write the album they think the world will want." - Rick Rubin 
 ====
 “When we reach an impasse at any point in the creative process, it can be helpful to step away from the project to create space and allow a solution to appear.” - Rick Rubin
+====
+Good habits create good art. - Rick Rubin
+====
+Ultimately, your desire to create must be greater than your fear of it. - Rick Rubin
+====
+As soon as a convention is established, the most interesting work would be the one that doesn’t follow it. - Rick Rubin
+====
+Communicate your singular perspective. - Rick Rubin
+====
+The world isn’t wanting more of the same. - Rick Rubin
+====
+Inspiration comes first. You come next. The audience comes last.
+====
+The best work is the work you are excited about.
+====
+Being an artist means to be continually asking, “How can it be better?” whatever it is. It may be your art, and it may be your life.
+====
+It’s the little things that make the big things come about. - John Wooden
+====
+The personal is the universal. - Carl Rogers
+====
+The object isn’t to make art, it’s to be in that wonderful state which makes art inevitable. - Robert Henri
 ====
 The more comfortable you are with yourself, the less you need the approval of others.
 ====
@@ -1352,6 +1395,8 @@ Humans are extraordinarily good at generating ideas, theories, and explanations 
 “We do not escape into philosophy, psychology, and art - we go there to restore our shattered selves into whole ones.” - Anaïs Nin
 ====
 "Without courage we cannot practice any other virtue with consistency. We can't be kind, true, merciful, generous, or honest." - Maya Angelou
+====
+"Try to be a rainbow in someone's cloud." - Maya Angelou
 ====
 "To live is to choose. But to choose well, you must know who you are and what you stand for, where you want to go and why you want to get there." - Kofi Annan
 ====
@@ -1998,6 +2043,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 "Reality is that which, when you stop believing in it, doesn't go away." - Philip K. Dick
 ====
 “Jokes of the proper kind, properly told, can do more to enlighten questions of politics, philosophy, and literature than any number of dull arguments.” – Isaac Asimov
+====
+"In life, unlike chess, the game continues after checkmate." - Isaac Asimov
 ====
 “Inherited wealth is as certain a death to ambition as cocaine is to morality.” – William Vanderbilt
 ====
@@ -3123,6 +3170,8 @@ The future is extremely difficult to predict—but there are clues.
 Look at the trend line of progress and where it's pointing—directionally, not precisely.
 Invest (or build) accordingly.
 ====
+“Consensus ... is the process of avoiding the very issues that have to be solved.” - Margaret Thatcher
+====
 "A people that values its privileges above its principles soon loses both." - Dwight D. Eisenhower
 ====
 The Eisenhower Decision Matrix
@@ -3713,6 +3762,8 @@ Democracy has no capability to prevent its development towards totalitarism when
 Scarcity is the one thing you can never have enough of. - Marc Randolph
 ====
 The concept of post scarcity annoys me as it feels so detached from reality. There is too many things not working in our current system to be that delusional. We all need food, water and shelter. The condition for widespread access to this is a precarious balance. 
+====
+“You'll never feel okay by way of external accomplishments. Enough comes from the inside. It comes from stepping off the train. From seeing what you already have, what you've always had.” - Ryan Holiday
 ====
 "Nature does not hurry, yet everything is accomplished." - Lao Tzu
 ====
@@ -4821,9 +4872,11 @@ One must be sane to think clearly, but one can think deeply and be quite insane.
 ====
 "The scientific man does not aim at an immediate result ... His duty is to lay the foundation for those who are to come, and point the way." - Nikola Tesla
 ====
-"Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun." - Pablo Picasso
-====
 The willingness to figure things out as you go is often the only difference between those who achieve difficult things and those who never begin.
+====
+"Others have seen what is and asked why. I have seen what could be and asked why not." - Pablo Picasso
+====
+"Some painters transform the sun into a yellow spot, others transform a yellow spot into the sun." - Pablo Picasso
 ====
 "To know what you are going to draw, you have to begin drawing." - Pablo Picasso
 ====
