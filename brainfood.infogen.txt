@@ -529,6 +529,10 @@ Anyone can occasionally go to the gym, eat a healthy meal, and have a productive
 Moments don't make legends. Consistency does. And the hardest consistency isn't in doing brilliant things but avoiding stupid ones. Every mistake puts you in hard mode, forcing you to make up lost ground.
 Anyone can do it once. The outliers do it often.
 ====
+Mindset is the first thing that matters and the last thing anyone works on.
+The person who approaches a problem like an opportunity has an advantage that the person who sees an obstacle will never understand.
+Sooner or later people realize that everything comes down to mindset.
+====
 "If you’re in a place in life you don’t want to be, it’s up to you to make it better. To reframe it by focusing on the positive, and approaching it with enthusiasm. In the end, your positivity and enthusiasm will contribute to creating the outcome you’re after. Once you apply this mindset to all aspects of your life, you corner fear. Fear basically has nowhere to go." - Tom Brady
 ====
 A fixed mindset assumes intelligence and talent are carved in stone. When you believe your qualities can’t change, success becomes about proving you’re smart, and failure becomes a verdict on your worth. You avoid challenges that might expose you. You get defensive about criticism. You start to see effort as a sign you don’t have natural ability. Every situation becomes a test of who you are.
@@ -3365,10 +3369,6 @@ Of the ones who have nothing to say, the quiet ones are the most pleasan - Coluc
 ====
 I often launch into a whole spiel, convinced I have some profound insight, only to realize 2 sec later that I'm just making noise. I blab too much. Whatever the occasion. Even when I’m clueless, I always have an opinion that I should really keep to myself. 
 ====
-Giving to others requires friendship with oneself - Salvatore Giammusso on Aristotle's Ethics
-====
-“It is the mark of an educated man to be able to entertain a thought without accepting it.” - Aristotle
-====
 From philosophers to my PT urging me to care for my own health in order to be able to care for my family. Charity in its simplest form, care, must start with the self. The no-ego/no-free-will propaganda of today gets me feeling selfish at times. A feeling I’m learning to defuse contextually. 
 ====
 Yeah, that sucks – I'll be mad about it in another lif - Chill looking old dude in the community hot tub
@@ -3495,6 +3495,8 @@ Reframing works better than force. Changing how we view a problem often leads to
 Once you're out the door, it's always worth it - Lachlan Morton
 ====
 Sometimes unsolvable questions like “what is my purpose?” and “why should I exist?” lose their force upon lifestyle fixes (acts). In other words, being around people, going outside regularly and getting enough sleep can go a long way to solving existentialism.  
+====
+"There are no passengers on Spaceship Earth. We are all crew." - Philosopher Marshall McLuhan
 ====
 A point of view can be a dangerous luxury when substituted for insight and understanding. - Marshall McLuhan
 ====
@@ -3688,6 +3690,8 @@ Everything that needs to be said has already been said. But since no one was lis
 ====
 "Life is like riding a bicycle. To keep your balance you must keep moving." - Albert Einstein
 ====
+"Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world." - Albert Einstein
+====
 "This is my work. I have to take full responsibility for doing it right as well as doing it wrong. Doing it wrong isn’t bad, but doing it wrong and thinking you’ve done it right is." - Toni Morrison
 ====
 To understand recursion, one must first understand recursion. - Stephen Hawking
@@ -3767,6 +3771,12 @@ Sometimes I believe in the power of individuals. Because our actions compound we
 Doubt is not a pleasant condition, but certainty is absurd. - Voltaire
 ====
 When something feels too clear, maybe you're actually don't get it. But if you feel struct by how unsatisfying your understanding feels, you're probably closer. 
+====
+Giving to others requires friendship with oneself - Salvatore Giammusso on Aristotle's Ethics
+====
+“It is the mark of an educated man to be able to entertain a thought without accepting it.” - Aristotle
+====
+“No man ever steps in the same river twice, for it's not the same river and he's not the same man.” - Heraclitus
 ====
 The learning of many things doesn't teach understanding of anything. - Heraclitus
 ====
