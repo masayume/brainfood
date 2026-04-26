@@ -18,6 +18,8 @@ per: through (pèr-spicax, spicere: guardare)
 ====
 prae: before, forward (prae-monitio: premonizione)
 ====
+re: backwards
+====
 re: repeat
 ====
 rin: re (ripetere) + in (dentro)
