@@ -1331,6 +1331,8 @@ Steve Stewart-Williams discusses this further in his incisive piece (paywalled)
 11. Noble Cause Corruption
 The greatest evils come not from people seeking to do evil, but people seeking to do good and believing the ends justify the means. Everyone who was on the wrong side of history believed they were on the right side.
 ====
+History is a vast early warning system. — Norman Cousins
+====
 Grey Rock Method
 Reacting emotionally to narcissists and other toxic people only gives them what they want - your time & energy - which encourages further abuse. If you want to stop receiving provocations, stop being provoked. When the narcissist realizes they can’t manipulate your emotions, they’ll stop trying.
 ====
@@ -1400,7 +1402,11 @@ Finality Principle - One day you’ll do something for the last time and never k
 ====
 "It’s not that we don’t have time. It’s that we don’t have time for the things that are really important. There’s always enough time to do what’s really important, but we get caught up doing things that aren’t important." - Larry Winget
 ====
+If you can imagine someone surpassing you, you should do it yourself. - Paul Graham
+====
 “I prefer things that are better when bought used. There are some things that get worse when they get a little use, and others that get better, and I prefer the latter. Books, houses, furniture, paintings, pottery.” - Paul Graham
+====
+“One sign that determination matters more than talent: there are lots of talented people who never achieve anything, but not that many determined people who don't.” - Paul Graham
 ====
 It can be difficult to appreciate how much simply avoiding the standard ways of failing dramatically increases the odds of success.
 ====
@@ -1615,6 +1621,8 @@ I know that intelligent people who are not emotionally or socially aware can be 
 ====
 I know that simplistic stories about happiness leave out crucial details. For example: Yes, relationships are more important than career, ultimately. But some career success might give you a greater ability to locate people you’re compatible with later on, as friends or partners.
 ====
+Success is not the key to happiness. Happiness is the key to success. - Albert Schweitzer
+====
 I know that silence is an underused conversational tactic. It makes people more interesting and builds intimacy.
 ====
 I know that, if you can pull it off, you should continuously have mentors, and be offering mentorship. This can be as formal or informal as you want.
@@ -1772,6 +1780,12 @@ You cannot hope to build a better world without improving the individuals. To th
 "It’s the human desire in all of us to want to make life better for somebody else. It makes you feel larger. It makes you feel part of the whole human race. " - Doris Kearns Goodwin
 ====
 Everyone knows what works. Few do it after it stops being exciting.
+====
+Everybody can be great because everybody can serve. - Martin Luther King
+====
+A problem well stated is a problem half-solved. - Charles F. Kettering
+====
+Things that have never happened before happen all the time. - Morgan Housel
 ====
 1. Most decisions are reversible. Don’t obsess about making the “right” decision. Define the problem, list out the potential solutions, and choose a path forward. Some decisions are one-way doors, but most are not. - https://calvinrosser.com/40-pieces-of-advice/
 ====
@@ -2142,8 +2156,6 @@ It takes inordinate courage to introspect, to confront oneself, to accept one’
 “I believe pretty strongly that your overarching aim in life and work is to always be making yourself obsolete.” – Tim Hanson
 ====
 “Your capacity for gratitude is inversely proportional to your sense of entitlement.” – Mark Brooks
-====
-“Your calendar is a better measure of success than your bank account.” – James Clear
 ====
 “If people want happiness so badly, why don’t they attempt to understand their false beliefs? First, because it never occurs to them to see them as false or even as beliefs. They see them as facts and reality, so deeply have they been programmed.” – Anthony DiMello
 ====
@@ -2718,9 +2730,6 @@ The difference between open and closed-minded people:
 Over time, the person who approaches life with an openness to being wrong and a willingness to learn outperforms the person who doesn’t: https://fs.blog/open-closed-minded/
 ====
 Being wrong isn't something to fear but rather something to expect.
-====
-“One sign that determination matters more than talent: there are lots of talented people who never achieve anything, but not that many determined people who don't.”
-— Paul Graham
 ====
 Tired           —>  Nap
 Sad             —>  Music
@@ -3712,6 +3721,8 @@ I'm not the sharpest tool in the shed – so this is a healthy reminder to not f
 ====
 Everything that needs to be said has already been said. But since no one was listening, everything must be said again. - André Gid
 ====
+The best way to have a good idea is to have lots of ideas. - Linus Pauling
+====
 "The important thing is not to stop questioning." - Albert Einstein
 ====
 "Life is like riding a bicycle. To keep your balance you must keep moving." - Albert Einstein
@@ -4038,8 +4049,6 @@ Keep the goal. Change your mind about how to reach it.
 "There was one of two things I had a right to, liberty, or death; if I could not have one, I would have the other." - Harriet Tubman
 ====
 "A constitution, as important as it is, will mean nothing unless the people are yearning for liberty and freedom." - Ruth Bader Ginsburg
-====
-The more you create, the more powerful you become. The more you consume the more powerful others become - James Clear
 ====
 "It is foolish to think that you have to read all the books you buy, as it is foolish to criticize those who buy more books than they will ever be able to read. It would be like saying that you should use all the cutlery or glasses or screwdrivers or drill bits you bought before buying new ones.
 "There are things in life that we need to always have plenty of supplies, even if we will only use a small portion.
@@ -5118,6 +5127,14 @@ The cause of death is birth. - David Hockney
 ====
 When dreaming, imagine success. When preparing, imagine failure. - James Clear
 ====
+The more you create, the more powerful you become. The more you consume the more powerful others become - James Clear
+====
+“Your calendar is a better measure of success than your bank account.” – James Clear
+====
+Your current habits are perfectly designed to deliver your current results. - James Clear
+====
+You aren’t wealthy until you have something money can’t buy. - Garth Brooks
+====
 "At every moment, we always have a choice, even if it feels as if we don’t. Sometimes that choice may simply be to think a more positive thought." - Tina Turner
 ====
 "Just remember, you can't climb the ladder of success with your hands in your pockets." - Arnold Schwarzenegger
@@ -5211,6 +5228,10 @@ What makes us feel liberated is not total freedom, but rather living in a set of
 “The day I decided that my life was magical, there was suddenly magic all around me.” - Marabeth Quin
 ====
 "Put it before them briefly so they will read it, clearly so they will appreciate it, picturesquely so they will remember it, and above all, accurately so they will be guided by its light." - Joseph Pulitzer
+====
+Focus on things that are small enough to change, but big enough to matter. - Kat Cole
+====
+Where your fear is, there is your task. - Carl Jung
 ====
 “If you accept death, it is altogether like a frosty night and an anxious misgiving, but a frosty night in a vineyard full of sweet grapes. You will soon take pleasure in your wealth. Death ripens. One needs death to be able to harvest the fruit. Without death, life would be meaningless, since the long-lasting rises again and denies its own meaning. To be, and to enjoy your being, you need death, and limitation enables you to fulfill your being.” - Carl Jung
 ====
