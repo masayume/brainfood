@@ -292,6 +292,8 @@ When you're only halfway interested in something, you'll lose to someone obsesse
 Small advantages compound over time like interest in a bank account, so being 10% more committed doesn't give you 10% better results; it gives you 10x better results. Think of it like studying: the genuinely curious person will remember and connect ideas in ways that the person just trying to pass will never.
 Being all in doesn't just beat partially in; it crushes it.
 ====
+"Everybody has talent and it’s just a matter of moving around until you’ve discovered what it is. A talent is a combination of something you love a great deal and something you can lose yourself in." - George Lucas
+====
 There are a lot of things you don't control.
 
 You don't get to pick your parents.
@@ -4460,6 +4462,8 @@ The highest form of leverage is reputation.
 ====
 "You’ve got to learn your instrument. Then you practice, practice, practice. And then when you finally get up there on the bandstand, forget all that and just wail." - Charlie Parker
 ====
+"You will never feel proud of your work if you find no joy within it; your best work is always joyful work." - Stevie Wonder
+====
 "It's the rough side of the mountain that’s the easiest to climb; the smooth side doesn’t have anything for you to hang on to." - Aretha Franklin
 ====
 “You cannot define a person on just one thing. You can’t just forget all these wonderful and good things that a person has done because one thing didn’t come off the way you thought it should come off.”
@@ -5108,6 +5112,8 @@ Woozle Effect: “A reliable way to make people believe in falsehoods is frequen
 ====
 “No one ever made a decision because of a number. They need a story.” - Daniel Kahneman
 ====
+The Instagram generation experiences the present moment as an anticipated memory. - Daniel Kahneman
+====
 1. Delay Your Intuition: Most people form an impression in seconds and spend the rest of their time confirming it. The best wait for all the information before letting their intuition speak. - Daniel Kahneman
 ====
 2. Loss Aversion Creates Permanent Programs: Once you give people something (a perk, a feature, a benefit), it’s nearly impossible to take back. The founder who would offer free lunch on day one can’t cancel it on day 1000. Small groups lose something specific, while large groups gain something abstract. Every time. - Daniel Kahneman
@@ -5129,6 +5135,8 @@ Woozle Effect: “A reliable way to make people believe in falsehoods is frequen
 10. Legitimize Doubt: Before making a big decision, Kahneman recommended this technique: gather your team and say, “It’s two years from now. We made this decision and it was a disaster. Write down what went wrong.” He loved this because timing is everything. “When people are coming close to a decision, it becomes difficult to raise doubts,” he explained. Anyone slowing things down becomes the enemy. The premortem flips this dynamic, it doesn’t just allow dissent, it requires it. It won’t prevent every mistake, but it forces you to face the problems everyone’s trying to ignore. - Daniel Kahneman
 ====
 11. Clear Intuitions Fool Experts: Experts see all the options. You don’t. When economists design policies or product managers add features, they imagine users comparing every possibility. But you take a job and forget the others existed. You buy a house and stop thinking about the ones you passed on. Life isn’t a menu where you see all choices side by side, it’s one door closing as another opens. “They are completely lost between clear intuitions and strong intuitions,” Kahneman said. The expert thinks small differences matter because they can see them all. You can’t see them, so they don’t. That’s why economists botch predictions and why your phone has 50 features you’ve never touched. - Daniel Kahneman
+====
+Nothing in life is as important as you think it is when you are thinking about it. - Daniel Kahneman
 ====
 Politicians do not win elections to make policies; they make policies to win elections. What’s most persuasive to voters isn’t whether an idea is right, but whether it narrates a story that confirms what they see and believe in the world.
 ====
