@@ -1588,7 +1588,7 @@ Listening is a neglected social skill. But I know that an even more neglected so
 ====
 I know that there are two modes of experience: appreciative, and evaluative. Concrete example: let’s say you’re listening to a piece of music. Are you sinking into it, awash in emotions? You’re in the appreciative mode. Are you the mixing engineer, listening to the snare hits to make sure they’re consistent? You’re in the evaluative mode. Much of sanity, and happiness, consists of finding the right mode for the right moment. The appreciative mode is terrible for debugging your business plan. But the evaluative mode is terrible for having a first date. A lot of capable, intelligent people suffer because they do not have the ability to switch out of the evaluative mode, or even notice that they’re in it.
 ====
-I know that you cannot skip to the punchline of the cosmic joke. If you’re ambitious, it will be hard to believe that achievement won’t make you completely happy until you accumulate some achievements, and notice the gaps in your happiness. Legend has it that the Buddha woke up at 35, and this seems about right - by your mid-thirties, you have probably been productively disillusioned by at least one serious personal disappointment.
+I know that you cannot skip to the punchline of the cosmic joke. If you’re ambitious, it will be hard to believe that achievement won’t make you completely happy until you accumulate some achievements, and notice the gaps in your happiness. Legend has it that the Buddha woke up at 35, and this seems about right by your mid-thirties, you have probably been productively disillusioned by at least one serious personal disappointment.
 ====
 I know that some annoying-sounding things that mystics or Zen teachers say, about cosmic oneness or the flow of the Dao, are actually just straightforward descriptions of what the world looks like from a certain point in the contemplative path. “The original face you had before your parents were born” is a phrase that will make perfect, undeniable, beautiful sense if you meditate long enough. And then you will annoy people by trying to explain it.
 ====
@@ -3842,7 +3842,7 @@ Our current liberal democracies can't keep their integrity because we've all los
 ====
 Wisdom lies in correctly discerning where we are free to mold reality to our desires and where we must accept the unaltered with tranquility. - Seneca
 ====
-Human have clearly overstepped the boundaries of what stoic would have called reasonalble. Nature is not here to please us and we should not always bend it to our desires. Don't build a house at the feet of volcano. 
+Human have clearly overstepped the boundaries of what stoic would have called reasonable. Nature is not here to please us and we should not always bend it to our desires. Don't build a house at the feet of volcano. 
 ====
 Democracy has no capability to prevent its development towards totalitarism when resources become scarce. - Lasse Norlund
 ====
@@ -4472,6 +4472,8 @@ The highest form of leverage is reputation.
 “Just don’t give up trying to do what you really want to do. Where there is love and inspiration, I don’t think you can go wrong.” - Ella Fitzgerald
 ====
 "Each and every one of you has the power, the will, and the capacity to make a difference in the world in which you live." - Harry Belafonte
+====
+"(Kids) don't remember what you try to teach them. They remember what you are." - Jim Henson
 ====
 "There's great value in being able to step back and laugh at yourself, at life, and at attitudes. Laughter helps you put everything into perspective." - Jim Henson
 ====
@@ -5159,6 +5161,8 @@ Your current habits are perfectly designed to deliver your current results. - Ja
 You aren’t wealthy until you have something money can’t buy. - Garth Brooks
 ====
 "At every moment, we always have a choice, even if it feels as if we don’t. Sometimes that choice may simply be to think a more positive thought." - Tina Turner
+====
+"You can’t be that kid standing at the top of the waterslide, overthinking it. You have to go down the chute." - Tina Fey
 ====
 "Just remember, you can't climb the ladder of success with your hands in your pockets." - Arnold Schwarzenegger
 ====
