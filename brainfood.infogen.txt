@@ -111,6 +111,8 @@ trustworthy for years before anyone trusts you with something important. The bil
 ====
 "It might be that some day I shall be drowned by the sea, or die of pneumonia from sleeping out at night, or be robbed and strangled by strangers. These things happen. Even so, I shall be ahead because of trusting the beach, the night and strangers." - Janet Reno
 ====
+“Don’t ask how people are doing, ask how they are sleeping. You’ll learn a lot more.” - Andrew Huberman
+====
 Self-care creates impact. Your body and mind are the most valuable tools you have to produce anything. Neglecting them puts a ceiling on everything else.
 ====
 Goals set direction, but only execution moves you closer.
@@ -1254,8 +1256,6 @@ We grow so accustomed to life that we forget how miraculous it is. Imagine you w
 ====
 "We can have faith in the future only if we have faith in ourselves." - John F. Kennedy
 ====
-"He is careful of what he reads, for that is what he will write. He is careful of what he learns, for that is what he will know." - Annie Dillard
-====
 "There are only four kinds of people in the world—those who have been caregivers, those who are caregivers, those who will be caregivers, and those who will need caregivers." - Rosalynn Carter
 ====
 “Competence is how good you are when there is something to gain. Character is how good you are when there is nothing to gain. People will reward you for competence. But people will only love you for your character.” - Mark Manson
@@ -1402,6 +1402,8 @@ Deny someone something, and they'll want it even more, out of defiance. If you w
 Helps explain why censorship often backfires (the Streisand Effect).
 ====
 Boomers & Generation X had wildly different experiences of how the economy works, and this gave them different dispositions, worldviews, and political preferences.
+====
+"I have learned from experience that the greater part of our happiness or misery depends upon our dispositions, and not upon our circumstances." - Martha Washington
 ====
 Mismatch Theory - Moths evolved to navigate by the moon, a good strategy until the invention of electric lamps, which now lead them astray. Equally, humans evolved to be tribal, a good strategy until the digital age, where it now leads us to act like polarized goons online.
 ====
@@ -2023,9 +2025,10 @@ Ancient societies followed a single narrative. Modern societies are cacophonies 
 There is more text than ever, yet people are reading ever less and outsourcing writing to chatbots. This is dangerous because language is the basis of thought, and if you can’t read or write well, you won’t think well.
 ====
 6. Beginner's Bubble Effect:
-"You cannot learn what you think you already know."
-—Epictetus
+★ "It is impossible for a man to learn what he thinks he already knows." - Epictetus
 The most ignorant people are not those who know nothing, but those who know a little, because a little knowledge grants the illusion of understanding, which kills curiosity and closes the mind.
+====
+“If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you, but answer: ‘He was ignorant of my other faults else he would not have mentioned these alone.’” - Epictetus
 ====
 7. Parkinson's Law:
 Work expands to fill the time allotted for it. No matter the size of the task, it will often take precisely the amount of time you set aside to do it, because more time means more deliberation & procrastination.
@@ -3538,7 +3541,11 @@ I don't have a solution. Just concerning thoughts. - Ana Rodrigues
 ====
 I could (perhaps should) start most conversations on important topics with this statement. 
 ====
+"He is careful of what he reads, for that is what he will write. He is careful of what he learns, for that is what he will know." - Annie Dillard
+====
 How we spend our days is, of course, how we spend our lives. What we do with this hour, and that one, is what we are doing. - Annie Dillard
+====
+“Spend the afternoon. You can’t take it with you.” - Annie Dillard
 ====
 I feel the reality of this statement almost every night as the day fade. Seeing life in a day has become something much more concrete than a poetic concept, mostly by becoming a father. 
 ====
@@ -3628,7 +3635,7 @@ Still simmering: I'm certainly guilty of opting for a quick opinion rather than 
 ====
 This is the game we play: The only thing you really know is what you can put into words - Alan Watts
 ====
-You are under no obligation to be the same person you were five minutes ago. - Alan Watts
+★ You are under no obligation to be the same person you were five minutes ago. - Alan Watts
 ====
 Many arguments with my wife that started on very simple and tangible things that escalated to definitions of definition have told me that, the more we say, the more we move into the world of words and away from reality as it is on its own prior to conception (and feelings) 
 ====
@@ -3685,8 +3692,6 @@ If you ever need a mantra to convince you to take a break, this is a good one. I
 Where you stand, this bright corner of the universe, there is no one to enjoy it but you. - Sam Harris
 ====
 It took me a while to emotioanlly acknowldge that a moment exist only because I live it right here, right now. The sense of urgency created by having a child rendered clear the crucial importance of living in the present, and the discipline which that it requires. 
-====
-It is impossible for a man to learn what he thinks he already knows. - Epictetus
 ====
 My ego supported by modern technology often makes me believe I've, or can figure things out, fairly easily. But some things like gardening or parenting, do not obey to classic ignorance &gt; knowledge &gt; solution pattern. It needs to be experienced to viscerally be discarded. 
 ====
@@ -4632,6 +4637,8 @@ You cannot fear something that you don't know. Nobody is afraid of the unknown. 
 "Celebrate the life you had, not the life you could've had." - Earvin "Magic" Johnson
 ====
 "Talent is never enough. With few exceptions, the best players are the hardest workers." - Earvin "Magic" Johnson
+====
+“Practice like you’ve never won. Play like you’ve never lost.” - Michael Jordan
 ====
 I never feared about my skills because I put in the work. Work ethic eliminates fear. So if you do the work, what are you fearing? You know what you’re capable of and what you’re not. - Michael Jordan
 ====
