@@ -2597,6 +2597,8 @@ Behavioral Inevitability: “History never repeats itself; man always does.” �
 ====
 "Life is bristling with thorns, and I know no other remedy than to cultivate one's garden." - Voltaire
 ====
+"Judge a man by his questions rather than by his answers." - Voltaire
+====
 Apophenia: A tendency to perceive correlations between unrelated things, because your mind can only deal with tiny sample sizes and assuming things are correlated creates easy/comforting explanations of how the world works.
 ====
 Self-Handicapping: Avoiding effort because you don’t want to deal with the emotional pain of that effort failing.
@@ -3860,6 +3862,8 @@ Sometimes I believe in the power of individuals. Because our actions compound we
 Doubt is not a pleasant condition, but certainty is absurd. - Voltaire
 ====
 When something feels too clear, maybe you're actually don't get it. But if you feel struct by how unsatisfying your understanding feels, you're probably closer. 
+====
+“There is no love of life without despair of life” - Albert Camus
 ====
 Giving to others requires friendship with oneself - Salvatore Giammusso on Aristotle's Ethics
 ====
