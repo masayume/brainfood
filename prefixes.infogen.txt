@@ -1,5 +1,7 @@
 ad: to (ad-locum)
 ====
+bis: intensity (bis-lucinare: baluginare)
+====
 cum: with (cum-quibus: con i quali)
 ====
 dis: distribute, separate (dis-vulgus: divulgare; dis-iungere)
