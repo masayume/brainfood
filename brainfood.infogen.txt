@@ -29,6 +29,16 @@ Struggle Is Good. Never say “I can’t take it anymore.” Say “Bring it on!
 ====
 "The first draft of everything is shit" - Ernest Hemingway
 ====
+“Without self-belief nothing can be accomplished. With it, nothing is impossible.” - Felix Dennis
+====
+“Confidence and self-belief are contagious; they are not a matter of pure arrogance or overweening egotism, they are the sense of being part of a greater story others have not yet discovered and giving off an almost physical sense of invitation to join that story, that disarms and then changes potential enemies into allies.” - David Whyte
+====
+“Part of what is happening when you spend 7 hours reading a book, is you spend 7 hours with your mind on the topics in the book, grappling with them, drawing connections, having thoughts you would not otherwise have had. And so without that process of grappling, without those hours inside that book, it doesn’t get inside you. It doesn’t impress itself upon you. It doesn’t change you. What reading and writing and processing information is supposed to do is change you.” - Ezra Klein
+====
+Most people give soft feedback because they care more about how the conversation feels than about whether the problem gets solved. This is selfish.
+Another thought on this... A lot of people don't actually want direct feedback; they prefer something softer. When they hear direct feedback, they focus on how it makes them feel and not the substance. If you're focusing on how feedback makes you feel and not its accuracy, you're robbing yourself of the opportunity to get better.
+Exceptional results happen when people are willing to give direct feedback and to hear it.
+====
 “The best way to cherish life is to remind yourself of life's impermanence. It is to remember that every time you see someone that is one less time you see them. It is to remember that everytime you go somewhere that is one less time you visit. By doing this, you naturally slow down. Almost like a reflex, you start to truly live.” - Andrew Anabi 
 ====
 Learn Every Day. You’ve got to train your brain to stay alert. You don’t have to read a book a day to learn every day. Learn from your mistakes. Learn from the people around you — be open to what they can teach you.
@@ -150,9 +160,13 @@ Perfect days don't compound. Consistent ones do.
 ====
 Short-term results come from intensity. Long-term results come from consistency.
 ====
+Being around successful people shifts your ambition because extraordinary success feels attainable. And when success feels attainable, you lock in and work longer, harder, and with more focus.
+====
 Ninety percent of success can be boiled down to consistently doing the obvious thing for an uncommonly long period of time without convincing yourself that you're smarter than you are.
 ====
 Most success comes from 50 small things moving in the same direction, not one big thing.
+====
+"Success is peace of mind, which is a direct result of self-satisfaction in knowing you made the effort to become the best of which you are capable." - John Wooden
 ====
 Working smart isn't the opposite of working hard. It's the result of working hard.
 You have to put in the hours before you can see the shortcuts. You have to learn the details before you can know which ones matter.
@@ -624,6 +638,8 @@ Curiosity isn't random; it's a compass.
 ====
 "I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature." - John D. Rockefeller
 ====
+"Fatigue, discomfort, discouragement are merely symptoms of effort." - Morgan Freeman
+====
 When you fall in love with the process rather than the outcome, you don't have to wait to be happy.
 ====
 When you're impatient with results, every day feels expensive. When you're impatient with effort, every day feels like progress.
@@ -972,6 +988,8 @@ The lesson isn't avoiding failure. It's refusing to let failure define the outco
 ====
 "It's a heavy burden to look up at the mountain and want to start the climb." - Abby Wambach
 ====
+"I've never scored a goal in my life without getting a pass from someone else." - Abby Wambach
+====
 The shortest path is the one you don't abandon.
 ====
 A Taste for Saltwater: Most people mistake discomfort as a signal to stop; the great ones see it as evidence they’re on the right track. Excellence is just pain tolerance disguised as genius. The real advantage isn’t talent but cultivating a perverse appreciation for the discomfort others instinctively avoid.
@@ -1084,6 +1102,8 @@ The Munger Two-Step filter for effective decisions
 A simple and easy approach to decision-making that prevents us from manipulating ourselves. First, understand the forces at play. Then, understand how your subconscious might be leading you astray: https://fs.blog/munger-two-step/
 ====
 “One reason the best in the world make consistently good decisions is they rarely find themselves forced into a decision by circumstances.”
+====
+Reason is itself a matter of faith. It is an act of faith to assert that our thoughts have any relation to reality at all. - G. K. Chesterton
 ====
 The quicker you want something, the easier it is to manipulate you.
 ====
@@ -2361,6 +2381,8 @@ Rumpelstiltskin Effect: To name a problem is to tame it. Diagnosing one’s suff
 ★ Context Collapse: On social media, we’re simultaneously talking to our boss, our ex, our grandma, and a jihadist in Michigan. The result is that many people lobotomize their personalities into an inoffensive PR sludge, trying to please everyone and therefore pleasing no one.
 ====
 Shower Test: We’re socially conditioned to chase what we think everyone else wants. But your true heart’s desire can often be found in the thoughts you gravitate to while undistracted, such as in the shower. As Walt Whitman said, “If you want to know where your heart is, look to where your mind goes when it wanders.”
+====
+"Happiness, not in another place but this place ... not for another hour, but this hour." - Walt Whitman
 ====
 "The earth is rude, silent, incomprehensible at first, Nature is rude and incomprehensible at first.
 Be not discouraged, keep on, there are divine things well envelop'd." - Walt Whitman
@@ -4166,6 +4188,8 @@ stealing like an artist: “Just looking at something and going, I like that, an
 “I’m very pleased to think that there are people with whom I agree on some issues and not others. I don’t want a world in which we all agree. I want a world in which people feel that they have the standing and confidence to feel that they can disagree. I’m interested in why people think as they do.” - Mary Beard
 ====
 “Good and evil both increase at compound interest. That is why the little decisions you and I make every day are of such infinite importance. The smallest good act today is the capture of a strategic point from which, a few months later, you may be able to go on to victories you never dreamed of. An apparently trivial indulgence in lust or anger today is the loss of a ridge or railway line or bridgehead from which the enemy may launch an attack otherwise impossible.” - C.S. Lewis
+====
+“We are half-hearted creatures, fooling about with drink and sex and ambition when infinite joy is offered us, like an ignorant child who wants to go on making mud pies in a slum because he cannot imagine what is meant by the offer of a holiday at the sea.” We are nihilistic when “we are far too easily pleased.” - C.S. Lewis
 ====
 “The right time was yesterday. The best time is now.”
 ====
