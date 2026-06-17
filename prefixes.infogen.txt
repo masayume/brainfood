@@ -4,6 +4,8 @@ bis: intensity (bis-lucinare: baluginare)
 ====
 cum: with (cum-quibus: con i quali)
 ====
+de: downward (de-vorare: divorare)
+====
 dis: distribute, separate (dis-vulgus: divulgare; dis-iungere)
 ====
 ex: from, outside of (ex-rogare: distribuire, da rogare: chiedere)
