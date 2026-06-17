@@ -29,6 +29,13 @@ Struggle Is Good. Never say “I can’t take it anymore.” Say “Bring it on!
 ====
 "The first draft of everything is shit" - Ernest Hemingway
 ====
+Move — start with your body. Put on a good song and dance in the kitchen, swing your arms, go for a walk, shake it out.
+Soothe — make a hot drink, sing softly to yourself, put on fluffy socks, light a candle.
+Connect — reach out to someone, have a hug, sit with your pet, remember you’re not alone.
+Express — draw, write, play music, or just talk. It doesn’t need to be good — the point is expression, not perfection.
+
+You can repeat these steps as often as you need. You don’t have to follow them in order — maybe you stay in one for a while, or move back and forth. That’s fine. The goal isn’t to “fix” your emotions — it’s to give them somewhere to go. - Jo Hutton
+====
 “Without self-belief nothing can be accomplished. With it, nothing is impossible.” - Felix Dennis
 ====
 “Confidence and self-belief are contagious; they are not a matter of pure arrogance or overweening egotism, they are the sense of being part of a greater story others have not yet discovered and giving off an almost physical sense of invitation to join that story, that disarms and then changes potential enemies into allies.” - David Whyte
@@ -92,11 +99,19 @@ Take Action. Don’t just sit there, do something. Without action, there is no o
 ====
 "Life’s a roller coaster you don’t always get to choose the seat you’re in, but you can choose to throw your hands up and enjoy the ride." - Anonymous
 ====
+Your inner monologue becomes your outer reality.
+Too much self-criticism, and you stop ambition. Too much arrogance, and you miss things.
+The most powerful story in the world is the one you tell yourself (about yourself).
+====
 “Pain is the universe’s way of demanding that you continue to learn. The more pain you can tolerate, the more you can learn.” - Phil Stutz and Barry Michels 
 ====
 The goal of life is to be excited to go to work and to be excited to come back home. - Joshua Kushner
 ====
 Everyone searches for opportunities while running from problems, missing that they're the same thing. Problems aren't obstacles to opportunity, they ARE the opportunity.
+====
+“The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the President.” - Albert Ellis
+====
+“The grit that matters most is learning to be your best when you’re at your worst. This is really the difference between elite-level performers and everyone else. And you have to train this kind of grit on its own, as a separate skill. But, if you can do this, what you discover is real power. There’s real power there—and it’s power you probably didn’t know you had.” - Josh Waitzkin
 ====
 It doesn’t matter what position you find yourself in right now. What matters is whether you improve your position today. Every ordinary moment is an opportunity to make the future easier or harder.
 ====
@@ -466,6 +481,8 @@ Life rewards action.”
 ====
 The most powerful productivity tool ever invented is simply the word "no."
 ====
+“The impulses for all of our bad habits travel along the same path – a straight shot to immediate gratification through what I call the lower channel... Lower channel functioning is a disaster. When the pleasure is over, we’re left with nothing.” - Phil Stutz
+====
 The single most effective habit is the willingness to change your own mind.
 If you want to understand someone, figure out the narrative they tell themselves about themself.
 If you want to change your behavior, change your narrative. If you want to change someone else’s behavior, offer them a more compelling narrative they can tell themselves.
@@ -763,6 +780,106 @@ When I was 20 years old, I was working at this talent agency in Hollywood, and I
 ====
 “The smartest person in the room, I’ve learned, is usually the person who knows how to tap into the intelligence of every person in the room.” - Scott Kelly 
 ====
+Parkinson’s Law: Work expands so as to fill the time available for its completion.
+====
+Hofstadter’s Law: It always takes longer than you expect, even when you take into account Hofstadter’s Law.
+====
+Gates’ Law: Most people overestimate what they can do in one year and underestimate what they can do in ten years.
+====
+Goodhart’s Law: When a measure becomes a target, it ceases to be a good measure.
+====
+Hanlon’s Razor: Never attribute to malice that which is adequately explained by stupidity (or, don’t invoke conspiracy when ignorance and incompetence will suffice, as conspiracy implies intelligence).
+====
+Acton’s Dictum: Power tends to corrupt, and absolute power corrupts absolutely.
+====
+Amara’s Law: We tend to overestimate the effect of a technology in the short run and underestimate the effect in the long run.
+====
+Benford’s Law: In a diverse collection of unrelated statistics, a given statistic has roughly a 30% chance of starting with the digit 1.
+====
+Betteridge’s Law: Any headline which ends in a question mark can be answered by the word ‘no’.
+====
+Brooks’ Law: Adding manpower to a late software project makes it later.
+====
+Chesterton’s Fence: Reforms should not be made until the reasoning behind the existing state of affairs is understood.
+====
+Claasen’s Law: Usefulness = log(technology).
+====
+Clarke’s First Law: When a distinguished elderly scientist states that something is possible, they are almost certainly right, but when they state something is impossible, they are probably wrong.
+====
+Cromwell’s Rule: Nothing but logical impossibilities have a prior probability of 0 or 1.
+====
+Cunningham’s Law: The best way to get the right answer on the Internet is not to ask a question, it’s to post the wrong answer.
+====
+Doctorow’s Law: When someone puts a lock on a thing you own, against your wishes, and doesn’t give you the key, they’re not doing it for your benefit.
+====
+Dunbar’s Number: Most people can’t maintain stable social relationships with more than 150 people.
+====
+Eroom’s Law: Drug discovery is becoming slower and more expensive over time, despite improvements in technology.
+====
+Gell-Mann Amnesia Effect: You’ll believe articles outside your area of expertise, even after acknowledging that neighboring articles in your area of expertise are completely wrong.
+====
+Gibson’s Law (or the Expert Witness Law): For each PhD (to use as an expert witness for one side) there’s an equal and opposite PhD.
+====
+Godwin’s Law: As an online discussion grows longer, the probability of a comparison involving Nazis or Hitler approaches one.
+====
+Morley-Souter’s Law (Rule 34): There is porn of it (no exceptions).
+====
+Greenspun’s Tenth Rule: Any sufficiently complicated C program contains an ad hoc, informally specified, bug-ridden, slow implementation of half of Common Lisp.
+====
+Hebb’s Law: Neurons that fire together wire together.
+====
+Hubble’s Law: Galaxies recede from an observer at a rate proportional to their distance to that observer.
+====
+Hume’s Guillotine (Is-Ought Problem): Normative statements (about what’s moral/immoral/right/wrong) cannot be deduced exclusively from descriptive statements.
+====
+Humphrey’s Law: Conscious attention to a task normally performed automatically can impair its performance.
+====
+Kranzberg’s Law: Technology is neither good nor bad; nor is it neutral.
+====
+Lamarck’s Principle (or “Use it or Lose it”): Use it or lose it (evolutionarily speaking, but also in the brain).
+====
+Lewis’s Law: The comments you’ll inevitably find on any article about feminism justify feminism.
+====
+Littlewood’s Law: Individuals can expect miracles to happen to them, at the rate of about one per month.
+====
+Maes–Garreau Law: Favorable predictions about future technology will fall at the latest possible date they can come true and still remain in the lifetime of the predictor.
+====
+Metcalfe’s Law: The value of a system grows as approximately the square of the number of users of the system.
+====
+Miller’s Law: To understand what another person is saying, you must assume that it is true and try to imagine what it could be true of.
+====
+Moore’s Law: Computation per dollar grows exponentially (or: number of transistors per circuit doubles roughly every 24 months).
+====
+Murphy’s Law: Anything that can go wrong will go wrong.
+====
+Alder’s Law: What cannot be settled by experiment is not worth debating.
+====
+O’Sullivan’s Law: All organizations that are not actually right-wing will over time become left-wing.
+====
+Pareto’s Principle (80/20 Rule): For many phenomena 80% of consequences stem from 20% of the causes.
+====
+Peter’s Principle: In a hierarchy, every employee tends to rise to his level of incompetence.
+====
+Poisson’s Law (or Law of Large Numbers): For independent random variables with a common distribution, the average tends to the mean as sample size increases.
+====
+Pournelle’s Iron Law of Bureaucracy: In bureaucracy, those devoted to the bureaucracy get control, those devoted to what it’s supposed to achieve lose influence.
+====
+Putt’s Law: Technology is dominated by two types of people: those who understand what they do not manage and those who manage what they do not understand.
+====
+Rosenthal Effect (Pygmalion Effect): High expectations lead to an increase in performance, low expectations to a decrease in performance.
+====
+Schneier’s Law: Any person can invent a security system so clever that she or he can’t think of how to break it.
+====
+Shermer’s Law: Any sufficiently advanced extraterrestrial intelligence is indistinguishable from God.
+====
+Zipf’s Law: The frequency of use of the nth-most-frequently-used word in any natural language is approximately inversely proportional to n (few words are used often, most are used rarely).
+====
+Wirth’s Law: Software gets slower more quickly than hardware gets faster.
+====
+Sturgeon’s Law: Ninety percent of everything is crud.
+====
+Stigler’s Law: No discovery is named after its original discoverer, including this one.
+====
 The boss/mentor/biz can’t want you to succeed more than you want it. You have to be the driver of your own life/career/advancement.
 ====
 “The thing that is least perceived about wealth is that all pleasure in money ends at the point where economy becomes unnecessary. The man who can buy anything he covets, without any consultation with his banker, values nothing that he buys.” - William James Dawson
@@ -806,6 +923,8 @@ Stop worrying about where the arrow lands. Master the art of drawing the bow.
 In 2013, I started a business with a partner that my wife warned me against working with. I remember explaining to her why she was wrong and that I couldn’t possibly not do this because of some vague gut instinct of hers. The business turned into a nightmare, and it turned out that this partner was not someone I should have worked with. This shares a commonality with almost all my mistakes and regrets: Not listening to my wife from the beginning. You have to learn whose judgment to trust. You have to learn who knows you better than you know yourself, and you have to be able to trust and defer to them.
 ====
 The trope that a day job takes away from your art or your hustle is stupid. There was a great exhibition at the Blanton Museum a couple years ago about artists who had day jobs. I wrote 3.5 books while I was the Director of Marketing at American Apparel. I started my own marketing company while I was a writer. I have my bookstore. A job for someone coming up is like a trust fund you’ve earned. It helps.
+====
+★ “I read once that the true mark of a pro — at anything — is that he understands, loves, and is good at even the drudgery of his profession.” - Paul Halmos
 ====
 Learning is priceless. Robert Greene used to have to nag me to submit my hours when I worked for him. To me, the money was an afterthought, I knew the real return was my access to him, that he would answer my questions, that I could see how a real pro did the job.
 ====
@@ -1267,7 +1386,11 @@ If you want to uplift yourself, then uplift someone else.
 ====
 "No one is useless in this world who lightens the burdens of another." - Charles Dickens, in "Our Mutual Friend"
 ====
+"Have a heart that never hardens, and a temper that never tires, and a touch that never hurts." - Charles Dickens
+====
 "Carry out a random act of kindness with no expectation of reward, safe in the knowledge that one day someone might do the same for you." - Princess Diana
+====
+"Just start by creating your day. Then create your life." - Prince
 ====
 “You always have the option of having no opinion. There is never any need to get worked up or to trouble your soul about things you can't control. These things are not asking to be judged by you. Leave them alone.” - Marcus Aurelius
 ====
@@ -1492,6 +1615,8 @@ When examining evidence, we see what we expect to see and conclude what we expec
 ====
 We Overestimate Agreement
 The false consensus effect leads us to overestimate how much others share our beliefs. Because we associate with like-minded people and disagreement often stays hidden, we don’t subject our beliefs to healthy scrutiny. This social bubble reinforces false beliefs and makes them feel like common sense. - Thomas Gilovich
+====
+"Common sense is seeing things as they are; and doing things as they ought to be." - Harriet Beecher Stowe
 ====
 We’re Better at Generating Than Evaluating
 Humans are extraordinarily good at generating ideas, theories, and explanations that sound plausible. We are far less skilled at rigorously testing them. We prefer black-and-white thinking over shades of gray, and we’ll always be tempted to hold oversimplified beliefs that feel satisfying even when reality is more complex. - Thomas Gilovich
@@ -5298,6 +5423,8 @@ Everyone searches for opportunities while running from problems, missing that th
 "We knew the world would not be the same. A few people laughed, a few people cried. Most people were silent." - Robert Oppenheimer
 ====
 The best books come from someplace inside. You don't write because you want to, but because you have to." - Judy Blume
+====
+"Always be a first-rate version of yourself, instead of a second-rate version of somebody else." - Judy Garland
 ====
 “You've got to find what you love. And that is as true for your work as it is for your lovers. Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.... Don't settle.” - Steve Jobs
 ====
