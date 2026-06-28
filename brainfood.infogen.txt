@@ -1497,8 +1497,7 @@ Imagine you lose your job. What could have been the most likely reason? Is there
 People hooked on a risky behavior (e.g. gambling, smoking) reassure themselves they’ll be able to quit while ahead (before bankruptcy, lung cancer). However, their future-self tends to act a lot like them, so if they can't quit now, they likely won't quit later when they’re even deeper in.
 ====
 10. Youngest-Kid-in-Class Syndrome
-A study of 300,000 children found that the youngest kids in class were more likely to be diagnosed with ADHD. This suggests that immaturity is sometimes being mistaken for disorders.
-Steve Stewart-Williams discusses this further in his incisive piece (paywalled)
+A study of 300,000 children found that the youngest kids in class were more likely to be diagnosed with ADHD. This suggests that immaturity is sometimes being mistaken for disorders. Steve Stewart-Williams discusses this further in his incisive piece.
 ====
 11. Noble Cause Corruption
 The greatest evils come not from people seeking to do evil, but people seeking to do good and believing the ends justify the means. Everyone who was on the wrong side of history believed they were on the right side.
@@ -1559,6 +1558,8 @@ Common Knowledge Effect - Groups are meant to be better decision-makers than ind
 "Fear of life closes off more opportunities for us than fear of death ever does." - Agnes Moorehead
 ====
 “The common trait of people who supposedly have vision is that they spend a lot of time reading and gathering information, and then synthesize it until they come up with an idea.” - Fred Smith 
+====
+"You have to believe in yourself when no one else does—that makes you a winner right there." - Venus Williams
 ====
 Champion Bias - We assume winners have the best advice, but those who win rarely examine why they won, while those who lose often regretfully dwell on their mistakes. So you’ll often obtain the best advice on winning not from winners but from losers.
 ====
@@ -1622,6 +1623,12 @@ We’re Better at Generating Than Evaluating
 Humans are extraordinarily good at generating ideas, theories, and explanations that sound plausible. We are far less skilled at rigorously testing them. We prefer black-and-white thinking over shades of gray, and we’ll always be tempted to hold oversimplified beliefs that feel satisfying even when reality is more complex. - Thomas Gilovich
 ====
 “We do not escape into philosophy, psychology, and art - we go there to restore our shattered selves into whole ones.” - Anaïs Nin
+====
+You need the eye, the hand, and the heart. Two won’t do.” - David Hockney
+====
+The cause of death is birth. - David Hockney
+====
+“It must look easy, but it takes me forever to get it to look so easy.” - Maya Angelou
 ====
 "I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel." - Maya Angelou
 ====
@@ -4652,6 +4659,8 @@ The highest form of leverage is reputation.
 ====
 "You’ve got to learn your instrument. Then you practice, practice, practice. And then when you finally get up there on the bandstand, forget all that and just wail." - Charlie Parker
 ====
+"I used to think anyone doing anything weird was weird. Now I know that it is the people that call others weird that are weird." - Paul McCartney
+====
 "You will never feel proud of your work if you find no joy within it; your best work is always joyful work." - Stevie Wonder
 ====
 "It's the rough side of the mountain that’s the easiest to climb; the smooth side doesn’t have anything for you to hang on to." - Aretha Franklin
@@ -4760,6 +4769,8 @@ The smallest act in the most limited circumstances bears the seed of… boundles
 “For mortals, the ‘easy life of the gods’ would be a lifeless life.” - Hannah Arendt, "The Human Condition“
 ====
 Evil is never radical, it is only extreme, possessing neither depth nor any demonic dimension. It is ‘thought-defying’ because thought tries to reach some depth, to go to the roots, and the moment it concerns itself with evil, it is frustrated because there is nothing. That is its ‘banality.’ Only the good has depth that can be radical. - Hannah Arendt
+====
+Perhaps the most momentous of the spiritual consequences of the discoveries of the modern age […] has been the reversal of the hierarchical order between the vita contemplativa and the vita activa. - Hannah Arendt
 ====
 Attention isn't free. It's the most valuable thing you spend.
 ====
@@ -5351,8 +5362,6 @@ The world is a museum of other people’s passion projects. - John Collison
 If you are like most people, then like most people, you don't know you're like most people. ― Daniel Gilbert
 ====
 I oscillate between thinking I am crazy, and thinking I am not crazy enough. - Joyce Carol Oates
-====
-The cause of death is birth. - David Hockney
 ====
 When dreaming, imagine success. When preparing, imagine failure. - James Clear
 ====
