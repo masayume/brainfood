@@ -29,12 +29,12 @@ Struggle Is Good. Never say “I can’t take it anymore.” Say “Bring it on!
 ====
 "The first draft of everything is shit" - Ernest Hemingway
 ====
-Move — start with your body. Put on a good song and dance in the kitchen, swing your arms, go for a walk, shake it out.
-Soothe — make a hot drink, sing softly to yourself, put on fluffy socks, light a candle.
-Connect — reach out to someone, have a hug, sit with your pet, remember you’re not alone.
-Express — draw, write, play music, or just talk. It doesn’t need to be good — the point is expression, not perfection.
+Move - start with your body. Put on a good song and dance in the kitchen, swing your arms, go for a walk, shake it out.
+Soothe - make a hot drink, sing softly to yourself, put on fluffy socks, light a candle.
+Connect - reach out to someone, have a hug, sit with your pet, remember you’re not alone.
+Express - draw, write, play music, or just talk. It doesn’t need to be good - the point is expression, not perfection.
 
-You can repeat these steps as often as you need. You don’t have to follow them in order — maybe you stay in one for a while, or move back and forth. That’s fine. The goal isn’t to “fix” your emotions — it’s to give them somewhere to go. - Jo Hutton
+You can repeat these steps as often as you need. You don’t have to follow them in order - maybe you stay in one for a while, or move back and forth. That’s fine. The goal isn’t to “fix” your emotions - it’s to give them somewhere to go. - Jo Hutton
 ====
 “Without self-belief nothing can be accomplished. With it, nothing is impossible.” - Felix Dennis
 ====
@@ -42,13 +42,15 @@ You can repeat these steps as often as you need. You don’t have to follow them
 ====
 “Part of what is happening when you spend 7 hours reading a book, is you spend 7 hours with your mind on the topics in the book, grappling with them, drawing connections, having thoughts you would not otherwise have had. And so without that process of grappling, without those hours inside that book, it doesn’t get inside you. It doesn’t impress itself upon you. It doesn’t change you. What reading and writing and processing information is supposed to do is change you.” - Ezra Klein
 ====
+The day you decide you're in charge of what happens to you, there is suddenly opportunity all around you.
+====
 Most people give soft feedback because they care more about how the conversation feels than about whether the problem gets solved. This is selfish.
 Another thought on this... A lot of people don't actually want direct feedback; they prefer something softer. When they hear direct feedback, they focus on how it makes them feel and not the substance. If you're focusing on how feedback makes you feel and not its accuracy, you're robbing yourself of the opportunity to get better.
 Exceptional results happen when people are willing to give direct feedback and to hear it.
 ====
 “The best way to cherish life is to remind yourself of life's impermanence. It is to remember that every time you see someone that is one less time you see them. It is to remember that everytime you go somewhere that is one less time you visit. By doing this, you naturally slow down. Almost like a reflex, you start to truly live.” - Andrew Anabi 
 ====
-Learn Every Day. You’ve got to train your brain to stay alert. You don’t have to read a book a day to learn every day. Learn from your mistakes. Learn from the people around you — be open to what they can teach you.
+Learn Every Day. You’ve got to train your brain to stay alert. You don’t have to read a book a day to learn every day. Learn from your mistakes. Learn from the people around you - be open to what they can teach you.
 ====
 When you are at peace, you don't pick fights, create drama, or worry about what others think of you.
 ====
@@ -65,7 +67,7 @@ Be impenetrable to social pressure and quick to adapt to evidence.
 ====
 ★ “Money is, in some respects, like fire. It is a very excellent servant, but a terrible master.” - P.T. Barnum
 ====
-Money Is Not The Most Important Thing. You have to train yourself not to care about money and focus on providing value instead. Also, don’t become too dependent on the stuff you own — otherwise, the stuff will own you.
+Money Is Not The Most Important Thing. You have to train yourself not to care about money and focus on providing value instead. Also, don’t become too dependent on the stuff you own - otherwise, the stuff will own you.
 ====
 Be Nice. I don’t mean you should be a pushover. You can be someone that doesn’t take shit and be nice about it. Just don’t insult people, think you’re better than them, or act like an idiot.
 ====
@@ -113,7 +115,7 @@ Everyone searches for opportunities while running from problems, missing that th
 ====
 “The best years of your life are the ones in which you decide your problems are your own. You do not blame them on your mother, the ecology, or the President.” - Albert Ellis
 ====
-“The grit that matters most is learning to be your best when you’re at your worst. This is really the difference between elite-level performers and everyone else. And you have to train this kind of grit on its own, as a separate skill. But, if you can do this, what you discover is real power. There’s real power there—and it’s power you probably didn’t know you had.” - Josh Waitzkin
+“The grit that matters most is learning to be your best when you’re at your worst. This is really the difference between elite-level performers and everyone else. And you have to train this kind of grit on its own, as a separate skill. But, if you can do this, what you discover is real power. There’s real power there, and it’s power you probably didn’t know you had.” - Josh Waitzkin
 ====
 It doesn’t matter what position you find yourself in right now. What matters is whether you improve your position today. Every ordinary moment is an opportunity to make the future easier or harder.
 ====
@@ -151,18 +153,18 @@ The person who focuses on fewer things goes further than the person distracted b
 “Being indistractable means striving to do what you say you will do.” - Nir Eyal
 ====
 Distraction Is an Escape from Discomfort
-Most people blame their phones for their distraction, but the root cause is internal. The drive to relieve discomfort is the root cause of all our behavior — including distraction. Boredom, loneliness, fatigue, uncertainty, and anxiety are the internal triggers that push us toward escape. Until you understand why you’re reaching for the distraction, you’ll keep finding new ones. - Nir Eyal
+Most people blame their phones for their distraction, but the root cause is internal. The drive to relieve discomfort is the root cause of all our behavior - including distraction. Boredom, loneliness, fatigue, uncertainty, and anxiety are the internal triggers that push us toward escape. Until you understand why you’re reaching for the distraction, you’ll keep finding new ones. - Nir Eyal
 ====
 Traction vs. Distraction
-Both words end in “action” — one pulls you toward your goals, the other pulls you away. Traction is any action that moves you toward what you really want. Distraction is any action that moves you away from it. The difference isn’t the activity itself but whether it aligns with your values and intentions. Scrolling social media can be traction if it’s what you planned to do; working on a project can be distraction if you’re using it to avoid something more important. - Nir Eyal
+Both words end in “action” - one pulls you toward your goals, the other pulls you away. Traction is any action that moves you toward what you really want. Distraction is any action that moves you away from it. The difference isn’t the activity itself but whether it aligns with your values and intentions. Scrolling social media can be traction if it’s what you planned to do; working on a project can be distraction if you’re using it to avoid something more important. - Nir Eyal
 ====
 Master Internal Triggers
-Being indistractable means learning to cope with discomfort rather than escaping it. When you feel the urge to distract yourself, pause and identify the internal trigger: What are you feeling? What discomfort are you trying to escape? Simply naming the sensation and surfing the urge — allowing it to crest and pass — builds your ability to stay focused when it matters. - Nir Eyal
+Being indistractable means learning to cope with discomfort rather than escaping it. When you feel the urge to distract yourself, pause and identify the internal trigger: What are you feeling? What discomfort are you trying to escape? Simply naming the sensation and surfing the urge - allowing it to crest and pass - builds your ability to stay focused when it matters. - Nir Eyal
 ====
 “Having feelings does not make you irrational. Believing that the world must be a certain way because of your feelings does.” - Michael Huemer
 ====
 Make Time for Traction
-You can’t call something a distraction unless you know what it’s distracting you from. Being indistractable requires turning your values into time — literally scheduling what matters on your calendar. If you don’t plan your day, someone else will. The goal isn’t to finish everything you planned but to do what you said you would do when you said you would do it. - Nir Eyal
+You can’t call something a distraction unless you know what it’s distracting you from. Being indistractable requires turning your values into time - literally scheduling what matters on your calendar. If you don’t plan your day, someone else will. The goal isn’t to finish everything you planned but to do what you said you would do when you said you would do it. - Nir Eyal
 ====
 Surround yourself with people who are thoughtful in ways you are not, because they see what you can't.
 ====
@@ -209,21 +211,21 @@ When your primary goal is to be liked, you can't take risks. You can't disagree.
 ====
 "My life has been a quest for knowledge and understanding, and I am nowhere near having achieved that. And it doesn't bother me in the least." - Alex Trebek
 ====
-★ Abundance reduces appreciation. By deliberately limiting access to the things we enjoy — whether lattes or luxury cars — we can maintain their specialness and maximize pleasure. Small pleasures deliver more happiness when they're occasional treats rather than everyday occurrences.
+★ Abundance reduces appreciation. By deliberately limiting access to the things we enjoy - whether lattes or luxury cars - we can maintain their specialness and maximize pleasure. Small pleasures deliver more happiness when they're occasional treats rather than everyday occurrences.
 ====
 ★ “A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.” - John Gall
 ====
 Systems Generate Their Own Behavior
-A system is a set of interconnected elements that produces its own pattern of behavior over time. The behavior emerges from the structure — the feedback loops, delays, and connections — not from external events. Stop looking for who’s to blame; instead, ask “What’s the system?” The system itself causes its own behavior.
+A system is a set of interconnected elements that produces its own pattern of behavior over time. The behavior emerges from the structure - the feedback loops, delays, and connections - not from external events. Stop looking for who’s to blame; instead, ask “What’s the system?” The system itself causes its own behavior.
 ====
 Stocks and Flows Drive Dynamics
-Every system has stocks (accumulations like water in a bathtub, money in an account, or carbon in the atmosphere) and flows (the rates at which stocks change). Understanding which stocks are critical and what controls their flows reveals why systems behave as they do — and why they often resist our attempts to change them.
+Every system has stocks (accumulations like water in a bathtub, money in an account, or carbon in the atmosphere) and flows (the rates at which stocks change). Understanding which stocks are critical and what controls their flows reveals why systems behave as they do - and why they often resist our attempts to change them.
 ====
 Feedback Loops Create Stability or Growth
 Balancing feedback loops push toward equilibrium (a thermostat maintaining temperature). Reinforcing feedback loops amplify change (compound interest, viral spread, erosion of trust). Most real-world systems contain both types interacting in complex ways. Finding and understanding these loops is key to understanding any system.
 ====
 Find the Leverage Points
-Not all interventions are equal. The highest leverage often lies not in pushing harder but in changing the system’s goals, rules, or underlying paradigms. A small shift in the right place — like changing what gets measured, or who has information — can produce large changes in behavior.
+Not all interventions are equal. The highest leverage often lies not in pushing harder but in changing the system’s goals, rules, or underlying paradigms. A small shift in the right place - like changing what gets measured, or who has information - can produce large changes in behavior.
 ====
 The person who finishes one race beats the person who starts a hundred and never finishes.
 ====
@@ -265,12 +267,12 @@ When you truly understand something, you can express it at any level of detail w
 The master can provide the one-sentence version, the paragraph version, and the chapter version, all of which tell the same story at different resolutions. The novice can only repeat what they've memorized at one resolution.
 ====
 We Are Story Animals
-Different cognitive faculties — consciousness, emotion, episodic memory, mental simulation, language, and theory of mind — converged in human evolution to create a new ability: storytelling. This capacity became a tool for communication, a mechanism for self-regulation, and a means of social connection that shaped who we are. - William Gadea
+Different cognitive faculties - consciousness, emotion, episodic memory, mental simulation, language, and theory of mind - converged in human evolution to create a new ability: storytelling. This capacity became a tool for communication, a mechanism for self-regulation, and a means of social connection that shaped who we are. - William Gadea
 ====
 The Self Is a Narrative Construct
 What we call our “self” is not an objective reality but a story we continuously tell ourselves. Our identity comprises interconnected narratives: our origin story, our present identity, and our anticipated future. As Gadea writes, “Story is a tool that became its inventor. What we call our Self is a Story.” - William Gadea
 ====
-Our storytelling ability is dual-natured — it enables powerful human connection and meaning-making, but it can also foster discontent, self-deception, and suffering when we forget our stories are just stories. - William Gadea
+Our storytelling ability is dual-natured - it enables powerful human connection and meaning-making, but it can also foster discontent, self-deception, and suffering when we forget our stories are just stories. - William Gadea
 ====
 We must build a different relationship with the storytelling of ourselves, mu should constantly remember that our stories are constructions rather than fixed truths. This awareness opens a pathway to being steadier, stronger, more connected, and more content. - William Gadea
 ====
@@ -323,7 +325,7 @@ Details don't slow you down; they speed you up.
 The clearer you are about your priorities, the easier it is to say no.
 When your priorities are clear, every 'no' becomes a step toward what matters.
 ====
-Your calendar is the most honest autobiography you'll ever write. It doesn't matter what you say your priorities are; your calendar reveals the truth. Each block is a decision about what matters, stripped of pretense and rationalization. Your calendar isn't just recording your time—it's exposing your lies.
+Your calendar is the most honest autobiography you'll ever write. It doesn't matter what you say your priorities are; your calendar reveals the truth. Each block is a decision about what matters, stripped of pretense and rationalization. Your calendar isn't just recording your time, it's exposing your lies.
 ====
 When you consistently read biographies, something interesting happens. Life keeps throwing the same situations at you that you've read about in books. Only now you've seen what worked and what didn't.
 Reading gives you pattern recognition for problems you haven't faced yet.
@@ -336,6 +338,9 @@ Consistency compounds while occasional brilliance fades.
 When you're only halfway interested in something, you'll lose to someone obsessed. It won't even be close. It's worth asking why.
 Small advantages compound over time like interest in a bank account, so being 10% more committed doesn't give you 10% better results; it gives you 10x better results. Think of it like studying: the genuinely curious person will remember and connect ideas in ways that the person just trying to pass will never.
 Being all in doesn't just beat partially in; it crushes it.
+====
+There are two types of talent: the natural talent you're born with and the chosen talent you earn with your mindset, choices, and work.
+Natural talent is overrated. Chosen talent is underrated.
 ====
 "Everybody has talent and it’s just a matter of moving around until you’ve discovered what it is. A talent is a combination of something you love a great deal and something you can lose yourself in." - George Lucas
 ====
@@ -401,16 +406,16 @@ Checking the scoreboard feels like doing something, but it pulls attention away 
 ★ “Never let the quest for more distract you from the beauty of enough.” - Sahil Bloom
 ====
 Time Wealth
-Time is your most valuable and finite asset. Time Wealth means having the freedom to choose how you spend it, where you spend it, and whom you spend it with. It requires three things: awareness that time is limited, attention to spending it on what matters, and control over your own schedule. The ultimate goal isn’t more time — it’s the freedom to allocate it according to your preferences. - Sahil Bloom
+Time is your most valuable and finite asset. Time Wealth means having the freedom to choose how you spend it, where you spend it, and whom you spend it with. It requires three things: awareness that time is limited, attention to spending it on what matters, and control over your own schedule. The ultimate goal isn’t more time - it’s the freedom to allocate it according to your preferences. - Sahil Bloom
 ====	
 Social Wealth
-Social Wealth is about depth over breadth — cultivating deep, meaningful connections with a small group of people rather than shallow relationships with many. Your inner circles, communities, and the quality of your bonds determine much of your life satisfaction. Remember: everyone you love is on loan for a short period of time. - Sahil Bloom
+Social Wealth is about depth over breadth - cultivating deep, meaningful connections with a small group of people rather than shallow relationships with many. Your inner circles, communities, and the quality of your bonds determine much of your life satisfaction. Remember: everyone you love is on loan for a short period of time. - Sahil Bloom
 ====
 Mental Wealth
 Mental Wealth shapes how you experience everything else. It consists of purpose (a vision that guides your decisions), growth (eagerness to learn and change), and space (time to think, recharge, and listen to your inner voice). The greatest discoveries come not from finding right answers but from asking right questions. - Sahil Bloom
 ====
 Physical Wealth
-Treat your body like a house you have to live in for another seventy years. Physical Wealth rests on three pillars: movement (daily activity focusing on cardio, strength, and flexibility), nutrition (whole, unprocessed foods), and recovery (prioritizing sleep). Minor issues become major issues over time — repair them early. - Sahil Bloom
+Treat your body like a house you have to live in for another seventy years. Physical Wealth rests on three pillars: movement (daily activity focusing on cardio, strength, and flexibility), nutrition (whole, unprocessed foods), and recovery (prioritizing sleep). Minor issues become major issues over time - repair them early. - Sahil Bloom
 ====
 Financial Wealth
 Financial Wealth means defining what “enough” means to you and building toward it. Money enables the other four types of wealth but doesn’t replace them. Never let the quest for more distract you from the beauty of enough. Your wealthy life may involve money, but it will ultimately be defined by everything else. - Sahil Bloom
@@ -509,7 +514,7 @@ When action seems hard, narrow the gap between where you are and what you focus 
 A marathoner who hits a wall running at mile 5 doesn't focus on the end of the race; they focus on getting around the next corner. Then, the next corner.
 What's the smallest step you can take right now to make progress?
 ====
-“You’re only as good as you’re willing to be bad…The fact that you’re not going to be good at something or that you’re going to fail at something—that’s OK. Because you’re never going to get good unless you’re willing to be bad.” - Randall Stutman
+“You’re only as good as you’re willing to be bad…The fact that you’re not going to be good at something or that you’re going to fail at something, that’s OK. Because you’re never going to get good unless you’re willing to be bad.” - Randall Stutman
 ====
 Be quiet, work hard, and stay healthy. It’s not ambition or skill that is going to set you apart but sanity.
 ====
@@ -618,7 +623,7 @@ Listen to how you praise others. Are you praising talent (”You’re so smart!�
 ====
 "The minute you start talking about what you're going to do if you lose, you have lost." - George Shultz
 ====
-Your mistakes aren’t the best teacher—just the most expensive.
+Your mistakes aren’t the best teacher, just the most expensive.
 You can start at the bottom of the mountain and make every mistake from scratch on the way to the top, or you can take a sherpa with you and master the best of what other people have already figured out.
 The successful learn vicariously; the foolish insist on firsthand pain.
 ====
@@ -649,13 +654,15 @@ Curiosity isn't random; it's a compass.
 ====
 "If you want to succeed, you should strike out on new paths, rather than travel the worn paths of accepted success." - John D. Rockefeller
 ====
-"In my experience, each failure contains the seeds of your next success—if you are willing to learn from it." - Paul Allen
+"I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature." - John D. Rockefeller
+====
+"In my experience, each failure contains the seeds of your next success, if you are willing to learn from it." - Paul Allen
 ====
 "First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work." - Estée Lauder
 ====
 “I have spoken of the necessity of being frank and honest with oneself about one's own affairs: many people assume that they can get away from the truth by avoiding thinking about it, but the natural law is inevitable, and the sooner it is recognized, the better.” - John D. Rockefeller
 ====
-"I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature." - John D. Rockefeller
+Why are otherwise smart people trying to do too many things? The answer might surprise you. Saying no to something is hard because you immediately see what you might lose: the money, the connection, the possibility that something might come of it. So we say yes ... because the cost is hidden. Every yes quietly steals time from the most important thing you're already working on.
 ====
 "Fatigue, discomfort, discouragement are merely symptoms of effort." - Morgan Freeman
 ====
@@ -713,7 +720,7 @@ Question Authority
 "One of the great commandments of science is, 'Mistrust arguments from authority.’ (Scientists, being primates, and thus given to dominance hierarchies, of course do not always follow this commandment.) Too many such arguments have proved too painfully wrong. Authorities must prove their contentions like everybody else. This independence of science, its occasional unwillingness to accept conventional wisdom, makes it dangerous to doctrines less self-critical, or with pretensions to certitude. - Carl Sagan, The Demon-Haunted World
 ====
 Pressure feels like a threat, but it's not.
-You feel pressure when your decisions matter, and people depend on you. It can feel uncomfortable at times, but it's also a privilege. When no one relies on you — when no one expects something from you — you're irrelevant. Pressure is a privilege.
+You feel pressure when your decisions matter, and people depend on you. It can feel uncomfortable at times, but it's also a privilege. When no one relies on you - when no one expects something from you - you're irrelevant. Pressure is a privilege.
 ====
 Borrowed wisdom breaks under pressure because you haven't earned it.
 You're trusting someone else's compression without knowing what created it.
@@ -727,7 +734,7 @@ The reliance on carefully designed and controlled experiments is key. We will no
 Maintain Wonder While Being Skeptical
 "At the heart of science is a balance between two seemingly contradictory attitudes - an openness to new ideas, no matter how bizarre or counterintuitive, and the most ruthlessly skeptical scrutiny of all ideas, old and new. This is how deep truths are winnowed from deep nonsense." - Carl Sagan, The Demon-Haunted World
 ====
-“There is only one success—to be able to spend your life in your own way.” - Christopher Morley
+“There is only one success, to be able to spend your life in your own way.” - Christopher Morley
 ====
 ★ "I honestly think it is better to be a failure at something you love than to be a success at something you hate." - George Burns
 ====
@@ -776,11 +783,11 @@ Great ideas often look wrong at first; that's why the independent-minded discove
 ====
 “The only thing you can do is trust your initial instincts. You just have to say, 'This is what I’m making. This is what I’m doing. This is why I wrote this script. It is going to work. Just trust it.'” - Christopher Nolan
 ====
-“Every film I do, I have to believe that I'm making the best film that's ever been made. Films are really hard to make. They are all-consuming. So it had never occurred to me there were people doing it who weren't trying to make the best film that ever was. Why would you otherwise? Even if it's not going to be the best film that's ever been made, you have to believe that it could be. You just pour yourself into it and when it affects someone that way, that is a huge thrill for me—huge thrill. I feel like I have managed to wrap them the up in it way I try to wrap myself up.” - Christopher Nolan
+“Every film I do, I have to believe that I'm making the best film that's ever been made. Films are really hard to make. They are all-consuming. So it had never occurred to me there were people doing it who weren't trying to make the best film that ever was. Why would you otherwise? Even if it's not going to be the best film that's ever been made, you have to believe that it could be. You just pour yourself into it and when it affects someone that way, that is a huge thrill for me, huge thrill. I feel like I have managed to wrap them the up in it way I try to wrap myself up.” - Christopher Nolan
 ====
 Very rarely have I ever let anyone go because they did not have the skills to do their job. It’s almost always their unwillingness to learn those skills or their inability to take feedback.
 ====
-When I was 20 years old, I was working at this talent agency in Hollywood, and I got invited to this important meeting. As they were talking about stuff, I interjected and said something. My mentor took me aside after and he said, why did you say that? Did you think it actually needed to be said or did you just feel like you wanted to have something to say? I think about that all the time. It’s in The 48 Laws of Power - Always say less than necessary. Saying less than necessary, not interjecting at every chance we get—this is actually the mark not just of a self-disciplined person, but also a very smart and wise person.
+When I was 20 years old, I was working at this talent agency in Hollywood, and I got invited to this important meeting. As they were talking about stuff, I interjected and said something. My mentor took me aside after and he said, why did you say that? Did you think it actually needed to be said or did you just feel like you wanted to have something to say? I think about that all the time. It’s in The 48 Laws of Power - Always say less than necessary. Saying less than necessary, not interjecting at every chance we get, this is actually the mark not just of a self-disciplined person, but also a very smart and wise person.
 ====
 “The smartest person in the room, I’ve learned, is usually the person who knows how to tap into the intelligence of every person in the room.” - Scott Kelly 
 ====
@@ -888,17 +895,17 @@ The boss/mentor/biz can’t want you to succeed more than you want it. You have 
 ====
 “The thing that is least perceived about wealth is that all pleasure in money ends at the point where economy becomes unnecessary. The man who can buy anything he covets, without any consultation with his banker, values nothing that he buys.” - William James Dawson
 ====
-I was working full time at American Apparel but planning my next move, saving my money and thinking about writing a book. Over lunch one day, Robert Greene told me, Ryan, while people wait for the right moment, there are two types of time: Dead time—where they are passive and biding and Alive time—where they are learning and acting and getting the most out of every second. Which will this be for you?
+I was working full time at American Apparel but planning my next move, saving my money and thinking about writing a book. Over lunch one day, Robert Greene told me, Ryan, while people wait for the right moment, there are two types of time: Dead time - where they are passive and biding and Alive time - where they are learning and acting and getting the most out of every second. Which will this be for you?
 ====
 "The beautiful thing about learning is nobody can take it away from you." - BB King
 ====
 When you’re lacking motivation, remind yourself: discipline now, freedom later. The labor will pass, and the rewards will last.
 ====
-When I first moved to Austin in 2013, I went out to lunch—fittingly—with a writer named Austin Kleon. I was a longtime fan of his book Steal Like an Artist (his book Keep Going is another favorite). After we ate, he drove me around the city, showing me things and giving me advice. Austin was a little older than me and already married with kids. I remember asking him how he made time for it all. “I don’t,” he told me. “Life is about tradeoffs.” And then he gave me a little rule that has stuck with me always: Work, family, scene. Pick two. Your creative output, your personal relationships, and your social life—balancing all three is impossible. You can excel in two if you say no to one. If you can’t, you’ll have none.
+When I first moved to Austin in 2013, I went out to lunch - fittingly - with a writer named Austin Kleon. I was a longtime fan of his book Steal Like an Artist (his book Keep Going is another favorite). After we ate, he drove me around the city, showing me things and giving me advice. Austin was a little older than me and already married with kids. I remember asking him how he made time for it all. “I don’t,” he told me. “Life is about tradeoffs.” And then he gave me a little rule that has stuck with me always: Work, family, scene. Pick two. Your creative output, your personal relationships, and your social life, balancing all three is impossible. You can excel in two if you say no to one. If you can’t, you’ll have none.
 ====
 "Fall in love with yourself, with life and then with whoever you want." - Frida Kahlo
 ====
-“Double the pleasure and divide the pain,” and that’s what relationships are all about. When you care for and love those around you, they give back—and that’s where the reward comes.” - Tom Brady
+“Double the pleasure and divide the pain,” and that’s what relationships are all about. When you care for and love those around you, they give back, and that’s where the reward comes.” - Tom Brady
 ====
 "If there's not love present, it's much, much harder to function. When there's love present, it's easier to deal with life." - Brian Wilson
 ====
@@ -930,7 +937,7 @@ In 2013, I started a business with a partner that my wife warned me against work
 ====
 The trope that a day job takes away from your art or your hustle is stupid. There was a great exhibition at the Blanton Museum a couple years ago about artists who had day jobs. I wrote 3.5 books while I was the Director of Marketing at American Apparel. I started my own marketing company while I was a writer. I have my bookstore. A job for someone coming up is like a trust fund you’ve earned. It helps.
 ====
-★ “I read once that the true mark of a pro — at anything — is that he understands, loves, and is good at even the drudgery of his profession.” - Paul Halmos
+★ “I read once that the true mark of a pro - at anything - is that he understands, loves, and is good at even the drudgery of his profession.” - Paul Halmos
 ====
 Learning is priceless. Robert Greene used to have to nag me to submit my hours when I worked for him. To me, the money was an afterthought, I knew the real return was my access to him, that he would answer my questions, that I could see how a real pro did the job.
 ====
@@ -962,7 +969,7 @@ If you can afford to, delegate it. If you can’t yet afford to, automate it. Ti
 ====
 Time exists in order that everything doesn't happen all at once… and space exists so that it doesn't all happen to you. - Susan Sontag
 ====
-The best coaches and CEOs aren’t the ones who succeed just on the field or in the boardroom. The true greats are measured by their coaching tree—what the people who worked for them, who they mentored, who they inspired go on to do.
+The best coaches and CEOs aren’t the ones who succeed just on the field or in the boardroom. The true greats are measured by their coaching tree, what the people who worked for them, who they mentored, who they inspired go on to do.
 ====
 Nothing is permanent. Some things are just renewed faster than they decay.
 We want the naturally perfect relationship, but the ones that endure are renewed each morning.
@@ -975,9 +982,9 @@ Kuleshov Effect: Editing principle where viewers derive more meaning from the ju
 ====
 "Men and times change - but principles - never." - Grover Cleveland
 ====
-“Boredom: the great engine of creativity. I now believe with all my heart that it’s only in the crushing silences of boredom — without all that black-mirror dopamine — that you can access your deepest creative wells.” - Craig Mod
+“Boredom: the great engine of creativity. I now believe with all my heart that it’s only in the crushing silences of boredom - without all that black-mirror dopamine - that you can access your deepest creative wells.” - Craig Mod
 ====
-Having now been in pro locker rooms and boardrooms and briefing rooms with special forces operators and the Senate dining room—all very different worlds—I have come to believe that elite performance is elite performance is elite performance. While these folks all do very different jobs at very different levels of fame or fortune, they’re all basically thinking about the same handful of things, accessing the same core mental skills: Resilience. Creativity. Focus. Collaboration.
+Having now been in pro locker rooms and boardrooms and briefing rooms with special forces operators and the Senate dining room, all very different worlds, I have come to believe that elite performance is elite performance is elite performance. While these folks all do very different jobs at very different levels of fame or fortune, they’re all basically thinking about the same handful of things, accessing the same core mental skills: Resilience. Creativity. Focus. Collaboration.
 ====
 I think of creativity as a game of catch between your analytic mind and subconscious. - Spencer Greenberg
 ====
@@ -998,7 +1005,7 @@ Highly creative individuals might share certain associative patterns with those 
 Property mapping - when people borrow attributes like texture or shape from one concept and apply them to another.
 Structure mapping - This happens when you transfer the relational structure of one concept to another. - Dedre Gentner
 ====
-If it makes you a worse person (parent, neighbor, writer, whatever), it’s not success. If starting a business stresses you out, if it tears your relationships apart, if it makes you bitter or frustrated with people—then it doesn’t matter how much money it makes or external praise it receives. It’s not successful.
+If it makes you a worse person (parent, neighbor, writer, whatever), it’s not success. If starting a business stresses you out, if it tears your relationships apart, if it makes you bitter or frustrated with people, then it doesn’t matter how much money it makes or external praise it receives. It’s not successful.
 ====
 A friend of mine just left a very important job that a lot of people would kill for. When he left I said, “If you can’t walk away, then you don’t have the job…the job has you.”
 ====
@@ -1049,13 +1056,13 @@ Being well-positioned enables anyone to come out ahead no matter what obstacles 
 ====
 "The way people solve problems is first by having an enormous amount of commonsense knowledge, like maybe 50 million little anecdotes or entries, and then having some unknown system for finding among those 50 million old stories the 5 or 10 that seem most relevant to the situation. This is reasoning by analogy." - Marvin Minsky
 ====
-“What matters isn’t being applauded when you arrive—for that is common—but being missed when you leave.” - Baltasar Gracián
+“What matters isn’t being applauded when you arrive - for that is common - but being missed when you leave.” - Baltasar Gracián
 ====
-“Thinking is all about the ability to look at complex situations and strip away things that don't count—the ability to filter out situations and find what's at their core.” - Paraphrasing Douglas Hofstadter
+“Thinking is all about the ability to look at complex situations and strip away things that don't count, the ability to filter out situations and find what's at their core.” - Paraphrasing Douglas Hofstadter
 ====
 You get more of whatever you give attention to.
 ====
-A master billiards player approaches the table with dual vision. While amateurs focus solely on pocketing the immediate shot, professionals focus on how the current shot positions them for the next one. This deceptively simple insight—that present moves determine future options—perfectly captures how reputations function in our interconnected world.
+A master billiards player approaches the table with dual vision. While amateurs focus solely on pocketing the immediate shot, professionals focus on how the current shot positions them for the next one. This deceptively simple insight - that present moves determine future options - perfectly captures how reputations function in our interconnected world.
 ====
 The best opportunities go to people whose reputation got them picked before anyone else knew the opportunity even existed.
 ====
@@ -1072,7 +1079,7 @@ The Beginner’s Mind Has Infinite Possibilities. In the beginner’s mind, ther
 ====
 Do One Thing Completely. When you bow, just bow. When you sit, just sit. When you eat, just eat. Suzuki teaches that we should do everything with our whole body and mind, burning completely like a good bonfire rather than smoldering like a smoky fire. Full presence in any activity is itself the practice. - Shunryu Suzuki, "Zen mind, Beginner Mind"
 ====
-You Are Already Complete. We do not exist for the sake of something else. We exist for the sake of ourselves. There is no enlightened person — only enlightened activity. You don’t need to become something different or better. Everything is perfect, and there is always room for improvement. Both are true. - Shunryu Suzuki, "Zen mind, Beginner Mind"
+You Are Already Complete. We do not exist for the sake of something else. We exist for the sake of ourselves. There is no enlightened person - only enlightened activity. You don’t need to become something different or better. Everything is perfect, and there is always room for improvement. Both are true. - Shunryu Suzuki, "Zen mind, Beginner Mind"
 ====
 Let Thoughts Come and Go. Leave your front door and your back door open. Allow your thoughts to come and go. Just don’t serve them tea. The mind naturally produces thoughts like a stream produces ripples. The practice isn’t to stop thinking, but to not cling to thoughts or push them away. - Shunryu Suzuki, "Zen mind, Beginner Mind"
 ====
@@ -1105,7 +1112,7 @@ Amateurs have a goal. Professionals have a system.
 ====
 The gift with the highest return: believing in someone before they believe in themselves.
 ====
-“In every life there is a moment—an event or a realization-that changes that life irrevocably. If the change is to be a happy one, one must be able to recognize the moment and seize it without delay. Rose Kennedy once told me that good luck is something you make and bad luck is something you endure, a very wise observation indeed. People do make their luck by daring to follow their instincts, taking risks, and embracing every possibility.”
+“In every life there is a moment, an event or a realization-that changes that life irrevocably. If the change is to be a happy one, one must be able to recognize the moment and seize it without delay. Rose Kennedy once told me that good luck is something you make and bad luck is something you endure, a very wise observation indeed. People do make their luck by daring to follow their instincts, taking risks, and embracing every possibility.”
 ====
 “Many of life’s failures are people who didn’t realize how close they were to success when they gave up.” - Thomas Edison on perseverance
 ====
@@ -1319,7 +1326,7 @@ Never let the future disturb you.
 Bear misfortune worthily:
  “Here is a rule to remember in future, when anything tempts you to feel bitter: not ‘This is misfortune,’ but ‘To bear this worthily is good fortune.’”
 ====
-Tell the truth. “I’m going to be honest with you…”. How many times have you heard this phrase or said it yourself? It seems casual or like a way to establish trust. But beginning a remark by claiming we’re going to give it to you straight is of course implying that most of the time we’re not doing that. Honesty should not need a preface, Marcus Aurelius would say. An honest person should be like a smelly goat in the room—you know when they’re there. In matters big or small, public or private, convenient or inconvenient, tell the truth. Don’t be a jerk about it. Don’t give everyone your unsolicited opinion about how they should live or look or act. “Speak the truth as you see it,” Marcus reminded himself, “but with kindness. With humility. Without hypocrisy.” Be honest, not hurtful. Be a bastion of truth in a time of lies. This is more than just the right thing to do, it’s your job. As a friend. As a parent. As an employee. As a human being.
+Tell the truth. “I’m going to be honest with you…”. How many times have you heard this phrase or said it yourself? It seems casual or like a way to establish trust. But beginning a remark by claiming we’re going to give it to you straight is of course implying that most of the time we’re not doing that. Honesty should not need a preface, Marcus Aurelius would say. An honest person should be like a smelly goat in the room, you know when they’re there. In matters big or small, public or private, convenient or inconvenient, tell the truth. Don’t be a jerk about it. Don’t give everyone your unsolicited opinion about how they should live or look or act. “Speak the truth as you see it,” Marcus reminded himself, “but with kindness. With humility. Without hypocrisy.” Be honest, not hurtful. Be a bastion of truth in a time of lies. This is more than just the right thing to do, it’s your job. As a friend. As a parent. As an employee. As a human being.
 ====
 "In seeking truth you have to get both sides of a story." - Walter Cronkite
 ====
@@ -1335,7 +1342,7 @@ Design is a solution to a problem. Art is a question to a problem. - John Maeda
 ====
 "Not everything that is faced can be changed, but nothing can be changed until it is faced." - James Baldwin
 ====
-"The longer I live, the more deeply I learn that love—whether we call it friendship or family or romance—is the work of mirroring and magnifying each other's light." - James Baldwin
+"The longer I live, the more deeply I learn that love - whether we call it friendship or family or romance - is the work of mirroring and magnifying each other's light." - James Baldwin
 ====
 "If I can stop one heart from breaking, I shall not live in vain." - Emily Dickinson
 ====
@@ -1343,7 +1350,7 @@ Design is a solution to a problem. Art is a question to a problem. - John Maeda
 ====
 "The soul should always stand ajar, ready to welcome the ecstatic experience." - Emily Dickinson
 ====
-Just be kind. How did Hadrian know that Antoninus would be a worthy mentor to Marcus Aurelius? That he could give his absolute power to another man with only a promise that Antoninus would protect and guide Marcus to one day rule in his place? Because he felt he had glimpsed into Antoninus’ true character when he had once watched Antoninus help his elderly stepfather up a flight of stairs. He didn’t know anyone could see. It wasn’t a performance. It wasn’t ‘virtue signaling’ as we call it today. It was actual virtue—what Antonius brought to his twenty years as Marcus’ guardian and to the Roman people as their leader. Character is fate, the Stoics said. Small acts are no small thing, they said. A helping hand, a smile, a door held open, a favor rendered—you never know who might be watching. You never know what low moment you might be rescuing a person from. You never know the ripple effect your small gesture can have. But that’s not why we do it. We do it because it’s right—because people deserve kindness and because kindness makes us better. We do it because it’s the discipline we practice.
+Just be kind. How did Hadrian know that Antoninus would be a worthy mentor to Marcus Aurelius? That he could give his absolute power to another man with only a promise that Antoninus would protect and guide Marcus to one day rule in his place? Because he felt he had glimpsed into Antoninus’ true character when he had once watched Antoninus help his elderly stepfather up a flight of stairs. He didn’t know anyone could see. It wasn’t a performance. It wasn’t ‘virtue signaling’ as we call it today. It was actual virtue, what Antonius brought to his twenty years as Marcus’ guardian and to the Roman people as their leader. Character is fate, the Stoics said. Small acts are no small thing, they said. A helping hand, a smile, a door held open, a favor rendered, you never know who might be watching. You never know what low moment you might be rescuing a person from. You never know the ripple effect your small gesture can have. But that’s not why we do it. We do it because it’s right, because people deserve kindness and because kindness makes us better. We do it because it’s the discipline we practice.
 ====
 “The irony of man’s condition is that the deepest need is to be free of the anxiety of death and annihilation; but it is life itself which awakens it, and so we must shrink from being fully alive.” - Ernest Becker, from "The Denial of Death"
 ====
@@ -1359,7 +1366,7 @@ No one ever tells you that bravery feels like fear. - Mary Kate Teske
 ====
 "Find things beautiful as much as you can, most people find too little beautiful." - Vincent van Gogh
 ====
-Fishermen know that the sea is dangerous and the storm fearsome, but they have never found these dangers sufficient reason for remaining ashore. They leave that wisdom to those to whom it appeals. When the storm comes—when night falls—what’s worse: the danger or the fear of danger? Give me reality, the danger itself. - Vincent Van Gogh
+Fishermen know that the sea is dangerous and the storm fearsome, but they have never found these dangers sufficient reason for remaining ashore. They leave that wisdom to those to whom it appeals. When the storm comes, when night falls, what’s worse: the danger or the fear of danger? Give me reality, the danger itself. - Vincent Van Gogh
 ====
 “I know nothing with any certainty, but the sight of the stars makes me dream.” - Vincent Van Gogh
 ====
@@ -1413,7 +1420,7 @@ We grow so accustomed to life that we forget how miraculous it is. Imagine you w
 ====
 "We can have faith in the future only if we have faith in ourselves." - John F. Kennedy
 ====
-"There are only four kinds of people in the world—those who have been caregivers, those who are caregivers, those who will be caregivers, and those who will need caregivers." - Rosalynn Carter
+"There are only four kinds of people in the world, those who have been caregivers, those who are caregivers, those who will be caregivers, and those who will need caregivers." - Rosalynn Carter
 ====
 “Competence is how good you are when there is something to gain. Character is how good you are when there is nothing to gain. People will reward you for competence. But people will only love you for your character.” - Mark Manson
 ====
@@ -1503,7 +1510,7 @@ Instead of waiting for something to go wrong and then conducting a post-mortem, 
 Imagine you wake up in a hospital. What could have been the most likely reason? Is there anything you can do today to prevent that?
 Imagine your partner breaks up with you. What could have been the most likely reason? Is there anything you can do today to prevent that?
 Imagine you lose your job. What could have been the most likely reason? Is there anything you can do today to prevent that?
-— Luca Dellanna
+- Luca Dellanna
 ====
 9. Gambler’s Conceit
 People hooked on a risky behavior (e.g. gambling, smoking) reassure themselves they’ll be able to quit while ahead (before bankruptcy, lung cancer). However, their future-self tends to act a lot like them, so if they can't quit now, they likely won't quit later when they’re even deeper in.
@@ -1514,7 +1521,7 @@ A study of 300,000 children found that the youngest kids in class were more like
 11. Noble Cause Corruption
 The greatest evils come not from people seeking to do evil, but people seeking to do good and believing the ends justify the means. Everyone who was on the wrong side of history believed they were on the right side.
 ====
-History is a vast early warning system. — Norman Cousins
+History is a vast early warning system. - Norman Cousins
 ====
 Grey Rock Method
 Reacting emotionally to narcissists and other toxic people only gives them what they want - your time & energy - which encourages further abuse. If you want to stop receiving provocations, stop being provoked. When the narcissist realizes they can’t manipulate your emotions, they’ll stop trying.
@@ -1571,7 +1578,7 @@ Common Knowledge Effect - Groups are meant to be better decision-makers than ind
 ====
 “The common trait of people who supposedly have vision is that they spend a lot of time reading and gathering information, and then synthesize it until they come up with an idea.” - Fred Smith 
 ====
-"You have to believe in yourself when no one else does—that makes you a winner right there." - Venus Williams
+"You have to believe in yourself when no one else does, that makes you a winner right there." - Venus Williams
 ====
 Champion Bias - We assume winners have the best advice, but those who win rarely examine why they won, while those who lose often regretfully dwell on their mistakes. So you’ll often obtain the best advice on winning not from winners but from losers.
 ====
@@ -1624,7 +1631,7 @@ We See Patterns in Randomness
 Our brains are pattern-recognition machines that often work too well. We see meaningful clusters in random data, believe in “hot hands” in basketball when the streaks are statistically normal, and find significance in coincidences that are mathematically inevitable. The clustering illusion makes us trust our intuitions about randomness when we shouldn’t. - Thomas Gilovich
 ====
 Confirmation Bias Shapes Everything
-When examining evidence, we see what we expect to see and conclude what we expect to conclude. Information consistent with our existing beliefs is accepted at face value; evidence that contradicts it is scrutinized and discounted. Worse: for conclusions we want to be true, we ask “Can I believe this?” — but for unwelcome conclusions, we ask “Must I believe this?” - Thomas Gilovich
+When examining evidence, we see what we expect to see and conclude what we expect to conclude. Information consistent with our existing beliefs is accepted at face value; evidence that contradicts it is scrutinized and discounted. Worse: for conclusions we want to be true, we ask “Can I believe this?” - but for unwelcome conclusions, we ask “Must I believe this?” - Thomas Gilovich
 ====
 We Overestimate Agreement
 The false consensus effect leads us to overestimate how much others share our beliefs. Because we associate with like-minded people and disagreement often stays hidden, we don’t subject our beliefs to healthy scrutiny. This social bubble reinforces false beliefs and makes them feel like common sense. - Thomas Gilovich
@@ -1688,7 +1695,7 @@ If your reasoning is correct, you have nothing to fear. If it's wrong, you have 
 ====
 “We go through life thinking everyone else has it better than us until we grow up and realize we’re all in our own tiny boats of self-doubt and second-guessing.” - Alexi Pappas
 ====
-“Trust your obsessions. This is one I learned more or less accidentally. People sometimes ask whether the research or the idea for the story comes first for me. And I tell them, normally the first thing that turns up is the obsession: for example, all of a sudden I notice that I’m reading nothing but English 17th century metaphysical verse. And I know it’ll show up somewhere—whether I’ll name a character after one of those poets, or use that time period, or use the poetry, I have no idea. But I know one day it’ll be there waiting for me. You don’t always use your obsessions. Sometimes you stick them onto the compost heap in the back of your head, where the rot down, and attach to other things, and get half-forgotten, and will, one day, turn into something completely usable. Go where your obsessions take you. ... Your obsessions may not always take you to commercial places, or apparently commercial places. But trust them.” - Neil Gaiman
+“Trust your obsessions. This is one I learned more or less accidentally. People sometimes ask whether the research or the idea for the story comes first for me. And I tell them, normally the first thing that turns up is the obsession: for example, all of a sudden I notice that I’m reading nothing but English 17th century metaphysical verse. And I know it’ll show up somewhere, whether I’ll name a character after one of those poets, or use that time period, or use the poetry, I have no idea. But I know one day it’ll be there waiting for me. You don’t always use your obsessions. Sometimes you stick them onto the compost heap in the back of your head, where the rot down, and attach to other things, and get half-forgotten, and will, one day, turn into something completely usable. Go where your obsessions take you. ... Your obsessions may not always take you to commercial places, or apparently commercial places. But trust them.” - Neil Gaiman
 ====
 The best returns come from your biggest opportunities, not your biggest problems.
 ====
@@ -1722,11 +1729,11 @@ I know that the people who will make you feel warm and fuzzy when you’re sad, 
 ====
 I know that people really and truly cannot read your mind. It’s easy to think that people are ignoring your wants or emotions because they don’t care about you. But it’s likely that they have no idea what those are. If you’ve told them, they’ve likely forgotten, and may need a reminder - they have their own whole crowded bubble of consciousness going on!
 ====
-I know that travel is valuable because most knowledge can’t be written down. The most crucial info about a society is how it feels to be there—the rhythms of street life, where and when people eat meals, how gender works. You can read a million things about Japan without knowing the bodily experience of walking around in a truly high-trust society, for example.
+I know that travel is valuable because most knowledge can’t be written down. The most crucial info about a society is how it feels to be there, the rhythms of street life, where and when people eat meals, how gender works. You can read a million things about Japan without knowing the bodily experience of walking around in a truly high-trust society, for example.
 ====
 It's never about the outcome. It's always about the day.
 ====
-I know that sometimes, persistence is not a virtue. I would trade my other abilities to be an exceptional songwriter. I gave it a serious enough try to know that I don’t have the knack, for years, and I’m not interested in being publicly mediocre at the performing arts. My life is incalculably better for having let the dream go. The world will be happiest with a certain range of behaviors from you—life will be easier if you find a place in that range where you’re content. David Whyte calls this the conversational nature of reality, and he is correct about the importance of this concept.
+I know that sometimes, persistence is not a virtue. I would trade my other abilities to be an exceptional songwriter. I gave it a serious enough try to know that I don’t have the knack, for years, and I’m not interested in being publicly mediocre at the performing arts. My life is incalculably better for having let the dream go. The world will be happiest with a certain range of behaviors from you, life will be easier if you find a place in that range where you’re content. David Whyte calls this the conversational nature of reality, and he is correct about the importance of this concept.
 ====
 Energy without imagination is force. Energy with imagination is persistence.
 ====
@@ -1750,13 +1757,13 @@ I know that environmental influence is the most effective form of behavioral con
 ====
 I know a ridiculous-sounding tip that could make your whole life more satisfying. You might be breathing too high up in your chest. To correct this instantly, pretend you’re breathing through your asshole. 
 ====
-I know how to spot real confidence. Look for people who are fluid with status—who allow themselves to be the butt of a joke, or accept criticism, but also avoid false modesty, and inhabit the spotlight when it falls on them. One might call this a balance between dignity and humility. Pro tip: people who always cling to high status aren’t confident in the normal sense, they are cult leader types, which is a different animal.
+I know how to spot real confidence. Look for people who are fluid with status, who allow themselves to be the butt of a joke, or accept criticism, but also avoid false modesty, and inhabit the spotlight when it falls on them. One might call this a balance between dignity and humility. Pro tip: people who always cling to high status aren’t confident in the normal sense, they are cult leader types, which is a different animal.
 ====
 "The most luxurious possession, the richest treasure anybody has, is his personal dignity." - Jackie Robinson
 ====
 I know that sometimes people unfairly collapse reality via cliche. Your money management issue might be described as a “first world problem,” or your changing desires a “midlife crisis,” by yourself or others. This is a way of dismissing your complexity. 
 ====
-I know that people are too eager to recommend their current lifestyle and disavow their developmentally important previous decisions. For example, you will notice people who had a lot of casual sex when they were young saying later that committed relationships are obviously superior to dating casually—neglecting to notice that their wild young days were psychologically necessary for them.
+I know that people are too eager to recommend their current lifestyle and disavow their developmentally important previous decisions. For example, you will notice people who had a lot of casual sex when they were young saying later that committed relationships are obviously superior to dating casually, neglecting to notice that their wild young days were psychologically necessary for them.
 ====
 I know that unless you are exceptionally good with ripostes, the best way to win a fight with an angry person on the internet is to not respond. They will look ridiculous fuming impotently on their own.
 ====
@@ -1790,7 +1797,7 @@ I know that you are almost always not the only one experiencing a person’s cha
 ====
 Emotional suppression can be a great short-term coping strategy. The problem, long-term, is that it is not surgically precise. I know you can’t suppress pain and anger without also deadening yourself generally. When I started to release my childhood resentments, I was surprised to find myself surrounded by brighter colors.
 ====
-I know how to throw a good party. Get everyone in large rooms, ideally one large room. Make it feel almost overcrowded, to increase social optionality and accidental touch. It should spill outside a little bit, weather permitting. Have good food and drink in abundance. The ideal volume level creates pockets of intimacy via noise but doesn’t require shouting. The ideal light level is dim-bright. Invite a variety of archetypes—too many high-achievers and it will feel tediously networky, too many slouchy hippies and it will feel like an inert cuddle puddle. Have party smokes if it’s a night party—even very classy people sometimes want a cigarette when they drink, and they will appreciate it so much. If you want your party to be sexy, do not advertise that you want this, just get the gender balance right and lower the lighting a bit, put on the right music, and perhaps assign a costume requirement that will give people license to be outrageous.
+I know how to throw a good party. Get everyone in large rooms, ideally one large room. Make it feel almost overcrowded, to increase social optionality and accidental touch. It should spill outside a little bit, weather permitting. Have good food and drink in abundance. The ideal volume level creates pockets of intimacy via noise but doesn’t require shouting. The ideal light level is dim-bright. Invite a variety of archetypes, too many high-achievers and it will feel tediously networky, too many slouchy hippies and it will feel like an inert cuddle puddle. Have party smokes if it’s a night party, even very classy people sometimes want a cigarette when they drink, and they will appreciate it so much. If you want your party to be sexy, do not advertise that you want this, just get the gender balance right and lower the lighting a bit, put on the right music, and perhaps assign a costume requirement that will give people license to be outrageous.
 ====
 I know that if your significant other asks you to do an irritating-for-them task that is not especially difficult, you should be thankful. They have given you an unambiguous way to earn points in the relationship, which is how you get a nice life going. Usually, achieving personal flourishing is more complex than taking out the garbage.
 ====
@@ -1806,7 +1813,7 @@ No one has ever become poor by giving." - Anne Frank
 ====
 "The best remedy for those who are afraid, lonely, or unhappy is to go outside ... Nature brings solace in all troubles." - Anne Frank
 ====
-I know that if you are not unusually hard-working or competitive or smart, you can still distinguish yourself. Be unusual in some other noticeable, likable way—unusually honest, brave, generous, curious, or pleasant. All of these attributes are composed of discrete behaviors that can be learned through practice.
+I know that if you are not unusually hard-working or competitive or smart, you can still distinguish yourself. Be unusual in some other noticeable, likable way, unusually honest, brave, generous, curious, or pleasant. All of these attributes are composed of discrete behaviors that can be learned through practice.
 ====
 I know that you can’t see the counterfactual. Perhaps the stressed-out person you know isn’t convincing when they recommend the calming effects of lavender or exercise. But what you don’t observe is the maniac they would be without their remedies.
 ====
@@ -1854,7 +1861,7 @@ You’re not inactive because you lack motivation, you lack motivation because y
 ====
 A lot of the time your feelings are invalid and you should feel differently.
 ====
-“to be nobody-but-yourself — in a world which is doing its best, night and day, to make you everybody else — means to fight the hardest battle which any human being can fight.” - E.E. Cummings
+“to be nobody-but-yourself - in a world which is doing its best, night and day, to make you everybody else - means to fight the hardest battle which any human being can fight.” - E.E. Cummings
 ====
 You should just be yourself, not because it will make you more likable (it won’t) but because it's only by being yourself that you'll find people who like you for who you are rather than for who you're pretending to be.
 ====
@@ -1906,9 +1913,9 @@ Is the space of your consciousness dim or bright? Is it clear or obstructed? Doe
 ====
 “Nothing in this world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent.” - Calvin Coolidge, American attorney and politician
 ====
-Most people are brought up believing that if they are a good person, good things will happen to them. While not entirely wrong, it’s not enough to unlock your potential. It's like walking up to a door with two locks and only one key. If you want to go inside, you need the other key. The second key is going positive and going first—proactively helping others. When both keys are used together, the door unlocks, and a previously hidden world of opportunities reveals itself.
+Most people are brought up believing that if they are a good person, good things will happen to them. While not entirely wrong, it’s not enough to unlock your potential. It's like walking up to a door with two locks and only one key. If you want to go inside, you need the other key. The second key is going positive and going first, proactively helping others. When both keys are used together, the door unlocks, and a previously hidden world of opportunities reveals itself.
 ====
-★ The chief trick to making good mistakes is not to hide them—especially not from yourself. Instead of turning away in denial when you make a mistake, you should become a connoisseur of your own mistakes, turning them over in your mind as if they were works of art, which in a way they are. The fundamental reaction to any mistake ought to be this: "Well, I won’t do that again!"
+★ The chief trick to making good mistakes is not to hide them, especially not from yourself. Instead of turning away in denial when you make a mistake, you should become a connoisseur of your own mistakes, turning them over in your mind as if they were works of art, which in a way they are. The fundamental reaction to any mistake ought to be this: "Well, I won’t do that again!"
 ====
 It is important to admit your mistakes, and to do so before you are charged with them. Many clients are surrounded by buck-passers who make a fine art of blaming the agency for their own failures. I seize the earliest opportunity to assume the blame. - David Ogilvy 
 ====
@@ -1920,9 +1927,9 @@ There is a big difference between being interested in something and being commit
 ====
 "Too many people opt out and never discover their own abilities because they fear failure. They don't understand commitment." - Pat Summitt
 ====
-“Why do we love committers but act like browsers? I think it’s because of three fears. First, we have a fear of regret: we worry that if we commit to something, we will later regret having not committed to something else. Second, we have a fear of association: we think that if we commit to something, we will be vulnerable to the chaos that that commitment brings to our identity, our reputation, and our sense of control. Third, we have a fear of missing out: we feel that if we commit to something, the responsibilities that come with it will prevent us from being everything, everywhere, to everyone. Because of these fears, the tension sticks around. We act like browsers, we love committers, and we’re too scared to make the jump—so we’re stuck.” - Pete Davis
+“Why do we love committers but act like browsers? I think it’s because of three fears. First, we have a fear of regret: we worry that if we commit to something, we will later regret having not committed to something else. Second, we have a fear of association: we think that if we commit to something, we will be vulnerable to the chaos that that commitment brings to our identity, our reputation, and our sense of control. Third, we have a fear of missing out: we feel that if we commit to something, the responsibilities that come with it will prevent us from being everything, everywhere, to everyone. Because of these fears, the tension sticks around. We act like browsers, we love committers, and we’re too scared to make the jump, so we’re stuck.” - Pete Davis
 ====
-Respect others. Clementine Churchill once left a note for her husband. “My Darling Winston,” she wrote, “I must confess that I have noticed a deterioration in your manner; & you are not so kind as you used to be.” Yes, he had power, she noted, but if you keep disrespecting people, “You won’t get the best results.” The way you treat others sets off a chain reaction that shapes your life in profound ways. Disrespect, rudeness, pettiness, jealousy—these things repel. But dignity, equanimity, politeness, calm—they attract. They draw people in. They bring the best out of others. Choose wisely.
+Respect others. Clementine Churchill once left a note for her husband. “My Darling Winston,” she wrote, “I must confess that I have noticed a deterioration in your manner; & you are not so kind as you used to be.” Yes, he had power, she noted, but if you keep disrespecting people, “You won’t get the best results.” The way you treat others sets off a chain reaction that shapes your life in profound ways. Disrespect, rudeness, pettiness, jealousy, these things repel. But dignity, equanimity, politeness, calm, they attract. They draw people in. They bring the best out of others. Choose wisely.
 ====
 True generosity whispers in private, far from applauding crowds.
 ====
@@ -1960,9 +1967,9 @@ Overthinking is the biggest waste of human energy. Trust yourself, make a decisi
 ====
 Find the good. During one of his many stints in prison, Gandhi made a pair of sandals for General Jan Smuts, the prime minister of South Africa, who put Gandhi in jail. Somewhere in Smuts, despite his complicity in a racist and exploitative system, there was goodness, Gandhi believed. Smuts wore the sandals and thought of Gandhi’s grace and goodness as he did. Smuts eventually tried to return them, saying he felt unworthy to stand in the shoes of such a great man. To his credit, he made an effort to fill those shoes. He contributed to the founding of the League of Nations, drafted the UN Charter, and helped find a homeland for Jews after the Holocaust. He said Gandhi inspired him to redeem himself. Each of us, the Holocaust survivor Edith Eger would later write, has both a Hitler and a Corrie ten Boom (one of the Righteous Among the Nations honorees) inside us. Which one are you letting out? Which one are you seeing in others?
 ====
-Choose a north star. I watched Dov Charney go from a hero in the fashion business to one of its villains. In the early days, he was focused on challenging the broken assumptions of the business. He cared about his workers. He cared about the environment. Later, it became all about him, all about his urges, all about his power. This is the power of a north star. It can take you on an amazing journey or get you hopelessly lost. Your values, your aspirations, the things pushing and pulling you—whatever they are, they foretell a prophecy. They determine where you’ll end up…and who you’ll be when you get there. Cash is a bad but easy north star to default to. Same with ego, fame, power, a desire for revenge or dominance—they will lead you astray. Loyalty, mastery, a love of the game, a desire to keep your hands clean, to be an open book, have a clear conscience. These things take you north. They lead you forward. They cut through the noise. Of the cardinal directions, justice is the clearest, the Stoics said—it points you north, shows you where to go. Follow it, and you’ll end up in a good place…and you’ll be a good person when you get there.
+Choose a north star. I watched Dov Charney go from a hero in the fashion business to one of its villains. In the early days, he was focused on challenging the broken assumptions of the business. He cared about his workers. He cared about the environment. Later, it became all about him, all about his urges, all about his power. This is the power of a north star. It can take you on an amazing journey or get you hopelessly lost. Your values, your aspirations, the things pushing and pulling you, whatever they are, they foretell a prophecy. They determine where you’ll end up…and who you’ll be when you get there. Cash is a bad but easy north star to default to. Same with ego, fame, power, a desire for revenge or dominance, they will lead you astray. Loyalty, mastery, a love of the game, a desire to keep your hands clean, to be an open book, have a clear conscience. These things take you north. They lead you forward. They cut through the noise. Of the cardinal directions, justice is the clearest, the Stoics said, it points you north, shows you where to go. Follow it, and you’ll end up in a good place…and you’ll be a good person when you get there.
 ====
-Hold the line. Your north star will illuminate a line in your life. That is, the line between good and evil, right and wrong, ethical and unethical, fair and unfair. Courage requires you to put your ass on that line. Self-discipline tells you to get your ass in line. Justice is holding that line. It’s what you will do and what you won’t. What you will stand for and what you won’t stand for. It’s the decisions you make, the actions you take. Indeed, all the philosophical and religious traditions–from Confucius to Christianity, Plato to Hobbes and Kant—are best preached not with words but with actions. Each action is like a lantern that hollows darkness and uncertainty. Each decision to do the right thing is a statement that our peers, children, and future generations will hear. So draw the line and hold it.
+Hold the line. Your north star will illuminate a line in your life. That is, the line between good and evil, right and wrong, ethical and unethical, fair and unfair. Courage requires you to put your ass on that line. Self-discipline tells you to get your ass in line. Justice is holding that line. It’s what you will do and what you won’t. What you will stand for and what you won’t stand for. It’s the decisions you make, the actions you take. Indeed, all the philosophical and religious traditions–from Confucius to Christianity, Plato to Hobbes and Kant, are best preached not with words but with actions. Each action is like a lantern that hollows darkness and uncertainty. Each decision to do the right thing is a statement that our peers, children, and future generations will hear. So draw the line and hold it.
 ====
 "What each of us must come to realize is that our intent always comes through." - Thurgood Marshall
 ====
@@ -2100,7 +2107,7 @@ While pessimists write reports, optimists write history.
 ====
 8. Twenty pairs of jeans is fifteen too many.
 ====
-9. You might get 85 years on this planet—don’t spend 65 paying off a lifestyle you can’t afford.
+9. You might get 85 years on this planet, don’t spend 65 paying off a lifestyle you can’t afford.
 ====
 10. Abundance is a full heart, not a full house.
 ====
@@ -2166,7 +2173,7 @@ While pessimists write reports, optimists write history.
 ====
 41. Simple living doesn’t solve all my problems, it just removes distractions.
 ====
-42. You are not defined by your stuff—the stuff you keep or the stuff you give away.
+42. You are not defined by your stuff, the stuff you keep or the stuff you give away.
 ====
 43. Being busy isn’t the same as being productive.
 ====
@@ -2182,7 +2189,7 @@ While pessimists write reports, optimists write history.
 ====
 49. Do the choices I make line up with how I really want to live?
 ====
-50. To realize that the real hidden cost of everything you buy—is how much life it cost you to get it.
+50. To realize that the real hidden cost of everything you buy, is how much life it cost you to get it.
 ====
 1. Goodhart’s Law:
 When a measure becomes a goal, it ceases to be a good measure.
@@ -2217,7 +2224,7 @@ We tend to fill gaps in information with emotion. We fear what we don’t unders
 ====
 9. Pareidolia:
 We see whatever we look for.
-For aeons, survival favored the paranoid—those able to discern a predator from the vaguest outline. From these survivors we inherited hyperactive pattern-detection, which once saved us from the lions, but now curses us to see them even in the skies.
+For aeons, survival favored the paranoid, those able to discern a predator from the vaguest outline. From these survivors we inherited hyperactive pattern-detection, which once saved us from the lions, but now curses us to see them even in the skies.
 ====
 10. Safetyism:
 After US schools banned peanuts because some kids had allergies, more kids developed peanut allergies from lack of exposure. We’re increasingly protecting kids from life, which only makes them more vulnerable to it. Too much safety is dangerous.
@@ -2280,7 +2287,7 @@ Most of the time, what’s happening in the news isn’t actually important, it 
 ====
 28. Compassion Fade:
 “One death is a tragedy, a million is a statistic.”
-When presented with two appeals for charity—one based on famine statistics and one based on a single starving girl—people tend to donate much more to the girl.
+When presented with two appeals for charity, one based on famine statistics and one based on a single starving girl, people tend to donate much more to the girl.
 Our minds can’t grasp big numbers, so we navigate the world through stories, not statistics. We’re moved by drama, not data.
 ====
 29. Yes-Damn Effect:
@@ -2343,7 +2350,7 @@ Never invest in something you do not understand. - Warren Buffett
 ====
 "Study nature, love nature, stay close to nature. It will never fail you." - Frank Lloyd Wright
 ====
-It takes inordinate courage to introspect, to confront oneself, to accept one’s limitations—scientists are seeing more and more evidence that we are specifically designed by mother nature to fool ourselves. – Nassim Taleb
+It takes inordinate courage to introspect, to confront oneself, to accept one’s limitations, scientists are seeing more and more evidence that we are specifically designed by mother nature to fool ourselves. – Nassim Taleb
 ====
 “The thing that is least perceived about wealth is that all pleasure in money ends at the point where economy becomes unnecessary. The man who can buy anything he covets, without any consultation with his banker, values nothing that he buys.” – William Dawson
 ====
@@ -2514,7 +2521,7 @@ Pair: consolidate individual thoughts together.
 Share: share back with the rest of the team.
 ====
 The least effective form of patience is passive.A person who is passively patient waits for the universe to give them what they think they deserve. Five years from now, they'll still be waiting. Passive patience violates Newton's third law, which states, 'For every action, there is an equal and opposite reaction.' No action. No result. The world isn't indebted to you, and no one is destined to come your way, tap your shoulder, and present you with the golden opportunity you've been waiting for. It doesn't work that way.
-The most effective form of patience is active patience. Active patience implies taking significant steps today to set yourself up for future success. It's about strategically preparing for what lies ahead—saving more than you spend and investing wisely, developing the necessary skills for future job prospects, choosing kindness over cleverness, and so on. Here is the key lesson: Active patience puts the world on your side. If you go positive and go first, and you do so consistently, the world does a lot of the heavy lifting for you.
+The most effective form of patience is active patience. Active patience implies taking significant steps today to set yourself up for future success. It's about strategically preparing for what lies ahead, saving more than you spend and investing wisely, developing the necessary skills for future job prospects, choosing kindness over cleverness, and so on. Here is the key lesson: Active patience puts the world on your side. If you go positive and go first, and you do so consistently, the world does a lot of the heavy lifting for you.
 ====
 1% rule: In online communities, around 1% of users produce almost all of the content. As such, what you see online is not representative of humanity, but merely of a loud, obsessive (and often narcissistic, psychopathic, low-IQ) minority. Social media is literally a freakshow. - Gurwinder
 ====
@@ -2522,7 +2529,7 @@ Slopaganda: More online articles are now written by AI than by humans. And resea
 ====
 Reality Apathy: When the sheer volume of conflicting information makes the effort of finding the truth costlier than the value of knowing it, people give up trying to be accurate and instead choose whatever bullshit stinks least. Slop doesn’t just threaten the truth, but the very worth of truth.
 ====
-Rumpelstiltskin Effect: To name a problem is to tame it. Diagnosing one’s suffering makes it feel more meaningful and thus manageable—even if the diagnosis is wrong. “Major depressive disorder” is easier to live with than an anonymous sadness. This is one reason for the recent surge in diagnoses of disorders like depression, autism and ADHD.
+Rumpelstiltskin Effect: To name a problem is to tame it. Diagnosing one’s suffering makes it feel more meaningful and thus manageable, even if the diagnosis is wrong. “Major depressive disorder” is easier to live with than an anonymous sadness. This is one reason for the recent surge in diagnoses of disorders like depression, autism and ADHD.
 ====
 ★ Context Collapse: On social media, we’re simultaneously talking to our boss, our ex, our grandma, and a jihadist in Michigan. The result is that many people lobotomize their personalities into an inoffensive PR sludge, trying to please everyone and therefore pleasing no one.
 ====
@@ -2537,11 +2544,11 @@ Be not discouraged, keep on, there are divine things well envelop'd." - Walt Whi
 ====
 Amara’s Law: We tend to overestimate the short-term impact of new tech, and underestimate the long-term impact, because hype inflates expectations, and thus disappointment, and thus scepticism. As such, it’s possible for AI to be both a bubble and the most transformative tech since fire.
 ====
-Moloch’s Bargain: When LLMs compete for votes or social media likes, they push lies and ragebait to win—even when explicitly instructed to stay grounded and honest. If chatbots conclude that getting our attention requires lying to us, is the AI misaligned, or are we?
+Moloch’s Bargain: When LLMs compete for votes or social media likes, they push lies and ragebait to win, even when explicitly instructed to stay grounded and honest. If chatbots conclude that getting our attention requires lying to us, is the AI misaligned, or are we?
 ====
 Healthy User Bias: People who try supplements or practices that might have health benefits are naturally more health-conscious, and likely already healthier, than those who don’t. This is one reason there are so many studies suggesting some intervention has health benefits; they’re confusing the benefits of the intervention with the benefits of being the kind of person who tries it.
 ====
-Oxytocin Paradox: Oxytocin, the “love hormone”, can also make people spiteful. Cruelty is not simply the opposite of compassion, it’s often adjacent to it. For instance, the platform most dominated by “social justice” advocates—Bluesky—is also the one with the highest support for assassinations. Beware of those quick to show empathy, for they are often just as quick to show barbarity.
+Oxytocin Paradox: Oxytocin, the “love hormone”, can also make people spiteful. Cruelty is not simply the opposite of compassion, it’s often adjacent to it. For instance, the platform most dominated by “social justice” advocates, Bluesky, is also the one with the highest support for assassinations. Beware of those quick to show empathy, for they are often just as quick to show barbarity.
 ====
 George Bailey Effect: Imagining the absence of a blessing increases gratitude more than focusing on the presence of it. Instead of wishing for a Porsche, imagine losing your legs. Suddenly, walking feels like a miracle.
 ====
@@ -2572,7 +2579,7 @@ Sleepwalk Bias: Predictions that humanity is doomed usually assume future genera
 ====
 Cammarata’s Razor: If you want more agency, ask yourself what you’d do if you had ten times more agency. Then do it.
 ====
-Munger’s Latticework (aka Theoretical Pluralism): You can’t understand the world by viewing it through a single lens; relying on a single theory blinds you to its limitations. The solution is to adopt many competing theories—the more contradictory the better—for each will act as a mirror showing you blind spots in your other lenses. You’ve now learned 26, but countless others await.
+Munger’s Latticework (aka Theoretical Pluralism): You can’t understand the world by viewing it through a single lens; relying on a single theory blinds you to its limitations. The solution is to adopt many competing theories, the more contradictory the better, for each will act as a mirror showing you blind spots in your other lenses. You’ve now learned 26, but countless others await.
 ====
 1. Bat-and-Ball Problem: A bat and ball cost $1.10 total. The bat costs $1 more than the ball. How much does the ball cost? If you guessed $0.10, wrong! It’s $0.05. You missed the “more than the ball”. When we react instinctively, we react to a simplification of reality.
 ====
@@ -2626,7 +2633,7 @@ Munger’s Latticework (aka Theoretical Pluralism): You can’t understand the w
 ====
 25. Mating Mind Hypothesis: Why did we evolve a sense of humor? Comedy requires subverting expectations and connecting the seemingly unconnected. It's a reliable signal of creativity, so we evolved to look for it in mates, and to use it to attract mates. May also help explain our appreciation for art.
 ====
-26. Switch Cost Effect: We simultaneously inhabit 2 worlds—online & off—and both regularly interrupt us with demands/notifications, so we’re never able to settle in either. The constant switching of attention apparently lowers working IQ by ~10, dumbifying us twice as much as being high on cannabis.
+26. Switch Cost Effect: We simultaneously inhabit 2 worlds, online & off, and both regularly interrupt us with demands/notifications, so we’re never able to settle in either. The constant switching of attention apparently lowers working IQ by ~10, dumbifying us twice as much as being high on cannabis.
 ====
 27. St. George in Retirement Syndrome: Many who fight injustice come to define themselves by their fight against injustice, so that, as they defeat the injustice, they must invent new injustices to fight against simply to retain a sense of purpose in life.
 ====
@@ -2650,7 +2657,7 @@ Munger’s Latticework (aka Theoretical Pluralism): You can’t understand the w
 ====
 37. Hedonic Treadmill: Once we've obtained what we desire, our happiness quickly returns to its baseline level, and we begin to desire something else. Whatever we get, we get used to. Therefore, contentment lies not in accumulating possessions, but in relinquishing desires.
 ====
-38. Crabtree's Bludgeon: It’s possible to create a coherent explanation for any set of observations—even ones that are mutually contradictory. In other words, there is at least one seemingly rational argument to justify even the most idiotic bullshit. So be careful.
+38. Crabtree's Bludgeon: It’s possible to create a coherent explanation for any set of observations, even ones that are mutually contradictory. In other words, there is at least one seemingly rational argument to justify even the most idiotic bullshit. So be careful.
 ====
 39. The Arc of Happiness: Self-reported happiness graphed by age is smile-shaped. The optimism of youth becomes cynicism as responsibilities mount & dreams collide with reality. But after midlife, happiness rises again as people accept reality and learn to enjoy the little things.
 ====
@@ -2674,12 +2681,12 @@ Ride the virtuous circle of passion-practice-skill: “Passion for something lea
 ====
 Decide your future by deciding your habits: “People do not decide their futures, they decide their habits and their habits decide their futures.”
 ====
-Imagine life is a game in which you are juggling five balls: “The balls are called work, family, health, friends, and integrity. And you’re keeping all of them in the air. But one day you finally come to understand that work is a rubber ball. If you drop it, it will bounce back. The other four balls—family, health, friends, integrity—are made of glass. If you drop one of these, it will be irrevocably scuffed, nicked, perhaps even shattered.”
+Imagine life is a game in which you are juggling five balls: “The balls are called work, family, health, friends, and integrity. And you’re keeping all of them in the air. But one day you finally come to understand that work is a rubber ball. If you drop it, it will bounce back. The other four balls, family, health, friends, integrity, are made of glass. If you drop one of these, it will be irrevocably scuffed, nicked, perhaps even shattered.”
 ====
 1. Take one small step. 2. Change your mental maps. 3. Struggle is good. Scary is good. 4. Instant judgment is bad. 5. Remember the end of your life. 6. Be playful. 7. Be useful to others. 8. Perfectionism = procrastination. 9. Sleep, exercise, eat, chill out. Repeat. 10. Write it all down. 11. You can't get it all from reading. 
 ====
 Gain self-confidence by learning how to play a new game
-“If you want to make a change for the better or achieve a tough goal, don’t worry about motivation. Instead, focus on increasing your self-efficacy: confidence in your ability to solve your own problems and achieve your goals. The fastest and most reliable way to increase your self-efficacy is to learn how to play a new game. Any kind of game will do, because all games require you to learn new skills and tackle tough goals. The level of dopamine in your brain influences your ability to build self-efficacy. The more you have, the more determined you feel, and the less likely you are to give up. You’ll learn faster because high dopamine levels improve your attention and help you process feedback more effectively. Keep in mind that video games have been shown to boost dopamine levels as much as intravenous amphetamines. Whenever you want to boost your dopamine levels, play a game—or make a prediction.”
+“If you want to make a change for the better or achieve a tough goal, don’t worry about motivation. Instead, focus on increasing your self-efficacy: confidence in your ability to solve your own problems and achieve your goals. The fastest and most reliable way to increase your self-efficacy is to learn how to play a new game. Any kind of game will do, because all games require you to learn new skills and tackle tough goals. The level of dopamine in your brain influences your ability to build self-efficacy. The more you have, the more determined you feel, and the less likely you are to give up. You’ll learn faster because high dopamine levels improve your attention and help you process feedback more effectively. Keep in mind that video games have been shown to boost dopamine levels as much as intravenous amphetamines. Whenever you want to boost your dopamine levels, play a game, or make a prediction.”
 ====
 Depressive Realism: Depressed people have a more accurate view of the world because they’re more realistic about how risky and fragile life is. The opposite of “blissfully unaware.”
 ====
@@ -2947,21 +2954,21 @@ Over time, the person who approaches life with an openness to being wrong and a 
 ====
 Being wrong isn't something to fear but rather something to expect.
 ====
-Tired           —>  Nap
-Sad             —>  Music
-Stressed        —>  Walk 
-Angry           —>  Exercise
-Burnt out       —>  Read
-Feeling lost    —>  Pray
-Overthinking    —>  Write
-Anxious         —>  Meditate
+Tired           , >  Nap
+Sad             , >  Music
+Stressed        , >  Walk 
+Angry           , >  Exercise
+Burnt out       , >  Read
+Feeling lost    , >  Pray
+Overthinking    , >  Write
+Anxious         , >  Meditate
 ====
 Doing your best isn’t about the result. It’s about the preparation. It’s about the position you find yourself in before you do whatever you are doing.
 When you put yourself in the proper position, the result takes care of itself.
 The average person who puts themselves in a great position beats the genius who finds themselves in a poor position.
 ====
-“The liberal democracy is an artificial environment, carefully crafted to both contain human nature and convert it into an engine of progress. When we grow up within an artificial habitat that values human inventions like reason and fairness and humanity, it can be easy to forget just how tenuous that environment is. It’s easy to forget that we’re living in a rare anomaly within human history—an anomaly held up only by trust, cultural norms, and shared assumptions. It’s easy to become overconfident in the stability and permanence of that environment and forget that the worst of human nature is always lurking just beneath the surface. But the reality is that a liberal democracy is a human construct, held in place not only by laws but by the “support beam” of liberal norms—shared notions of what is and isn’t tolerable or harmful and by shared determination to uphold those standards. When that support beam weakens, the environment can quickly collapse.”
-— Tim Urban in What's Our Problem
+“The liberal democracy is an artificial environment, carefully crafted to both contain human nature and convert it into an engine of progress. When we grow up within an artificial habitat that values human inventions like reason and fairness and humanity, it can be easy to forget just how tenuous that environment is. It’s easy to forget that we’re living in a rare anomaly within human history, an anomaly held up only by trust, cultural norms, and shared assumptions. It’s easy to become overconfident in the stability and permanence of that environment and forget that the worst of human nature is always lurking just beneath the surface. But the reality is that a liberal democracy is a human construct, held in place not only by laws but by the “support beam” of liberal norms, shared notions of what is and isn’t tolerable or harmful and by shared determination to uphold those standards. When that support beam weakens, the environment can quickly collapse.”
+,  Tim Urban in What's Our Problem
 ====
 Good thinking is expensive. Bad thinking costs a fortune.
 One way to force yourself to think is to write. Good writing requires good thinking.
@@ -3071,7 +3078,7 @@ https://twitter.com/corymuscara/status/1594717233334427656
 [Gurwinder][MEGATHREAD]
 https://twitter.com/G_S_Bhogal/ ()
 3. The Grey Rock Method:
-Reacting emotionally to trolls and other toxic people only gives them what they want—your time & energy—which encourages further trolling & abuse. As such, the best way to get them to stop is to become unresponsive to their provocations.
+Reacting emotionally to trolls and other toxic people only gives them what they want, your time & energy, which encourages further trolling & abuse. As such, the best way to get them to stop is to become unresponsive to their provocations.
 ====
 5. Zeigarnik Effect:
 Our brains are goal-focused, so we have better recall of unfinished tasks than finished ones. Exploit this by taking your breaks halfway through tasks. If you write, end the day mid-sentence so that when you return you'll find it easier to get rolling again.
@@ -3273,11 +3280,11 @@ Highlight the uncommon aspects of your message to ensure retention
 ====
 Book Freak
 Embrace the unexpected journey to create a sense of mystery and engagement
-“Mystery is created not from an unexpected moment but from an unexpected journey. We know where we’re headed—we want to solve the mystery—but we’re not sure how we’ll get there.”
+“Mystery is created not from an unexpected moment but from an unexpected journey. We know where we’re headed, we want to solve the mystery, but we’re not sure how we’ll get there.”
 ====
 Book Freak
 Use storytelling to involve your audience
-“The way you deliver a message to them is a cue to how they should react. If you make an argument, you’re implicitly asking them to evaluate your argument—judge it, debate it, criticize it - and then argue back, at least in their minds. But with a story, Denning argues, you engage the audience - you are involving people with the idea, asking them to participate with you.”
+“The way you deliver a message to them is a cue to how they should react. If you make an argument, you’re implicitly asking them to evaluate your argument, judge it, debate it, criticize it - and then argue back, at least in their minds. But with a story, Denning argues, you engage the audience - you are involving people with the idea, asking them to participate with you.”
 ====
 A good storyteller with a decent idea will always have more influence than someone with a great idea who hopes the facts will speak for themselves. 
 ====
@@ -3301,7 +3308,7 @@ As an online discussion grows, the probability of a comparison to Nazis or Hitle
 Many people are quick to compare things to Nazi Germany because it’s the only history they know.
 ====
 6. Limbic Capitalism:
-Capitalism needs us to keep buying, and the best way to keep us buying is to get us addicted—to food, drugs, porn, news. Our brains are being violently overstimulated as businesses compete to obsess us; the market is slowly turning us into mindless dopamine-junkies.
+Capitalism needs us to keep buying, and the best way to keep us buying is to get us addicted, to food, drugs, porn, news. Our brains are being violently overstimulated as businesses compete to obsess us; the market is slowly turning us into mindless dopamine-junkies.
 ====
 7. Audience Capture:
 Nikocado wanted to blow up online, so he did what got him the most views: eating all he could. He certainly blew up, but not as intended, finding fame as a grotesque caricature of himself. Self-caricaturization awaits any influencer who seeks engagement at all costs.
@@ -3391,7 +3398,7 @@ The best propagandists convince people of a lie not by stating the lie directly 
 To truly understand an opposing view, try to argue in favor of it as best you can. This will prevent your tribal brain from reflexively dismissing it as an “enemy ideology”, and force you to genuinely consider its merits.
 ====
 34. Arrival Fallacy:
-We didn't evolve to be happy, but to believe we'll be happy if we just accomplish the latest goal. So we seldom taste true joy, but we often pick up its scent—just enough to keep us in pursuit. Paradise is not a destination, or even a journey, but a horizon.
+We didn't evolve to be happy, but to believe we'll be happy if we just accomplish the latest goal. So we seldom taste true joy, but we often pick up its scent, just enough to keep us in pursuit. Paradise is not a destination, or even a journey, but a horizon.
 ====
 35. Law of Accelerating Returns:
 For 300,000 years, humans didn’t have computers. Then, in less than a century, we invented PCs, the web, smartphones, and generative AI. New discoveries facilitate newer discoveries, so technological progress is not linear but exponential.
@@ -3442,8 +3449,8 @@ Get something on screen fast, ugly (not too ugly that you can’t admit this is 
 ====
 Directional Arrow of Progress
 "Study the undeniable arrows of progress." - @wolfejosh
-The future is extremely difficult to predict—but there are clues.
-Look at the trend line of progress and where it's pointing—directionally, not precisely.
+The future is extremely difficult to predict, but there are clues.
+Look at the trend line of progress and where it's pointing, directionally, not precisely.
 Invest (or build) accordingly.
 ====
 “Consensus ... is the process of avoiding the very issues that have to be solved.” - Margaret Thatcher
@@ -3535,7 +3542,7 @@ The 7 Powers are the foundation of durable value creation:
 Play to Learn
 Old Way: Learn to Play.
 New Way: Play to Learn.
-We are living in an unprecedented era—historical boundaries are being broken, enabling anyone to participate.
+We are living in an unprecedented era, historical boundaries are being broken, enabling anyone to participate.
 If you're trying to learn anything new, insert yourself into the game. It's the only way.
 ====
 Porter's Five Forces
@@ -3595,7 +3602,7 @@ There’s a hierarchy of skill levels regarding what people do when someone come
 "There is no way around hard work. Embrace it." - Roger Federer
 ====
 Most of the time, it’s not about having a gift. It’s about having grit. In tennis, like in life, discipline is also a talent. And so is patience.
-Trusting yourself is a talent. Embracing the process—loving the process—is a talent. Managing your life, managing yourself.
+Trusting yourself is a talent. Embracing the process, loving the process, is a talent. Managing your life, managing yourself.
 These can be talents, too. Some people are born with them. Everybody has to work at them.” - Roger Federer
 ====
 “Perfection is impossible. In the 1526 singles matches I played in my career, I won almost 80% of those matches. Now, I have a question for you.
@@ -3610,7 +3617,7 @@ You want to become a master at overcoming hard moments. That is, to me, the sign
 ====
 “I think it may be easier to see solutions if you can distinguish between context and content. If you can place a problem within the framework of the larger universe its dimensions are put into perspective and automatically diminished.” - Peter Cundill
 ====
-“Write early in the morning, cultivate memory, reread core books, take detailed reading notes, work on several projects at once, maintain a thick archive, rotate crops, take a weekly Sabbath, go to bed at the same time, exercise so hard you can’t think during it, talk to different kinds of people including the very young and very old, take words and their histories seriously (i.e., read dictionaries), step outside of the empire of the English language regularly, look for vocabulary from other fields, love the basic, keep your antennae tuned, and seek out contexts of understanding quickly (i.e., use guides, encyclopedias, and Wikipedia without guilt).” —John Durham Peters
+“Write early in the morning, cultivate memory, reread core books, take detailed reading notes, work on several projects at once, maintain a thick archive, rotate crops, take a weekly Sabbath, go to bed at the same time, exercise so hard you can’t think during it, talk to different kinds of people including the very young and very old, take words and their histories seriously (i.e., read dictionaries), step outside of the empire of the English language regularly, look for vocabulary from other fields, love the basic, keep your antennae tuned, and seek out contexts of understanding quickly (i.e., use guides, encyclopedias, and Wikipedia without guilt).” , John Durham Peters
 ====
 “We had books for a long time and we called it ‘reading’ and not ‘doom-reading’ or ‘hell-reading’. We had Twitter for a couple of years and we called it ‘doom-scrolling’”. - Ezra Klein
 ====
@@ -4086,7 +4093,7 @@ Everything that slows us down and forces patience, everything that sets us back 
 ====
 The garden suggests there might be a place where we can meet nature halfway. - Michael Pollan
 ====
-I like gardening—it's a place where I find myself when I need to lose myself. - Alice Sebold
+I like gardening, it's a place where I find myself when I need to lose myself. - Alice Sebold
 ====
 When the world wearies and society fails to satisfy, there is always the garden. - Minnie Aumonier
 ====
@@ -4250,7 +4257,7 @@ Decentralization has been and will be a big topic, forever. The appeal of centra
 ====
 “Those who can't remember the past are condemned to have it resold to them forever.” - Mark Fisher
 ====
-You don’t get to decide the truth. Life is b —much bigger than just yours. - Franck Chimero
+You don’t get to decide the truth. Life is b , much bigger than just yours. - Franck Chimero
 ====
 There is very few truths. Even fewer that I truly know or understand. Being at peace with our lack of understanding of ourselves is crucial. 
 ====
@@ -4279,7 +4286,7 @@ Keep the goal. Change your mind about how to reach it.
 "If, for example, we consider books as medicine, we understand that it is good to have many at home rather than a few: when you want to feel better, then you go to the 'medicine closet' and choose a book. Not a random one, but the right book for that moment. That's why you should always have a nutrition choice!
 "Those who buy only one book, read only that one and then get rid of it. They simply apply the consumer mentality to books, that is, they consider them a consumer product, a good. Those who love books know that a book is anything but a commodity." - Umberto Eco
 ====
-“There is only one success—to be able to spend your life in your own way.” - Christopher Morley
+“There is only one success, to be able to spend your life in your own way.” - Christopher Morley
 ====
 “Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.” - Howard Aiken
 ====
@@ -4299,7 +4306,7 @@ Spend time thinking about what to focus on.”
 ====
 “The cold water doesn't get warmer if you jump late.” - Unknown
 ====
-“There is no safe investment. To love at all is to be vulnerable. Love anything, and your heart will certainly be wrung and possibly be broken. If you want to make sure of keeping it intact, you must give your heart to no one, not even to an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements; lock it up safe in the casket or coffin of your selfishness. But in that casket—safe, dark, motionless, airless—it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. The alternative to tragedy, or at least to the risk of tragedy, is damnation.” - C. S. Lewis
+“There is no safe investment. To love at all is to be vulnerable. Love anything, and your heart will certainly be wrung and possibly be broken. If you want to make sure of keeping it intact, you must give your heart to no one, not even to an animal. Wrap it carefully round with hobbies and little luxuries; avoid all entanglements; lock it up safe in the casket or coffin of your selfishness. But in that casket, safe, dark, motionless, airless, it will change. It will not be broken; it will become unbreakable, impenetrable, irredeemable. The alternative to tragedy, or at least to the risk of tragedy, is damnation.” - C. S. Lewis
 ====
 “We’re less committed to choices we think we can reverse, and commitment is crucial for happiness.” - Logan Ury
 ====
@@ -4319,7 +4326,7 @@ stealing like an artist: “Just looking at something and going, I like that, an
 ====
 “Let’s keep in mind that there is not one of us whose reputation would not be grievously dimmed by a thorough cataloguing of our faults and errors.” - Carl Braun
 ====
-"One thing seems more and more evident to me now — people’s basic character does not change over the years … Far from improving them, success usually accentuates their faults or short-comings. The brilliant guys at school often turn out to be not so brilliant once they are out in the world. If you disliked or despised certain lads in your class you will dislike them even more when they become financiers, statesmen or five star generals. Life forces us to learn a few lessons, but not necessarily to grow." - Henry Miller
+"One thing seems more and more evident to me now - people’s basic character does not change over the years … Far from improving them, success usually accentuates their faults or short-comings. The brilliant guys at school often turn out to be not so brilliant once they are out in the world. If you disliked or despised certain lads in your class you will dislike them even more when they become financiers, statesmen or five star generals. Life forces us to learn a few lessons, but not necessarily to grow." - Henry Miller
 ====
 “The question is not whether we will die, but how we will live.” - Dr. Joan Borysenko
 ====
@@ -4396,7 +4403,7 @@ The key to Occam's Razor is understanding when it works for you and against you.
 ====
 Mental Model
 V2 | Chemistry | Alloying
-Alloying is the art of mixing elements to create something greater than the sum of its parts. While our intuition tells us that pure substances are best, alloying shows this is not always true. One plus one can equal ten. By blending ingredients in precise proportions, metallurgists can create materials with bespoke properties—the lightness of aluminum with the strength of steel, the corrosion resistance of chromium with the affordability of iron.
+Alloying is the art of mixing elements to create something greater than the sum of its parts. While our intuition tells us that pure substances are best, alloying shows this is not always true. One plus one can equal ten. By blending ingredients in precise proportions, metallurgists can create materials with bespoke properties, the lightness of aluminum with the strength of steel, the corrosion resistance of chromium with the affordability of iron.
 But alloying isn’t just about physical properties. It’s a metaphor for the power of diversity and combination in all walks of life. In teams, alloying is the mixing of different skills, perspectives, and personalities to create a more creative, adaptable, and resilient group than any individual could be alone. In ideas, it’s the blending of concepts from different fields to spark innovation and insight.
 In people, alloying is the combination of skills that makes them unstoppable. Consider a person possessing deep engineering skills who can clearly explain ideas. They are more valuable than someone with just the engineering skills. Now add empathy, humility, resilience, and drive. This person becomes incredibly rare.
 The key to successful alloying is knowing which elements to combine and in what proportions. Too little of one ingredient and you don’t get the desired effect; too much and you might end up with something brittle or unstable. The art lies in finding the sweet spot, the golden ratio where the whole becomes more than the sum of its parts.
@@ -4415,7 +4422,7 @@ Leverage is a tool, not a toy, and like any tool, it requires skill, judgment, a
 ====
 Mental Model
 V2 | Physics | Reciprocity
-"Reciprocity underlies everything from basic human kindness to the most complex trade systems. At its core, reciprocity is the simple idea of treating others as they treat us—giving what we get. From this simple principle grows a vast web of social interactions and expectations that shapes nearly every aspect of our lives.
+"Reciprocity underlies everything from basic human kindness to the most complex trade systems. At its core, reciprocity is the simple idea of treating others as they treat us, giving what we get. From this simple principle grows a vast web of social interactions and expectations that shapes nearly every aspect of our lives.
 ====
 Mental Model
 V2 | Chemistry | Activation Energy
@@ -4429,9 +4436,9 @@ V2 | Physics | Inertia
 "Inertia is the stubborn resistance of the universe to change. It’s the reason why objects at rest tend to stay at rest and objects in motion tend to stay in motion. You can think of inertia as the guardian of the status quo.
 At its core, inertia is a property of mass. The more massive an object is, the more it resists changes to its state of motion. A feather, with its tiny mass, is easily blown about by the slightest breeze. A boulder, on the other hand, requires a powerful force to get it moving. This is why it takes more effort to push a heavy cart than a light one, more energy to launch a rocket than to toss a ball.
 But inertia isn’t just a physical phenomenon. It’s an illuminating lens to see habits, beliefs, and our resistance to change. The longer we’ve held them, the larger the mass and the more force required to change them. The path of least resistance is always the status quo.
-Getting started is the hardest part. Once something is moving in a direction, it’s much easier to keep it in motion. But once something is in motion, it’s hard to stop. This is why most self-help books about positive habits break things down into very small steps—to reduce the force required to overcome the status quo. For example, if you want to get in the habit of doing push-ups daily, start with one rather than with fifty. If you want to start a flossing habit, start with one tooth. After all, the bigger the mass—in this case the gap between where you are and where you want to be—the more effort required.
-Inertia is both a challenge and an opportunity. Successful companies struggle with the inertia of their own success and the resistance to change that comes with size, complexity, and entrenched interests. Startups, on the other hand, can leverage their lack of inertia—their agility, their willingness to pivot and adapt—as a competitive advantage.
-Momentum and inertia are closely related. While inertia is the tendency to resist change, momentum is the oomph an object has when it’s moving. The more momentum something has, the harder it is to stop or redirect. The key is to pick the right direction and build momentum so inertia works to your advantage and carries you forward. This is the essence of the “flywheel” concept in business—the idea that success breeds success, that small wins can compound into big gains over time.
+Getting started is the hardest part. Once something is moving in a direction, it’s much easier to keep it in motion. But once something is in motion, it’s hard to stop. This is why most self-help books about positive habits break things down into very small steps, to reduce the force required to overcome the status quo. For example, if you want to get in the habit of doing push-ups daily, start with one rather than with fifty. If you want to start a flossing habit, start with one tooth. After all, the bigger the mass, in this case the gap between where you are and where you want to be, the more effort required.
+Inertia is both a challenge and an opportunity. Successful companies struggle with the inertia of their own success and the resistance to change that comes with size, complexity, and entrenched interests. Startups, on the other hand, can leverage their lack of inertia, their agility, their willingness to pivot and adapt, as a competitive advantage.
+Momentum and inertia are closely related. While inertia is the tendency to resist change, momentum is the oomph an object has when it’s moving. The more momentum something has, the harder it is to stop or redirect. The key is to pick the right direction and build momentum so inertia works to your advantage and carries you forward. This is the essence of the “flywheel” concept in business, the idea that success breeds success, that small wins can compound into big gains over time.
 When you’re fighting the status quo, remember the physics at play. Resistance is natural. Understand that it takes a sustained force in the right direction to build momentum in a new direction.
 While the universe resists change, it always rewards those who dare to overcome that resistance.”
 ====
@@ -4440,8 +4447,8 @@ V2 | Physics | Relativity
 Relativity is the idea that our perceptions and judgments are not absolute, but are shaped by our unique vantage points and frames of reference. It’s the understanding that our experiences are subjective.
 We each inhabit a particular web of experiences. This context shapes how we see the world, what we notice and overlook, what we value and dismiss.
 Two people can look at the same event and come away with vastly different interpretations based on their unique frames of reference. Consider two people standing in the same room: They experience the same absolute temperature differently. One can feel hot while the other feels cold, even though the temperature is the same.
-However, relativity is not the same as relativism— the idea that all perspectives are equally valid. Recognizing the relativity of our perceptions doesn’t mean we don’t have to make judgments about validity. Rather, it’s a call to examine our assumptions, seek out diverse perspectives, and expand our frames of reference.
-We all have blind spots— things we cannot see. Understanding that our perceptions are relative allows us to open ourselves to other ways of seeing. If you’re wondering where to get started, try asking others what they see that you can’t. Apply your judgment to their responses and update your beliefs accordingly.
+However, relativity is not the same as relativism,  the idea that all perspectives are equally valid. Recognizing the relativity of our perceptions doesn’t mean we don’t have to make judgments about validity. Rather, it’s a call to examine our assumptions, seek out diverse perspectives, and expand our frames of reference.
+We all have blind spots,  things we cannot see. Understanding that our perceptions are relative allows us to open ourselves to other ways of seeing. If you’re wondering where to get started, try asking others what they see that you can’t. Apply your judgment to their responses and update your beliefs accordingly.
 ====
 Mental Model
 V2 | Physics | Velocity
@@ -4509,7 +4516,7 @@ Interdependence isn’t just a macro concept. It’s deeply personal. We’re al
 Mental Model
 V4 | Art | Audience
 
-The audience is the invisible participant in every work of art. They are the eyes that see, the ears that hear, the minds that interpret. Without an audience, art is like a tree falling in an empty  forest— it may make a sound, but does it matter? The audience is what gives art its meaning, its purpose, and its very existence.
+The audience is the invisible participant in every work of art. They are the eyes that see, the ears that hear, the minds that interpret. Without an audience, art is like a tree falling in an empty  forest,  it may make a sound, but does it matter? The audience is what gives art its meaning, its purpose, and its very existence.
 Every observer infuses art with personal significance, transforming it into a co-creation. A painting of a sunset may evoke feelings of peace and beauty for one person and feelings of melancholy and loss for another. The artwork is the same, but the audience is different, so the meaning is different. In this sense, the audience is a cocreator of the art.
 Great artists design their work for these silent judges, balancing authenticity with expectation without succumbing to pandering. The audience is their silent collaborator and their ultimate judge.
 The audience is something real in a world where so much can be faked. You can fake likes, followers, and reviews, but you can’t fake the genuine human experience of engaging with art. The spontaneous laughter, unexpected tears, and long, thoughtful silence are the honest reactions that both the audience and the artist lives for.
@@ -4571,7 +4578,7 @@ Life is full of trade-offs. Every choice has a cost. When you say yes to one thi
 Opportunity cost is what you give up when you make a choice. It’s the thing you can’t have because you picked something else. Say you have a free evening. You can work on your startup or go to a movie. If you work, you miss the fun. If you go to the movie, you miss the chance to make progress. Every choice has an opportunity cost because you implicitly say no to many other things every time you say yes to something. You need to know your opportunity costs. This helps you make good trade-offs.
 A trade-off is giving up one thing to get something else. It’s choosing between options. Each has good and bad points. Trade-offs are about priorities. When you make something, you face trade-offs. If you want it fast, you might lose some features. If you want it cheap, you might use lower-quality materials.
 In life, we face  trade-offs all the time. Do you take the high-paying job with long hours? Or the low-paying one with more free time? Do you spend money now or save for later? Making good trade-offs is about weighing the opportunity costs and benefits of each option and choosing the one that aligns best with your goals and values. It’s not always easy, but being conscious of the  trade-offs you’re making can help you make better decisions.
-Wisdom is anticipating the consequences of your choices. In life and business, success is about making good trade-offs. It’s not about having it all. It’s about having what matters most. We all value different things. That’s what makes life rich. Opportunity cost is what you give up when choosing; trade-offs are the balancing acts you perform when deciding between competing options. They’re two sides of the same  coin—whenever you make a trade-off, you incur an opportunity cost for the options you didn’t choose. The key in both cases is to be thoughtful and intentional about your choices.
+Wisdom is anticipating the consequences of your choices. In life and business, success is about making good trade-offs. It’s not about having it all. It’s about having what matters most. We all value different things. That’s what makes life rich. Opportunity cost is what you give up when choosing; trade-offs are the balancing acts you perform when deciding between competing options. They’re two sides of the same  coin, whenever you make a trade-off, you incur an opportunity cost for the options you didn’t choose. The key in both cases is to be thoughtful and intentional about your choices.
 ====
 A fanatic is someone who redoubles is effort when he has forgotten his aim. - George Santayana / Chuck Jones
 ====
@@ -4579,7 +4586,7 @@ Those most susceptible to joining mass movements are often dissatisfied with the
 "The fanatic is perpetually incomplete and insecure. He cannot generate self-assurance out of his individual resources - out of his rejected self - but finds it only by clinging passionately to whatever support he happens to embrace. This passionate attachment is the essence of his blind devotion and religiosity, and he sees in it the source of all virtue and strength. Though his single-minded dedication is a holding on for dear life, he easily sees himself as the supporter and defender of the holy cause to which he clings. And he is ready to sacrifice his life to demonstrate to himself and others that such indeed is his role. He sacrifices his life to prove his worth."
 The movement provides them with a sense of identity and purpose they lack as individuals.
 ====
-“Most geniuses—especially those who lead others—prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.” - Andy Benoit
+“Most geniuses, especially those who lead others, prosper not by deconstructing intricate complexities but by exploiting unrecognized simplicities.” - Andy Benoit
 ====
 “People are always looking for happiness at some future time and in some new thing, or some new set of circumstances, in possession of which they some day expect to find themselves. But the fact is, if happiness is not found now, where we are, and as we are, there is little chance of it ever being found. There is a great deal more happiness around us day by day than we have the sense or the power to seek and find.” - Thomas Mitchell
 ====
@@ -4611,7 +4618,7 @@ It takes a lot of work to make something simple. - Steve Wozniak
 ====
 "My model for business is The Beatles: They were four guys that kept each others' negative tendencies in check; they balanced each other. And the total was greater than the sum of the parts." - Steve Jobs
 ====
-"You have to trust in something — your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life." - Steve Jobs
+"You have to trust in something - your gut, destiny, life, karma, whatever. This approach has never let me down, and it has made all the difference in my life." - Steve Jobs
 ====
 “The best way to think is to write.”
 ====
@@ -4629,7 +4636,7 @@ Never try to win the moment at the expense of the decade.”
 ====
 "To learn what we fear is to learn who we are. Horror defies our boundaries and illuminates our souls." - Shirley Jackson
 ====
-“When people worry about your mental diet, they tend to fret about the junk you’re pouring into your brain—the trashy videos, the cheap horror movies, the degrading reality TV, and ... I’m not so worried about the dangers of mental junk food. That’s because I’ve found that many of the true intellectuals I’ve met take pleasure in mental junk food too. Having a taste for trashy rom-coms hasn’t rotted their brain or made them incapable of writing great history or doing deep physics. No, my worry is that, you won’t put enough really excellent stuff into your brain. I’m talking about what you might call the “theory of maximum taste.” This theory is based on the idea that exposure to genius has the power to expand your consciousness. If you spend a lot of time with genius, your mind will end up bigger and broader than if you spend your time only with run-of-the-mill stuff. The theory of maximum taste says that each person’s mind is defined by its upper limit—the best that it habitually consumes and is capable of consuming.” - David Brooks (lightly edited for clarity)
+“When people worry about your mental diet, they tend to fret about the junk you’re pouring into your brain, the trashy videos, the cheap horror movies, the degrading reality TV, and ... I’m not so worried about the dangers of mental junk food. That’s because I’ve found that many of the true intellectuals I’ve met take pleasure in mental junk food too. Having a taste for trashy rom-coms hasn’t rotted their brain or made them incapable of writing great history or doing deep physics. No, my worry is that, you won’t put enough really excellent stuff into your brain. I’m talking about what you might call the “theory of maximum taste.” This theory is based on the idea that exposure to genius has the power to expand your consciousness. If you spend a lot of time with genius, your mind will end up bigger and broader than if you spend your time only with run-of-the-mill stuff. The theory of maximum taste says that each person’s mind is defined by its upper limit, the best that it habitually consumes and is capable of consuming.” - David Brooks (lightly edited for clarity)
 ====
 “A positive mindset won't carry you to victory, but a negative one guarantees defeat.”
 ====
@@ -4659,7 +4666,7 @@ The highest form of leverage is reputation.
 ====
 "Be silent, if you choose; but when it is necessary, speak–and speak in such a way that people will remember it." - Wolfgang Amadeus Mozart
 ====
-“Every artist is only showing you his best. When you watch a movie, every scene—they only show you the one take that worked. Seventeen times, they missed it. You’re only seeing the peak of it.” - Jerry Seinfeld
+“Every artist is only showing you his best. When you watch a movie, every scene, they only show you the one take that worked. Seventeen times, they missed it. You’re only seeing the peak of it.” - Jerry Seinfeld
 ====
 "I've come to the conclusion that life is for the taking and just too short to dwell on the negative." - Dolores O’Riordan
 ====
@@ -4680,7 +4687,7 @@ The highest form of leverage is reputation.
 "It's the rough side of the mountain that’s the easiest to climb; the smooth side doesn’t have anything for you to hang on to." - Aretha Franklin
 ====
 “You cannot define a person on just one thing. You can’t just forget all these wonderful and good things that a person has done because one thing didn’t come off the way you thought it should come off.”
-— Aretha Franklin
+,  Aretha Franklin
 ====
 “Just don’t give up trying to do what you really want to do. Where there is love and inspiration, I don’t think you can go wrong.” - Ella Fitzgerald
 ====
@@ -4700,13 +4707,13 @@ Action creates inspiration.
 ====
 “The advice I like to give anybody who’ll listen to me, is not to wait around for inspiration. Inspiration is for amateurs; the rest of us just show up and get to work. If you wait around for the clouds to part and a bolt of lightning to strike you in the brain, you are not going to do an awful lot of work.
 All the best ideas come out of the process; they come out of the work itself. Things occur to you. If you’re sitting around trying to dream up a great idea, you can sit there a long time before anything happens. But if you just get to work, something will occur to you and something else will occur to you and something else that you reject will push you in another direction. Inspiration is absolutely unnecessary and somehow deceptive. You feel like you need this great idea before you can get down to work, and I find that’s almost never the case.”
-— Chuck Close
+,  Chuck Close
 ====
 The hard part isn't knowing what to do; it's doing it daily, whether you feel like it or not.
 The challenge isn't knowing you should work out; it's putting on your shoes and running in the cold when you'd rather sit at home under a warm blanket. The challenge isn't determining the most important project; it's sitting down and doing it when you'd rather browse social media.
 If you're waiting for inspiration, you've already lost.
 ====
-The most practical skill you can learn is working smarter. But here's what nobody tells you about working smarter: it often looks like you're working slower. A programmer might spend 20 hours wrestling with a difficult algorithm, then have an insight in the shower that solves it in 10 lines of code. Those 20 hours weren't wasted—they were necessary for the insight.
+The most practical skill you can learn is working smarter. But here's what nobody tells you about working smarter: it often looks like you're working slower. A programmer might spend 20 hours wrestling with a difficult algorithm, then have an insight in the shower that solves it in 10 lines of code. Those 20 hours weren't wasted, they were necessary for the insight.
 Your first thought is what everyone else thinks. Your best thought comes after you've thought long enough to forget what everyone thinks. The difference between good and exceptional isn't hours worked – it's the depth of thought applied to the right problems.
 ====
 “There are two ways to measure how you are doing: internally or externally. Most of our growth comes from internal measurement, while most problems stem from external comparison.”
@@ -4757,7 +4764,7 @@ The world wants you to be typical. Don’t let it happen. - Jeff Bezos
 ====
 Please, God, please, don't let me be normal". Sigourney Weaver
 ====
-You have to be unreasonable to see the world that doesn’t yet exist. — Will Guidara
+You have to be unreasonable to see the world that doesn’t yet exist. - Will Guidara
 ====
 The smallest act in the most limited circumstances bears the seed of… boundlessness, because one deed, and sometimes one word, suffices to change every constellation. - Hannah Arendt, "The Human Condition“
 ====
@@ -4792,7 +4799,7 @@ Flashy gets attention. Boring gets results.
 While most chase the views, the greats obsess over the basics.
 ====
 Don't curse the obstacle; find a way around it.
-Elite special forces don't complain about defenses—they adapt their tactics or create new ones. When a primary route is compromised, they don't waste time lamenting. They quickly shift to another approach. Elite athletes don't complain about defenses—they find the gap or create one.
+Elite special forces don't complain about defenses, they adapt their tactics or create new ones. When a primary route is compromised, they don't waste time lamenting. They quickly shift to another approach. Elite athletes don't complain about defenses, they find the gap or create one.
 Face the obstacle. Find the gap. Or make one.
 ====
 The world's greatest works weren't commissioned; they were created by people who couldn't bear their absence.
@@ -4804,17 +4811,17 @@ Mastery is the best goal because the rich can’t buy it, the impatient can’t 
 It's true that determining the actual problem takes time, but it’s far quicker than solving the wrong one and starting over.
 ====
 Smart people are uniquely vulnerable to mistaking complexity for insight.
-An executive writes a ten-page memo that could be one. An engineer builds an intricate system when a simple one would perform better at half the cost. We attach prestige to what mystifies us. Complexity intoxicates both the creator and audience, drugging us with the illusion of wisdom. Mastery isn't making the simple complex—it's finding the elegant simplicity that cuts through the complexity.
+An executive writes a ten-page memo that could be one. An engineer builds an intricate system when a simple one would perform better at half the cost. We attach prestige to what mystifies us. Complexity intoxicates both the creator and audience, drugging us with the illusion of wisdom. Mastery isn't making the simple complex, it's finding the elegant simplicity that cuts through the complexity.
 ====
 Work hard in silence. Let success be your noise - Frank Ocean 
 ====
 You cannot fear something that you don't know. Nobody is afraid of the unknown. What you really fear is the loss of the known. That's what you fear. - J. Francis Stroud
 ====
-“Helping the team win doesn't look warm and fuzzy. It looks like work—usually hard work—if you want to outcompete your opponent.” - Bill Belichick on competing:
+“Helping the team win doesn't look warm and fuzzy. It looks like work, usually hard work, if you want to outcompete your opponent.” - Bill Belichick on competing:
 ====
 "This is my invariable advice to people: Learn how to cook, try new recipes, learn from your mistakes, be fearless and above all have fun." - Julia Child
 ====
-"The road to the Olympics, leads to no city, no country. It goes far beyond New York or Moscow, ancient Greece or Nazi Germany. The road to the Olympics leads—in the end—to the best within us." - Jesse Owens
+"The road to the Olympics, leads to no city, no country. It goes far beyond New York or Moscow, ancient Greece or Nazi Germany. The road to the Olympics leads, in the end, to the best within us." - Jesse Owens
 ====
 "Do not pray for an easy life, pray to be a strong person." - Nadia Comăneci
 ====
@@ -4824,13 +4831,13 @@ You cannot fear something that you don't know. Nobody is afraid of the unknown. 
 ====
 ♥★ “I'm a very introspective. I spend a lot of time in my head, and it's not a bad place to be. I journal a lot. I break down all of my thought processes. I think I apply a very analytical lens to my own thinking, and I kind of modify it because it's so interesting. You can control what you think. You can control how you think, and therefore, you can control who you are." - Eileen Gu
 ====
-Your mind has two parts: a Thinker that creates beliefs and a Prover that finds evidence to support them. If you think the world is hostile, your Prover will find endless proof. If you think people are kind, your Prover finds that too. This is why people with opposite beliefs both feel completely certain — their Provers are working perfectly. Understanding this mechanism is the first step to freedom. - Robert Anton Wilson
+Your mind has two parts: a Thinker that creates beliefs and a Prover that finds evidence to support them. If you think the world is hostile, your Prover will find endless proof. If you think people are kind, your Prover finds that too. This is why people with opposite beliefs both feel completely certain - their Provers are working perfectly. Understanding this mechanism is the first step to freedom. - Robert Anton Wilson
 ====
 Each of us inhabits a unique “tunnel-reality” constructed from our neurological wiring, cultural conditioning, and personal experiences. We don’t see the world as it is, because that’s impossible. We see our model of it. Communication fails because we assume others share our tunnel. - Robert Anton Wilson
 ====
-Human society conditions us to walk with a perpetual mental crouch, using only a fraction of our potential. Most of our limitations aren’t inherent — they’re imprinted through culture, language, and social expectations. We’ve been programmed to believe our small selves are all there is. Unleashing our full mental stature is what brain-change work is all about. - Robert Anton Wilson
+Human society conditions us to walk with a perpetual mental crouch, using only a fraction of our potential. Most of our limitations aren’t inherent - they’re imprinted through culture, language, and social expectations. We’ve been programmed to believe our small selves are all there is. Unleashing our full mental stature is what brain-change work is all about. - Robert Anton Wilson
 ====
-Your brain isn’t fixed. Through deliberate exercises and practices, you can rewrite your mental software, escape old imprints, and access circuits of consciousness you didn’t know you had. Wilson provides exercises at the end of every chapter because reading about change isn’t enough — you have to practice it. - Robert Anton Wilson
+Your brain isn’t fixed. Through deliberate exercises and practices, you can rewrite your mental software, escape old imprints, and access circuits of consciousness you didn’t know you had. Wilson provides exercises at the end of every chapter because reading about change isn’t enough - you have to practice it. - Robert Anton Wilson
 ====
 “Whatever the Thinker thinks, the Prover will prove.” - Robert Anton Wilson 
 ==== 
@@ -4850,7 +4857,7 @@ I never feared about my skills because I put in the work. Work ethic eliminates 
 ====
 “if I wanted to implement something new into my game, I’d see it and try incorporating it immediately. I wasn’t scared of missing, looking bad, or being embarrassed. That’s because I always kept the end result, the long game, in my mind.” - Kobe Bryant
 ====
-"It’s the one thing you can control. You are responsible for how people remember you—or don’t. So don’t take it lightly." - Kobe Bryant
+"It’s the one thing you can control. You are responsible for how people remember you, or don’t. So don’t take it lightly." - Kobe Bryant
 ====
 “In my heart it is clear to me why I go to the line time and again. I can assure you it’s not a medal hanging around my neck I’m after. Medals are things I send to my mom in Winnipeg, which she in turn shares with friends and family. They are not what provide the deep sense of accomplishment, which fills my sense of self, in turn teaching me how to live.” -	Clara Hughes, Olympic Gold Medalist
 ====
@@ -4899,11 +4906,11 @@ I have never seen ordinary effort lead to extraordinary results. - Alexandr Wang
 ====
 Theorizing is not nearly as effective as trying. - Charles F. Kettering
 ====
-Crises, setbacks, obstacles—these will certainly be met by any executive in the course of his career. The measure of a person in such circumstances is not only how they cope with adversity, but also how they turns it to their advantage. Business is always a battle—for sales, improvements, efficiency —and an executive must lead very much as a general would to win. - J. Paul Getty
+Crises, setbacks, obstacles, these will certainly be met by any executive in the course of his career. The measure of a person in such circumstances is not only how they cope with adversity, but also how they turns it to their advantage. Business is always a battle for sales, improvements, efficiency and an executive must lead very much as a general would to win. - J. Paul Getty
 ====
 "Adversity, if you allow it to, will fortify you and make you the best you can be." - Kerri Walsh Jennings
 ====
-"Just knowing you don't have the answers is a recipe for humility, openness, acceptance, forgiveness, and an eagerness to learn—and those are all good things." - Dick Van Dyke
+"Just knowing you don't have the answers is a recipe for humility, openness, acceptance, forgiveness, and an eagerness to learn, and those are all good things." - Dick Van Dyke
 ====
 "It's almost like peeling an onion. Layer by layer, forgiving others, you really do get to the point where you can forgive yourself." - Patty Duke
 ====
@@ -5325,7 +5332,7 @@ One can have no smaller or greater mastery than mastery of oneself; you will nev
 ====
 "We must reach out our hand in friendship and dignity both to those who would befriend us and those who would be our enemy." - Arthur Ashe
 ====
-To free us from the expectations of others, to give us back to ourselves—there lies the great, the singular power of self-respect. - Joan Didion
+To free us from the expectations of others, to give us back to ourselves, there lies the great, the singular power of self-respect. - Joan Didion
 ====
 “I’m not telling you to make the world better, because I don’t think that progress is necessarily part of the package. I’m just telling you to live in it. Not just to endure it, not just to suffer it, not just to pass through it, but to live in it. To look at it. To try to get the picture. To live recklessly. To take chances. To make your own work and take pride in it. To seize the moment. And if you ask me why you should bother to do that, I could tell you that the grave’s a fine and private place, but none I think do there embrace. Nor do they sing there, or write, or argue, or see the tidal bore on the Amazon, or touch their children. And that’s what there is to do and get it while you can and good luck at it.” - Joan Didion
 ====
@@ -5479,7 +5486,7 @@ This present moment was once the unimaginable future - Stewart Brand
 ====
 "Man does not suffer so much from poverty today as he suffers from the fact that he has become a cog in a large machine, an automaton, that his life has become empty and lost its meaning." ― Erich Fromm, Escape from Freedom
 ====
-"Modern man thinks he loses something—time—when he does not do things quickly. Yet he does not know what to do with the time he gains—except kill it." -  Erich Fromm
+"Modern man thinks he loses something - time - when he does not do things quickly. Yet he does not know what to do with the time he gains, except kill it." - Erich Fromm
 ====
 "Love is a decision, it is a judgment, it is a promise. If love were only a feeling, there would be no basis for the promise to love each other forever." - Erich Fromm, from "The Art of Loving"
 ====
@@ -5659,7 +5666,7 @@ Brooks’ Law: “Adding manpower to a late software project makes it later.”
 ====
 Conway’s Law: “Any piece of software reflects the organizational structure that produced it.” Or… “Organizations which design systems are constrained to produce designs which are copies of the communication structures of these organizations.”
 ====
-Dead Sea Effect: “The more talented and effective IT engineers are the ones most likely to leave (to evaporate); the residue—those who remain behind—are the least talented and effective IT engineers.”
+Dead Sea Effect: “The more talented and effective IT engineers are the ones most likely to leave (to evaporate); the residue - those who remain behind - are the least talented and effective IT engineers.”
 ====
 Eagleson’s Law: “Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.”
 ====
@@ -5837,7 +5844,7 @@ Conquest’s Last Law: “The simplest way to explain the behavior of any bureau
 ====
 Cosmic Schmuck Principle: “There are two types of people in this world: those who sometimes worry that they’re a moron, and actual morons.”
 ====
-Crabtree’s Bludgeon: “It’s possible to create a coherent explanation for any set of observations—even ones that are mutually contradictory.”
+Crabtree’s Bludgeon: “It’s possible to create a coherent explanation for any set of observations, even ones that are mutually contradictory.”
 ====
 Dawkins’ Law of the Conservation of Difficulty: “The easier an academic field, the more it will try to preserve its difficulty by using complex jargon.”
 ====
@@ -5881,7 +5888,7 @@ Lincoln’s Law: “If a country or group’s name has the word ‘People’s’
 ====
 "Keep working on a plan. Make no little plans. Make the biggest one you can think of, and spend the rest of your life carrying it out." - Harry Truman
 ====
-"Happiness depends more upon the internal frame of a persons own mind—than on the externals in the world." - George Washington
+"Happiness depends more upon the internal frame of a persons own mind than on the externals in the world." - George Washington
 ====
 “Things may come to those who wait, but only the things left by those who hustle.” - Abraham Lincoln
 ====
