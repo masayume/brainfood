@@ -27,6 +27,8 @@ Struggle Is Good. Never say “I can’t take it anymore.” Say “Bring it on!
 ====
 ★ "Take something you like," she said, "and try to copy it exactly. Copying teaches you a lot about technique." - Celine Nguyen
 ====
+★ Try and fail, but don’t fail to try. - Vinod Khosla
+====
 "The first draft of everything is shit" - Ernest Hemingway
 ====
 Move - start with your body. Put on a good song and dance in the kitchen, swing your arms, go for a walk, shake it out.
@@ -419,6 +421,8 @@ Checking the scoreboard feels like doing something, but it pulls attention away 
 ====
 ★ “Never let the quest for more distract you from the beauty of enough.” - Sahil Bloom
 ====
+“The world is not designed to give you a good life. It's designed to distract you from building one.” - Matty Fusaro
+====
 Time Wealth
 Time is your most valuable and finite asset. Time Wealth means having the freedom to choose how you spend it, where you spend it, and whom you spend it with. It requires three things: awareness that time is limited, attention to spending it on what matters, and control over your own schedule. The ultimate goal isn’t more time - it’s the freedom to allocate it according to your preferences. - Sahil Bloom
 ====	
@@ -442,6 +446,8 @@ What information consumes is rather obvious: it consumes the attention of its re
 To pay attention, “our thought must be empty, waiting, not seeking anything.” We must be open to “suspending” it, “leaving it detached, empty and ready to be penetrated by the object.” Paying attention means transcending the inner chatter, releasing expectations, and opening ourselves to anything and everything the thing we’re attending to has to offer. - Simone Weil
 ====
 Imaginary evil is romantic and varied; real evil is gloomy, monotonous, barren, boring. Imaginary good is boring; real good is always new, marvelous, intoxicating. - Simone Weil
+====
+“Evil usually enters the world unrecognized by the people who open the door and let it in. Most people who perpetrate evil do not see what they are doing as evil. Evil exists primarily in the eye of the beholder, especially in the eye of the victim.” - Roy Baumeister
 ====
 Your Attention Requires Three Forms of Light
 Spotlight attention: Focuses on immediate tasks and short-term actions (making coffee, finding glasses, reading a chapter). When disrupted, you can't complete these immediate tasks.
@@ -2380,6 +2386,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 ====
 “Better to get your dopamine from improving your ideas than having them validated. “ – Nat Friedman
 ====
+Someone’s sitting in the shade today because someone planted a tree a long time ago. - Warren Buffett
+====
 Never invest in something you do not understand. - Warren Buffett
 ====
 “It’s good to have people in your life who you don’t want to disappoint.” – Warren Buffett
@@ -3747,6 +3755,8 @@ There is beauty in mediocrity - Beau Miles
 “I’m not one of those people with their heads in the clouds; I’m one of those whose entire body has been consumed by the clouds.” - Antero Alli
 ====
 “I think that what we’re seeking is an experience of being alive… so that we actually feel the rapture of being alive.” - Joseph Campbell
+====
+The cave you fear to enter holds the treasure you seek. – Joseph Campbell
 ====
 As someone often caught up in the torturous feelings of the creative process, I find some comfort in this zen-like statement. If the thing I’m chasing exists (goodness) it must be contingent on the existence of its opposite (mediocrity). Thus encountering mediocrity should be accepted as part of the process. That doesn’t make it easy, but somehow confirms forward motion. 
 ====
@@ -5263,6 +5273,8 @@ The willingness to figure things out as you go is often the only difference betw
 ====
 "It isn't up to the painter to define the symbols. The public who look at the picture must interpret the symbols as they understand them." - Pablo Picasso
 ====
+So little of what could happen does happen. - Salvador Dali
+====
 "I have no fears about making changes, destroying the image, etc., because the painting has a life of its own ... It is only when I lose contact with the painting that the result is a mess. Otherwise there is pure harmony, an easy give and take ..." - Jackson Pollock
 ====
 “The best thing about being 80 is that you outlive the clocks that have been chasing you. It’s freedom from that lie that nothing was ever under control. You don’t chase the parade anymore. You’re an old king from some vanished country. You’re harder to program. You’re not rushing to become anything, and you’re not haunted by the things that you did. You’re haunted by how little of it really mattered in the way you thought it would.” - Bob Dylan
@@ -5292,9 +5304,13 @@ Excellence lives in doing a bit more than others.
 ====
 “What I know for certain is that the conclusions I would draw from experience are different from the ones based only on figures. Because if Lionel Messi scores three times out of every ten attempts, he might be criticized by someone who sees only the statistics for being just 30 per cent effective. I’d say: just copy him and see if you can get up to that level. It’s practically impossible.” - Johan Cruyff
 ====
+The first step of any meaningful pursuit is to severely underestimate its difficulty. - Sara Hooker
+====
 The meaning you give work determines its difficulty.
 A coder working on a passion project works 12 hours straight and calls it energizing. That same programmer, doing maintenance on legacy code they consider meaningless, feels exhausted after 2 hours.
 Your relationship with the work shapes its weight more than the work itself.
+====
+If I had only one hour to solve a problem, I would spend up to two-thirds of that hour in attempting to define what the problem is. - William H. Markle
 ====
 Code is a liability. Code's capabilities are assets. The goal of a tech shop is to have code whose capabilities generate more revenue than the costs associated with keeping that code running. - Cory Doctorow
 ====
