@@ -1,9 +1,15 @@
 ====
+Abhiman (Sanskrit: “self-pride.”): evokes the pain and anger caused when someone we love, or expect kind treatment from, hurts us. Sorrow and shock are at its root, but it quickly flourishes into a fierce, bruised pride.
+====
+Acedia (greek): A distracting, creeping feeling. Like the tickle of a gnat crawling up your arm. A short-lived but disastrous emotional crisis, usually striking between 11AM and 4PM. Its first signs are listlessness and irritability, but it doesn’t take long to turn into desolation and despair.
+====
 Age-Otori (上げ劣り): looking worse after putting up one's hair
 ====
 Alexithymia: A condition where you struggle to identify, describe, and/or differentiate your emotions. If you often can’t tell how you feel or usually can’t put your emotions into words, you may have Alexithymia.
 ====
 Alonely: negative feelings caused by not getting enough time alone (the opposite of loneliness).
+====
+Amae (Japanese): The sensation of temporary surrender in perfect safety when you crumple into the arms of a loved one to be coddled and comforted. In Japan, amae is commonly acknowledged as part of all kinds of relationships, felt not only between family members, but with friends and in the workplace too. 
 ====
 Apophenia (Spectrum): Apophenia is the cognitive bias of perceiving meaningful patterns or connections in random or meaningless data. I prefer, though, to adapt this concept to use it as a spectrum applied to people. I use it to indicate the extent to which you spot patterns and connections. Those who are high in apophenia find real patterns that others miss but also see more false patterns, whereas those who are low have fewer false patterns but may miss real patterns. There’s a fundamental trade-off related to pattern identification – some people have more false positives, whereas others have more false negatives. People with schizophrenia tend to be very high in apophenia.
 ====
@@ -36,6 +42,8 @@ Eudaimonia: the Greek word that we translate as happiness, in fact, has little t
 ====
 Gamable – Able to be strategically manipulated or “gamed,” i.e., its rules allow actors to extract advantage without fulfilling the system’s intended purpose. One of the most important aspects of system design in high-stakes situations lacking trust is that systems should be ungamable. Otherwise, the system will be exploited or not achieve its intended purpose.
 ====
+Greng Jai (Thai): The feeling of being reluctant to accept another’s offer to help because of the bother it would cause them.
+====
 Gung Ho: especially enthusiastic or dedicated to it, or have no qualms or hesitancy in their willingness to do something. [https://www.mentalfloss.com/gung-ho-phrase-origins]
 ====
 Healthspan – The length of time you spend in good health, free from chronic disease and disability (not merely alive). For some who see themselves as wanting to increase their lifespan, their values might be more accurately captured by aiming to increase their healthspan.
@@ -44,33 +52,37 @@ Hyperstition – A narrative or idea that becomes true (or shapes reality) preci
 ====
 Hormetic exposure – Exposures that are beneficial precisely because they are mild stresses (e.g., exercise, fasting, hot/cold therapy). By putting the body under stress, in some cases, you can trigger helpful adaptive over-compensation (hormesis).
 ====
-Ichigo Ichie (一期一会 ("yojijukugo")): a cultural concept of treasuring the unrepeatable nature of a moment. The term has been roughly translated as "for this time only", and "once in a lifetime". The term reminds people to cherish any gathering that they may take part in, citing the fact that any moment in life cannot be repeated.
+Ichigo Ichie (Japanese 一期一会 ("yojijukugo")): a cultural concept of treasuring the unrepeatable nature of a moment. The term has been roughly translated as "for this time only", and "once in a lifetime". The term reminds people to cherish any gathering that they may take part in, citing the fact that any moment in life cannot be repeated.
 ====
-Ikigai (生き甲斐): reason for living; something one lives for; purpose in life; raison d'être
+Ikigai (Japanese 生き甲斐): reason for living; something one lives for; purpose in life; raison d'être
 ====
-Irusu (居留守): pretending to be out
+Irusu (Japanese 居留守): pretending to be out
 ====
-Iyashikei (癒し系): literature, manga, anime created with the specific purpose of having a healing or soothing effect on the audience.
+Iyashikei (Japanese 癒し系): literature, manga, anime created with the specific purpose of having a healing or soothing effect on the audience.
 ====
 JOMO (Joy of Missing Out) – Positive satisfaction you get from deliberately skipping social or popular activities in favor of using time for something more personally valuable (such as time with loved ones). Some see it as the near opposite of FOMO (fear of missing out).
 ====
-Kakizome (書初め): the first written thing of the year.
+Kaukokaipuu (Finnish): Feeling homesick for a place you’ve never been to. From kauko — faraway, and kaipuu — a yearning.
+====
+Kakizome (Japanese 書初め): the first written thing of the year.
 ====
 Kama Muta: an under-recognised emotion that evolved to bind us to others and strengthen our relationships. “It motivates you to embrace and care for other people”.
 ====
 Kasina/Nimitta: In Buddhist terminology, a kasina is an object of meditation. Meditation while staring at a bright light - traditionally a candle flame - is called “fire kasina”. You start by concentrating on the light; then, after it’s produced an afterimage on the retina, you switch to concentrating on the afterimage. The afterimage coalesces into a disc (red for a candle-flame, potentially other colors for other light sources) called the Nimitta. 
 ====
-Katechon (τὸ κατέχον) means “the one who restrains” or “that which restrains.” In Christian theology, it refers to a force or person that delays the coming of the Antichrist and the end of the world.
+Katechon (Greek τὸ κατέχον) means “the one who restrains” or “that which restrains.” In Christian theology, it refers to a force or person that delays the coming of the Antichrist and the end of the world.
 ====
-Komorebi (木漏れ日): sunlight filtering through trees
+Komorebi (Japanese 木漏れ日): sunlight filtering through trees
 ====
-Lǎo Dēng (老登): literally translates to “always climbing,” but the phrase has evolved to essentially refer to patriarchal, condescending men. “It’s a meme with teeth. It distills diffuse, often invisible power imbalances into a mockable caricature.”
+Lǎo Dēng (Japanese 老登): literally translates to “always climbing,” but the phrase has evolved to essentially refer to patriarchal, condescending men. “It’s a meme with teeth. It distills diffuse, often invisible power imbalances into a mockable caricature.”
 ====
 Limerence (limerenza): an involuntary, uncontrollable and obsessive desire for another person. This fixation can lead to significant distress, disrupting daily life, and may have negative impacts on other people too.
 ====
 Longtermism – An ethical view that “positively influencing the long-term future is a key moral priority of our time.” Sometimes, it’s justified by arguing that the importance of actions may lie in their effects on the far future, given the vast potential number of future lives.
 ====
-Majime (真面目): serious; earnest; sober; grave. A conscientious, reliable person who always simplifies life and faces everything without drama.
+Malo (Indonesian): The sudden experience of feeling constricted, inferior and awkward around people of higher status.
+====
+Majime (Japanese 真面目): serious; earnest; sober; grave. A conscientious, reliable person who always simplifies life and faces everything without drama.
 ====
 M.E.C.E. – A useful principle for structuring information by dividing it into categories that are mutually exclusive (there’s no overlap between categories) and collectively exhaustive (no items are left out; everything has a category).
 ====
@@ -90,21 +102,25 @@ Preterintention: an act that goes beyond its original intent.
 ====
 Pronoid – A pervasive conviction that other people or the universe at large are conspiring for your benefit. It is the optimistic mirror-image of being paranoid: where a paranoid expects hidden threats, a pronoid expects hidden aid. Thanks to Andreea Alexuc for introducing me to this concept.
 ====
-Ṛta (ऋतं, "rita"): 1) A fixed or settled rule, law (religious); Sacred custom, pious action; Divine/Cosmic law, divine truth.
+Ṛta (Sanskrit ऋतं, "rita"): 1) A fixed or settled rule, law (religious); Sacred custom, pious action; Divine/Cosmic law, divine truth.
 ====
 Shoshin (初心): fresh spirit and no preconceptions; one's original intention; one's initial enthusiasm; beginner mindset
 ====
-Shinrin-Yoku (森林浴): forest bathing; forest therapy; peaceful walk through the woods for health benefits
+Shinrin-Yoku (Japanese 森林浴): forest bathing; forest therapy; peaceful walk through the woods for health benefits
 ====
 Superstimuli – something that is optimized by human ingenuity to stimulate our naturally evolved reward circuits more than they could be stimulated by things in our natural environment. For instance, junk food is a food superstimulus, or social media is a social superstimulus.
 ====
-Tsundoku (積ん読): the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them. The term is also used to refer to books ready for reading later when they are on a bookshelf. A stack of books found after cleaning a room
+Tsundoku (Japanese 積ん読): the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them. The term is also used to refer to books ready for reading later when they are on a bookshelf. A stack of books found after cleaning a room
 ====
-Ukiyo (): fleeting life; this transient world; floating world. To take a break from the stresses of life
+Ukiyo (Japanese): fleeting life; this transient world; floating world. To take a break from the stresses of life
 ====
 Umwelt – An organism’s perceptual experience of the world or the slice of reality created by a particular creature’s unique sensory and cognitive apparatus. For instance, the Elephantnose Fish apparently gets a 3d sense of its surroundings by creating an electric field – their umwelt must be nearly unimaginably different than our own.
+====
+Viraha (Sanskrit): longing or the particular kind of love felt during separation or abandonment. An aspect of sringara rasa (erotic and romantic love), one of the nine rasas or themes that shape human experience, viraha is a feeling of incompleteness without a loved one, and a fixation on the ecstasy of the longed-for reunion.
 ====
 Vorfreude: the pleasure of anticipation. The magic of vorfreude lies in how it stretches out the pleasure of any upcoming event or experience. Once I hit 'Confirm' to book a trip, it kicks off joy for months whenever I think about the trip
 ====
 Wamb – A term coined by John Nerst, which means the opposite of “nerd.” Things that are wamb tend to be socially mainstream, trendy, cool, and non-intellectual. Jock, prom king, football players in high school are often the epitome of wamb. We can also think about a wamb-to-nerd spectrum that people and things can be placed on.
+====
+ŻAL (Polish "jal"): melancholy felt at an irretrievable loss. This is not straightforward dejection. Żal is fickle, and shifts its shape, one moment resigned, the next rebellious. It combines the disappointment, regret and even violent fury which comes when some part of our lives has been taken away for good. It is most of all a kind of anger at recognizing the end of things.
 =====
