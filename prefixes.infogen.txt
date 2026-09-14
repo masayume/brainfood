@@ -10,7 +10,7 @@ dis: distribute, separate (dis-vulgus: divulgare; dis-iungere)
 ====
 ex: from, outside of (ex-rogare: distribuire, da rogare: chiedere)
 ====
-ex: completely (e-molere: macinare completamente, da molere: macinare)
+ex: completely, overtly (e-molere: macinare completamente, da molere: macinare)
 ====
 in: negative (in-victus mai sconfitto; in-demnis: senza danno)
 ====
