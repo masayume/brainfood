@@ -580,6 +580,14 @@ It is more accurate to think of belief as probabilistic. There are probably cont
 ====
 “I believe the way toward mastery of any endeavor is to work toward simplicity; replace complex technology with knowledge. The more you know, the less you need. From my feeble attempts at simplifying my own life I’ve learned enough to know that should we have to, or choose to, live more simply, it won’t be an impoverished life but one richer in all the ways that really matter.” - Yvon Chouinard
 ====
+“The more you know, the less you need.” - Yvon Chouinard
+====
+“I've always thought of myself as an 80 percenter. I like to throw myself passionately into a sport or activity until I reach about an 80 percent proficiency level. To go beyond that requires an obsession that doesn't appeal to me. Once I reach 80 percent level I like to go off and do something totally different. - Yvon Chouinard
+====
+“I have a little different definition of evil than most people.
+When you have the opportunity and the ability to do good and you do nothing, that's evil.
+Evil doesn't always have to be an overt act, it can be merely the absence of good.” - Yvon Chouinard
+====
 "All that we don't know is astonishing. Even more astonishing is what passes for knowing." - Philip Roth
 ====
 Be willing to clean toilets and wash floors.
@@ -703,6 +711,8 @@ Curiosity isn't random; it's a compass.
 "If you want to succeed, you should strike out on new paths, rather than travel the worn paths of accepted success." - John D. Rockefeller
 ====
 "I do not think that there is any other quality so essential to success of any kind as the quality of perseverance. It overcomes almost everything, even nature." - John D. Rockefeller
+====
+"The secret to success is to do the common things uncommonly well." - John D. Rockefeller
 ====
 "In my experience, each failure contains the seeds of your next success, if you are willing to learn from it." - Paul Allen
 ====
@@ -2388,6 +2398,8 @@ If you really want to understand a topic, don’t read about it, write about it.
 “A man is a gregarious animal, and much more so in his mind than in his body. He may like to go alone for a walk, but he hates to stand alone in his opinions.” - George Santayana
 ====
 "Any work of art, provided it springs from a sincere motivation to further understanding between people, is an act of faith and therefore is an act of love." - Truman Capote
+====
+"Failure is the condiment that gives success its flavor." - Truman Capote
 ====
 “What goes too long unchanged destroys itself.” - Ursula K. Le Guin
 ====
