@@ -5,11 +5,15 @@ Acedia (greek): A distracting, creeping feeling. Like the tickle of a gnat crawl
 ====
 Age-Otori (上げ劣り): looking worse after putting up one's hair
 ====
+Agnosthesia (Greek: ἄγνωστος (ágnōstos), not knowing + διάθεσις (diáthesis), condition, mood): the state of not knowing how you really feel about something, which forces you to sift through clues hidden in your own behavior, as if you were some other person - noticing a twist of acid in your voice, an obscene amount of effort you put into something trifling, or an inexplicable weight on your shoulders that makes it difficult to get out of bed.
+====
 Alexithymia: A condition where you struggle to identify, describe, and/or differentiate your emotions. If you often can’t tell how you feel or usually can’t put your emotions into words, you may have Alexithymia.
 ====
 Alonely: negative feelings caused by not getting enough time alone (the opposite of loneliness).
 ====
 Amae (Japanese): The sensation of temporary surrender in perfect safety when you crumple into the arms of a loved one to be coddled and comforted. In Japan, amae is commonly acknowledged as part of all kinds of relationships, felt not only between family members, but with friends and in the workplace too. 
+====
+Anoscetia: “the anxiety of not knowing ‘the real you'”.
 ====
 Apophenia (Spectrum): Apophenia is the cognitive bias of perceiving meaningful patterns or connections in random or meaningless data. I prefer, though, to adapt this concept to use it as a spectrum applied to people. I use it to indicate the extent to which you spot patterns and connections. Those who are high in apophenia find real patterns that others miss but also see more false patterns, whereas those who are low have fewer false patterns but may miss real patterns. There’s a fundamental trade-off related to pattern identification – some people have more false positives, whereas others have more false negatives. People with schizophrenia tend to be very high in apophenia.
 ====
@@ -30,9 +34,13 @@ Deepity – Statements that seem profound by exploiting ambiguity: they have one
 ====
 Defusion – The skill of viewing thoughts as transient mental events rather than literal truths – such as by viewing them from an external perspective – which reduces their emotional power over us. For example, instead of just having a thought X and being “inside” it, you observe that “you’re having the thought that X” or even “I’m noticing that I’m having the thought that I’m having the thought that X.” You can ask yourself about a particular thought: are you “fused” with that thought (living inside of it, treating it as the truth) or defused from it?
 ====
+Dès vu - “The awareness that this moment will become a memory”.
+====
 Eerie - “when there is something present where there should be nothing, or there is nothing present when there should be something” - Mark Fisher
 ====
 Ego-syntonic – Experienced as consistent with one’s self-image, values, and goals. For instance, Narcissistic Personality Disorder is usually ego-syntonic, meaning that insofar as they’re willing to accept their traits, narcissists usually don’t see them as problematic.
+====
+Énouement: the bittersweetness of having arrived here in the future, finally learning the answers to how things turned out but being unable to tell your past self.
 ====
 Epistemics – The norms, methods, and quality standards governing how beliefs are formed, updated, and justified. If you think that society is bad at figuring out what’s true, you may want people to work on improving their epistemics.
 ====
@@ -40,11 +48,19 @@ Epistemology: the branch of philosophy that examines the nature, origin, and lim
 ====
 Eudaimonia: the Greek word that we translate as happiness, in fact, has little to do with that “personal fulfillment” which is instead the true myth of our time, fueled by massive doses of selfishness, narcissism, conformism, and competitive spirit. Rather, it alludes to the attempt to harmonize our desires as much as possible with the “demonic part” that speaks in riddles within us, modulating a voice that is unique to each of us: an agreement, a kind of “government” of the inner city that, however, has nothing intimate about it.
 ====
+Fika (Swedish): Gathering together to talk and take a break from everyday routines, usually drinking coffeee and eating pastries, either to a cafè of at home, often for hours on end.
+====
+Forelsket: (Norwegian) the indescribable euphoria esperienced as you begin to fall in love.
+====
+Galagog (From galaxy + agog, awestruck): the state of being simultaneously entranced and unsettled by the vastness of the cosmos, which makes your deepest concerns feel laughably quaint, yet vanishingly rare.
+====
 Gamable – Able to be strategically manipulated or “gamed,” i.e., its rules allow actors to extract advantage without fulfilling the system’s intended purpose. One of the most important aspects of system design in high-stakes situations lacking trust is that systems should be ungamable. Otherwise, the system will be exploited or not achieve its intended purpose.
 ====
 Greng Jai (Thai): The feeling of being reluctant to accept another’s offer to help because of the bother it would cause them.
 ====
 Gung Ho: especially enthusiastic or dedicated to it, or have no qualms or hesitancy in their willingness to do something. [https://www.mentalfloss.com/gung-ho-phrase-origins]
+====
+Gurfa (Arabic): the amount of water that can be held in one hand.
 ====
 Healthspan – The length of time you spend in good health, free from chronic disease and disability (not merely alive). For some who see themselves as wanting to increase their lifespan, their values might be more accurately captured by aiming to increase their healthspan.
 ====
@@ -62,6 +78,8 @@ Iyashikei (Japanese 癒し系): literature, manga, anime created with the specif
 ====
 JOMO (Joy of Missing Out) – Positive satisfaction you get from deliberately skipping social or popular activities in favor of using time for something more personally valuable (such as time with loved ones). Some see it as the near opposite of FOMO (fear of missing out).
 ====
+Jugaad (Hindi): ensuring that things happen even with minimal resources, even if they happen "by hook or by crook".
+====
 Kaukokaipuu (Finnish): Feeling homesick for a place you’ve never been to. From kauko — faraway, and kaipuu — a yearning.
 ====
 Kakizome (Japanese 書初め): the first written thing of the year.
@@ -72,7 +90,9 @@ Kasina/Nimitta: In Buddhist terminology, a kasina is an object of meditation. Me
 ====
 Katechon (Greek τὸ κατέχον) means “the one who restrains” or “that which restrains.” In Christian theology, it refers to a force or person that delays the coming of the Antichrist and the end of the world.
 ====
-Komorebi (Japanese 木漏れ日): sunlight filtering through trees
+Kilig (Tagalog): the feeling of buterfiles in your stomach, usually when something romantic or cute takes place.
+====
+Komorebi (Japanese 木漏れ日): the sunlight that filters through the leaves of the trees.
 ====
 Lǎo Dēng (Japanese 老登): literally translates to “always climbing,” but the phrase has evolved to essentially refer to patriarchal, condescending men. “It’s a meme with teeth. It distills diffuse, often invisible power imbalances into a mockable caricature.”
 ====
@@ -80,11 +100,17 @@ Limerence (limerenza): an involuntary, uncontrollable and obsessive desire for a
 ====
 Longtermism – An ethical view that “positively influencing the long-term future is a key moral priority of our time.” Sometimes, it’s justified by arguing that the importance of actions may lie in their effects on the far future, given the vast potential number of future lives.
 ====
+Luftmensch (Yiddish: "air person"): someone who is a bit of a dreamer.
+====
 Ma (Japanese 間): Ma means “interval” or “opening,” both in space and time. Often referred to as negative (empty) space, it’s positive in that it can birth something new. An invitation to heightened awareness, it’s seen, for instance, as open space in rooms and gardens. With regard to time, it’s a pause that invites contemplation. Ma is found in unpainted areas on folding screens, void areas in a photograph, silence during conversation, the hush between breaking waves. It’s about the vitality generated by emptiness, in the way a blank page gives rise to creative energy. It’s about being in relationship, because our engagement with ma allows fresh perspectives to emerge.
+====
+Mahpiohanzia (Lakota mahpiohanzi, “a shadow caused by a cloud): the frustration of being unable to fly, unable to stretch out your arms and vault into the air, having finally shrugged off the burden of your own weight, which you’ve been carrying your entire life without a second thought.
 ====
 Malo (Indonesian): The sudden experience of feeling constricted, inferior and awkward around people of higher status.
 ====
 Majime (Japanese 真面目): serious; earnest; sober; grave. A conscientious, reliable person who always simplifies life and faces everything without drama.
+====
+Maru Mori (Japanese: 丸森): "the heartbreaking simplicity of ordinary things"—the quiet sadness that fleeting, mundane moments (like evening hangouts with friends, doodles in a notebook, or petting a cat) are not immortalized for their purity and beauty.
 ====
 M.E.C.E. – A useful principle for structuring information by dividing it into categories that are mutually exclusive (there’s no overlap between categories) and collectively exhaustive (no items are left out; everything has a category).
 ====
@@ -98,11 +124,15 @@ Nen (念): mindfulness, a state of mind in meditation, first of the seven factor
 ====
 Oshikatsu (推し活): (doing) various things to support one's favourite member of a boy band, girl group.
 ====
+Pålegg (Norwegian): anything and everything you may put in a slice of bread.
+====
 Paltering – Misleading an audience by selectively stating only true facts that nonetheless foster a false overall impression. Some of the most effective public manipulators mainly palter instead of lying.
 ====
 Preterintention: an act that goes beyond its original intent.
 ====
 Pronoid – A pervasive conviction that other people or the universe at large are conspiring for your benefit. It is the optimistic mirror-image of being paranoid: where a paranoid expects hidden threats, a pronoid expects hidden aid. Thanks to Andreea Alexuc for introducing me to this concept.
+====
+Querinous (Mandarin 确认, quèrèn): longing for a sense of certainty in a relationship; wishing there were some way to know ahead of time whether this is the person you’re going to wake up next to for twenty thousand mornings in a row, instead of having to count them out one by one, quietly hoping your streak continues.
 ====
 Ṛta (Sanskrit ऋतं, "rita"): 1) A fixed or settled rule, law (religious); Sacred custom, pious action; Divine/Cosmic law, divine truth.
 ====
@@ -110,7 +140,13 @@ Shoshin (初心): fresh spirit and no preconceptions; one's original intention; 
 ====
 Shinrin-Yoku (Japanese 森林浴): forest bathing; forest therapy; peaceful walk through the woods for health benefits
 ====
+Suerza (Spanish suerte, luck + fuerza, force. Pronounced “soo-wair-zuh.”): a feeling of quiet amazement that you exist at all; a sense of gratitude that you were even born in the first place, that you somehow emerged alive and breathing despite all odds, having won an unbroken streak of reproductive lotteries that stretches all the way back to the beginning of life itself.
+====
 Superstimuli – something that is optimized by human ingenuity to stimulate our naturally evolved reward circuits more than they could be stimulated by things in our natural environment. For instance, junk food is a food superstimulus, or social media is a social superstimulus.
+====
+Trepverter (Yiddish, lit. "staircase words"): a witty response or comeback you think of only when it's too late to use. 
+====
+Tretår (Swedish): second refill of a cup of coffee (tår). Patår: first refill.
 ====
 Tsundoku (Japanese 積ん読): the phenomenon of acquiring reading materials but letting them pile up in one's home without reading them. The term is also used to refer to books ready for reading later when they are on a bookshelf. A stack of books found after cleaning a room
 ====
@@ -122,9 +158,13 @@ Viraha (Sanskrit): longing or the particular kind of love felt during separation
 ====
 Vorfreude: the pleasure of anticipation. The magic of vorfreude lies in how it stretches out the pleasure of any upcoming event or experience. Once I hit 'Confirm' to book a trip, it kicks off joy for months whenever I think about the trip
 ====
+Wabi-sabi (Japanese: 侘び寂び): finding beauty in the imperfections, an acceptance of the cycle of life and death.
+====
 Wamb – A term coined by John Nerst, which means the opposite of “nerd.” Things that are wamb tend to be socially mainstream, trendy, cool, and non-intellectual. Jock, prom king, football players in high school are often the epitome of wamb. We can also think about a wamb-to-nerd spectrum that people and things can be placed on.
 ====
-ŻAL (Polish "jal"): melancholy felt at an irretrievable loss. This is not straightforward dejection. Żal is fickle, and shifts its shape, one moment resigned, the next rebellious. It combines the disappointment, regret and even violent fury which comes when some part of our lives has been taken away for good. It is most of all a kind of anger at recognizing the end of things.
+Żal (Polish "jal"): melancholy felt at an irretrievable loss. This is not straightforward dejection. Żal is fickle, and shifts its shape, one moment resigned, the next rebellious. It combines the disappointment, regret and even violent fury which comes when some part of our lives has been taken away for good. It is most of all a kind of anger at recognizing the end of things.
+====
+Zielschmerz (German Ziel, goal + Schmerz, pain): the dread of finally pursuing a lifelong dream, which requires you to put your true abilities out there to be tested on the open savannah, no longer protected inside the terrarium of hopes and delusions that you started up in kindergarten and kept sealed as long as you could.
 ====
 Zugzwang (German): chess term meaning "compulsion to move," describing a situation where a player is forced to make a turn, but every available move worsens their position or leads to a loss.
 =====
