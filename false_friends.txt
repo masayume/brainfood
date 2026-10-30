@@ -70,7 +70,7 @@ Maroon non è “marrone” (brown) ma “amaranto, granata”.
 Mayor non è “maggiore” (major) ma “sindaco”.
 Mess non è “messa” (mass) ma “confusione, disordine”.
 Miserable non è miserabile (despicable) ma “infelice, giù di morale”.
-Misery non è “miseria” (poorness, poverty) ma “tristezza, squallore”.
+Misery non è “miseria” (poorness, poverty) ma “infelicità, tristezza.
 Morbid non è “morbido” (soft) ma “insano, macabro, morboso, ossessivo.”
 Mundane potrebbe sembrare “mondano” (worldly), ma è “noioso, banale, ordinario”.
 Notice non è “notizia” (news) ma “avviso, comunicazione”.
