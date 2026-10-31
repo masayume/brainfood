@@ -36,7 +36,9 @@ sub: under (sub-conscious)
 ====
 syn: con, insieme (sýntoma [lat:synptoma]: coincidenza, accidente, avvenimento fortuito)
 ====
-trans: oltre (trans-agere: transigere)
+tra: through (trasognato)
+====
+trans: beyond (trans-agere: transigere)
 ====
 ur: original, earliest, primitive, or "proto-"
 ====
