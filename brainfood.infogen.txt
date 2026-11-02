@@ -50,6 +50,12 @@ Express - draw, write, play music, or just talk. It doesn’t need to be good - 
 
 You can repeat these steps as often as you need. You don’t have to follow them in order - maybe you stay in one for a while, or move back and forth. That’s fine. The goal isn’t to “fix” your emotions - it’s to give them somewhere to go. - Jo Hutton
 ====
+Action produces the very information inaction waits for.
+====
+Spite makes you work harder. Curiosity makes you work longer. Discipline is what you need when you have neither.
+====
+Being smart helps once you start. Before that, it often just makes your excuses more convincing.
+====
 When a difficult emotion shows up, you don’t have to resolve it. You drop out of the story and into the actual sensation in your body, and you stay with it in small doses, even if it’s only a few seconds. Practiced over time, this small, kind act builds your capacity to let conflicting feelings sit side by side without needing to fix them. For me, I know an emotion has metabolized when there’s no charge left, and I feel open and spacious inside, not tense or clinging. - Peter McEwen
 ====
 “Without self-belief nothing can be accomplished. With it, nothing is impossible.” - Felix Dennis
@@ -1697,6 +1703,8 @@ If you can imagine someone surpassing you, you should do it yourself. - Paul Gra
 “I prefer things that are better when bought used. There are some things that get worse when they get a little use, and others that get better, and I prefer the latter. Books, houses, furniture, paintings, pottery.” - Paul Graham
 ====
 “One sign that determination matters more than talent: there are lots of talented people who never achieve anything, but not that many determined people who don't.” - Paul Graham
+====
+"Many problems have a hard core at the center, surrounded by easier stuff at the edges. Working hard means aiming toward the center to the extent you can. Some days you may not be able to; some days you'll only be able to work on the easier, peripheral stuff. But you should always be aiming as close to the center as you can without stalling.” - Paul Graham
 ====
 It can be difficult to appreciate how much simply avoiding the standard ways of failing dramatically increases the odds of success.
 ====
@@ -5020,7 +5028,9 @@ Human society conditions us to walk with a perpetual mental crouch, using only a
 Your brain isn’t fixed. Through deliberate exercises and practices, you can rewrite your mental software, escape old imprints, and access circuits of consciousness you didn’t know you had. Wilson provides exercises at the end of every chapter because reading about change isn’t enough - you have to practice it. - Robert Anton Wilson
 ====
 “Whatever the Thinker thinks, the Prover will prove.” - Robert Anton Wilson 
-==== 
+====
+"Winning is getting what we want, which often includes assisting others in getting what they want." - Gerry Spence
+====
 “I want things to be intentional and slow, I don’t need them to be optimized.” - Spencer Richardson
 ====
 "Celebrate the life you had, not the life you could've had." - Earvin "Magic" Johnson Jr. 
